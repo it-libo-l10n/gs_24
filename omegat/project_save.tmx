@@ -3017,6 +3017,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locking and unlocking toolbars</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T221535Z" creationid="valter" creationdate="20241015T221535Z">
+        <seg>Bloccare e sbloccare barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mac OS X (Aarch64/Apple Silicon)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132148Z" creationid="valter" creationdate="20240928T132148Z">
