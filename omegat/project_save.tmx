@@ -863,6 +863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An entry for LibreOffice is added to Applications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T221851Z" creationid="valter" creationdate="20241015T221851Z">
+        <seg>Una voce per LibreOffice viene aggiunta alle Applicazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190425Z" creationid="valter" creationdate="20211115T190425Z">
@@ -1571,6 +1579,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T120038Z" creationid="valter" creationdate="20240928T120038Z">
         <seg>Migliorie, eliminazione di errori e date di rilascio sono coordinati dalla comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Entries for LibreOffice and each of the LibreOffice modules appear in Applications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T221809Z" creationid="valter" creationdate="20241015T221809Z">
+        <seg>Le voci per LibreOffice e ciascun modulo di LibreOffice compaiono nelle Applicazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,6 +5404,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204821Z" creationid="valter" creationdate="20241005T204821Z">
         <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍macOS</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T221814Z" creationid="valter" creationdate="20241015T221814Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
