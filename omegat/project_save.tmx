@@ -1407,6 +1407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displaying or closing toolbars</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T220621Z" creationid="valter" creationdate="20241015T220621Z">
+        <seg>Come visualizzare o chiudere barre di strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distribute, copy, and modify the software as required, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
@@ -4098,6 +4106,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101844Z" creationid="valter" creationdate="20211016T101844Z">
         <seg>Steve Schwettman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submenus and tool palettes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T221030Z" creationid="valter" creationdate="20241015T221030Z">
+        <seg>Tavolozze sottomenu e strumenti</seg>
       </tuv>
     </tu>
     <tu>
