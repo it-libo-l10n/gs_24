@@ -1671,6 +1671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Start Center</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T222002Z" creationid="valter" creationdate="20241015T222002Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Centro di Avvio di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Options LibreOffice General dialog</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170623Z" creationid="valter" creationdate="20240928T170623Z">
@@ -4146,6 +4154,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170129Z" creationid="valter" creationdate="20240928T170129Z">
         <seg>Sono disponibili assistenza e formazione tramite contratti di assistenza siglati presso un distributore o un'azienda di consulenza specializzata in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TIP</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T222029Z" creationid="valter" creationdate="20241015T222029Z">
+        <seg>Suggerimento</seg>
       </tuv>
     </tu>
     <tu>
