@@ -3153,6 +3153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Menu bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T215847Z" creationid="valter" creationdate="20241015T215847Z">
+        <seg>Barra dei menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Miklos Vajna</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
@@ -4724,6 +4732,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
         <seg>L'uso di Impress per una presentazione che non sia di livello estremamente semplice richiede la conoscenza degli elementi contenuti nelle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbars</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241015T215852Z" creationid="valter" creationdate="20241015T215852Z">
+        <seg>Barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
