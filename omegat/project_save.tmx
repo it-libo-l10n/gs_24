@@ -1287,6 +1287,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking on a file that is displayed in the Start Center, which will activate the module associated with that file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T182617Z" creationid="valter" creationdate="20241016T182617Z">
+        <seg>Facendo clic su un file mostrato nel Centro di Avvio, che attiverà il modulo associato a quel file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking on the name of a LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T182527Z" creationid="valter" creationdate="20241016T182527Z">
+        <seg>Facendo clic sul nome di un modulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Closing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204316Z" creationid="valter" creationdate="20241005T204316Z">
@@ -2965,6 +2981,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191959Z" creationid="valter" creationdate="20211115T191950Z">
         <seg>LibreOffice non è scritto in Java; è scritto in linguaggio C++.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice modules can be opened by:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T182418Z" creationid="valter" creationdate="20241016T182418Z">
+        <seg>I moduli di LibreOffice si possono aprire nei modi che seguono:</seg>
       </tuv>
     </tu>
     <tu>
