@@ -11,3 +11,4 @@ release notes	note di rilascio
 Sidebar	Barra laterale
 Start Center	Centro di Avvio
 double-click	doppio clic
+user interface	interfaccia utente
