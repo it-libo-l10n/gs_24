@@ -1887,6 +1887,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on opening files, see “&lt;bf0&gt;Opening existing documents&lt;/bf0&gt;” on page &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200331Z" creationid="valter" creationdate="20241016T200331Z">
+        <seg>Per ulteriori informazioni sull'apertura dei file, si veda “&lt;bf0&gt;Apertura di documenti esistenti&lt;/bf0&gt;” a pagina &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Appendix B, Open Source, Open Standards, OpenDocument.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104230Z" creationid="valter" creationdate="20240928T104230Z">
@@ -2087,6 +2095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Exit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200445Z" creationid="valter" creationdate="20241016T200445Z">
+        <seg>Andare a &lt;f0&gt;File &gt; Esci da LibreOffice&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Granularity</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115152Z" creationid="valter" creationdate="20240928T115152Z">
@@ -2275,6 +2291,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152725Z" creationid="valter" creationdate="20240928T152725Z">
         <seg>Se risulta difficile capire a cosa serve un'opzione, LibreOffice consiglia di non modificare l'opzione e mantenerla alle sue impostazioni predefinite, a meno che le istruzioni contenute in questa guida non consiglino il contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If only one LibreOffice document is open, click on the X on the right of the title bar to close the entire application.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200653Z" creationid="valter" creationdate="20241016T200653Z">
+        <seg>Se è aperto soltanto un documento LibreOffice, fare clic sulla X alla destra della barra del titolo per chiudere l'intera applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are multiple methods for closing LibreOffice:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200357Z" creationid="valter" creationdate="20241016T200357Z">
+        <seg>Esistono vari modi per chiudere LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are no hidden charges now or in the future.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240922T213414Z" creationid="valter" creationdate="20240922T213414Z">
@@ -4916,6 +4948,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T215852Z" creationid="valter" creationdate="20241015T215852Z">
         <seg>Barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Q&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200518Z" creationid="valter" creationdate="20241016T200518Z">
+        <seg>Usare la combinazione di tasti &lt;f0&gt;Ctrl+Q&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
