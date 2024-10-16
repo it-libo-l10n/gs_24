@@ -2247,6 +2247,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Has commands that handle type styles.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T205100Z" creationid="valter" creationdate="20241016T205100Z">
+        <seg>Contiene comandi che gestiscono i tipi di stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has commands that insert elements into a document, for example &lt;f0&gt;Image&lt;/f0&gt;, &lt;f1&gt;Comment&lt;/f1&gt;, &lt;f2&gt;Header&lt;/f2&gt; &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;Footer&lt;/f4&gt;, and &lt;f5&gt;Table of Contents and Index&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204911Z" creationid="valter" creationdate="20241016T204911Z">
+        <seg>Contiene comandi che inseriscono elementi all'interno di un documento, per esempio &lt;f0&gt;Immagine&lt;/f0&gt;, &lt;f1&gt;Commento&lt;/f1&gt;, &lt;f2&gt;Intestazione&lt;/f2&gt; &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;Piè di pagina&lt;/f4&gt;, &lt;f5&gt;Indice generale e indice analitico&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hazel Russman</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101846Z" creationid="valter" creationdate="20211016T101846Z">
@@ -3253,6 +3269,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204322Z" creationid="valter" creationdate="20241016T204322Z">
         <seg>Elenca i comandi che si applicano all'intero documento, per esempio &lt;f0&gt;Apri&lt;/f0&gt;, &lt;f1&gt;Salva&lt;/f1&gt; e &lt;f2&gt;Stampa&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists commands that are used to format a document’s layout.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T205015Z" creationid="valter" creationdate="20241016T205015Z">
+        <seg>Elenca i comandi che vengono utilizzati per formattare l'aspetto di un documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5864,6 +5888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T205023Z" creationid="valter" creationdate="20241016T205023Z">
+        <seg>Stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Windows</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204821Z" creationid="valter" creationdate="20241005T204821Z">
@@ -5911,6 +5943,28 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GS24801-LOBasics.odt</prop>
+      <prop type="prev">Has commands that insert elements into a document, for example &lt;f0&gt;Image&lt;/f0&gt;, &lt;f1&gt;Comment&lt;/f1&gt;, &lt;f2&gt;Header&lt;/f2&gt; &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;Footer&lt;/f4&gt;, and &lt;f5&gt;Table of Contents and Index&lt;/f5&gt;.</prop>
+      <prop type="next">Lists commands that are used to format a document’s layout.</prop>
+      <tuv lang="en-US">
+        <seg>‍Format</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204926Z" creationid="valter" creationdate="20241016T204926Z">
+        <seg>Formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GS24801-LOBasics.odt</prop>
+      <prop type="prev">Lists commands that control how a document is displayed, such as &lt;f0&gt;User Interface&lt;/f0&gt;, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Text Boundaries&lt;/f2&gt;, &lt;f3&gt;Rulers&lt;/f3&gt;, and &lt;f4&gt;Zoom&lt;/f4&gt;.</prop>
+      <prop type="next">Has commands that insert elements into a document, for example &lt;f0&gt;Image&lt;/f0&gt;, &lt;f1&gt;Comment&lt;/f1&gt;, &lt;f2&gt;Header&lt;/f2&gt; &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;Footer&lt;/f4&gt;, and &lt;f5&gt;Table of Contents and Index&lt;/f5&gt;.</prop>
+      <tuv lang="en-US">
+        <seg>‍Insert</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204712Z" creationid="valter" creationdate="20241016T204712Z">
+        <seg>Inserisci</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">GS24801-LOBasics.odt</prop>
       <prop type="prev">Has commands for editing a document, including &lt;f0&gt;Undo&lt;/f0&gt;, &lt;f1&gt;Find and Replace&lt;/f1&gt;, &lt;f2&gt;Cut&lt;/f2&gt;, &lt;f3&gt;Copy&lt;/f3&gt;, &lt;f4&gt;Paste&lt;/f4&gt;, and &lt;f5&gt;Track Changes&lt;/f5&gt;.</prop>
