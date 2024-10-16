@@ -591,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;LibreOffice Start Center&lt;/s0&gt;&lt;s1&gt;LibreOffice Start Center&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T181559Z" creationid="valter" creationdate="20241016T181559Z">
+        <seg>&lt;s0&gt;Centro di Avvio di LibreOffice&lt;/s0&gt;&lt;s1&gt;Centro di Avvio di LibreOffice&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice General dialog&lt;/s0&gt;&lt;s1&gt;Options LibreOffice General dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170606Z" creationid="valter" creationdate="20240928T170606Z">
@@ -4767,6 +4775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To reduce the number of files displayed in the Start Center, select a LibreOffice module from the &lt;f0&gt;Filter&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T181855Z" creationid="valter" creationdate="20241016T181855Z">
+        <seg>Per ridurre il numero di file visualizzati nel Centro di Avvio, selezionare un modulo di LibreOffice dall'elenco a tendina &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start Impress without the Select a Template dialog (Figure &lt;t0&gt;124&lt;/t0&gt;), deselect &lt;f1&gt;Show this dialog at startup&lt;/f1&gt; in the lower left of the dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153959Z" creationid="Elisabetta Manuele" creationdate="20211111T153959Z">
@@ -4852,6 +4868,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
         <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the desktop icon or clicking on &lt;f0&gt;LibreOffice&lt;/f0&gt; in your Applications folder launches the LibreOffice Start Center where recent files are shown along with the available modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T181752Z" creationid="valter" creationdate="20241016T181752Z">
+        <seg>Utilizzando l'icona presente nel desktop o facendo clic su &lt;f0&gt;LibreOffice&lt;/f0&gt; nella cartella Applicazioni, si avvia il Centro di Avvio di LibreOffice in cui vengono mostrati i file recenti insieme con i moduli disponibili.</seg>
       </tuv>
     </tu>
     <tu>
