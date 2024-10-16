@@ -3425,6 +3425,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T182022Z" creationid="valter" creationdate="20241016T182022Z">
+        <seg>Nel Centro di Avvio vengono mostrati soltanto i file apribili dal modulo di LibreOffice selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Source Initiative (OSI)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190507Z" creationid="valter" creationdate="20211115T190507Z">
@@ -4454,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selected document will then be shown in a separate line at the beginning of the list, along with other pinned documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T182325Z" creationid="valter" creationdate="20241016T182325Z">
+        <seg>Il documento selezionato verrà mostrato in una riga separata all'inizio dell'elenco, insieme con altri documenti appuntati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The service is available in several other languages; just &lt;f0&gt;select your language &lt;/f0&gt;&lt;f1&gt;on&lt;/f1&gt;&lt;f2&gt; the page&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T165631Z" creationid="valter" creationdate="20240928T165631Z">
@@ -4771,6 +4787,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T215303Z" creationid="valter" creationdate="20240928T215303Z">
         <seg>Per fare una donazione, andare alla seguente pagina web: &lt;a0&gt;https://it.libreoffice.org/donazioni/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To pin a document in the Start Center so it can be always visible, hover over the corresponding document and click on the pin icon in the top left corner.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T182231Z" creationid="valter" creationdate="20241016T182231Z">
+        <seg>Per appuntare un documento nel Centro di Avvio affinché sia sempre visibile, passare il mouse sul documento di interesse e fare clic sull'icona a forma di puntina presente nell'angolo superiore sinistro.</seg>
       </tuv>
     </tu>
     <tu>
