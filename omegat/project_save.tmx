@@ -2119,6 +2119,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here, you can navigate to the file location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to launch the applicable LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T195853Z" creationid="valter" creationdate="20241016T195853Z">
+        <seg>Da qui è possibile accedere alla posizione in cui si trova il file, selezionarlo e poi fare clic sul &lt;f1&gt;pulsante Apri&lt;/f1&gt; per avviare il modulo LibreOffice correlato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192651Z" creationid="valter" creationdate="20211115T192651Z">
@@ -3986,6 +3994,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155125Z" creationid="valter" creationdate="20240928T155125Z">
         <seg>Selezionare questa opzione e il browser web predefinito aprirà le pagine della guida in linea di LibreOffice nel sito web di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting &lt;f0&gt;Open File&lt;/f0&gt;, which will allow you to navigate to the chosen file’s location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to open the file and the applicable LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T195442Z" creationid="valter" creationdate="20241016T195442Z">
+        <seg>Selezionando &lt;f0&gt;Apri file&lt;/f0&gt;, che consentirà di navigare fino alla posizione del file scelto per selezionarlo, quindi facendo clic sul &lt;f1&gt;pulsante Apri&lt;/f1&gt; per aprire il file e il modulo LibreOffice correlato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting &lt;f0&gt;Remote File&lt;/f0&gt;, which will open the Remote Files file browser.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T195548Z" creationid="valter" creationdate="20241016T195548Z">
+        <seg>Selezionando &lt;f0&gt;File remoto&lt;/f0&gt;, che aprirà il navigatore per i file remoti.</seg>
       </tuv>
     </tu>
     <tu>
