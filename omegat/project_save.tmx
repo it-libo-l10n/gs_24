@@ -3990,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selecting &lt;f0&gt;Templates&lt;/f0&gt; in the Start Center and choosing a template for a new file, which will open the LibreOffice module associated with that template.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T195225Z" creationid="valter" creationdate="20241016T195225Z">
+        <seg>Selezionando &lt;f0&gt;Modelli&lt;/f0&gt; nel Centro di Avvio e scegliendo un modello per un nuovo file, che aprirà il modulo LibreOffice associato a quel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting rows and columns in a database table</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
