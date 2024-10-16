@@ -1415,6 +1415,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Control</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204208Z" creationid="valter" creationdate="20241016T204208Z">
+        <seg>Controllo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Control+click and/or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185522Z" creationid="valter" creationdate="20211115T185522Z">
@@ -1467,6 +1475,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
         <seg>Dave Barton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204212Z" creationid="valter" creationdate="20241016T204212Z">
+        <seg>Descrizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1803,6 +1819,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213408Z" creationid="valter" creationdate="20240928T213408Z">
         <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: finestra di dialogo mostrante un esempio dei controlli comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204221Z" creationid="valter" creationdate="20241016T204221Z">
+        <seg>File</seg>
       </tuv>
     </tu>
     <tu>
@@ -2211,6 +2235,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104336Z" creationid="valter" creationdate="20240928T104336Z">
         <seg>È possibile inserire grafici e oggetti di altri moduli LibreOffice nei documenti Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has commands for editing a document, including &lt;f0&gt;Undo&lt;/f0&gt;, &lt;f1&gt;Find and Replace&lt;/f1&gt;, &lt;f2&gt;Cut&lt;/f2&gt;, &lt;f3&gt;Copy&lt;/f3&gt;, &lt;f4&gt;Paste&lt;/f4&gt;, and &lt;f5&gt;Track Changes&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204501Z" creationid="valter" creationdate="20241016T204501Z">
+        <seg>Contiene i comandi per la modifica di un documento, inclusi &lt;f0&gt;Annulla&lt;/f0&gt;, &lt;f1&gt;Trova e sostituisci&lt;/f1&gt;, &lt;f2&gt;Taglia&lt;/f2&gt;, &lt;f3&gt;Copia&lt;/f3&gt;, &lt;f4&gt;Incolla&lt;/f4&gt; e &lt;f5&gt;Revisioni&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3245,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T131853Z" creationid="valter" creationdate="20240928T131853Z">
         <seg>Linux x64 (deb) e Linux x64 (rpm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists commands that apply to the entire document, for example &lt;f0&gt;Open&lt;/f0&gt;, &lt;f1&gt;Save&lt;/f1&gt;, and &lt;f2&gt;Print&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204322Z" creationid="valter" creationdate="20241016T204322Z">
+        <seg>Elenca i comandi che si applicano all'intero documento, per esempio &lt;f0&gt;Apri&lt;/f0&gt;, &lt;f1&gt;Salva&lt;/f1&gt; e &lt;f2&gt;Stampa&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists commands that control how a document is displayed, such as &lt;f0&gt;User Interface&lt;/f0&gt;, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Text Boundaries&lt;/f2&gt;, &lt;f3&gt;Rulers&lt;/f3&gt;, and &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204655Z" creationid="valter" creationdate="20241016T204655Z">
+        <seg>Elenca comandi che controllano come viene visualizzato un documento, come &lt;f0&gt;Interfaccia utente&lt;/f0&gt;, &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;, &lt;f2&gt;Margini del testo&lt;/f2&gt;, &lt;f3&gt;Righelli&lt;/f3&gt; e &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,6 +4522,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212508Z" creationid="valter" creationdate="20240928T212508Z">
         <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: esempio di tasti di scelta rapida per macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Menu bar &lt;f1&gt;entries&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204202Z" creationid="valter" creationdate="20241016T204202Z">
+        <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: &lt;f1&gt;voci&lt;/f1&gt; della barra dei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5792,6 +5848,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Edit</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204328Z" creationid="valter" creationdate="20241016T204328Z">
+        <seg>Modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Linux</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204904Z" creationid="valter" creationdate="20241005T204904Z">
@@ -5847,5 +5911,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GS24801-LOBasics.odt</prop>
+      <prop type="prev">Has commands for editing a document, including &lt;f0&gt;Undo&lt;/f0&gt;, &lt;f1&gt;Find and Replace&lt;/f1&gt;, &lt;f2&gt;Cut&lt;/f2&gt;, &lt;f3&gt;Copy&lt;/f3&gt;, &lt;f4&gt;Paste&lt;/f4&gt;, and &lt;f5&gt;Track Changes&lt;/f5&gt;.</prop>
+      <prop type="next">Lists commands that control how a document is displayed, such as &lt;f0&gt;User Interface&lt;/f0&gt;, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Text Boundaries&lt;/f2&gt;, &lt;f3&gt;Rulers&lt;/f3&gt;, and &lt;f4&gt;Zoom&lt;/f4&gt;.</prop>
+      <tuv lang="en-US">
+        <seg>‍View</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204519Z" creationid="valter" creationdate="20241016T204519Z">
+        <seg>Visualizza</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
