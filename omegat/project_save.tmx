@@ -937,8 +937,8 @@
       <tuv lang="en-US">
         <seg>Anyone who wants to quickly acquire knowledge on LibreOffice and is new to office software, or may be familiar with another office suite, will find this Getting Started Guide very useful.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T102813Z" creationid="valter" creationdate="20240928T102813Z">
-        <seg>Chiunque volesse imparare velocemente a utilizzare LibreOffice, sia che non conosca i software per ufficio, sia che abbia già familiarità con altre suite per ufficio, troverà questa Guida introduttiva molto utile.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T144543Z" creationid="valter" creationdate="20240928T102813Z">
+        <seg>A chiunque voglia imparare velocemente a utilizzare LibreOffice e sia alle prime armi o abbia già familiarità con altre suite per ufficio, questa Guida introduttiva si rivelerà molto utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2899,16 +2899,16 @@
       <tuv lang="en-US">
         <seg>LibreOffice is a freely available, fully-featured, open source office productivity suite that is compatible with other major office suites and is available on a variety of platforms.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T103745Z" creationid="valter" creationdate="20240928T103745Z">
-        <seg>LibreOffice è una suite per la produttività in ufficio, disponibile gratuitamente, completa e open source, compatibile con le altre suite per ufficio più importanti e disponibile su diverse piattaforme.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T145113Z" creationid="valter" creationdate="20240928T103745Z">
+        <seg>LibreOffice è una suite per la produttività in ufficio, disponibile gratuitamente, completa e open source, compatibile con le altre principali suite per ufficio e disponibile su diverse piattaforme.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LibreOffice is an open-source office productivity software suite containing capabilities for word processing, spreadsheets, presentations, graphics, databases, and formula editing.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T103239Z" creationid="valter" creationdate="20240928T103239Z">
-        <seg>LibreOffice è una suite di software open source per ufficio in grado di redarre testi, fogli elettronici, presentazioni, grafici, database e formule.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T144835Z" creationid="valter" creationdate="20240928T103239Z">
+        <seg>LibreOffice è una suite di software open source per ufficio in grado di elaborare testi, fogli elettronici, presentazioni, grafici, database e formule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,8 +4914,8 @@
       <tuv lang="en-US">
         <seg>What is in this user guide?</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T101340Z" creationid="valter" creationdate="20240928T101340Z">
-        <seg>Che cosa si trova in questa guida?</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T144129Z" creationid="valter" creationdate="20240928T101340Z">
+        <seg>Che cosa contiene questa guida?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5018,8 +5018,8 @@
       <tuv lang="en-US">
         <seg>Who is this user guide for?</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T101300Z" creationid="valter" creationdate="20240928T101300Z">
-        <seg>A chi è rivolta questa guida?</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T144113Z" creationid="valter" creationdate="20240928T101300Z">
+        <seg>A chi si rivolge questa guida?</seg>
       </tuv>
     </tu>
     <tu>
