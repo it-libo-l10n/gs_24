@@ -3441,6 +3441,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New documents are numbered in the order in which they are created.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T202240Z" creationid="valter" creationdate="20241016T202240Z">
+        <seg>I nuovi documenti vengono numerati in base all'ordine di creazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New spreadsheet functions: XLOOKUP, XMATCH, FILTER, RANDARRAY, SEQUENCE, SORT, SORTBY, UNIQUE, LET</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T195309Z" creationid="valter" creationdate="20240929T195309Z">
@@ -4494,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Menu bar is located above the Standard toolbar in Windows and Linux operating systems and at the top of the desktop in macOS.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T202442Z" creationid="valter" creationdate="20241016T202442Z">
+        <seg>La barra dei menu si trova sopra la barra degli strumenti standard nei sistemi operativi Windows e Linux, e in cima al desktop in macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Scenario Manager provides “what if” analysis.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193850Z" creationid="valter" creationdate="20211115T193850Z">
@@ -5228,6 +5244,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T151749Z" creationid="valter" creationdate="20240928T151749Z">
         <seg>Quando LibreOffice viene scaricato attraverso gli app store ufficiali, seguire le istruzioni per l'installazione fornite dallo store.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a document is created the document name will be Untitled X, where X is a number.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T202205Z" creationid="valter" creationdate="20241016T202205Z">
+        <seg>Se viene creato un documento, il suo nome sarà Senza nome X, dove X è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selecting one of the menus in the Menu bar, a specific submenu will appear.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T202551Z" creationid="valter" creationdate="20241016T202551Z">
+        <seg>Selezionando uno dei menu nella barra dei menu comparirà un sottomenu specifico.</seg>
       </tuv>
     </tu>
     <tu>
