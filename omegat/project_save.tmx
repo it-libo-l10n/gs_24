@@ -2808,6 +2808,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It includes commands that apply common styles and manage styles as well as commands for editing, loading, and creating styles.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T205306Z" creationid="valter" creationdate="20241016T205306Z">
+        <seg>Sono inclusi i comandi per applicare gli stili comuni e per gestire gli stili, e anche i comandi per la modifica, il caricamento e la creazione di stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It includes over 500 functions for financial, statistical, and mathematical operations, among others.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104738Z" creationid="valter" creationdate="20240928T104738Z">
@@ -5892,6 +5900,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T205023Z" creationid="valter" creationdate="20241016T205023Z">
         <seg>Stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Table</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T205316Z" creationid="valter" creationdate="20241016T205316Z">
+        <seg>Tabella</seg>
       </tuv>
     </tu>
     <tu>
