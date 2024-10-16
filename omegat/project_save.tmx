@@ -951,6 +951,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any command that opens yet another submenu has a right-pointing chevron &lt;f0&gt;˃&lt;/f0&gt; that follows the command’s name.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T203537Z" creationid="valter" creationdate="20241016T203537Z">
+        <seg>Tutti i comandi che aprono un ulteriore sottomenu contengono un gallone rivolto a destra &lt;f0&gt;˃&lt;/f0&gt; che segue il nome del comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this &lt;f0&gt;Getting Started Guide&lt;/f0&gt; valuable.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091925Z" creationid="valter" creationdate="20211016T091925Z">
@@ -3605,6 +3613,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T202859Z" creationid="valter" creationdate="20241016T202859Z">
         <seg>Aprire una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open another submenu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T203134Z" creationid="valter" creationdate="20241016T203134Z">
+        <seg>Aprire un altro sottomenu.</seg>
       </tuv>
     </tu>
     <tu>
