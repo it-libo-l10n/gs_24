@@ -1367,6 +1367,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contains keyboard shortcuts for some commands.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T203830Z" creationid="valter" creationdate="20241016T203830Z">
+        <seg>Contiene combinazioni di tasti per alcuni comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102858Z" creationid="valter" creationdate="20211016T102858Z">
@@ -1891,6 +1899,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212146Z" creationid="valter" creationdate="20240928T212146Z">
         <seg>Per esempio, la galleria People è disponibile in &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the default Menu bar for the LibreOffice Writer module includes the controls described &lt;f0&gt;in Table &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204135Z" creationid="valter" creationdate="20241016T204135Z">
+        <seg>Per esempio, la barra dei menu predefinita per il modulo Writer di LibreOffice include i controlli descritti &lt;f0&gt;nella Tabella &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3361,6 +3377,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>May contain a selection box or radio button box indicating a selection.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T204028Z" creationid="valter" creationdate="20241016T204028Z">
+        <seg>Può contenere un riquadro di selezione o un riquadro con pulsante di scelta che indica una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May contain the icon for the command.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T203848Z" creationid="valter" creationdate="20241016T203848Z">
+        <seg>Può contenere l'icona per il comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Menu bar</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T215847Z" creationid="valter" creationdate="20241015T215847Z">
@@ -3413,6 +3445,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132843Z" creationid="valter" creationdate="20240928T132843Z">
         <seg>Ulteriori informazioni e collegamenti per lo scaricamento dell'edizione adatta al proprio sistema operativo si trovano all'indirizzo: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving the mouse’s arrow over one of these commands opens another submenu that contains additional commands, for example &lt;f1&gt;View &gt; Rulers &gt; Rulers&lt;/f1&gt;, or &lt;f2&gt;Vertical Ruler&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T203750Z" creationid="valter" creationdate="20241016T203750Z">
+        <seg>Spostando la freccia del mouse su uno di questi comandi si apre un altro sottomenu che contiene ulteriori comandi, per esempio &lt;f1&gt;Visualizza &gt; Righelli &gt; Righelli&lt;/f1&gt; o &lt;f2&gt;Righello verticale&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
