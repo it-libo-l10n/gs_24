@@ -1943,6 +1943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see Chapter 13, Customizing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T201932Z" creationid="valter" creationdate="20241016T201932Z">
+        <seg>Per maggiori informazioni, vedere il Capitolo 13 (Personalizzazione di LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For quick tips when a toolbar is visible, place the cursor over any of the tool icons to see a small tooltip box with a brief explanation of the tool function.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155541Z" creationid="valter" creationdate="20240928T155541Z">
@@ -2139,6 +2147,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T200718Z" creationid="valter" creationdate="20241016T200718Z">
         <seg>Andare a &lt;f0&gt;LibreOffice &gt; Esci da LibreOffice&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; User Interface&lt;/f0&gt; on the Menu bar to change the user interface.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T201759Z" creationid="valter" creationdate="20241016T201759Z">
+        <seg>Per modificare l'interfaccia utente, andare a &lt;f0&gt;Visualizza &gt; Interfaccia utente&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,6 +4498,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193850Z" creationid="valter" creationdate="20211115T193850Z">
         <seg>Il Gestore di scenari fornisce analisi del tipo "what if" (cosa succede se).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Title bar is located at the top of the LibreOffice window and it shows the file name of the current document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T202011Z" creationid="valter" creationdate="20241016T202011Z">
+        <seg>La barra del Titolo è collocata nella parte più alta della finestra di LibreOffice, e mostra il nome del file del documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
