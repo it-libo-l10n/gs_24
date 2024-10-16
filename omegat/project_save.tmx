@@ -1567,6 +1567,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each LibreOffice module’s user interface is based on the main LibreOffice window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T201028Z" creationid="valter" creationdate="20241016T201028Z">
+        <seg>L'interfaccia utente di ciascun modulo di LibreOffice si basa sulla finestra principale di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each module has various details depending on the module’s functions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T201120Z" creationid="valter" creationdate="20241016T201120Z">
+        <seg>Ciascun modulo contiene vari dettagli a seconda delle sue funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each user can &lt;f0&gt;also &lt;/f0&gt;select a preferred set of fonts to use.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172432Z" creationid="valter" creationdate="20240928T172432Z">
@@ -1627,6 +1643,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T221809Z" creationid="valter" creationdate="20241015T221809Z">
         <seg>Le voci per LibreOffice e ciascun modulo di LibreOffice compaiono nelle Applicazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every module has the Title bar, Menu bar, and Standard toolbar at the top of the window and the Status bar at the bottom of the window, while the tools and information vary between each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T201431Z" creationid="valter" creationdate="20241016T201431Z">
+        <seg>Ciascun modulo presenta la barra del titolo, la barra dei menu, la barra degli strumenti standard nella parte superiore della finestra, la barra di stato nella parte inferiore, mentre gli strumenti e le informazioni variano per ciascun modulo LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2103,6 +2127,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200718Z" creationid="valter" creationdate="20241016T200718Z">
+        <seg>Andare a &lt;f0&gt;LibreOffice &gt; Esci da LibreOffice&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Granularity</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115152Z" creationid="valter" creationdate="20240928T115152Z">
@@ -2283,6 +2315,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133143Z" creationid="valter" creationdate="20240928T133143Z">
         <seg>Se devono essere utilizzate le funzionalità di LibreOffice che richiedono Java, è importante che sia installata la corretta versione a 32 bit o a 64 bit corrispondente alla versione installata di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any documents have not been saved since the last change, a warning message is displayed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200835Z" creationid="valter" creationdate="20241016T200835Z">
+        <seg>Se qualche documento non è stato salvato dopo l'ultima modifica, verrà visualizzato un riquadro informativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select whether to save or discard the changes.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200856Z" creationid="valter" creationdate="20241016T200856Z">
+        <seg>Scegliere se salvare o scartare le modifiche apportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting &lt;f0&gt;Open File&lt;/f0&gt;, which will allow you to navigate to the chosen file’s location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to open the file and the applicable LibreOffice module.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T195442Z" creationid="valter" creationdate="20241016T195442Z">
@@ -4956,6 +5004,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T200518Z" creationid="valter" creationdate="20241016T200518Z">
         <seg>Usare la combinazione di tasti &lt;f0&gt;Ctrl+Q&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut ⌘+&lt;f0&gt;Q&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T200751Z" creationid="valter" creationdate="20241016T200751Z">
+        <seg>Usare la combinazione di tasti ⌘+&lt;f0&gt;Q&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
