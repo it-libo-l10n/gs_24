@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, LibreOffice commands are grouped in the Standard Toolbar user interface.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T201602Z" creationid="valter" creationdate="20241016T201602Z">
+        <seg>Per impostazione predefinita, i comandi di LibreOffice sono raggruppati nell'interfaccia utente della barra degli strumenti standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193753Z" creationid="valter" creationdate="20211115T193753Z">
@@ -3713,6 +3721,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T175123Z" creationid="valter" creationdate="20211115T175123Z">
         <seg>Altra assistenza gratuita online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other user interface variants are available.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241016T201648Z" creationid="valter" creationdate="20241016T201648Z">
+        <seg>Sono disponibili altre varianti dell'interfaccia utente.</seg>
       </tuv>
     </tu>
     <tu>
