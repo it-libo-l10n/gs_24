@@ -4081,6 +4081,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Menu icons, Shortcuts</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172844Z" creationid="valter" creationdate="20241017T172844Z">
+        <seg>Icone del menu, Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microsoft Office</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105938Z" creationid="valter" creationdate="20241017T105938Z">
@@ -5082,6 +5090,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172129Z" creationid="valter" creationdate="20240928T172129Z">
         <seg>Selezionare &lt;f0&gt;Usa finestre di dialogo di LibreOffice&lt;/f0&gt; nella sezione &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; in modo da visualizzare le finestre di dialogo di LibreOffice nel monitor del computer, come mostrato in Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the visibility mode (&lt;f0&gt;Automatic, Hide, Show&lt;/f0&gt;) to hide or show icons as well as text on the Menu bar and in shortcut items.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T173509Z" creationid="valter" creationdate="20241017T173509Z">
+        <seg>Selezionare il modo visibilità (&lt;f0&gt;Automatico, Nascondi, Mostra&lt;/f0&gt;) per nascondere o mostrare le icone, o anche il testo, nella barra dei menu e nelle voci di scelta rapida.</seg>
       </tuv>
     </tu>
     <tu>
