@@ -86,10 +86,74 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105826Z" creationid="valter" creationdate="20241017T105826Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101136Z" creationid="valter" creationdate="20240928T101136Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105839Z" creationid="valter" creationdate="20241017T105839Z">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>22</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105932Z" creationid="valter" creationdate="20241017T105932Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>23</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105944Z" creationid="valter" creationdate="20241017T105944Z">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>25</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105958Z" creationid="valter" creationdate="20241017T105958Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110043Z" creationid="valter" creationdate="20241017T110043Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>27</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110053Z" creationid="valter" creationdate="20241017T110053Z">
+        <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>29</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110125Z" creationid="valter" creationdate="20241017T110125Z">
+        <seg>29</seg>
       </tuv>
     </tu>
     <tu>
@@ -2343,6 +2407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTML compatibility</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105950Z" creationid="valter" creationdate="20241017T105950Z">
+        <seg>Compatibilità HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Has commands for editing a document, including &lt;f0&gt;Undo&lt;/f0&gt;, &lt;f1&gt;Find and Replace&lt;/f1&gt;, &lt;f2&gt;Cut&lt;/f2&gt;, &lt;f3&gt;Copy&lt;/f3&gt;, &lt;f4&gt;Paste&lt;/f4&gt;, and &lt;f5&gt;Track Changes&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204501Z" creationid="valter" creationdate="20241016T204501Z">
@@ -3113,6 +3185,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Languages and Locales</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110038Z" creationid="valter" creationdate="20241017T110038Z">
+        <seg>Lingue e impostazioni locali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Laurent Balland-Poirier</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101855Z" creationid="valter" creationdate="20211016T101855Z">
@@ -3425,6 +3505,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading and saving documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105915Z" creationid="valter" creationdate="20241017T105915Z">
+        <seg>Caricamento e salvataggio di documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Localization is well under way for another 30+ languages (50-80%) and for another 50+ languages help is more than welcome.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T214427Z" creationid="valter" creationdate="20240928T214427Z">
@@ -3605,6 +3693,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T215847Z" creationid="valter" creationdate="20241015T215847Z">
         <seg>Barra dei menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft Office</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105938Z" creationid="valter" creationdate="20241017T105938Z">
+        <seg>Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -3901,6 +3997,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185644Z" creationid="valter" creationdate="20211115T185644Z">
         <seg>Apre il pannello laterale degli Stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCL</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105835Z" creationid="valter" creationdate="20241017T105835Z">
+        <seg>OpenCL</seg>
       </tuv>
     </tu>
     <tu>
@@ -5520,6 +5624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>VBA properties</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105924Z" creationid="valter" creationdate="20241017T105924Z">
+        <seg>Proprietà VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valerii Goncharuk</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
@@ -5820,6 +5932,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104250Z" creationid="valter" creationdate="20211115T193624Z">
         <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, dépliant e altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writing Aids</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110118Z" creationid="valter" creationdate="20241017T110118Z">
+        <seg>Linguistica</seg>
       </tuv>
     </tu>
     <tu>
