@@ -1607,6 +1607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Context sensitive toolbars</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171624Z" creationid="Elisabetta" creationdate="20241017T171624Z">
+        <seg>Barre degli strumenti sensibili al contesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101632Z" creationid="valter" creationdate="20211016T101632Z">
@@ -1769,8 +1777,8 @@
       <tuv lang="en-US">
         <seg>Displaying or closing toolbars</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241015T220621Z" creationid="valter" creationdate="20241015T220621Z">
-        <seg>Come visualizzare o chiudere barre di strumenti</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T170547Z" creationid="valter" creationdate="20241015T220621Z">
+        <seg>Visualizzare o nascondere le barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -3827,8 +3835,8 @@
       <tuv lang="en-US">
         <seg>Locking and unlocking toolbars</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241015T221535Z" creationid="valter" creationdate="20241015T221535Z">
-        <seg>Bloccare e sbloccare barre degli strumenti</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T170648Z" creationid="valter" creationdate="20241015T221535Z">
+        <seg>Bloccare e sbloccare le barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4069,6 +4077,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T203750Z" creationid="valter" creationdate="20241016T203750Z">
         <seg>Spostando la freccia del mouse su uno di questi comandi si apre un altro sottomenu che contiene ulteriori comandi, per esempio &lt;f1&gt;Visualizza &gt; Righelli &gt; Righelli&lt;/f1&gt; o &lt;f2&gt;Righello verticale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving, docking and floating toolbars</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171328Z" creationid="Elisabetta" creationdate="20241017T171328Z">
+        <seg>Spostare, bloccare e sbloccare le barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5216,8 +5232,8 @@
       <tuv lang="en-US">
         <seg>Submenus and tool palettes</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241015T221030Z" creationid="valter" creationdate="20241015T221030Z">
-        <seg>Tavolozze sottomenu e strumenti</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T170616Z" creationid="valter" creationdate="20241015T221030Z">
+        <seg>Sottomenu e tavolozze degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
