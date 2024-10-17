@@ -1903,6 +1903,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double sided or duplex printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174315Z" creationid="Elisabetta" creationdate="20241017T174315Z">
+        <seg>stampa fronte retro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download links can be found at: &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133019Z" creationid="valter" creationdate="20240928T133019Z">
@@ -5346,6 +5354,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191336Z" creationid="akurery" creationdate="20211211T191336Z">
         <seg>I caratteri jolly semplici, come l'asterisco (*), il punto interrogativo (?) e la tilde (~), usati da altre applicazioni per fogli di calcolo, sono riconosciuti da LibreOffice nelle espressioni delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single sided printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174012Z" creationid="Elisabetta" creationdate="20241017T174012Z">
+        <seg>Stampa su un solo lato</seg>
       </tuv>
     </tu>
     <tu>
