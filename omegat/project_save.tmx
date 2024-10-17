@@ -4121,6 +4121,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Middle button</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T173826Z" creationid="valter" creationdate="20241017T173826Z">
+        <seg>Pulsante centrale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Miklos Vajna</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
@@ -4165,6 +4173,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132843Z" creationid="valter" creationdate="20240928T132843Z">
         <seg>Ulteriori informazioni e collegamenti per lo scaricamento dell'edizione adatta al proprio sistema operativo si trovano all'indirizzo: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T173517Z" creationid="valter" creationdate="20241017T173517Z">
+        <seg>Mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -4745,6 +4761,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100630Z" creationid="valter" creationdate="20240928T100630Z">
         <seg>Per commenti o suggerimenti su questo documento rivolgersi al Documentation Team Forum all'indirizzo &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (è necessario registrarsi), oppure inviare un messaggio di posta elettronica a: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Positioning</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T173527Z" creationid="valter" creationdate="20241017T173527Z">
+        <seg>Posizionamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5402,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160804Z" creationid="valter" creationdate="20241017T160804Z">
         <seg>Specifica come vengono interpretati gli anni espressi con due cifre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies if and how the cursor is positioned in newly opened dialogs (&lt;f0&gt;Default button, Dialog center, No automatic positioning&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T173803Z" creationid="valter" creationdate="20241017T173803Z">
+        <seg>Specifica se e come il cursore verrà posizionato nelle nuove finestre di dialogo (&lt;f0&gt;pulsante predefinito, centro della finestra di dialogo, Nessun posizionamento automatico&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
