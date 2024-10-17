@@ -1975,6 +1975,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Options LibreOffice dialog — User Data page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T153027Z" creationid="valter" creationdate="20241017T153027Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Dati utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options LibreOffice View dialog</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172602Z" creationid="valter" creationdate="20240928T172602Z">
@@ -2635,6 +2643,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133143Z" creationid="valter" creationdate="20240928T133143Z">
         <seg>Se devono essere utilizzate le funzionalità di LibreOffice che richiedono Java, è importante che sia installata la corretta versione a 32 bit o a 64 bit corrispondente alla versione installata di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a version of LibreOffice being used is not US English, some field labels may be different from those shown in the following figures.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T153201Z" creationid="valter" creationdate="20241017T153201Z">
+        <seg>Se state utilizzando una versione di LibreOffice diversa da quella Inglese (US English), alcune etichette dei campi potrebbero essere diverse da quelle mostrate nelle figure che seguono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3977,6 +3993,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the User Data page of the Options LibreOffice dialog (Figure &lt;t0&gt;1&lt;/t0&gt;), the details of a LibreOffice user can be entered and stored.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T153502Z" creationid="valter" creationdate="20241017T153502Z">
+        <seg>Nella pagina Dati utente della finestra di dialogo Opzioni di LibreOffice (Figura &lt;t0&gt;1&lt;/t0&gt;) possono essere immessi e memorizzati i dettagli di un utente di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Online Update</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105819Z" creationid="valter" creationdate="20241017T105819Z">
@@ -4177,6 +4201,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172618Z" creationid="valter" creationdate="20240928T172618Z">
         <seg>Finestra di dialogo Vista delle Opzioni di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — User Data page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T153041Z" creationid="valter" creationdate="20241017T153041Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Dati utente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,6 +4954,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184726Z" creationid="valter" creationdate="20211115T184726Z">
         <seg>Essi &lt;f1&gt;&lt;/f1&gt; possono essere riaggiunti scaricandoli e installandoli &lt;f2&gt;come estensione da &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://extensions.libreoffice.org/en/extensions/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located at the lower right of the Options dialog, resets the values on that page to the values that were in place when the dialog opened.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T153329Z" creationid="valter" creationdate="20241017T153329Z">
+        <seg>Il pulsante &lt;f0&gt;Ripristina&lt;/f0&gt;, situato in basso a destra nella finestra di dialogo Opzioni, reimposta i valori in quella pagina ai valori che erano presenti quando è stata aperta la finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
