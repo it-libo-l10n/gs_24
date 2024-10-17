@@ -4853,6 +4853,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Redoing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172836Z" creationid="Elisabetta" creationdate="20241017T172836Z">
+        <seg>Ripristinare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Regina Henschel</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
@@ -4865,6 +4873,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172035Z" creationid="Elisabetta" creationdate="20241017T172035Z">
         <seg>Ricaricare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeating undo and redo commands</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173020Z" creationid="Elisabetta" creationdate="20241017T173020Z">
+        <seg>Ripetere i comandi di annullamento e ripristino</seg>
       </tuv>
     </tu>
     <tu>
@@ -6244,6 +6260,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T215852Z" creationid="valter" creationdate="20241015T215852Z">
         <seg>Barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undoing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172823Z" creationid="Elisabetta" creationdate="20241017T172823Z">
+        <seg>Annullare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undoing and redoing changes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172803Z" creationid="Elisabetta" creationdate="20241017T172803Z">
+        <seg>Annullare e ripristinare le modifiche</seg>
       </tuv>
     </tu>
     <tu>
