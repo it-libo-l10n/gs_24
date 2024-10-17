@@ -367,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Claire Wood, &lt;/f0&gt;B.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155229Z" creationid="valter" creationdate="20241017T155229Z">
+        <seg>&lt;f0&gt;Claire Wood, &lt;/f0&gt;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T203552Z" creationid="valter" creationdate="20241005T203552Z">
@@ -1071,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Antonio Fernandez, Olivier Hallot.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155236Z" creationid="valter" creationdate="20241017T155236Z">
+        <seg>Antonio Fernandez, Olivier Hallot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any command that opens a dialog has three dots following that command, for example: the command &lt;f0&gt;Edit &gt; Find and Replace…&lt;/f0&gt; on the Menu bar will open a dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T203101Z" creationid="valter" creationdate="20241016T203101Z">
@@ -1347,6 +1363,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T180732Z" creationid="valter" creationdate="20240928T180732Z">
         <seg>È possibile cambiare il gruppo di icone utilizzate in una installazione di LibreOffice in questo modo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 10 &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155209Z" creationid="valter" creationdate="20241017T155209Z">
+        <seg>Capitolo 10 &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,6 +1667,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
         <seg>Dave Barton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dave Barton, Hazel Russman, Jean Hollis Weber, John A Smith, Kees Kriek, Miklos Vajna, Olivier Hallot, Paul Figueiredo, Ron Faile Jr., Skip Masonsmith ,Steve Fanning ,Winston Min Tjong, Rob Thornton.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155244Z" creationid="valter" creationdate="20241017T155244Z">
+        <seg>Dave Barton, Hazel Russman, Jean Hollis Weber, John A Smith, Kees Kriek, Miklos Vajna, Olivier Hallot, Paul Figueiredo, Ron Faile Jr., Skip Masonsmith ,Steve Fanning ,Winston Min Tjong, Rob Thornton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2371,6 +2403,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200445Z" creationid="valter" creationdate="20240929T200445Z">
         <seg>Guida introduttiva 24.8 - Capitolo 1, Fondamenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 10, Working with File Formats, Security, and Exporting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155202Z" creationid="valter" creationdate="20241017T155202Z">
+        <seg>Guida introduttiva 24.8 - Capitolo 10, Lavorare con formati di file, sicurezza ed esportazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -6076,6 +6116,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101756Z" creationid="valter" creationdate="20211016T101756Z">
         <seg>Winston Min Tjong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with File Formats, Security, and Exporting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155222Z" creationid="valter" creationdate="20241017T155222Z">
+        <seg>Lavorare con formati di file, sicurezza ed esportazione</seg>
       </tuv>
     </tu>
     <tu>
