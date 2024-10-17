@@ -4153,6 +4153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171856Z" creationid="Elisabetta" creationdate="20241017T171805Z">
+        <seg>Nuovo documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New documents are numbered in the order in which they are created.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T202240Z" creationid="valter" creationdate="20241016T202240Z">
@@ -4373,6 +4381,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181929Z" creationid="valter" creationdate="20211115T181929Z">
         <seg>Forum OpenOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opening existing documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171846Z" creationid="Elisabetta" creationdate="20241017T171846Z">
+        <seg>Aprire un documento esistente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4797,6 +4813,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reloading documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172035Z" creationid="Elisabetta" creationdate="20241017T172035Z">
+        <seg>Ricaricare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restart in Safe Mode</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162845Z" creationid="valter" creationdate="20240928T162447Z">
@@ -4841,6 +4865,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
         <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171934Z" creationid="Elisabetta" creationdate="20241017T171934Z">
+        <seg>Salvare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving documents automatically</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172015Z" creationid="Elisabetta" creationdate="20241017T172015Z">
+        <seg>Salvare automaticamente un documento</seg>
       </tuv>
     </tu>
     <tu>
