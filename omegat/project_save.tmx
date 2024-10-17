@@ -3063,6 +3063,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Include any additional information that may help the developers to localize the error.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161925Z" creationid="valter" creationdate="20241017T161925Z">
+        <seg>Includere qualsiasi informazione aggiuntiva utile agli sviluppatori per localizzare l'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information about available accessibility options &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181846Z" creationid="valter" creationdate="20211115T181846Z">
@@ -3685,6 +3693,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204516Z" creationid="valter" creationdate="20241005T204516Z">
         <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linux only — send usage data to help The Document Foundation improve usability of the software.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161716Z" creationid="valter" creationdate="20241017T161716Z">
+        <seg>Soltanto per Linux — Inviare i dati di utilizzo per aiutare The Document Foundation a migliorare l'usabilità del software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5526,6 +5542,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tool gathers all necessary information that can help the program developers to improve the code.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161847Z" creationid="valter" creationdate="20241017T161847Z">
+        <seg>Il programma di notifica errori raccoglie tutte le informazioni necessarie per consentire ai programmatori di migliorare il codice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161728Z" creationid="valter" creationdate="20241017T161728Z">
+        <seg>I dati di utilizzo sono inviati in forma anonima e non veicolano alcun contenuto del documento, ma solo i comandi utilizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are multiple methods for closing LibreOffice:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T200357Z" creationid="valter" creationdate="20241016T200357Z">
@@ -6284,6 +6316,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093646Z" creationid="valter" creationdate="20211016T093211Z">
         <seg>Gli utenti di Windows e Linux possono scegliere se scaricare e installare la Guida locale da utilizzare quando non sono collegati a Internet; in macOS, la Guida locale viene installata insieme col programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows only — if selected, the Error Report Tool starts automatically when a program crash occurs.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161830Z" creationid="valter" creationdate="20241017T161830Z">
+        <seg>Soltanto per Windows — Se l'opzione è selezionata, lo strumento di notifica errori si avvierà automaticamente ogni volta che si verificherà un errore del programma.</seg>
       </tuv>
     </tu>
     <tu>
