@@ -4423,8 +4423,8 @@
       <tuv lang="en-US">
         <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T101039Z" creationid="valter" creationdate="20240928T101039Z">
-        <seg>Le altre versioni di LibreOffice potrebbero essere diverse in aspetto e funzionalità.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161212Z" creationid="valter" creationdate="20240928T101039Z">
+        <seg>Altre versioni di LibreOffice potrebbero essere diverse per aspetto e funzionalità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,8 +5978,8 @@
       <tuv lang="en-US">
         <seg>Using LibreOffice on macOS</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T185219Z" creationid="valter" creationdate="20211115T185219Z">
-        <seg>Utilizzo di LibreOffice su macOS</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161231Z" creationid="valter" creationdate="20211115T185219Z">
+        <seg>Uso di LibreOffice in macOS</seg>
       </tuv>
     </tu>
     <tu>
