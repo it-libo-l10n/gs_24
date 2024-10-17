@@ -727,6 +727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — View page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — View page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T165933Z" creationid="valter" creationdate="20241017T165933Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Vista&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Vista&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Preface&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T195920Z" creationid="valter" creationdate="20240929T195920Z">
@@ -1471,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the icon style for use in toolbars and dialogs.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T170151Z" creationid="valter" creationdate="20241017T170151Z">
+        <seg>Scegliere lo stile per icone da usare nelle barre degli strumenti e nelle finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choosing options to suit the way of working</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105104Z" creationid="valter" creationdate="20241017T105104Z">
@@ -2091,6 +2107,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213408Z" creationid="valter" creationdate="20240928T213408Z">
         <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: finestra di dialogo mostrante un esempio dei controlli comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Options LibreOffice dialog — View page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T170015Z" creationid="valter" creationdate="20241017T170015Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Vista</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,6 +2779,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101851Z" creationid="valter" creationdate="20211016T101851Z">
         <seg>Iain Roberts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Icon Theme</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T170102Z" creationid="valter" creationdate="20241017T170102Z">
+        <seg>Tema di icone</seg>
       </tuv>
     </tu>
     <tu>
@@ -4445,6 +4477,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — View page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T170021Z" creationid="valter" creationdate="20241017T170021Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other features provided by Calc include:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095645Z" creationid="akurery" creationdate="20211121T095645Z">
@@ -5250,6 +5290,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184726Z" creationid="valter" creationdate="20211115T184726Z">
         <seg>Essi &lt;f1&gt;&lt;/f1&gt; possono essere riaggiunti scaricandoli e installandoli &lt;f2&gt;come estensione da &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://extensions.libreoffice.org/en/extensions/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Automatic&lt;/f0&gt; option uses an icon set compatible with the operating system and choice of desktop.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T170247Z" creationid="valter" creationdate="20241017T170247Z">
+        <seg>L'opzione &lt;f0&gt;Automatico&lt;/f0&gt; usa un tipo di icone compatibile col proprio sistema operativo e l'impostazione del desktop. </seg>
       </tuv>
     </tu>
     <tu>
