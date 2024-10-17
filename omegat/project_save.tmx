@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — General page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — General page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160706Z" creationid="valter" creationdate="20241017T160706Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Generale&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Generale&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — User Data page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — User Data page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T152923Z" creationid="valter" creationdate="20241017T152923Z">
@@ -2063,6 +2071,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options LibreOffice dialog — General page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160727Z" creationid="valter" creationdate="20241017T160727Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213408Z" creationid="valter" creationdate="20240928T213408Z">
@@ -2787,6 +2803,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154947Z" creationid="valter" creationdate="20240928T154947Z">
         <seg>Se la guida integrata non è installata sul computer ma si è collegati a Internet, si apre una finestra di dialogo che offre l'opzione &lt;f2&gt;Leggi la guida in linea&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is selected, the next time the document is closed after printing, the print date is recorded in the document properties as a change.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160502Z" creationid="valter" creationdate="20241017T160502Z">
+        <seg>Se l'opzione è attiva, dopo la stampa di un documento la data di stampa viene registrata nelle proprietà del documento come una modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4333,6 +4357,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — General page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160733Z" creationid="valter" creationdate="20241017T160733Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice dialog — User Data page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153041Z" creationid="valter" creationdate="20241017T153041Z">
@@ -4974,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies how two-digit years are interpreted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160804Z" creationid="valter" creationdate="20241017T160804Z">
+        <seg>Specifica come vengono interpretati gli anni espressi con due cifre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spin box (click the up and down arrows to change the number shown in the adjacent text box, or type in the text box).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213649Z" creationid="valter" creationdate="20211115T190335Z">
@@ -5482,6 +5522,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T193714Z" creationid="valter" creationdate="20240929T193714Z">
         <seg>Non è necessario richiedere un permesso speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There will be prompt to save the document again, even if any other changes have not been made.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160610Z" creationid="valter" creationdate="20241017T160610Z">
+        <seg>Alla chiusura verrà chiesto di salvare di nuovo il documento, anche se esso non ha subito altre modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6284,6 +6332,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110118Z" creationid="valter" creationdate="20241017T110118Z">
         <seg>Linguistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Year (Two Digits)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160740Z" creationid="valter" creationdate="20241017T160740Z">
+        <seg>Anno (due cifre)</seg>
       </tuv>
     </tu>
     <tu>
