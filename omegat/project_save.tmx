@@ -6392,6 +6392,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windows only — when selected, LibreOffice checks file associations on startup and displays a message if any relevant formats are not registered to be opened by default in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T164541Z" creationid="valter" creationdate="20241017T164541Z">
+        <seg>Soltanto per Windows — se selezionata, LibreOffice controlla le associazioni dei file all'avvio e mostra un messaggio se i formati attinenti non sono registrati per essere aperti in modo predefinito da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Windows only — when selected, the necessary library files are loaded when the computer is started, resulting in a shorter startup time for LibreOffice components.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162843Z" creationid="valter" creationdate="20241017T162843Z">
