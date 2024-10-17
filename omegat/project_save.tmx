@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173639Z" creationid="Elisabetta" creationdate="20241017T173639Z">
+        <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>25</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105958Z" creationid="valter" creationdate="20241017T105958Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110053Z" creationid="valter" creationdate="20241017T110053Z">
         <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>28</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173836Z" creationid="Elisabetta" creationdate="20241017T173836Z">
+        <seg>28</seg>
       </tuv>
     </tu>
     <tu>
@@ -1271,6 +1287,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Brochure printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173903Z" creationid="Elisabetta" creationdate="20241017T173903Z">
+        <seg>Stampare depliant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, LibreOffice Calc uses its own formula syntax, referred to as Calc &lt;f0&gt;A&lt;/f0&gt;1, rather than the Excel &lt;f1&gt;A&lt;/f1&gt;1 syntax that is used by Microsoft Excel.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191447Z" creationid="akurery" creationdate="20211211T191447Z">
@@ -1691,6 +1715,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185522Z" creationid="valter" creationdate="20211115T185522Z">
         <seg>Control+clic e/o pulsante destro del mouse a seconda della configurazione del computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controlling printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173705Z" creationid="Elisabetta" creationdate="20241017T173705Z">
+        <seg>Controllo della stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2531,6 +2563,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173355Z" creationid="Elisabetta" creationdate="20241017T173355Z">
         <seg>Opzioni generali di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General printing options — Windows or Linux</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173744Z" creationid="Elisabetta" creationdate="20241017T173744Z">
+        <seg>Opzioni generali di stampa — Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General printing options — macOS</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173808Z" creationid="Elisabetta" creationdate="20241017T173808Z">
+        <seg>Opzioni generali di stampa — macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3749,6 +3797,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191959Z" creationid="valter" creationdate="20211115T191950Z">
         <seg>LibreOffice non è scritto in Java; è scritto in linguaggio C++.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice module printing options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173829Z" creationid="Elisabetta" creationdate="20241017T173829Z">
+        <seg>Opzioni di stampa dei moduli di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
