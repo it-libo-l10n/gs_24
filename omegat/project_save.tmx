@@ -1759,6 +1759,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Default printer</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173031Z" creationid="Elisabetta" creationdate="20241017T173031Z">
+        <seg>Stampante predefinita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204212Z" creationid="valter" creationdate="20241016T204212Z">
@@ -4741,6 +4749,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printer setup</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173236Z" creationid="Elisabetta" creationdate="20241017T173236Z">
+        <seg>Impostazioni della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173026Z" creationid="Elisabetta" creationdate="20241017T173026Z">
+        <seg>Stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printing sets “document modified” status</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160317Z" creationid="valter" creationdate="20241017T160317Z">
@@ -4809,6 +4833,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180702Z" creationid="valter" creationdate="20211115T180702Z">
         <seg>Questions &amp; Answers e &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quick printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173212Z" creationid="Elisabetta" creationdate="20241017T173212Z">
+        <seg>Stampa rapida</seg>
       </tuv>
     </tu>
     <tu>
@@ -6636,6 +6668,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191327Z" creationid="akurery" creationdate="20211211T191327Z">
         <seg>Caratteri jolly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173039Z" creationid="Elisabetta" creationdate="20241017T173039Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
