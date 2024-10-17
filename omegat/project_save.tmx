@@ -2015,6 +2015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fill in the necessary information if these details are blank, or amend and/or delete any existing information not required.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T154007Z" creationid="valter" creationdate="20241017T154007Z">
+        <seg>Aggiungere le informazioni necessarie se i dettagli mancano, oppure correggere e/o eliminare qualsiasi informazione esistente non desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Florian Reisinger</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
@@ -3092,6 +3100,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195119Z" creationid="valter" creationdate="20211115T195119Z">
         <seg>È integrato con le funzioni grafiche avanzate dei componenti Draw e Math di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is necessary to make sure that the correct user information appears here.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T153816Z" creationid="valter" creationdate="20241017T153816Z">
+        <seg>È bene accertarsi che le informazioni sull'utente che appaiono qui siano corrette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5394,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160733Z" creationid="valter" creationdate="20240928T160733Z">
         <seg>Queste pagine &lt;f6&gt;offrono&lt;/f6&gt; accesso alle Guide utente di LibreOffice e altri utili informazioni consultabili con il browser predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These user details are used for several things within LibreOffice such as who created or last edited a document , author of comments or changes, sender address in mailing lists, and so on.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T153727Z" creationid="valter" creationdate="20241017T153727Z">
+        <seg>Tali dettagli sono utilizzati all'interno di LibreOffice per vari scopi, per esempio per indicare chi ha creato o modificato per ultimo un documento, l'autore di commenti o modifiche, l'indirizzo del mittente nelle mailing list, e via discorrenndo.</seg>
       </tuv>
     </tu>
     <tu>
