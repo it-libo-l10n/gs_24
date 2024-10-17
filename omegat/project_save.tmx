@@ -4958,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set these options to suit user personal preferences.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T165540Z" creationid="valter" creationdate="20241017T165540Z">
+        <seg>Impostare tali opzioni per adattarle alle proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setting up and customizing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102053Z" creationid="valter" creationdate="20240928T102053Z">
@@ -5082,6 +5090,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212043Z" creationid="valter" creationdate="20240928T212043Z">
         <seg>Alcuni dei gruppi di icone precedentemente inclusi sono ora disponibili soltanto come estensioni; vedere &lt;a0&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/a0&gt; oppure eseguire una ricerca per gruppi specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some options vary with the computer operating system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T165747Z" creationid="valter" creationdate="20241017T165747Z">
+        <seg>Alcune opzioni variano in base al sistema operativo del computer.</seg>
       </tuv>
     </tu>
     <tu>
