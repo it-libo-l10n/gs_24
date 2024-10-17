@@ -377,8 +377,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right-click depending on computer setup</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241005T203552Z" creationid="valter" creationdate="20241005T203552Z">
-        <seg>&lt;f0&gt;Control&lt;/f0&gt;+clic, &lt;f1&gt;Ctrl&lt;/f1&gt;+clic, oppure fare clic con il pulsante destro del mouse a seconda della configurazione del computer</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161608Z" creationid="valter" creationdate="20241005T203552Z">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+clic, &lt;f1&gt;Ctrl&lt;/f1&gt;+clic, oppure fare clic con il pulsante destro del mouse in base alla configurazione del computer</seg>
       </tuv>
     </tu>
     <tu>
@@ -6594,8 +6594,8 @@
       <tuv lang="en-US">
         <seg>macOS equivalent</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T185347Z" creationid="valter" creationdate="20211115T185347Z">
-        <seg>Equivalente su macOS</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161351Z" creationid="valter" creationdate="20211115T185347Z">
+        <seg>Equivalente macOS</seg>
       </tuv>
     </tu>
     <tu>
