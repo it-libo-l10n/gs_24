@@ -1695,6 +1695,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deselect to disable the &lt;f0&gt;Tip of the Day&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155946Z" creationid="valter" creationdate="20241017T155946Z">
+        <seg>Deselezionare questa opzione per disabilitare la finestra di dialogo &lt;f0&gt;Suggerimento del giorno&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deselect to use the standard Open and Save dialogs of the computer operating system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160125Z" creationid="valter" creationdate="20241017T160125Z">
+        <seg>Deselezionare questa opzione per utilizzare le finestre di dialogo Apri e Salva standard del sistema operativo del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213412Z" creationid="valter" creationdate="20240928T213412Z">
@@ -1731,6 +1747,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
         <seg>Grazie alle licenze Open Source di LibreOffice è possibile distribuire, copiare e modificare il software in base alle proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Document Status</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160205Z" creationid="valter" creationdate="20241017T160205Z">
+        <seg>Stato del documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -4169,6 +4193,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open/Save Dialogs</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155958Z" creationid="valter" creationdate="20241017T155958Z">
+        <seg>Finestre di dialogo apri/salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenCL</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105835Z" creationid="valter" creationdate="20241017T105835Z">
@@ -4461,6 +4493,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printing sets “document modified” status</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160317Z" creationid="valter" creationdate="20241017T160317Z">
+        <seg>Dopo la stampa cambia lo stato in "documento modificato"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213858Z" creationid="valter" creationdate="20240928T213858Z">
@@ -4734,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to use the Open and Save dialogs supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160050Z" creationid="valter" creationdate="20241017T160050Z">
+        <seg>Selezionare questa opzione per utilizzare le finestre di dialogo Apri e Salva fornite con LibreOffice. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select whether to save or discard the changes.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T200856Z" creationid="valter" creationdate="20241016T200856Z">
@@ -4810,6 +4858,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160952Z" creationid="valter" creationdate="20240928T160952Z">
         <seg>Mostra suggerimento del giorno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show “Tip of the Day” dialog on start-up</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155852Z" creationid="valter" creationdate="20241017T155852Z">
+        <seg>Mostra la finestra di dialogo "Suggerimento del giorno" all'avvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -5574,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This guide uses the LibreOffice Open and Save dialogs in illustrations.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160201Z" creationid="valter" creationdate="20241017T160201Z">
+        <seg>Questa guida utilizza le finestre di dialogo "Apri" e "Salva" di LibreOffice nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This icon set can be downloaded from the software repository for the Linux operating system being used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T181628Z" creationid="valter" creationdate="20240928T181628Z">
@@ -5780,6 +5844,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T215852Z" creationid="valter" creationdate="20241015T215852Z">
         <seg>Barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use LibreOffice dialogs</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T160021Z" creationid="valter" creationdate="20241017T160021Z">
+        <seg>Usa finestre di dialogo di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
