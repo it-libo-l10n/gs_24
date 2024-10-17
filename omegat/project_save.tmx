@@ -1607,6 +1607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Context menus</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171646Z" creationid="Elisabetta" creationdate="20241017T171646Z">
+        <seg>Menu contestuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Context sensitive toolbars</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171624Z" creationid="Elisabetta" creationdate="20241017T171624Z">
@@ -1683,6 +1691,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114002Z" creationid="valter" creationdate="20240928T114002Z">
         <seg>Multipiattaforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customizing toolbars</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171643Z" creationid="Elisabetta" creationdate="20241017T171643Z">
+        <seg>Personalizzare le barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171701Z" creationid="Elisabetta" creationdate="20241017T171701Z">
+        <seg>Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simple wildcards such as the asterisk (*), question mark (?), and tilde (~) from other spreadsheet applications are recognized by LibreOffice &lt;f0&gt;in formula expressions&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191336Z" creationid="akurery" creationdate="20211211T191336Z">
@@ -5210,6 +5234,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151745Z" creationid="Elisabetta Manuele" creationdate="20211110T151745Z">
         <seg>Avviare Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171649Z" creationid="Elisabetta" creationdate="20241017T171649Z">
+        <seg>Barra di stato</seg>
       </tuv>
     </tu>
     <tu>
@@ -6532,6 +6564,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155222Z" creationid="valter" creationdate="20241017T155222Z">
         <seg>Lavorare con formati di file, sicurezza ed esportazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171719Z" creationid="Elisabetta" creationdate="20241017T171719Z">
+        <seg>Lavorare con i documenti</seg>
       </tuv>
     </tu>
     <tu>
