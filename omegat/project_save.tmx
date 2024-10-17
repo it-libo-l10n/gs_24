@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174719Z" creationid="Elisabetta" creationdate="20241017T174719Z">
+        <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101311Z" creationid="valter" creationdate="20240928T101311Z">
@@ -4869,6 +4877,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print previewing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174714Z" creationid="Elisabetta" creationdate="20241017T174714Z">
+        <seg>Anteprima di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printer setup</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173236Z" creationid="Elisabetta" creationdate="20241017T173236Z">
@@ -6532,6 +6548,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161231Z" creationid="valter" creationdate="20211115T185219Z">
         <seg>Uso di LibreOffice in macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using Safe Mode</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174751Z" creationid="Elisabetta" creationdate="20241017T174751Z">
+        <seg>Utilizzare la Modalità sicura</seg>
       </tuv>
     </tu>
     <tu>
