@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The options available in the View page of the Options LibreOffice dialog (Figure &lt;t0&gt;Error: Reference source not found&lt;/t0&gt;) affect how the document window looks and behaves.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T165506Z" creationid="valter" creationdate="20241017T165506Z">
+        <seg>Le opzioni disponibili nella pagina Vista della finestra di dialogo Opzioni di LibreOffice (Figura &lt;t0&gt;Errore: sorgente del riferimento non trovata&lt;/t0&gt;) influenzano il modo in cui la finestra appare e si comporta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options available on the Options LibreOffice dialog — General page (Figure &lt;t0&gt;2&lt;/t0&gt;) are described as follows.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155456Z" creationid="valter" creationdate="20241017T155456Z">
@@ -6891,6 +6899,17 @@
         <seg>View</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105614Z" creationid="valter" creationdate="20241017T105614Z">
+        <seg>Vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GS24812-ConfiguringLO.odt</prop>
+      <prop type="prev">Windows only — when selected, LibreOffice checks file associations on startup and displays a message if any relevant formats are not registered to be opened by default in LibreOffice.</prop>
+      <prop type="next">The options available in the View page of the Options LibreOffice dialog (Figure &lt;t0&gt;Error: Reference source not found&lt;/t0&gt;) affect how the document window looks and behaves.</prop>
+      <tuv lang="en-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T164552Z" creationid="valter" creationdate="20241017T164552Z">
         <seg>Vista</seg>
       </tuv>
     </tu>
