@@ -1455,6 +1455,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the chevron &lt;f3&gt;&gt;&lt;/f3&gt; next to LibreOffice to select a category from the drop-down list and display the relevant page on the right-hand side of the dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T152720Z" creationid="valter" creationdate="20241017T152720Z">
+        <seg>Fare clic sulla parentesi uncinata &lt;f3&gt;&gt;&lt;/f3&gt; accanto a LibreOffice per selezionare una categoria dall'elenco a tendina e visualizzare la pagina pertinente sul lato destro della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking on a command in the resulting list may open a relevant dialog or have other effects.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161528Z" creationid="valter" creationdate="20240928T161528Z">
