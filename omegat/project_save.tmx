@@ -5054,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The figures in this chapter show this list in the left-hand box as it appears when a Writer document is open.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T111320Z" creationid="valter" creationdate="20241017T111320Z">
+        <seg>Le figure di questo capitolo mostrano l'elenco che appare nel riquadro a sinistra quando è aperto un documento di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following explains some of the advantages of LibreOffice has over other office suites:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113803Z" creationid="valter" creationdate="20240928T113803Z">
