@@ -5022,6 +5022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Several icon sets are available; for example Breeze, Breeze Dark, Colibre, Elementary, Karasa Jaga, Sifr, Sifr Dark, Sakapura, and so on.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T171245Z" creationid="valter" creationdate="20241017T171245Z">
+        <seg>Sono disponibili diversi gruppi di icone; per esempio Breeze, Breeze Dark, Colibre, Elementary, Karasa Jaga, Sifr, Sifr Dark e Sakapura, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Tip of the Day</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160952Z" creationid="valter" creationdate="20240928T160952Z">
