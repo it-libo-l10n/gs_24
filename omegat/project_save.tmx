@@ -2527,6 +2527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>General printing options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173355Z" creationid="Elisabetta" creationdate="20241017T173355Z">
+        <seg>Opzioni generali di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get Help Online</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161537Z" creationid="valter" creationdate="20240928T161537Z">
@@ -3753,10 +3761,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice modules printing options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173631Z" creationid="Elisabetta" creationdate="20241017T173631Z">
+        <seg>Opzioni di stampa dei moduli di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice options</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105516Z" creationid="valter" creationdate="20241017T105516Z">
         <seg>Opzioni di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice printing options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173321Z" creationid="Elisabetta" creationdate="20241017T173321Z">
+        <seg>Opzioni di stampa</seg>
       </tuv>
     </tu>
     <tu>
