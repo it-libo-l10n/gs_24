@@ -2319,6 +2319,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see the Help.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161933Z" creationid="valter" creationdate="20241017T161933Z">
+        <seg>Per ulteriori informazioni, vedere la Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For quick tips when a toolbar is visible, place the cursor over any of the tool icons to see a small tooltip box with a brief explanation of the tool function.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155541Z" creationid="valter" creationdate="20240928T155541Z">
@@ -3485,6 +3493,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200521Z" creationid="valter" creationdate="20240929T200521Z">
         <seg>Fondamenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Quickstarter</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T162706Z" creationid="valter" creationdate="20241017T162706Z">
+        <seg>QuickStart di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
