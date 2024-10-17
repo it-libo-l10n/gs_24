@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional options, and more details about the options in this user guide, are covered in LibreOffice Help.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110603Z" creationid="valter" creationdate="20241017T110603Z">
+        <seg>Opzioni aggiuntive e maggiori dettagli su quelli forniti in questo manuale sono trattati nella Guida di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105736Z" creationid="valter" creationdate="20241017T105736Z">
@@ -2647,6 +2655,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If understanding is difficult on what an option does, it is usually best to leave the option on its default setting unless instructions in this user guide recommend changing the setting.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110824Z" creationid="valter" creationdate="20241017T110824Z">
+        <seg>Se risulta difficile capire a cosa serve un'opzione, è bene non modificare l'opzione e mantenerla alle sue impostazioni predefinite, a meno che le istruzioni contenute in questa guida non consiglino il contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
@@ -3581,6 +3597,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240922T213404Z" creationid="valter" creationdate="20240922T213302Z">
         <seg>Molte caratteristiche, disponibili come add-on opzionali a pagamento in altre suite per ufficio (come l'esportazione in formato PDF), sono invece disponibili gratuitamente in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many options are intended for power users and programmers.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110616Z" creationid="valter" creationdate="20241017T110616Z">
+        <seg>Molte opzioni sono destinate a utenti esperti e programmatori. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +5322,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092259Z" creationid="valter" creationdate="20211016T092259Z">
         <seg>Questo libro, le altre guide utente di LibreOffice, il sistema di aiuto integrato, e i sistemi di assistenza agli utilizzatori presuppongono che da parte vostra vi sia un minimo di familiarità con il vostro computer e con funzioni basilari quali l'avvio di un programma, l'apertura e il salvataggio di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chapter describes some of the setup options found in &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences&lt;/f1&gt;) on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110421Z" creationid="valter" creationdate="20241017T110421Z">
+        <seg>Questo capitolo descrive alcune delle opzioni di configurazione che si trovano in &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze&lt;/f1&gt;) nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
