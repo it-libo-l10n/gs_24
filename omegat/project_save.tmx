@@ -1585,8 +1585,8 @@
       <tuv lang="en-US">
         <seg>Contents</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211016T102858Z" creationid="valter" creationdate="20211016T102858Z">
-        <seg>Contenuti</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T165931Z" creationid="valter" creationdate="20211016T102858Z">
+        <seg>Indice</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,8 +6058,8 @@
       <tuv lang="en-US">
         <seg>Used with other keys</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T185554Z" creationid="valter" creationdate="20211115T185554Z">
-        <seg>Usato con altri tasti</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161733Z" creationid="valter" creationdate="20211115T185554Z">
+        <seg>Usato in combinazione con altri tasti</seg>
       </tuv>
     </tu>
     <tu>
@@ -6863,6 +6863,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GS24801-LOBasics.odt</prop>
+      <prop type="prev">Open the Styles deck in the Sidebar</prop>
+      <prop type="next">Contents</prop>
+      <tuv lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T165821Z" creationid="Elisabetta" creationdate="20241017T165821Z">
+        <seg>Indice</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">GS24801-LOBasics.odt</prop>
       <prop type="prev">Has commands that insert elements into a document, for example &lt;f0&gt;Image&lt;/f0&gt;, &lt;f1&gt;Comment&lt;/f1&gt;, &lt;f2&gt;Header&lt;/f2&gt; &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;Footer&lt;/f4&gt;, and &lt;f5&gt;Table of Contents and Index&lt;/f5&gt;.</prop>
