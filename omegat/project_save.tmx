@@ -2615,6 +2615,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Help Improve LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161323Z" creationid="valter" creationdate="20241017T161323Z">
+        <seg>Aiutaci a migliorare LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Help system</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092303Z" creationid="valter" creationdate="20211016T092303Z">
@@ -4882,6 +4890,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161918Z" creationid="valter" creationdate="20240928T161918Z">
         <seg>Invia commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send crash reports to The Document Foundation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T161605Z" creationid="valter" creationdate="20241017T161605Z">
+        <seg>Invia rapporti di errore a The Document Foundation</seg>
       </tuv>
     </tu>
     <tu>
