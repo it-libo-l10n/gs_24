@@ -5454,6 +5454,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f4&gt;Automatic&lt;/f4&gt; icon size option uses the setting for the computer operating system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172408Z" creationid="valter" creationdate="20241017T172408Z">
+        <seg>L'opzione &lt;f4&gt;Automatica&lt;/f4&gt; usa l'impostazione della dimensione delle icone del sistema operativo del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f5&gt;Toolbar&lt;/f5&gt;, &lt;f6&gt;Notebookbar&lt;/f6&gt; and &lt;f7&gt;Sidebar&lt;/f7&gt; can have different settings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172656Z" creationid="valter" creationdate="20241017T172656Z">
+        <seg>La &lt;f5&gt;barra degli strumenti&lt;/f5&gt;, la &lt;f6&gt;barra notebook&lt;/f6&gt; e la &lt;f7&gt;barra laterale&lt;/f7&gt; possono avere impostazioni differenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Galaxy, Oxygen, &lt;f0&gt;and Tango&lt;/f0&gt; icon sets are no longer included as part of the standard installation package.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184635Z" creationid="valter" creationdate="20211115T184635Z">
@@ -6364,6 +6380,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133404Z" creationid="valter" creationdate="20240928T133404Z">
         <seg>Le versioni di LibreOffice per Windows, Linux e macOS sono disponibili a titolo gratuito e sono scaricabili da &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visibility</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172829Z" creationid="valter" creationdate="20241017T172829Z">
+        <seg>Visibilità</seg>
       </tuv>
     </tu>
     <tu>
