@@ -463,6 +463,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; or &lt;f1&gt;Ctrl+C&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+C&lt;/f2&gt;)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174626Z" creationid="valter" creationdate="20241017T174626Z">
+        <seg>&lt;f0&gt;Modifica &gt; Copia&lt;/f0&gt; o &lt;f1&gt;Ctrl+C&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+C&lt;/f2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Edit &gt; Paste&lt;/f0&gt; or &lt;f1&gt;Ctrl+V&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;V&lt;/f4&gt;&lt;/f3&gt;) pastes at the cursor position.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174745Z" creationid="valter" creationdate="20241017T174745Z">
+        <seg>&lt;f0&gt;Modifica &gt; Incolla&lt;/f0&gt; o &lt;f1&gt;Ctrl+V&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;V&lt;/f4&gt;&lt;/f3&gt;) incolla nella posizione del cursore di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Ask LibreOffice&lt;f2&gt; &lt;/f2&gt;forum of questions and answers from the LibreOffice community, &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T104430Z" creationid="valter" creationdate="20211016T104430Z">
@@ -679,6 +695,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f1&gt;No function&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T173915Z" creationid="valter" creationdate="20241017T173915Z">
+        <seg>&lt;f1&gt;Nessuna funzione&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f1&gt;You can &lt;/f1&gt;also &lt;f2&gt;open the page &lt;/f2&gt;&lt;s3/&gt;&lt;a4&gt;https://books.libreoffice.org&lt;/a4&gt; &lt;f5&gt;for the same contents&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160629Z" creationid="valter" creationdate="20240928T160629Z">
@@ -695,10 +719,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f3&gt;Automatic scrolling&lt;/f3&gt; — dragging while pressing the middle mouse button shifts the view.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174043Z" creationid="valter" creationdate="20241017T173916Z">
+        <seg>&lt;f3&gt;Scorrimento automatico&lt;/f3&gt; — il trascinamento, mentre si preme il pulsante centrale del mouse, fa scorrere la visualizzazione.&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f4&gt;Extended Tips&lt;/f4&gt; provide a brief description about tools and commands.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T202312Z" creationid="valter" creationdate="20240928T155936Z">
         <seg>La &lt;f4&gt;Guida attiva&lt;/f4&gt; offre una breve descrizione degli strumenti e dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f5&gt;Paste clipboard&lt;/f5&gt; — pressing the middle mouse button inserts the contents of the &lt;f6&gt;Selection clipboard&lt;/f6&gt; at the cursor position.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174157Z" creationid="valter" creationdate="20241017T174157Z">
+        <seg>&lt;f5&gt;Incolla Appunti&lt;/f5&gt; – la pressione del pulsante centrale del mouse inserisce il contenuto degli &lt;f6&gt;Appunti di selezione&lt;/f6&gt; alla posizione del cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1599,6 +1639,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking the middle mouse button pastes at the cursor position.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174819Z" creationid="valter" creationdate="20241017T174819Z">
+        <seg>Facendo clic col pulsante centrale del mouse si incolla il contenuto alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clipboard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174503Z" creationid="valter" creationdate="20241017T174503Z">
+        <seg>Appunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Closing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T170428Z" creationid="valter" creationdate="20241005T204316Z">
@@ -1735,6 +1791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy content</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174631Z" creationid="valter" creationdate="20241017T174550Z">
+        <seg>Copiare contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100853Z" creationid="valter" creationdate="20211016T100853Z">
@@ -1803,6 +1867,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173031Z" creationid="Elisabetta" creationdate="20241017T173031Z">
         <seg>Stampante predefinita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defines the function of the middle mouse button (if available)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T173852Z" creationid="valter" creationdate="20241017T173852Z">
+        <seg>Definisce la funzione del pulsante centrale del mouse (se disponibile)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2555,6 +2627,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
         <seg>Frédéric Parrenin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174458Z" creationid="valter" creationdate="20241017T174458Z">
+        <seg>Funzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -4765,6 +4845,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paste content</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174650Z" creationid="valter" creationdate="20241017T174650Z">
+        <seg>Incollare contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paths</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105627Z" creationid="valter" creationdate="20241017T105627Z">
@@ -5222,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select text, table, or object.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174644Z" creationid="valter" creationdate="20241017T174627Z">
+        <seg>Seleziona testo, tabella od oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the visibility mode (&lt;f0&gt;Automatic, Hide, Show&lt;/f0&gt;) to hide or show icons as well as text on the Menu bar and in shortcut items.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T173509Z" creationid="valter" creationdate="20241017T173509Z">
@@ -5290,6 +5386,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200211Z" creationid="valter" creationdate="20240929T200211Z">
         <seg>Selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selection clipboard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174535Z" creationid="valter" creationdate="20241017T174535Z">
+        <seg>Appunti di selezione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Clipboard and Selection clipboard functions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174450Z" creationid="valter" creationdate="20241017T174450Z">
+        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: funzioni di appunti e appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T164921Z" creationid="valter" creationdate="20240928T164921Z">
@@ -5658,6 +5770,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153329Z" creationid="valter" creationdate="20241017T153329Z">
         <seg>Il pulsante &lt;f0&gt;Ripristina&lt;/f0&gt;, situato in basso a destra nella finestra di dialogo Opzioni, reimposta i valori in quella pagina ai valori che erano presenti quando è stata aperta la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f1&gt;Clipboard&lt;/f1&gt; and &lt;f2&gt;Selection clipboard&lt;/f2&gt; can contain different contents at the same time as shown in Table &lt;t3&gt;1&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174420Z" creationid="valter" creationdate="20241017T174420Z">
+        <seg>Gli &lt;f1&gt;appunti&lt;/f1&gt; e gli &lt;f2&gt;appunti di selezione&lt;/f2&gt; possono avere allo stesso tempo contenuti differenti, come mostrato nella Tabella &lt;t3&gt;1&lt;/t3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5770,6 +5890,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193850Z" creationid="valter" creationdate="20211115T193850Z">
         <seg>Il Gestore di scenari fornisce analisi del tipo "what if" (cosa succede se).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Selection clipboard is independent of the normal clipboard used by &lt;f0&gt;Edit &gt; Copy/Cut/Paste&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174259Z" creationid="valter" creationdate="20241017T174259Z">
+        <seg>Gli Appunti di selezione sono indipendenti dagli appunti normali usati con i comandi &lt;f0&gt;Modifica &gt; Copia/Taglia/Incolla&lt;/f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
