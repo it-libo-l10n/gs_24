@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f1&gt;File &gt; Properties&lt;/f1&gt; on the Menu bar to open the Properties dialog for a file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T154456Z" creationid="valter" creationdate="20241017T154456Z">
+        <seg>Andare a &lt;f1&gt;File &gt; Proprietà&lt;/f1&gt; nella barra dei menu per aprire la finestra di dialogo Proprietà di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Granularity</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115152Z" creationid="valter" creationdate="20240928T115152Z">
@@ -2707,6 +2715,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110824Z" creationid="valter" creationdate="20241017T110824Z">
         <seg>Se risulta difficile capire a cosa serve un'opzione, è bene non modificare l'opzione e mantenerla alle sue impostazioni predefinite, a meno che le istruzioni contenute in questa guida non consiglino il contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If user data is not going to be used for document’s properties, deselect the option &lt;f0&gt;Apply user data&lt;/f0&gt; in the Properties dialog for the LibreOffice file that is open.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T154409Z" creationid="valter" creationdate="20241017T154409Z">
+        <seg>Se i dati utente non verranno utilizzati per le proprietà di un documento, deselezionare l'opzione &lt;f0&gt;Usa i dati utente&lt;/f0&gt; nella finestra di dialogo Proprietà per il file LibreOffice aperto.</seg>
       </tuv>
     </tu>
     <tu>
