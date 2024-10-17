@@ -2119,6 +2119,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information on options or settings that are not discussed in this section, see the LibreOffice Help.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110949Z" creationid="valter" creationdate="20241017T110949Z">
+        <seg>Per informazioni sulle opzioni e le impostazioni non discusse in questa sezione, si veda la Guida di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For macOS, the Oracle Java Development Kit (JDK) has to be installed, not just the Java Runtime Environment (JRE).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132941Z" creationid="valter" creationdate="20240928T132941Z">
@@ -5102,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The list in the left-hand box of the Options LibreOffice dialog varies depending on which LibreOffice module is open.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T111234Z" creationid="valter" creationdate="20241017T111234Z">
+        <seg>L'elenco nella parte sinistra della finestra varia a seconda del modulo di LibreOffice aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most notable one is the HSQLDB relational database engine.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192016Z" creationid="valter" creationdate="20211115T192016Z">
@@ -5406,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This section covers some of the options and settings that apply to all the components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T110903Z" creationid="valter" creationdate="20241017T110903Z">
+        <seg>Questa sezione tratta alcune delle opzioni e delle impostazioni comuni a tutti i componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This user guide introduces the main modules of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T103310Z" creationid="valter" creationdate="20240928T103310Z">
@@ -5507,6 +5531,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T215303Z" creationid="valter" creationdate="20240928T215303Z">
         <seg>Per fare una donazione, andare alla seguente pagina web: &lt;a0&gt;https://it.libreoffice.org/donazioni/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To open the Options LibreOffice dialog for LibreOffice (Figure &lt;t0&gt;1&lt;/t0&gt;), go to &lt;f1&gt;Tools &gt; Options&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferences&lt;/f2&gt;) on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T111154Z" creationid="valter" creationdate="20241017T111154Z">
+        <seg>Per aprire la finestra di dialogo delle opzioni di LibreOffice (Figura &lt;t0&gt;1&lt;/t0&gt;) andare a &lt;f1&gt;Strumenti &gt; Opzioni&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferenze&lt;/f2&gt;) nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
