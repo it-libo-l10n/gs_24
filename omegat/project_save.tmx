@@ -1687,6 +1687,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deselect this option to disable a warning when selecting Help, if offline help is not installed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155842Z" creationid="valter" creationdate="20241017T155842Z">
+        <seg>Deselezionare questa opzione per disabilitare questa finestra a comparsa quando si seleziona la Guida, se la guida integrata del programma non è installata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213412Z" creationid="valter" creationdate="20240928T213412Z">
@@ -1923,6 +1931,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
         <seg>Qualsiasi cosa invierete a una mailing list, incluso il vostro indirizzo di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, sarà archiviata pubblicamente e non potrà essere eliminata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extended tips</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155530Z" creationid="valter" creationdate="20241017T155530Z">
+        <seg>Guida attiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -5278,6 +5294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The options available on the Options LibreOffice dialog — General page (Figure &lt;t0&gt;2&lt;/t0&gt;) are described as follows.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155456Z" creationid="valter" creationdate="20241017T155456Z">
+        <seg>Di seguito sono descritte le opzioni disponibili nella finestra di dialogo Opzioni di LibreOffice — pagina Generale (Figura &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options marked by a ‡ sign in the list below are only accessible if the computer is connected to the Internet.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155303Z" creationid="valter" creationdate="20240928T155303Z">
@@ -5872,6 +5896,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Warn if local help is not installed</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155738Z" creationid="valter" creationdate="20241017T155738Z">
+        <seg>Avvisa se la guida locale non è installata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193317Z" creationid="valter" creationdate="20211115T193317Z">
@@ -5956,6 +5988,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092027Z" creationid="valter" creationdate="20211016T092027Z">
         <seg>Contenuto della guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Extended tips is active, a brief description of the function of an icon, menu command, or a field on a dialog appears when the cursor is held over the item.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155658Z" creationid="valter" creationdate="20241017T155658Z">
+        <seg>Se la Guida attiva è abilitata, mantenendo il puntatore del mouse su un'icona, un comando di menu o un campo di una finestra, appare una breve descrizione della loro funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6550,6 +6590,17 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204519Z" creationid="valter" creationdate="20241016T204519Z">
         <seg>Visualizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GS24812-ConfiguringLO.odt</prop>
+      <prop type="prev">The options available on the Options LibreOffice dialog — General page (Figure &lt;t0&gt;2&lt;/t0&gt;) are described as follows.</prop>
+      <prop type="next">Extended tips</prop>
+      <tuv lang="en-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155516Z" creationid="valter" creationdate="20241017T155516Z">
+        <seg>Guida</seg>
       </tuv>
     </tu>
     <tu>
