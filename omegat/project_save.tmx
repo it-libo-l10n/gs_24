@@ -4517,6 +4517,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perform check for default file associations on start-up</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T163402Z" creationid="valter" creationdate="20241017T163402Z">
+        <seg>Esegui all'avvio il controllo delle associazioni dei file predefinite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Personalization</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105650Z" creationid="valter" creationdate="20241017T105650Z">
@@ -6336,6 +6344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windows Default apps button</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T162933Z" creationid="valter" creationdate="20241017T162933Z">
+        <seg>Pulsante Applicazioni predefinite di Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Windows and Linux</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204347Z" creationid="valter" creationdate="20241005T204347Z">
@@ -6364,6 +6380,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161830Z" creationid="valter" creationdate="20241017T161830Z">
         <seg>Soltanto per Windows — Se l'opzione è selezionata, lo strumento di notifica errori si avvierà automaticamente ogni volta che si verificherà un errore del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows only — opens Default apps dialog in Windows.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T163252Z" creationid="valter" creationdate="20241017T163252Z">
+        <seg>Soltanto per Windows — apre la finestra di dialogo delle applicazioni predefinite in Windows.</seg>
       </tuv>
     </tu>
     <tu>
