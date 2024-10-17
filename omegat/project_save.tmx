@@ -2831,6 +2831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Cryptography&lt;/f0&gt; on the User Data page, set the preferred public keys for OpenPGP encryption and digital signature.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T154655Z" creationid="valter" creationdate="20241017T154655Z">
+        <seg>Nella sezione &lt;f0&gt;Cifratura&lt;/f0&gt; della pagina Dati utente, impostare le chiavi pubbliche preferite per la cifratura e la firma digitale OpenPGP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Icon Size&lt;/f0&gt;, select the required size from the drop-down lists for &lt;f1&gt;Toolbar&lt;/f1&gt;, &lt;f2&gt;Notebookbar&lt;/f2&gt; and &lt;f3&gt;Sidebar,&lt;/f3&gt; as shown in Figure &lt;t4&gt;2&lt;/t4&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T181409Z" creationid="valter" creationdate="20240928T181409Z">
@@ -5402,6 +5410,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115910Z" creationid="valter" creationdate="20240928T115702Z">
         <seg>Questi file sono facilmente decomprimibili e leggibili da qualsiasi editor di testo e la loro struttura è aperta e liberamente consultabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These keys are pre-selected in the text boxes for &lt;f1&gt;OpenPGP signing key&lt;/f1&gt; and &lt;f2&gt;OpenPGP encryption key&lt;/f2&gt; when a document is digitally signed or encrypted (for more information, see Chapter 10, Working with File Formats, Security, and Exporting).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T155040Z" creationid="valter" creationdate="20241017T155040Z">
+        <seg>Tali chiavi sono preselszionate nei riquadri di testo per la &lt;f1&gt;chiave di firma OpenPGP&lt;/f1&gt; e la &lt;f2&gt;chieve di cifratura OpenPGP&lt;/f2&gt; quando un documento viene firmato digitalmente o cifrato (per ulteriori informazioni vedere il Capitolo 10 (Lavorare con formati di file, sicurezza ed esportazione).</seg>
       </tuv>
     </tu>
     <tu>
