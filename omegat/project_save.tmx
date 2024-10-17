@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amanda Labby, Colleen Hayes, Dave Barton, Hazel Russman, Jean Hollis Weber, John A Smith, Jorge Rodriguez, Kees Kriek, Martin Saffron, Olivier Hallot, Paul Figueiredo, Peter Schofield, Ron Faile Jr., Skip Masonsmith, Steve Fanning, Steve Schwettman</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105124Z" creationid="valter" creationdate="20241017T105124Z">
+        <seg>Amanda Labby, Colleen Hayes, Dave Barton, Hazel Russman, Jean Hollis Weber, John A Smith, Jorge Rodriguez, Kees Kriek, Martin Saffron, Olivier Hallot, Paul Figueiredo, Peter Schofield, Ron Faile Jr., Skip Masonsmith, Steve Fanning, Steve Schwettman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amanda Labby, Dave Barton, Hazel Russman, Jean Hollis Weber, Jeremy Cartwright, John A Smith, Jorge Rodriguez, Kees Kriek, Martin Saffron, Olivier Hallot, Paul Figueiredo, Ron Faile Jr., Skip Masonsmith, Steve Fanning, Peter Schofield, Rob Thornton.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200329Z" creationid="valter" creationdate="20240929T200329Z">
@@ -1215,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 12, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105006Z" creationid="valter" creationdate="20241017T105006Z">
+        <seg>Capitolo 12, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 2, &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T155538Z" creationid="Elisabetta" creationdate="20241016T155538Z">
@@ -1287,6 +1303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choosing options to suit the way of working</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105104Z" creationid="valter" creationdate="20241017T105104Z">
+        <seg>Scegliere le opzioni adatte al proprio metodo di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Christian Kühl</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101858Z" creationid="valter" creationdate="20211016T101858Z">
@@ -1355,6 +1379,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191323Z" creationid="akurery" creationdate="20211211T191323Z">
         <seg>Compatibilità con altre applicazioni per fogli di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configuring LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105026Z" creationid="valter" creationdate="20241017T105026Z">
+        <seg>Configurazione di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -2163,6 +2195,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200445Z" creationid="valter" creationdate="20240929T200445Z">
         <seg>Guida introduttiva 24.8 - Capitolo 1, Fondamenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 12, Configuring LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T104941Z" creationid="valter" creationdate="20241017T104941Z">
+        <seg>Guida introduttiva 24.8 - Capitolo 12, Configurazione di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3965,6 +4005,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required) or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105233Z" creationid="valter" creationdate="20241017T105233Z">
+        <seg>Per commenti o suggerimenti su questo documento rivolgersi al Documentation Team Forum all'indirizzo &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (è necessario registrarsi), oppure inviare un messaggio di posta elettronica a: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required), or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200620Z" creationid="valter" creationdate="20240929T200620Z">
@@ -4041,6 +4089,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100917Z" creationid="valter" creationdate="20240928T100917Z">
         <seg>Pubblicato nell'&lt;ud0&gt;agosto&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;2024&lt;/ud2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Published &lt;ud0&gt;August&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;2024&lt;/ud2&gt;&lt;s3/&gt;Based on LibreOffice &lt;ud4&gt;24.8&lt;/ud4&gt;&lt;s5/&gt;Community.&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105333Z" creationid="valter" creationdate="20241017T105333Z">
+        <seg>Pubblicato nell'&lt;ud0&gt;agosto&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;2024&lt;/ud2&gt;&lt;s3/&gt;Basato su LibreOffice &lt;ud4&gt;24.8&lt;/ud4&gt;&lt;s5/&gt;Community.&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5106,6 +5162,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190338Z" creationid="valter" creationdate="20211115T190338Z">
         <seg>Miniatura o anteprima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Timothy Brennan, Jr., B Antonio Fernandez, Olivier Hallot.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T105110Z" creationid="valter" creationdate="20241017T105110Z">
+        <seg>Timothy Brennan, Jr., B Antonio Fernandez, Olivier Hallot.</seg>
       </tuv>
     </tu>
     <tu>
