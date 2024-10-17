@@ -3497,6 +3497,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice File Associations</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T162918Z" creationid="valter" creationdate="20241017T162918Z">
+        <seg>Associazione file di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice Quickstarter</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162706Z" creationid="valter" creationdate="20241017T162706Z">
@@ -3757,6 +3765,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204655Z" creationid="valter" creationdate="20241016T204655Z">
         <seg>Elenca comandi che controllano come viene visualizzato un documento, come &lt;f0&gt;Interfaccia utente&lt;/f0&gt;, &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;, &lt;f2&gt;Margini del testo&lt;/f2&gt;, &lt;f3&gt;Righelli&lt;/f3&gt; e &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load LibreOffice during system start-up</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T162731Z" creationid="valter" creationdate="20241017T162731Z">
+        <seg>Carica LibreOffice all'avvio del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -5454,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The old menu in the system tray is no longer used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T162906Z" creationid="valter" creationdate="20241017T162906Z">
+        <seg>Il vecchio menu nel vassoio di sistema non viene più utilizzato. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options available on the Options LibreOffice dialog — General page (Figure &lt;t0&gt;2&lt;/t0&gt;) are described as follows.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155456Z" creationid="valter" creationdate="20241017T155456Z">
@@ -6340,6 +6364,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161830Z" creationid="valter" creationdate="20241017T161830Z">
         <seg>Soltanto per Windows — Se l'opzione è selezionata, lo strumento di notifica errori si avvierà automaticamente ogni volta che si verificherà un errore del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows only — when selected, the necessary library files are loaded when the computer is started, resulting in a shorter startup time for LibreOffice components.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T162843Z" creationid="valter" creationdate="20241017T162843Z">
+        <seg>Soltanto per Windows — Quando è selezionata, i file di libreria necessari vengono caricati all'avvio del computer, con un conseguente tempo di avvio più breve per i componenti di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
