@@ -1905,8 +1905,8 @@
       <tuv lang="en-US">
         <seg>Double sided or duplex printing</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174315Z" creationid="Elisabetta" creationdate="20241017T174315Z">
-        <seg>stampa fronte retro</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174648Z" creationid="Elisabetta" creationdate="20241017T174315Z">
+        <seg>Stampare in fronte retro o in duplex</seg>
       </tuv>
     </tu>
     <tu>
@@ -5360,8 +5360,8 @@
       <tuv lang="en-US">
         <seg>Single sided printing</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174012Z" creationid="Elisabetta" creationdate="20241017T174012Z">
-        <seg>Stampa su un solo lato</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174323Z" creationid="Elisabetta" creationdate="20241017T174012Z">
+        <seg>Stampare su un solo lato</seg>
       </tuv>
     </tu>
     <tu>
