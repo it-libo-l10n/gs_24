@@ -473,8 +473,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Edit &gt; Paste&lt;/f0&gt; or &lt;f1&gt;Ctrl+V&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;V&lt;/f4&gt;&lt;/f3&gt;) pastes at the cursor position.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241017T174745Z" creationid="valter" creationdate="20241017T174745Z">
-        <seg>&lt;f0&gt;Modifica &gt; Incolla&lt;/f0&gt; o &lt;f1&gt;Ctrl+V&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;V&lt;/f4&gt;&lt;/f3&gt;) incolla nella posizione del cursore di testo.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174825Z" creationid="valter" creationdate="20241017T174745Z">
+        <seg>&lt;f0&gt;Modifica &gt; Incolla&lt;/f0&gt; o &lt;f1&gt;Ctrl+V&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;V&lt;/f4&gt;&lt;/f3&gt;) incolla alla posizione del cursore di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1919,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174931Z" creationid="valter" creationdate="20241017T174931Z">
+        <seg>Accede direttamente alle funzionalità hardware della scheda video per migliorare la visualizzazione a schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Directly cause an action, for example &lt;f0&gt;File &gt; Close&lt;/f0&gt; or &lt;f1&gt;Save.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T202845Z" creationid="valter" creationdate="20241016T202845Z">
@@ -2131,6 +2139,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T155626Z" creationid="valter" creationdate="20240929T200352Z">
         <seg>I messaggi di posta elettronica inviati al forum sono sottoposti a moderazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T175037Z" creationid="valter" creationdate="20241017T175037Z">
+        <seg>Abilita e disabilita l'antialiasing, che rende la visualizzazione della maggior parte degli oggetti grafici più fluida e con meno artefatti. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,6 +2827,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115152Z" creationid="valter" creationdate="20240928T115152Z">
         <seg>Granularità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Graphics Output</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174856Z" creationid="valter" creationdate="20241017T174856Z">
+        <seg>Risultato immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -4433,6 +4457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No effect on the clipboard contents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174838Z" creationid="valter" creationdate="20241017T174838Z">
+        <seg>Nessun effetto sul contenuto degli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No licensing fees</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113814Z" creationid="valter" creationdate="20240928T113814Z">
@@ -4849,6 +4881,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174650Z" creationid="valter" creationdate="20241017T174650Z">
         <seg>Incollare contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pasting into another document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174831Z" creationid="valter" creationdate="20241017T174831Z">
+        <seg>Incollare in un altro documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The last marked selection is the content of the Selection clipboard.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174847Z" creationid="valter" creationdate="20241017T174847Z">
+        <seg>L'ultima selezione contrassegnata è il contenuto degli appunti di selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The list in the left-hand box of the Options LibreOffice dialog varies depending on which LibreOffice module is open.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T111234Z" creationid="valter" creationdate="20241017T111234Z">
@@ -6604,6 +6652,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160021Z" creationid="valter" creationdate="20241017T160021Z">
         <seg>Usa finestre di dialogo di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use anti-aliasing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174953Z" creationid="valter" creationdate="20241017T174953Z">
+        <seg>Usa antialiasing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use hardware acceleration</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T174900Z" creationid="valter" creationdate="20241017T174900Z">
+        <seg>Usa accelerazione hardware</seg>
       </tuv>
     </tu>
     <tu>
