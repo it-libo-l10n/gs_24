@@ -1479,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the display size of toolbar icons: &lt;f0&gt;Automatic&lt;/f0&gt;, &lt;f1&gt;Small&lt;/f1&gt;, &lt;f2&gt;Large&lt;/f2&gt;, &lt;f3&gt;Extra Large&lt;/f3&gt; (toolbars only).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172314Z" creationid="valter" creationdate="20241017T172314Z">
+        <seg>Scegliere la dimensione di visualizzazione delle icone della barra degli strumenti: &lt;f0&gt;Automatica&lt;/f0&gt;, &lt;f1&gt;Piccola&lt;/f1&gt;, &lt;f2&gt;Grande&lt;/f2&gt;, &lt;f3&gt;Grandissima&lt;/f3&gt; (solo per le barre degli strumenti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose the icon style for use in toolbars and dialogs.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T170151Z" creationid="valter" creationdate="20241017T170151Z">
@@ -2811,6 +2819,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T170102Z" creationid="valter" creationdate="20241017T170102Z">
         <seg>Tema di icone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Icon size</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172122Z" creationid="valter" creationdate="20241017T172122Z">
+        <seg>Dimensione icone</seg>
       </tuv>
     </tu>
     <tu>
@@ -4549,6 +4565,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other icon sets can be added using extensions (for more information, see Chapter 13, Customizing LibreOffice).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T171943Z" creationid="valter" creationdate="20241017T171943Z">
+        <seg>È possibile aggiungere ulteriori gruppi di icone tramite le estensioni (per ulteriori informazioni, si veda il Capitolo 13, Personalizzazione di LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other user interface variants are available.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T201648Z" creationid="valter" creationdate="20241016T201648Z">
@@ -6168,6 +6192,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toolbar, Notebookbar, Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172135Z" creationid="valter" creationdate="20241017T172135Z">
+        <seg>Barra degli strumenti, Barra notebook, Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toolbars</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T215852Z" creationid="valter" creationdate="20241015T215852Z">
@@ -6180,6 +6212,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160021Z" creationid="valter" creationdate="20241017T160021Z">
         <seg>Usa finestre di dialogo di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Extensions Manager to display installed extensions and locate extensions for installation into LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241017T172114Z" creationid="valter" creationdate="20241017T172114Z">
+        <seg>Usare il Gestore estensioni per visualizzare le estensioni installate e individuare quelle da installare in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
