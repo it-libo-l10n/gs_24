@@ -1625,8 +1625,8 @@
       <tuv lang="en-US">
         <seg>Clicking on a file that is displayed in the Start Center, which will activate the module associated with that file.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T172812Z" creationid="valter" creationdate="20241016T182617Z">
-        <seg>Facendo clic su un file presente nel Centro di Avvio si attiverà il modulo associato a quel file.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T173025Z" creationid="valter" creationdate="20241016T182617Z">
+        <seg>Facendo clic su un file presente nel Centro di Avvio che attiverà il modulo associato a quel file.</seg>
       </tuv>
     </tu>
     <tu>
