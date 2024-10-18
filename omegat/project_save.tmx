@@ -2513,8 +2513,8 @@
       <tuv lang="en-US">
         <seg>For more information on opening files, see “&lt;bf0&gt;Opening existing documents&lt;/bf0&gt;” on page &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200331Z" creationid="valter" creationdate="20241016T200331Z">
-        <seg>Per ulteriori informazioni sull'apertura dei file, si veda “&lt;bf0&gt;Apertura di documenti esistenti&lt;/bf0&gt;” a pagina &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175538Z" creationid="valter" creationdate="20241016T200331Z">
+        <seg>Per ulteriori informazioni sull'apertura dei file, vedere “&lt;bf0&gt;Apertura di documenti esistenti&lt;/bf0&gt;” a pagina &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5984,8 +5984,8 @@
       <tuv lang="en-US">
         <seg>The document opens in the appropriate LibreOffice module.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200202Z" creationid="valter" creationdate="20241016T200202Z">
-        <seg>Il documento si apre nel modulo LibreOffice corretto.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175446Z" creationid="valter" creationdate="20241016T200202Z">
+        <seg>Il documento si apre nel modulo LibreOffice appropriato.</seg>
       </tuv>
     </tu>
     <tu>
