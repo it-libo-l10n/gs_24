@@ -5392,8 +5392,8 @@
       <tuv lang="en-US">
         <seg>Selecting &lt;f0&gt;Open File&lt;/f0&gt;, which will allow you to navigate to the chosen file’s location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to open the file and the applicable LibreOffice module.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T195442Z" creationid="valter" creationdate="20241016T195442Z">
-        <seg>Selezionando &lt;f0&gt;Apri file&lt;/f0&gt;, che consentirà di navigare fino alla posizione del file scelto per selezionarlo, quindi facendo clic sul &lt;f1&gt;pulsante Apri&lt;/f1&gt; per aprire il file e il modulo LibreOffice correlato.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T174615Z" creationid="valter" creationdate="20241016T195442Z">
+        <seg>Selezionando &lt;f0&gt;Apri file&lt;/f0&gt;, che consentirà di accedere alla posizione del file scelto, selezionarlo, quindi fare clic sul &lt;f1&gt;pulsante Apri&lt;/f1&gt; per aprire il file e il relativo modulo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
