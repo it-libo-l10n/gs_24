@@ -13,3 +13,4 @@ Start Center	Centro di Avvio
 double-click	doppio clic
 user interface	interfaccia utente
 drop-down list	elenco a discesa
+pinned	fissato/a/i
