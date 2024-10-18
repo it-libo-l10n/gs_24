@@ -5776,8 +5776,8 @@
       <tuv lang="en-US">
         <seg>Table shows the effect of installation on each supported operating system.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174835Z" creationid="valter" creationdate="20241005T204712Z">
-        <seg>La tabella mostra l'effetto dell'installazione su ogni sistema operativo supportato.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T170721Z" creationid="valter" creationdate="20241005T204712Z">
+        <seg>La tabella mostra l'esito dell'installazione su ogni sistema operativo supportato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6577,8 +6577,8 @@
       <tuv lang="en-US">
         <seg>To reduce the number of files displayed in the Start Center, select a LibreOffice module from the &lt;f0&gt;Filter&lt;/f0&gt; drop-down list.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T181855Z" creationid="valter" creationdate="20241016T181855Z">
-        <seg>Per ridurre il numero di file visualizzati nel Centro di Avvio, selezionare un modulo di LibreOffice dall'elenco a tendina &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T170935Z" creationid="valter" creationdate="20241016T181855Z">
+        <seg>Per ridurre il numero di file visualizzati nel Centro di Avvio, selezionare un modulo di LibreOffice dall'elenco a discesa &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6770,8 +6770,8 @@
       <tuv lang="en-US">
         <seg>Using the desktop icon or clicking on &lt;f0&gt;LibreOffice&lt;/f0&gt; in your Applications folder launches the LibreOffice Start Center where recent files are shown along with the available modules.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T181752Z" creationid="valter" creationdate="20241016T181752Z">
-        <seg>Utilizzando l'icona presente nel desktop o facendo clic su &lt;f0&gt;LibreOffice&lt;/f0&gt; nella cartella Applicazioni, si avvia il Centro di Avvio di LibreOffice in cui vengono mostrati i file recenti insieme con i moduli disponibili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T171321Z" creationid="valter" creationdate="20241016T181752Z">
+        <seg>Utilizzando l'icona presente nel desktop o facendo clic su &lt;f0&gt;LibreOffice&lt;/f0&gt; nella cartella Applicazioni, si avvia il Centro di Avvio di LibreOffice in cui sono indicati i file recenti e i moduli disponibili.</seg>
       </tuv>
     </tu>
     <tu>
