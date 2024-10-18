@@ -1185,8 +1185,8 @@
       <tuv lang="en-US">
         <seg>Any command that opens a dialog has three dots following that command, for example: the command &lt;f0&gt;Edit &gt; Find and Replace…&lt;/f0&gt; on the Menu bar will open a dialog.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T203101Z" creationid="valter" creationdate="20241016T203101Z">
-        <seg>Tutti i comandi che aprono una finestra di dialogo contengono tre punti che seguono il comando, per esempio: il comando &lt;f0&gt;Modifica &gt; Trova e sostituisci…&lt;/f0&gt; nella barra dei menu aprirà una finestra di dialogo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T182103Z" creationid="valter" creationdate="20241016T203101Z">
+        <seg>Ogni comando che apre una finestra di dialogo è seguito da tre punti, per esempio: il comando &lt;f0&gt;Modifica &gt; Trova e sostituisci…&lt;/f0&gt; nella barra dei menu aprirà una finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1929,8 +1929,8 @@
       <tuv lang="en-US">
         <seg>Directly cause an action, for example &lt;f0&gt;File &gt; Close&lt;/f0&gt; or &lt;f1&gt;Save.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T202845Z" creationid="valter" creationdate="20241016T202845Z">
-        <seg>Causare direttamente un'azione, per esempio &lt;f0&gt;File &gt; Chiudi&lt;/f0&gt; o &lt;f1&gt;Salva.&lt;/f1&gt;</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181620Z" creationid="valter" creationdate="20241016T202845Z">
+        <seg>Provocare direttamente un'azione, per esempio &lt;f0&gt;File &gt; Chiudi&lt;/f0&gt; o &lt;f1&gt;Salva.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6336,8 +6336,8 @@
       <tuv lang="en-US">
         <seg>They feature commands that can do one of these commands:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T202753Z" creationid="valter" creationdate="20241016T202753Z">
-        <seg>Essi presentano comandi che possono eseguire una delle operazioni seguenti:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181458Z" creationid="valter" creationdate="20241016T202753Z">
+        <seg>Presentano comandi in grado di eseguire una delle operazioni seguenti:</seg>
       </tuv>
     </tu>
     <tu>
