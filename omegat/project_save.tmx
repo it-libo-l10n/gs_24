@@ -2793,8 +2793,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Exit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200445Z" creationid="valter" creationdate="20241016T200445Z">
-        <seg>Andare a &lt;f0&gt;File &gt; Esci da LibreOffice&lt;/f0&gt; nella barra dei menu.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175707Z" creationid="valter" creationdate="20241016T200445Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Esci da LibreOffice&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,8 +3097,8 @@
       <tuv lang="en-US">
         <seg>If only one LibreOffice document is open, click on the X on the right of the title bar to close the entire application.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200653Z" creationid="valter" creationdate="20241016T200653Z">
-        <seg>Se è aperto soltanto un documento LibreOffice, fare clic sulla X alla destra della barra del titolo per chiudere l'intera applicazione.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175826Z" creationid="valter" creationdate="20241016T200653Z">
+        <seg>Se è aperto solo un documento LibreOffice, fare clic sulla X a destra della barra del titolo per chiudere l'intera applicazione.</seg>
       </tuv>
     </tu>
     <tu>
