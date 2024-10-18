@@ -2081,16 +2081,16 @@
       <tuv lang="en-US">
         <seg>Each LibreOffice module’s user interface is based on the main LibreOffice window.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T201028Z" creationid="valter" creationdate="20241016T201028Z">
-        <seg>L'interfaccia utente di ciascun modulo di LibreOffice si basa sulla finestra principale di LibreOffice.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180054Z" creationid="valter" creationdate="20241016T201028Z">
+        <seg>L'interfaccia utente di ogni modulo di LibreOffice si basa sulla finestra principale di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Each module has various details depending on the module’s functions.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T201120Z" creationid="valter" creationdate="20241016T201120Z">
-        <seg>Ciascun modulo contiene vari dettagli a seconda delle sue funzioni.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180153Z" creationid="valter" creationdate="20241016T201120Z">
+        <seg>Ogni modulo presenta diversi dettagli a seconda delle sue funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,8 +2801,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200718Z" creationid="valter" creationdate="20241016T200718Z">
-        <seg>Andare a &lt;f0&gt;LibreOffice &gt; Esci da LibreOffice&lt;/f0&gt; nella barra dei menu.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175853Z" creationid="valter" creationdate="20241016T200718Z">
+        <seg>Accedere a &lt;f0&gt;LibreOffice &gt; Esci da LibreOffice&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3081,8 +3081,8 @@
       <tuv lang="en-US">
         <seg>If any documents have not been saved since the last change, a warning message is displayed.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200835Z" creationid="valter" creationdate="20241016T200835Z">
-        <seg>Se qualche documento non è stato salvato dopo l'ultima modifica, verrà visualizzato un riquadro informativo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175943Z" creationid="valter" creationdate="20241016T200835Z">
+        <seg>Se qualche documento non è stato salvato dopo l'ultima modifica, verrà visualizzato un avviso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,8 +5384,8 @@
       <tuv lang="en-US">
         <seg>Select whether to save or discard the changes.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200856Z" creationid="valter" creationdate="20241016T200856Z">
-        <seg>Scegliere se salvare o scartare le modifiche apportate.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180024Z" creationid="valter" creationdate="20241016T200856Z">
+        <seg>Scegliere se salvare o annullare le modifiche apportate.</seg>
       </tuv>
     </tu>
     <tu>
