@@ -2913,8 +2913,8 @@
       <tuv lang="en-US">
         <seg>Here, you can navigate to the file location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to launch the applicable LibreOffice module.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T195853Z" creationid="valter" creationdate="20241016T195853Z">
-        <seg>Da qui è possibile accedere alla posizione in cui si trova il file, selezionarlo e poi fare clic sul &lt;f1&gt;pulsante Apri&lt;/f1&gt; per avviare il modulo LibreOffice correlato.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T174916Z" creationid="valter" creationdate="20241016T195853Z">
+        <seg>Da qui è possibile accedere alla posizione del file scelto, selezionarlo e poi fare clic sul &lt;f1&gt;pulsante Apri&lt;/f1&gt; per avviare il relativo modulo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5400,8 +5400,8 @@
       <tuv lang="en-US">
         <seg>Selecting &lt;f0&gt;Remote File&lt;/f0&gt;, which will open the Remote Files file browser.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T195548Z" creationid="valter" creationdate="20241016T195548Z">
-        <seg>Selezionando &lt;f0&gt;File remoto&lt;/f0&gt;, che aprirà il navigatore per i file remoti.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T174747Z" creationid="valter" creationdate="20241016T195548Z">
+        <seg>Selezionando &lt;f0&gt;File remoto&lt;/f0&gt;, che aprirà la finestra di esplorazione file dei file remoti.</seg>
       </tuv>
     </tu>
     <tu>
