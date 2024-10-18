@@ -5944,8 +5944,8 @@
       <tuv lang="en-US">
         <seg>The Title bar is located at the top of the LibreOffice window and it shows the file name of the current document.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T202011Z" creationid="valter" creationdate="20241016T202011Z">
-        <seg>La barra del Titolo è collocata nella parte più alta della finestra di LibreOffice, e mostra il nome del file del documento corrente.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180932Z" creationid="valter" creationdate="20241016T202011Z">
+        <seg>La barra del Titolo è collocata nella parte superiore della finestra di LibreOffice e indica il nome del file del documento attivo.</seg>
       </tuv>
     </tu>
     <tu>
