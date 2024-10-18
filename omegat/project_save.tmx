@@ -2169,8 +2169,8 @@
       <tuv lang="en-US">
         <seg>Every module has the Title bar, Menu bar, and Standard toolbar at the top of the window and the Status bar at the bottom of the window, while the tools and information vary between each LibreOffice module.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T201431Z" creationid="valter" creationdate="20241016T201431Z">
-        <seg>Ciascun modulo presenta la barra del titolo, la barra dei menu, la barra degli strumenti standard nella parte superiore della finestra, la barra di stato nella parte inferiore, mentre gli strumenti e le informazioni variano per ciascun modulo LibreOffice.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180426Z" creationid="valter" creationdate="20241016T201431Z">
+        <seg>Ogni modulo presenta la barra del titolo, la barra dei menu, la barra degli strumenti standard nella parte superiore della finestra, la barra di stato nella parte inferiore, mentre gli strumenti e le informazioni variano da un modulo all'altro di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
