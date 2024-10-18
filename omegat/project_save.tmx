@@ -5920,8 +5920,8 @@
       <tuv lang="en-US">
         <seg>The Menu bar is located above the Standard toolbar in Windows and Linux operating systems and at the top of the desktop in macOS.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T202442Z" creationid="valter" creationdate="20241016T202442Z">
-        <seg>La barra dei menu si trova sopra la barra degli strumenti standard nei sistemi operativi Windows e Linux, e in cima al desktop in macOS.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181159Z" creationid="valter" creationdate="20241016T202442Z">
+        <seg>La barra dei menu si trova sopra la barra degli strumenti Standard nei sistemi operativi Windows e Linux, e nella parte superiore del desktop in macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6938,8 +6938,8 @@
       <tuv lang="en-US">
         <seg>When selecting one of the menus in the Menu bar, a specific submenu will appear.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T202551Z" creationid="valter" creationdate="20241016T202551Z">
-        <seg>Selezionando uno dei menu nella barra dei menu comparirà un sottomenu specifico.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181346Z" creationid="valter" creationdate="20241016T202551Z">
+        <seg>Selezionando una voce dalla barra dei menu comparirà un sottomenu specifico.</seg>
       </tuv>
     </tu>
     <tu>
