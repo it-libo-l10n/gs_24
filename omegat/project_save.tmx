@@ -3931,8 +3931,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice modules can be opened by:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T182418Z" creationid="valter" creationdate="20241016T182418Z">
-        <seg>I moduli di LibreOffice si possono aprire nei modi che seguono:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T172619Z" creationid="valter" creationdate="20241016T182418Z">
+        <seg>I moduli di LibreOffice si possono aprire come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6136,8 +6136,8 @@
       <tuv lang="en-US">
         <seg>The selected document will then be shown in a separate line at the beginning of the list, along with other pinned documents.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T182325Z" creationid="valter" creationdate="20241016T182325Z">
-        <seg>Il documento selezionato verrà mostrato in una riga separata all'inizio dell'elenco, insieme con altri documenti appuntati.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T172420Z" creationid="valter" creationdate="20241016T182325Z">
+        <seg>Il documento selezionato comparirà in una riga separata all'inizio dell'elenco, insieme agli altri documenti fissati.</seg>
       </tuv>
     </tu>
     <tu>
