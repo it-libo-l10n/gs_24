@@ -1353,8 +1353,8 @@
       <tuv lang="en-US">
         <seg>By default, LibreOffice commands are grouped in the Standard Toolbar user interface.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T201602Z" creationid="valter" creationdate="20241016T201602Z">
-        <seg>Per impostazione predefinita, i comandi di LibreOffice sono raggruppati nell'interfaccia utente della barra degli strumenti standard.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180638Z" creationid="valter" creationdate="20241016T201602Z">
+        <seg>Per impostazione predefinita, i comandi di LibreOffice sono raggruppati nell'interfaccia utente nella barra degli strumenti Standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2809,8 +2809,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; User Interface&lt;/f0&gt; on the Menu bar to change the user interface.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T201759Z" creationid="valter" creationdate="20241016T201759Z">
-        <seg>Per modificare l'interfaccia utente, andare a &lt;f0&gt;Visualizza &gt; Interfaccia utente&lt;/f0&gt; nella barra dei menu.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180810Z" creationid="valter" creationdate="20241016T201759Z">
+        <seg>Per modificare l'interfaccia utente, accedere a &lt;f0&gt;Visualizza &gt; Interfaccia utente&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4839,8 +4839,8 @@
       <tuv lang="en-US">
         <seg>Other user interface variants are available.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T201648Z" creationid="valter" creationdate="20241016T201648Z">
-        <seg>Sono disponibili altre varianti dell'interfaccia utente.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180717Z" creationid="valter" creationdate="20241016T201648Z">
+        <seg>Sono disponibili altre varianti di interfaccia utente.</seg>
       </tuv>
     </tu>
     <tu>
