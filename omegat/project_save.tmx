@@ -857,8 +857,8 @@
       <tuv lang="en-US">
         <seg>A LibreOffice module will become active if you double-click the filename of an ODF document in a folder, or file browser.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T200054Z" creationid="valter" creationdate="20241016T200054Z">
-        <seg>Un modulo LibreOffice diventerà attivo se si fa doppio clic sul nome del file di un documento ODF all'interno di una cartella oppure in un navigatore di file.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175400Z" creationid="valter" creationdate="20241016T200054Z">
+        <seg>Un modulo LibreOffice si attiva facendo doppio clic sul nome del file di un documento ODF in una cartella, oppure in una finestra di gestione dei file.</seg>
       </tuv>
     </tu>
     <tu>
