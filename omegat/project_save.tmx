@@ -4579,8 +4579,8 @@
       <tuv lang="en-US">
         <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T182022Z" creationid="valter" creationdate="20241016T182022Z">
-        <seg>Nel Centro di Avvio vengono mostrati soltanto i file apribili dal modulo di LibreOffice selezionato.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T171807Z" creationid="valter" creationdate="20241016T182022Z">
+        <seg>Nel Centro di Avvio compaiono solo i file apribili dal modulo di LibreOffice selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6569,8 +6569,8 @@
       <tuv lang="en-US">
         <seg>To pin a document in the Start Center so it can be always visible, hover over the corresponding document and click on the pin icon in the top left corner.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T182231Z" creationid="valter" creationdate="20241016T182231Z">
-        <seg>Per appuntare un documento nel Centro di Avvio affinché sia sempre visibile, passare il mouse sul documento di interesse e fare clic sull'icona a forma di puntina presente nell'angolo superiore sinistro.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T172224Z" creationid="valter" creationdate="20241016T182231Z">
+        <seg>Per fissare un documento nel Centro di Avvio e renderlo sempre visibile, passare il mouse sul documento desiderato e fare clic sull'icona a forma di puntina nell'angolo in alto a sinistra.</seg>
       </tuv>
     </tu>
     <tu>
