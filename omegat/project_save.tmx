@@ -5622,6 +5622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So when a graphic object is selected in Writer, the Drawing Object Properties toolbar, which provides tools for formatting graphics, replaces the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T181058Z" creationid="Elisabetta" creationdate="20241021T181058Z">
+        <seg>Perciò, selezionando un oggetto grafico in Writer, la barra degli strumenti Proprietà oggetto di disegno, che fornisce strumenti per la formattazione della grafica, sostituisce la barra degli strumenti Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) or, for macOS, the Java Development Kit (JDK) is installed on a computer.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132600Z" creationid="valter" creationdate="20240928T132600Z">
