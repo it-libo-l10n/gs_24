@@ -791,6 +791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Paths page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Paths page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T205055Z" creationid="valter" creationdate="20241021T205055Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Percorsi&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Percorsi&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — Print page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Print page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201346Z" creationid="valter" creationdate="20241021T201346Z">
@@ -2411,6 +2419,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201407Z" creationid="valter" creationdate="20241021T201407Z">
         <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Options LibreOffice dialog — Paths page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T205110Z" creationid="valter" creationdate="20241021T205110Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Percorsi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5113,6 +5129,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160733Z" creationid="valter" creationdate="20241017T160733Z">
         <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Paths page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T205129Z" creationid="valter" creationdate="20241021T205129Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Percorsi</seg>
       </tuv>
     </tu>
     <tu>
