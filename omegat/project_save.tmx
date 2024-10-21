@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200445Z" creationid="valter" creationdate="20241021T200445Z">
+        <seg>Un dispositivo è nella lista nera quando ha difetti o può rendere la grafica con scarsa qualità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185945Z" creationid="valter" creationdate="20211115T185945Z">
@@ -2359,6 +2367,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Font Lists</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200456Z" creationid="valter" creationdate="20241021T200456Z">
+        <seg>Elenchi di caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fonts</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105634Z" creationid="valter" creationdate="20241017T105634Z">
@@ -2579,6 +2595,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170439Z" creationid="valter" creationdate="20240928T170439Z">
         <seg>Per scuole, enti di formazione e di ricerca, e organizzazioni di grandi dimensioni, vedere la pagina web &lt;a0&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Force Skia software rendering</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200348Z" creationid="valter" creationdate="20241021T200348Z">
+        <seg>Forza il rendering del software Skia</seg>
       </tuv>
     </tu>
     <tu>
@@ -5566,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show preview of fonts</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200503Z" creationid="valter" creationdate="20241021T200503Z">
+        <seg>Mostra anteprima dei caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show “Tip of the Day” dialog on start-up</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155852Z" creationid="valter" creationdate="20241017T155852Z">
@@ -6752,10 +6784,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Ctrl+Shift+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+R&lt;/f1&gt;) to restore or refresh the view of the current document after changing the anti-aliasing settings to see the effect.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200258Z" creationid="valter" creationdate="20241021T200258Z">
+        <seg>Usare &lt;f0&gt;Ctrl+Maiusc+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Maiusc+R&lt;/f1&gt;) per ripristinare o aggiornare la vista del documento attivo dopo avere modificato le impostazioni anti-aliasing per vederne l'effetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use LibreOffice dialogs</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160021Z" creationid="valter" creationdate="20241017T160021Z">
         <seg>Usa finestre di dialogo di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Skia for all rendering</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200303Z" creationid="valter" creationdate="20241021T200303Z">
+        <seg>Usa Skia per tutti i rendering</seg>
       </tuv>
     </tu>
     <tu>
@@ -7048,6 +7096,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When selected — displays the font names shown with an example of the font.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200709Z" creationid="valter" creationdate="20241021T200709Z">
+        <seg>Se selezionato, mostra i nomi dei tipi di carattere scritti con un esempio del carattere stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When selecting one of the menus in the Menu bar, a specific submenu will appear.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181346Z" creationid="valter" creationdate="20241016T202551Z">
@@ -7188,6 +7244,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093646Z" creationid="valter" creationdate="20211016T093211Z">
         <seg>Gli utenti di Windows e Linux possono scegliere se scaricare e installare la Guida locale da utilizzare quando non sono collegati a Internet; in macOS, la Guida locale viene installata insieme col programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows and macOS only — enables and disables the use of the 3D graphics language Skia.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200340Z" creationid="valter" creationdate="20241021T200340Z">
+        <seg>Soltanto Windows e macOS — Abilita e disabilita l'uso del linguaggio grafico 3D Skia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows and macOS only — forces the use of Skia even if the graphics device is blacklisted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200426Z" creationid="valter" creationdate="20241021T200426Z">
+        <seg>Soltanto Windows e macOS — Forza l'uso di Skia anche se la scheda grafica si trova nella lista nera.</seg>
       </tuv>
     </tu>
     <tu>
