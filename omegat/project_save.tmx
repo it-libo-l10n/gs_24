@@ -3039,6 +3039,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High print quality</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202356Z" creationid="valter" creationdate="20241021T202356Z">
+        <seg>Qualità ottima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High print quality corresponds to a resolution of 300dpi.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202418Z" creationid="valter" creationdate="20241021T202418Z">
+        <seg>Per ottenere una buona qualità di stampa è necessario impostare la risoluzione a 300 dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192651Z" creationid="valter" creationdate="20211115T192651Z">
@@ -3219,6 +3235,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175826Z" creationid="valter" creationdate="20241016T200653Z">
         <seg>Se è aperto solo un documento LibreOffice, fare clic sulla X a destra della barra del titolo per chiudere l'intera applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If selected, the reduction in print quality for bitmaps also applies to the transparent areas of objects.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202210Z" creationid="valter" creationdate="20241021T202210Z">
+        <seg>Se selezionata, la riduzione della qualità di stampa per le bitmap vale anche per le aree trasparenti degli oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3483,6 +3507,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161925Z" creationid="valter" creationdate="20241017T161925Z">
         <seg>Includere qualsiasi informazione aggiuntiva utile agli sviluppatori per localizzare l'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Include transparent objects</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202138Z" creationid="valter" creationdate="20241021T202138Z">
+        <seg>Includi oggetti trasparenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4649,6 +4681,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normal print quality</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202430Z" creationid="valter" creationdate="20241021T202430Z">
+        <seg>Qualità normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal print quality corresponds to a resolution of 200dpi.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202445Z" creationid="valter" creationdate="20241021T202445Z">
+        <seg>Per avere una qualità di stampa normale impostare la risoluzione a 200 dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093843Z" creationid="valter" creationdate="20211016T093843Z">
@@ -5341,6 +5389,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reduce bitmaps</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202216Z" creationid="valter" creationdate="20241021T202216Z">
+        <seg>Riduci bitmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reducing the amount of data sent to the printer increases the print speed because the print files are smaller.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202533Z" creationid="valter" creationdate="20241021T202533Z">
+        <seg>Riducendo la quantità di dati inviati alla stampante si aumenta la velocità di stampa, poiché i file diventano più piccoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Regina Henschel</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
@@ -5361,6 +5425,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173020Z" creationid="Elisabetta" creationdate="20241017T173020Z">
         <seg>Ripetere i comandi di annullamento e ripristino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202253Z" creationid="valter" creationdate="20241021T202253Z">
+        <seg>Risoluzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5902,6 +5974,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies that bitmaps are printed with reduced quality.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202234Z" creationid="valter" creationdate="20241021T202234Z">
+        <seg>Imposta la stampa dei bitmap con una qualità ridotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies the maximum print quality in DPI.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202331Z" creationid="valter" creationdate="20241021T202331Z">
+        <seg>Specifica la qualità massima di stampa in punti per pollice (DPI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies whether the print settings apply to direct printing or printing to a file.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201736Z" creationid="valter" creationdate="20241021T201736Z">
@@ -6422,6 +6510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The resolution can only be reduced and not increased.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202245Z" creationid="valter" creationdate="20241021T202245Z">
+        <seg>La risoluzione può essere solo ridotta, non aumentata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The second toolbar changes depending on which LibreOffice module is open.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171757Z" creationid="Elisabetta" creationdate="20241021T171757Z">
@@ -6738,6 +6834,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092438Z" creationid="valter" creationdate="20211016T092438Z">
         <seg>È il primo supporto per l'utilizzo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This makes it easier for printers with a smaller memory when printing large files.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202621Z" creationid="valter" creationdate="20241021T202621Z">
+        <seg>Questa funzione è particolarmente utile per le stampanti con una memoria relativamente ridotta quando si stampano file di grandi dimensioni.</seg>
       </tuv>
     </tu>
     <tu>
