@@ -2951,6 +2951,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gradient stripes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204349Z" creationid="valter" creationdate="20241021T204349Z">
+        <seg>Bande sfumate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Granularity</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115152Z" creationid="valter" creationdate="20240928T115152Z">
@@ -3267,6 +3275,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175826Z" creationid="valter" creationdate="20241016T200653Z">
         <seg>Se è aperto solo un documento LibreOffice, fare clic sulla X a destra della barra del titolo per chiudere l'intera applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If selected, gradients are printed with reduced quality.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204339Z" creationid="valter" creationdate="20241021T204339Z">
+        <seg>Se selezionata, imposta la stampa delle sfumature con una qualità ridotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3636,6 +3652,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114830Z" creationid="valter" creationdate="20240928T114820Z">
         <seg>Integrazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intermediate color</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204522Z" creationid="valter" creationdate="20241021T204522Z">
+        <seg>Colore intermedio</seg>
       </tuv>
     </tu>
     <tu>
@@ -4841,6 +4865,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Paths page in the Options LibreOffice dialog (Figure &lt;t0&gt;5&lt;/t0&gt;), the location of files associated with, or used by, LibreOffice can be changed to suit the working situation.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204802Z" creationid="valter" creationdate="20241021T204802Z">
+        <seg>Nella pagina Percorsi della finestra di dialogo Opzioni di LibreOffice (Figura &lt;t0&gt;5&lt;/t0&gt;), è possibile cambiare la posizione dei file relativi o utilizzati da LibreOffice in base alle proprie esigenze lavorative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the User Data page of the Options LibreOffice dialog (Figure &lt;t0&gt;1&lt;/t0&gt;), the details of a LibreOffice user can be entered and stored.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153502Z" creationid="valter" creationdate="20241017T153502Z">
@@ -5477,6 +5509,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reduce gradient</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204259Z" creationid="valter" creationdate="20241021T204259Z">
+        <seg>Riduci sfumatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reduce transparency</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202702Z" creationid="valter" creationdate="20241021T202702Z">
@@ -6094,10 +6134,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies that gradients are only printed in a single intermediate color.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204554Z" creationid="valter" creationdate="20241021T204554Z">
+        <seg>Abilita la stampa delle sfumature in un singolo colore intermedio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies that the transparency is only printed if the transparent area covers less than a quarter of the entire page.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202903Z" creationid="valter" creationdate="20241021T202903Z">
         <seg>Abilita la stampa delle aree trasparenti solo se queste coprono meno di un quarto dell'intera pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies the maximum number of gradient stripes for printing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204511Z" creationid="valter" creationdate="20241021T204511Z">
+        <seg>Specifica il numero massimo di bande sfumate per la stampa.</seg>
       </tuv>
     </tu>
     <tu>
