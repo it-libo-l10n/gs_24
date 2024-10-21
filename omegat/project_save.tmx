@@ -2865,16 +2865,16 @@
       <tuv lang="en-US">
         <seg>Has commands that handle type styles.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T205100Z" creationid="valter" creationdate="20241016T205100Z">
-        <seg>Contiene comandi che gestiscono i tipi di stile.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165921Z" creationid="valter" creationdate="20241016T205100Z">
+        <seg>Contiene i comandi che gestiscono i tipi di stile.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Has commands that insert elements into a document, for example &lt;f0&gt;Image&lt;/f0&gt;, &lt;f1&gt;Comment&lt;/f1&gt;, &lt;f2&gt;Header&lt;/f2&gt; &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;Footer&lt;/f4&gt;, and &lt;f5&gt;Table of Contents and Index&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T204911Z" creationid="valter" creationdate="20241016T204911Z">
-        <seg>Contiene comandi che inseriscono elementi all'interno di un documento, per esempio &lt;f0&gt;Immagine&lt;/f0&gt;, &lt;f1&gt;Commento&lt;/f1&gt;, &lt;f2&gt;Intestazione&lt;/f2&gt; &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;Piè di pagina&lt;/f4&gt;, &lt;f5&gt;Indice generale e indice analitico&lt;/f5&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165910Z" creationid="valter" creationdate="20241016T204911Z">
+        <seg>Contiene i comandi che inseriscono elementi all'interno di un documento, per esempio &lt;f0&gt;Immagine&lt;/f0&gt;, &lt;f1&gt;Commento&lt;/f1&gt;, &lt;f2&gt;Intestazione&lt;/f2&gt; &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;Piè di pagina&lt;/f4&gt;, &lt;f5&gt;Indice generale e indice analitico&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3506,8 +3506,8 @@
       <tuv lang="en-US">
         <seg>It includes commands that apply common styles and manage styles as well as commands for editing, loading, and creating styles.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165717Z" creationid="valter" creationdate="20241016T205306Z">
-        <seg>Include comandi per applicare gli stili comuni e per gestire gli stili, e anche i comandi per la modifica, il caricamento e la creazione di stili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165946Z" creationid="valter" creationdate="20241016T205306Z">
+        <seg>Include i comandi per applicare gli stili comuni e per gestire gli stili, oltre che i comandi per la modifica, il caricamento e la creazione di stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4049,6 +4049,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists commands that allow you to insert and edit tables with text.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170053Z" creationid="Elisabetta" creationdate="20241021T170053Z">
+        <seg>Elenca i comandi che consentono di inserire e modificare tabelle con testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lists commands that apply to the entire document, for example &lt;f0&gt;Open&lt;/f0&gt;, &lt;f1&gt;Save&lt;/f1&gt;, and &lt;f2&gt;Print&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204322Z" creationid="valter" creationdate="20241016T204322Z">
@@ -4067,8 +4075,8 @@
       <tuv lang="en-US">
         <seg>Lists commands that control how a document is displayed, such as &lt;f0&gt;User Interface&lt;/f0&gt;, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Text Boundaries&lt;/f2&gt;, &lt;f3&gt;Rulers&lt;/f3&gt;, and &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165430Z" creationid="valter" creationdate="20241016T204655Z">
-        <seg>Elenca comandi che controllano il modo in cui viene visualizzato un documento, come &lt;f0&gt;Interfaccia utente&lt;/f0&gt;, &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;, &lt;f2&gt;Margini del testo&lt;/f2&gt;, &lt;f3&gt;Righelli&lt;/f3&gt; e &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165853Z" creationid="valter" creationdate="20241016T204655Z">
+        <seg>Elenca i comandi che controllano il modo in cui viene visualizzato un documento, come &lt;f0&gt;Interfaccia utente&lt;/f0&gt;, &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;, &lt;f2&gt;Margini del testo&lt;/f2&gt;, &lt;f3&gt;Righelli&lt;/f3&gt; e &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
