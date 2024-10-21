@@ -16,3 +16,4 @@ drop-down list	elenco a discesa
 pinned	fissato/a/i
 see	vedere
 Go to	Accedere a
+chevron	parentesi angolare
