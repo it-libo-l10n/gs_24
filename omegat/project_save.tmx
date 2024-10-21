@@ -5758,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option if a warning is required if transparent objects are contained in the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204115Z" creationid="valter" creationdate="20241021T204115Z">
+        <seg>Selezionare questa opzione se è richiesto un avviso per indicare la presenza di oggetti trasparenti nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200952Z" creationid="valter" creationdate="20241021T200952Z">
@@ -7516,6 +7524,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200758Z" creationid="valter" creationdate="20241021T200758Z">
         <seg>Se deselezionato, l'elenco dei caratteri mostra soltanto i loro nomi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When printing a document with transparencies, a dialog opens to enable selection if the transparency is to be printed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204249Z" creationid="valter" creationdate="20241021T204249Z">
+        <seg>Quando si stampa un documento che contiene trasparenze, si apre una finestra di dialogo che abilita la selezione della stampa della trasparenza.</seg>
       </tuv>
     </tu>
     <tu>
