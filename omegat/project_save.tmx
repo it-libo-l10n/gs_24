@@ -4025,6 +4025,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice’s toolbars can be in one of two states: docked and floating.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171116Z" creationid="Elisabetta" creationdate="20241021T171116Z">
+        <seg>Le barre degli strumenti possono essere ancorate e mobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>License Information</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163636Z" creationid="valter" creationdate="20240928T163636Z">
@@ -5994,6 +6002,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180932Z" creationid="valter" creationdate="20241016T202011Z">
         <seg>La barra del Titolo è collocata nella parte superiore della finestra di LibreOffice e indica il nome del file del documento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default controls for other modules may vary.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170906Z" creationid="Elisabetta" creationdate="20241021T170906Z">
+        <seg>I controlli predefiniti per gli altri moduli possono variare.</seg>
       </tuv>
     </tu>
     <tu>
