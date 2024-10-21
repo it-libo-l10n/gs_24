@@ -881,8 +881,8 @@
       <tuv lang="en-US">
         <seg>A docked toolbar is attached to the document’s main window, while floating toolbars are independent of the main window and can be moved anywhere on your screen.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171341Z" creationid="Elisabetta" creationdate="20241021T171341Z">
-        <seg>Le  barre degli strumenti ancorate sono collegate alla finestra principale del documento, mentre quelle mobili sono indipendenti dalla finestra principale e possono essere spostate in qualsiasi punto dello schermo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171701Z" creationid="Elisabetta" creationdate="20241021T171341Z">
+        <seg>Le  barre degli strumenti agganciate sono collegate alla finestra principale del documento, mentre quelle mobili sono indipendenti dalla finestra principale e possono essere spostate in qualsiasi punto dello schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2431,6 +2431,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if Writer or Calc are opened, the second docked toolbar is the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171856Z" creationid="Elisabetta" creationdate="20241021T171856Z">
+        <seg>Ad esempio, se si aprono Writer o Calc, la seconda barra degli strumenti agganciata è la barra Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160823Z" creationid="valter" creationdate="20241017T160823Z">
@@ -3377,8 +3385,8 @@
       <tuv lang="en-US">
         <seg>In the default LibreOffice installation, the Standard toolbar is docked at the top of the window across all of the LibreOffice modules and the second toolbar is in a docked to the top of the window.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171632Z" creationid="Elisabetta" creationdate="20241021T171632Z">
-        <seg>Nell'installazione predefinita, la barra degli strumenti Standard è ancorata alla parte superiore della finestra in tutti i moduli di LibreOffice e la seconda barra degli strumenti è ancorata alla parte superiore della finestra.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171719Z" creationid="Elisabetta" creationdate="20241021T171632Z">
+        <seg>Nell'installazione predefinita, la barra degli strumenti Standard è agganciata alla parte superiore della finestra in tutti i moduli di LibreOffice e la seconda barra degli strumenti è ancorata alla parte superiore della finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4043,8 +4051,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice’s toolbars can be in one of two states: docked and floating.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171116Z" creationid="Elisabetta" creationdate="20241021T171116Z">
-        <seg>Le barre degli strumenti possono essere ancorate e mobili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171649Z" creationid="Elisabetta" creationdate="20241021T171116Z">
+        <seg>Le barre degli strumenti possono essere agganciate e mobili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The second toolbar changes depending on which LibreOffice module is open.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171757Z" creationid="Elisabetta" creationdate="20241021T171757Z">
+        <seg>La seconda barra degli strumenti cambia in base al modulo di LibreOffice aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The selected document will then be shown in a separate line at the beginning of the list, along with other pinned documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T172420Z" creationid="valter" creationdate="20241016T182325Z">
@@ -6860,6 +6876,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115220Z" creationid="valter" creationdate="20240928T115220Z">
         <seg>Di solito, la modifica di un'opzione si riflette su tutti i moduli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually, the module’s second toolbar is context-sensitive and usually its set of tools change depending on which object is selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T172202Z" creationid="Elisabetta" creationdate="20241021T172202Z">
+        <seg>Generalmente la seconda barra degli strumenti del modulo è sensibile al contesto e di solito il relativo insieme di strumenti cambia a seconda dell'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
