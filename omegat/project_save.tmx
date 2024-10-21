@@ -2449,8 +2449,8 @@
       <tuv lang="en-US">
         <seg>For example, the default Menu bar for the LibreOffice Writer module includes the controls described &lt;f0&gt;in Table &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T204135Z" creationid="valter" creationdate="20241016T204135Z">
-        <seg>Per esempio, la barra dei menu predefinita per il modulo Writer di LibreOffice include i controlli descritti &lt;f0&gt;nella Tabella &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165100Z" creationid="valter" creationdate="20241016T204135Z">
+        <seg>Per esempio, la barra dei menu predefinita per il modulo Writer di LibreOffice presenta i controlli descritti &lt;f0&gt;nella Tabella &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
