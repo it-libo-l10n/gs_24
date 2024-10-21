@@ -1943,6 +1943,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defines which warnings appear before printing begins.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203158Z" creationid="valter" creationdate="20241021T203158Z">
+        <seg>Definisce le avvertenze da visualizzare prima della stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Depending on bitmap size and the print resolution, a large amount of data may result.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203135Z" creationid="valter" creationdate="20241021T203135Z">
+        <seg>In base alle dimensioni dei bitmap e alla risoluzione usata per la stampa, è possibile che venga generata una grande quantità di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204212Z" creationid="valter" creationdate="20241016T204212Z">
@@ -3279,10 +3295,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the format used by the current document is not available from the printer, an error message opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203600Z" creationid="valter" creationdate="20241021T203600Z">
+        <seg>Se il formato utilizzato dal documento attivo non è disponibile nella stampante, comparirà un messaggio di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the offline help is not installed on a computer, but connected to the Internet, a dialog opens giving the option to &lt;f2&gt;Read Help Online&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154947Z" creationid="valter" creationdate="20240928T154947Z">
         <seg>Se la guida integrata non è installata sul computer ma si è collegati a Internet, si apre una finestra di dialogo che offre l'opzione &lt;f2&gt;Leggi la guida in linea&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the paper size used in the document is not provided by the current printer, an error message opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203432Z" creationid="valter" creationdate="20241021T203432Z">
+        <seg>Se il formato della carta richiesto per il documento non è disponibile nella stampante attiva, comparirà un messaggio di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5141,6 +5173,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paper orientation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203439Z" creationid="valter" creationdate="20241021T203439Z">
+        <seg>Orientazione carta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paper size</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203205Z" creationid="valter" creationdate="20241021T203205Z">
+        <seg>Dimensione carta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paste content</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174650Z" creationid="valter" creationdate="20241017T174650Z">
@@ -5690,6 +5738,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155125Z" creationid="valter" creationdate="20240928T155125Z">
         <seg>Selezionare questa opzione e il browser web predefinito aprirà le pagine della guida in linea di LibreOffice nel sito web di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option if a certain paper orientation is required for printing the current document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203510Z" creationid="valter" creationdate="20241021T203510Z">
+        <seg>Selezionare questa opzione se è richiesta una determinata orientazione della carta per la stampa del documento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option if a certain paper size is required for printing the current document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203323Z" creationid="valter" creationdate="20241021T203323Z">
+        <seg>Selezionare questa opzione se è richiesta una determinata dimensione della carta per la stampa del documento attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7316,6 +7380,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155738Z" creationid="valter" creationdate="20241017T155738Z">
         <seg>Avvisa se la guida locale non è installata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warnings</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203143Z" creationid="valter" creationdate="20241021T203143Z">
+        <seg>Avvisi</seg>
       </tuv>
     </tu>
     <tu>
