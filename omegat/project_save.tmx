@@ -3506,8 +3506,8 @@
       <tuv lang="en-US">
         <seg>It includes commands that apply common styles and manage styles as well as commands for editing, loading, and creating styles.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T205306Z" creationid="valter" creationdate="20241016T205306Z">
-        <seg>Sono inclusi i comandi per applicare gli stili comuni e per gestire gli stili, e anche i comandi per la modifica, il caricamento e la creazione di stili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165717Z" creationid="valter" creationdate="20241016T205306Z">
+        <seg>Include comandi per applicare gli stili comuni e per gestire gli stili, e anche i comandi per la modifica, il caricamento e la creazione di stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,8 +4059,8 @@
       <tuv lang="en-US">
         <seg>Lists commands that are used to format a document’s layout.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T205015Z" creationid="valter" creationdate="20241016T205015Z">
-        <seg>Elenca i comandi che vengono utilizzati per formattare l'aspetto di un documento.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165525Z" creationid="valter" creationdate="20241016T205015Z">
+        <seg>Elenca i comandi utilizzati per formattare l'aspetto di un documento.</seg>
       </tuv>
     </tu>
     <tu>
