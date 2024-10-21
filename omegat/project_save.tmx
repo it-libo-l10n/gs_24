@@ -7072,6 +7072,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you deselect the graphic object, the Drawing Object Properties toolbar closes and the Formatting toolbar reopens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T181440Z" creationid="Elisabetta" creationdate="20241021T181440Z">
+        <seg>Deselezionando l'oggetto grafico, la barra degli strumenti Proprietà oggetto disegno si chiude e si riapre la barra Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where to get more help</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092157Z" creationid="valter" creationdate="20211016T092157Z">
