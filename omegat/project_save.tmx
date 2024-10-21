@@ -2863,6 +2863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Has commands that create fill-in forms.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170132Z" creationid="Elisabetta" creationdate="20241021T170132Z">
+        <seg>Contiene i comandi per creare moduli da compilare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Has commands that handle type styles.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165921Z" creationid="valter" creationdate="20241016T205100Z">
@@ -4045,6 +4053,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T131853Z" creationid="valter" creationdate="20240928T131853Z">
         <seg>Linux x64 (deb) e Linux x64 (rpm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists Writer functions that handle specific tasks, including &lt;f0&gt;Spelling&lt;/f0&gt;, &lt;f1&gt;AutoCorrect&lt;/f1&gt;, &lt;f2&gt;Customize&lt;/f2&gt;, and &lt;f3&gt;Options&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170404Z" creationid="Elisabetta" creationdate="20241021T170404Z">
+        <seg>Elenca le funzioni di Writer che gestiscono attività specifiche, tra cui &lt;f0&gt;Ortografia&lt;/f0&gt;, &lt;f1&gt;Correzione automatica&lt;/f1&gt;, &lt;f2&gt;Personalizza&lt;/f2&gt; e &lt;f3&gt;Opzioni&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7480,6 +7496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Form</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170103Z" creationid="Elisabetta" creationdate="20241021T170103Z">
+        <seg>Formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Linux</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204904Z" creationid="valter" creationdate="20241005T204904Z">
@@ -7500,6 +7524,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T205316Z" creationid="valter" creationdate="20241016T205316Z">
         <seg>Tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Tools</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170134Z" creationid="Elisabetta" creationdate="20241021T170134Z">
+        <seg>Strumenti</seg>
       </tuv>
     </tu>
     <tu>
