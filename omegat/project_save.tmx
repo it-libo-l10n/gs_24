@@ -4067,8 +4067,8 @@
       <tuv lang="en-US">
         <seg>Lists commands that control how a document is displayed, such as &lt;f0&gt;User Interface&lt;/f0&gt;, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Text Boundaries&lt;/f2&gt;, &lt;f3&gt;Rulers&lt;/f3&gt;, and &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T204655Z" creationid="valter" creationdate="20241016T204655Z">
-        <seg>Elenca comandi che controllano come viene visualizzato un documento, come &lt;f0&gt;Interfaccia utente&lt;/f0&gt;, &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;, &lt;f2&gt;Margini del testo&lt;/f2&gt;, &lt;f3&gt;Righelli&lt;/f3&gt; e &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165430Z" creationid="valter" creationdate="20241016T204655Z">
+        <seg>Elenca comandi che controllano il modo in cui viene visualizzato un documento, come &lt;f0&gt;Interfaccia utente&lt;/f0&gt;, &lt;f1&gt;Barre degli strumenti&lt;/f1&gt;, &lt;f2&gt;Margini del testo&lt;/f2&gt;, &lt;f3&gt;Righelli&lt;/f3&gt; e &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
