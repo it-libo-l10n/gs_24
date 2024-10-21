@@ -1193,8 +1193,8 @@
       <tuv lang="en-US">
         <seg>Any command that opens yet another submenu has a right-pointing chevron &lt;f0&gt;˃&lt;/f0&gt; that follows the command’s name.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T203537Z" creationid="valter" creationdate="20241016T203537Z">
-        <seg>Tutti i comandi che aprono un ulteriore sottomenu contengono un gallone rivolto a destra &lt;f0&gt;˃&lt;/f0&gt; che segue il nome del comando.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T164534Z" creationid="valter" creationdate="20241016T203537Z">
+        <seg>Tutti i comandi che aprono un ulteriore sottomenu contengono una parentesi angolare verso destra &lt;f0&gt;˃&lt;/f0&gt; dopo il nome del comando.</seg>
       </tuv>
     </tu>
     <tu>
