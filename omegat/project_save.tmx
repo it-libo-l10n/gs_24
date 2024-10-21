@@ -1271,6 +1271,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatically</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202843Z" creationid="valter" creationdate="20241021T202843Z">
+        <seg>Automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092111Z" creationid="valter" creationdate="20211016T092111Z">
@@ -3135,6 +3143,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, reducing print data can result in slightly lower print quality.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202653Z" creationid="valter" creationdate="20241021T202653Z">
+        <seg>Per contro, la riduzione della quantità di dati può determinare un leggero peggioramento della qualità di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, templates will adapt to other &lt;/f0&gt;&lt;f1&gt;available &lt;/f1&gt;&lt;f2&gt;sizes, &lt;/f2&gt;&lt;f3&gt;which &lt;/f3&gt;&lt;f4&gt;can be selected by going to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Slide &gt; Properties &gt; Paper Format&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; on the Menu bar &lt;/f7&gt;&lt;f8&gt;or &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Format&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; in the Slide section in the Properties deck on the Sidebar.&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153837Z" creationid="Elisabetta Manuele" creationdate="20211111T153837Z">
@@ -3243,6 +3259,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202210Z" creationid="valter" creationdate="20241021T202210Z">
         <seg>Se selezionata, la riduzione della qualità di stampa per le bitmap vale anche per le aree trasparenti degli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If selected, transparent objects are printed like normal, non-transparent objects, depending on your selection in the following two option buttons.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202809Z" creationid="valter" creationdate="20241021T202809Z">
+        <seg>Se si seleziona questa opzione, vengono stampati sia gli oggetti trasparenti che quelli non trasparenti, in base all'impostazione dei due campi di selezione seguenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,6 +4697,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No transparency</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202910Z" creationid="valter" creationdate="20241021T202910Z">
+        <seg>Nessuna trasparenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No vendor lock-in</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115636Z" creationid="valter" creationdate="20240928T115636Z">
@@ -5397,6 +5429,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reduce transparency</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202702Z" creationid="valter" creationdate="20241021T202702Z">
+        <seg>Riduci trasparenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reducing the amount of data sent to the printer increases the print speed because the print files are smaller.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202533Z" creationid="valter" creationdate="20241021T202533Z">
@@ -5978,6 +6018,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202234Z" creationid="valter" creationdate="20241021T202234Z">
         <seg>Imposta la stampa dei bitmap con una qualità ridotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that the transparency is only printed if the transparent area covers less than a quarter of the entire page.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202903Z" creationid="valter" creationdate="20241021T202903Z">
+        <seg>Abilita la stampa delle aree trasparenti solo se queste coprono meno di un quarto dell'intera pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7032,6 +7080,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transparencies cannot be sent directly to a printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203029Z" creationid="valter" creationdate="20241021T203029Z">
+        <seg>Le trasparenze non possono essere inviate alla stampante in modo diretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transparencies must be visible to be calculated as bitmaps and sent to the printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203112Z" creationid="valter" creationdate="20241021T203112Z">
+        <seg>Le trasparenze devono essere visibili per essere calcolate come bitmap e inviate alla stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Undoing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172823Z" creationid="Elisabetta" creationdate="20241017T172823Z">
@@ -7380,6 +7444,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200709Z" creationid="valter" creationdate="20241021T200709Z">
         <seg>Se selezionato, mostra i nomi dei tipi di carattere scritti con un esempio del carattere stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selected, a transparency does not print.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202949Z" creationid="valter" creationdate="20241021T202949Z">
+        <seg>Se selezionata, la trasparenza non viene stampata.</seg>
       </tuv>
     </tu>
     <tu>
