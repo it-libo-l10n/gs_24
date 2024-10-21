@@ -7160,6 +7160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transparency</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T203609Z" creationid="valter" creationdate="20241021T203609Z">
+        <seg>Trasparenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Undoing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172823Z" creationid="Elisabetta" creationdate="20241017T172823Z">
