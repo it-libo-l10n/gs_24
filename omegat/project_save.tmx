@@ -879,6 +879,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A docked toolbar is attached to the document’s main window, while floating toolbars are independent of the main window and can be moved anywhere on your screen.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171341Z" creationid="Elisabetta" creationdate="20241021T171341Z">
+        <seg>Le  barre degli strumenti ancorate sono collegate alla finestra principale del documento, mentre quelle mobili sono indipendenti dalla finestra principale e possono essere spostate in qualsiasi punto dello schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A forum that provides support for LibreOffice, among other open source office suites &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182056Z" creationid="valter" creationdate="20211115T182056Z">
