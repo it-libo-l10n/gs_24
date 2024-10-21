@@ -2575,6 +2575,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, there may be a requirement to store documents by default somewhere other than in &lt;f1&gt;My Documents&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T204857Z" creationid="valter" creationdate="20241021T204857Z">
+        <seg>Ad esempio, si potrebbero voler salvare in maniera predefinita i documenti in una cartella diversa da &lt;f1&gt;Documenti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For information about certified professional support, see The Document Foundation website: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170228Z" creationid="valter" creationdate="20240928T170228Z">
