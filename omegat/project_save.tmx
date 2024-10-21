@@ -2863,6 +2863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Has commands that affect the display window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170514Z" creationid="Elisabetta" creationdate="20241021T170514Z">
+        <seg>Contiene i comandi per la finestra di visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Has commands that create fill-in forms.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170132Z" creationid="Elisabetta" creationdate="20241021T170132Z">
@@ -4021,6 +4029,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163636Z" creationid="valter" creationdate="20240928T163636Z">
         <seg>Informazioni sulla licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Links to the LibreOffice Help, What’s This?, and information about LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170556Z" creationid="Elisabetta" creationdate="20241021T170556Z">
+        <seg>Contiene i collegamenti al file della Guida di LibreOffice, Cos'è questo?, e informazioni sul programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5798,6 +5814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows the default Menu bar controls for the Writer module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170824Z" creationid="Elisabetta" creationdate="20241021T170824Z">
+        <seg>La tabella &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;illustra i controlli predefiniti della barra dei menu per il modulo Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table shows the effect of installation on each supported operating system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T170721Z" creationid="valter" creationdate="20241005T204712Z">
@@ -7504,6 +7528,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Help</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170515Z" creationid="Elisabetta" creationdate="20241021T170515Z">
+        <seg>Guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Linux</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204904Z" creationid="valter" creationdate="20241005T204904Z">
@@ -7532,6 +7564,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170134Z" creationid="Elisabetta" creationdate="20241021T170134Z">
         <seg>Strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Window</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170406Z" creationid="Elisabetta" creationdate="20241021T170406Z">
+        <seg>Finestra</seg>
       </tuv>
     </tu>
     <tu>
