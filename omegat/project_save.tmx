@@ -1631,6 +1631,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click this button to run tests and determine the efficiency of LibreOffice graphics rendering.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201144Z" creationid="valter" creationdate="20241021T201144Z">
+        <seg>Fare clic su questo pulsante per eseguire dei test e determinare l'efficienza della resa grafica di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking on a command in the resulting list may open a relevant dialog or have other effects.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161528Z" creationid="valter" creationdate="20240928T161528Z">
@@ -2171,6 +2179,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T120038Z" creationid="valter" creationdate="20240928T120038Z">
         <seg>Migliorie, eliminazione di errori e date di rilascio sono coordinati dalla comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the smallest font size to apply anti-aliasing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201008Z" creationid="valter" creationdate="20241021T201008Z">
+        <seg>Per applicare l'eliminazione dell'effetto scalettatura (antialiasing), inserire la dimensione più piccola del carattere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5325,6 +5341,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run Graphics Tests button</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201051Z" creationid="valter" creationdate="20241021T201051Z">
+        <seg>Pulsante Esegui test grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving documents</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171934Z" creationid="Elisabetta" creationdate="20241017T171934Z">
@@ -5337,6 +5361,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172015Z" creationid="Elisabetta" creationdate="20241017T172015Z">
         <seg>Salvare automaticamente un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Screen font anti-aliasing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200929Z" creationid="valter" creationdate="20241021T200929Z">
+        <seg>Antialiasing dei caratteri a schermo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5466,6 +5498,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155125Z" creationid="valter" creationdate="20240928T155125Z">
         <seg>Selezionare questa opzione e il browser web predefinito aprirà le pagine della guida in linea di LibreOffice nel sito web di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to smooth the screen appearance of text.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200952Z" creationid="valter" creationdate="20241021T200952Z">
+        <seg>Selezionare questa opzione per rendere più armonioso l'aspetto del testo sul monitor. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5690,6 +5730,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213820Z" creationid="valter" creationdate="20211115T190422Z">
         <seg>Alcune finestre di dialogo possono rimanere aperte mentre si lavora, quindi è possibile spostarsi avanti e indietro tra la finestra di dialogo e il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some fonts show an additional preview of some sample text.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200918Z" creationid="valter" creationdate="20241021T200918Z">
+        <seg>Alcuni tipi di carattere mostrano un'anteprima aggiuntiva di testo esemplificativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6130,6 +6178,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113803Z" creationid="valter" creationdate="20240928T113803Z">
         <seg>Di seguito vengono spiegati alcuni dei vantaggi di LibreOffice rispetto ad altre suite per ufficio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The fonts listed are those that are installed on the computer system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200824Z" creationid="valter" creationdate="20241021T200824Z">
+        <seg>I caratteri elencati sono quelli installati sul sistema del computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7092,6 +7148,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T202205Z" creationid="valter" creationdate="20241016T202205Z">
         <seg>Se viene creato un documento, il suo nome sarà Senza nome X, dove X è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When deselected, the font list shows only the font names.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T200758Z" creationid="valter" creationdate="20241021T200758Z">
+        <seg>Se deselezionato, l'elenco dei caratteri mostra soltanto i loro nomi.</seg>
       </tuv>
     </tu>
     <tu>
