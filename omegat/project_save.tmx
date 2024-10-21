@@ -4259,16 +4259,16 @@
       <tuv lang="en-US">
         <seg>May contain a selection box or radio button box indicating a selection.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T204028Z" creationid="valter" creationdate="20241016T204028Z">
-        <seg>Può contenere un riquadro di selezione o un riquadro con pulsante di scelta che indica una selezione.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T164950Z" creationid="valter" creationdate="20241016T204028Z">
+        <seg>Può contenere una casella di selezione o un  pulsante di opzione a indicare una selezione.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>May contain the icon for the command.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T203848Z" creationid="valter" creationdate="20241016T203848Z">
-        <seg>Può contenere l'icona per il comando.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T164756Z" creationid="valter" creationdate="20241016T203848Z">
+        <seg>Può contenere l'icona del comando.</seg>
       </tuv>
     </tu>
     <tu>
