@@ -1831,6 +1831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Convert colors to grayscale</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202055Z" creationid="valter" creationdate="20241021T202055Z">
+        <seg>Converti i colori in sfumature di grigio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy content</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174631Z" creationid="valter" creationdate="20241017T174550Z">
@@ -1907,6 +1915,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173031Z" creationid="Elisabetta" creationdate="20241017T173031Z">
         <seg>Stampante predefinita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defaults</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201750Z" creationid="valter" creationdate="20241021T201750Z">
+        <seg>Predefiniti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2619,6 +2635,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161933Z" creationid="valter" creationdate="20241017T161933Z">
         <seg>Per ulteriori informazioni, vedere la Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, see the following link: &lt;a0&gt;https://www.linuxfoundation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202045Z" creationid="valter" creationdate="20241021T202045Z">
+        <seg>Per ulteriori informazioni si veda il collegamento seguente: &lt;a0&gt;https://www.linuxfoundation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4145,6 +4169,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linux and macOS only — select this option to change the internal print job format from Postscript format to a PDF format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201916Z" creationid="valter" creationdate="20241021T201916Z">
+        <seg>Linux and macOS only — Selezionare questa opzione per cambiare il formato di lavoro della stampa interna dal formato Postscript a quello PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux only — send usage data to help The Document Foundation improve usability of the software.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161716Z" creationid="valter" creationdate="20241017T161716Z">
@@ -5013,6 +5045,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PDF as standard print job format</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201805Z" creationid="valter" creationdate="20241021T201805Z">
+        <seg>PDF come formato di stampa standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182105Z" creationid="valter" creationdate="20211115T182105Z">
@@ -5646,6 +5686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Settings for</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201712Z" creationid="valter" creationdate="20241021T201712Z">
+        <seg>Impostazioni per</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Several extensions have been integrated into the &lt;f2&gt;software&lt;/f2&gt;, along with additional extensions obtained from the official extensions repository, &lt;a3&gt;https://extensions.libreoffice.org/&lt;/a3&gt; or from other sources.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T153257Z" creationid="valter" creationdate="20240928T153257Z">
@@ -5842,6 +5890,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T173803Z" creationid="valter" creationdate="20241017T173803Z">
         <seg>Specifica se e come il cursore verrà posizionato nelle nuove finestre di dialogo (&lt;f0&gt;pulsante predefinito, centro della finestra di dialogo, Nessun posizionamento automatico&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that all colors in a document are printed only as grayscale.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202133Z" creationid="valter" creationdate="20241021T202133Z">
+        <seg>Imposta la stampa dei colori come sfumature di grigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies whether the print settings apply to direct printing or printing to a file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T201736Z" creationid="valter" creationdate="20241021T201736Z">
+        <seg>È possibile specificare se applicare le impostazioni alla stampa diretta o alla stampa su file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7052,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161231Z" creationid="valter" creationdate="20211115T185219Z">
         <seg>Uso di LibreOffice in macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using PDF format has a number of advantages over Postscript.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241021T202013Z" creationid="valter" creationdate="20241021T202013Z">
+        <seg>L'uso del formato PDF possiede diversi vantaggi rispetto a Postscript.</seg>
       </tuv>
     </tu>
     <tu>
