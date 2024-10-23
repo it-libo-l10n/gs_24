@@ -3688,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internet options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T153340Z" creationid="valter" creationdate="20241023T153340Z">
+        <seg>[fuzzy]Opzioni Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introducing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193424Z" creationid="valter" creationdate="20211115T193424Z">
@@ -7054,6 +7062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This opens the Select Path dialog, or Edit Paths dialog, allowing folders to added, edited, or deleted as required.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T153943Z" creationid="valter" creationdate="20241023T153943Z">
+        <seg>Si apre la finestra di dialogo Seleziona percorso, o la finestra di dialogo Modifica percorsi, che permette l'aggiunta, la modifica o l'eliminazione delle cartelle in base alle proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section covers some of the options and settings that apply to all the components of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110903Z" creationid="valter" creationdate="20241017T110903Z">
@@ -7163,6 +7179,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T215303Z" creationid="valter" creationdate="20240928T215303Z">
         <seg>Per fare una donazione, andare alla seguente pagina web: &lt;a0&gt;https://it.libreoffice.org/donazioni/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make changes, select an item in &lt;f0&gt;Paths used by LibreOffice&lt;/f0&gt; and click on &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T153642Z" creationid="valter" creationdate="20241023T153642Z">
+        <seg>Per apportare modifiche, scegliere una voce in &lt;f0&gt;Percorsi utilizzati da LibreOffice&lt;/f0&gt; e fare clic su &lt;f1&gt;Modifica&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
