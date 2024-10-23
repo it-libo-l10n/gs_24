@@ -4433,6 +4433,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists the original font and the font that replaces it.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T155741Z" creationid="valter" creationdate="20241023T155741Z">
+        <seg>Elenca il tipo di carattere originale e il carattere che lo sostituisce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load LibreOffice during system start-up</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162731Z" creationid="valter" creationdate="20241017T162731Z">
@@ -5645,6 +5653,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replacement table</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T155658Z" creationid="valter" creationdate="20241023T155658Z">
+        <seg>Tabella di sostituzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202253Z" creationid="valter" creationdate="20241021T202253Z">
@@ -5814,6 +5830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Table &lt;t2&gt;2&lt;/t2&gt; &lt;t3&gt;below&lt;/t3&gt;&lt;s4/&gt;for more information</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160213Z" creationid="valter" creationdate="20241023T160213Z">
+        <seg>Vedere la Tabella &lt;t2&gt;2&lt;/t2&gt; &lt;t3&gt;sottostante&lt;/t3&gt;&lt;s4/&gt; per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the Advanced Options in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133239Z" creationid="valter" creationdate="20240928T133239Z">
@@ -5830,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Always&lt;/f0&gt; to replace both the screen font and the printer font, even if the original font is installed on a computer system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160100Z" creationid="valter" creationdate="20241023T155942Z">
+        <seg>Selezionare &lt;f0&gt;Sempre&lt;/f0&gt; per sostituire sia il tipo di carattere a schermo, sia quello per la stampa, anche se quello originale è installato nel sistema del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; as needed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T185455Z" creationid="calem" creationdate="20211118T185455Z">
@@ -5842,6 +5874,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172129Z" creationid="valter" creationdate="20240928T172129Z">
         <seg>Selezionare &lt;f0&gt;Usa finestre di dialogo di LibreOffice&lt;/f0&gt; nella sezione &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; in modo da visualizzare le finestre di dialogo di LibreOffice nel monitor del computer, come mostrato in Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f1&gt;Screen only&lt;/f1&gt; to replace the screen font only and never replace the font for printing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160106Z" creationid="valter" creationdate="20241023T160027Z">
+        <seg>Selezionare &lt;f1&gt;Solo schermo&lt;/f1&gt; per sostituire il tipo di carattere solo a schermo e mai per la stampa. </seg>
       </tuv>
     </tu>
     <tu>
