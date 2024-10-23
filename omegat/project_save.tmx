@@ -7655,6 +7655,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This single-toolbar user interface contains the most-used commands.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T165425Z" creationid="Elisabetta" creationdate="20241023T165425Z">
+        <seg>Questa interfaccia utente a barra singola contiene i comandi di uso frequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This user guide introduces the main modules of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T103310Z" creationid="valter" creationdate="20240928T103310Z">
@@ -7711,6 +7719,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To activate a single toolbar user interface, go to &lt;f0&gt;View &gt; User Interface&lt;/f0&gt; and select &lt;f1&gt;Single Toolbar&lt;/f1&gt; from the Select Your Preferred User Interface dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T170636Z" creationid="Elisabetta" creationdate="20241023T170636Z">
+        <seg>Per attivare un'interfaccia utente a barra degli strumenti singola, accedere a &lt;f0&gt;Visualizza &gt; Interfaccia utente&lt;/f0&gt; e selezionare &lt;f1&gt;Barra degli strumenti singola&lt;/f1&gt; dalla finestra di dialogo Scegli la tua interfaccia preferita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184109Z" creationid="valter" creationdate="20211115T184109Z">
@@ -7739,6 +7755,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154428Z" creationid="valter" creationdate="20240928T154428Z">
         <seg>Per visualizzare la Guida di LibreOffice, premere &lt;f0&gt;F1&lt;/f0&gt; o andare a &lt;f1&gt;Aiuto &gt; Guida di LibreOffice&lt;/f1&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display a toolbar, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, and select the name of a toolbar from the submenu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T170801Z" creationid="Elisabetta" creationdate="20241023T170801Z">
+        <seg>Per visualizzare una barra degli strumenti, accedere a &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; sulla barra dei menu e selezionare il nome di una barra degli strumenti dal sottomenu.</seg>
       </tuv>
     </tu>
     <tu>
