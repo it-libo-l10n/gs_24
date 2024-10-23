@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Online Update page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Online Update page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T203431Z" creationid="valter" creationdate="20241023T203431Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Aggiornamento in linea&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Aggiornamento in linea&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — Paths page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Paths page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T205055Z" creationid="valter" creationdate="20241021T205055Z">
@@ -2755,6 +2763,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174953Z" creationid="valter" creationdate="20241023T174953Z">
         <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Accesso facilitato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Options LibreOffice dialog — Online Update page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T203456Z" creationid="valter" creationdate="20241023T203456Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Aggiornamento in linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -6010,6 +6026,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160733Z" creationid="valter" creationdate="20241017T160733Z">
         <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Online Update page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T203524Z" creationid="valter" creationdate="20241023T203524Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Aggiornamento in linea</seg>
       </tuv>
     </tu>
     <tu>
