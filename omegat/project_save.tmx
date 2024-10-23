@@ -935,6 +935,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A digital signature requires a personal signing certificate and most operating systems can generate a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164922Z" creationid="valter" creationdate="20241023T164922Z">
+        <seg>[fuzzy]Una firma digitale richiede un certificato di firma personale e la maggior parte dei sistemi operativi possono generare un certificato autofirmato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A docked toolbar is attached to the document’s main window, while floating toolbars are independent of the main window and can be moved anywhere on your screen.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171701Z" creationid="Elisabetta" creationdate="20241021T171341Z">
@@ -4588,8 +4596,8 @@
       <tuv lang="en-US">
         <seg>Linux and macOS only — users can digitally sign documents using LibreOffice.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T164845Z" creationid="valter" creationdate="20241023T164845Z">
-        <seg>[fuzzy]Linux e macOS solo — gli utenti possono firmare digitalmente documenti utilizzando LibreOffice.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164920Z" creationid="valter" creationdate="20241023T164845Z">
+        <seg>Soltanto Linux e macOS — Gli utenti possono firmare digitalmente i documenti usando LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
