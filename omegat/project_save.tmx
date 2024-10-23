@@ -2159,6 +2159,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deletes the color scheme displayed in the Scheme box.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173630Z" creationid="valter" creationdate="20241023T173630Z">
+        <seg>Elimina lo schema colori visualizzata nella casella Schema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on bitmap size and the print resolution, a large amount of data may result.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203135Z" creationid="valter" creationdate="20241021T203135Z">
@@ -6230,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saves the current settings as a color scheme that can be reloaded later.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173228Z" creationid="valter" creationdate="20241023T173228Z">
+        <seg>Salva le impostazioni attuali come uno schema di colori che può essere ricaricato in un momento successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving documents</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171934Z" creationid="Elisabetta" creationdate="20241017T171934Z">
@@ -7379,6 +7395,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192016Z" creationid="valter" creationdate="20211115T192016Z">
         <seg>La più importante è il motore di database relazionale HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The name of the color scheme is added to the drop-down list in the &lt;f0&gt;Scheme&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173416Z" creationid="valter" creationdate="20241023T173416Z">
+        <seg>Il nome dello schema dei colori viene aggiunto all'elenco a tendina &lt;f0&gt;Schema&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
