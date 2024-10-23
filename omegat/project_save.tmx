@@ -799,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Fonts page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Fonts page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160342Z" creationid="valter" creationdate="20241023T160342Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Tipi di carattere&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Tipi di carattere&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — General page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — General page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160706Z" creationid="valter" creationdate="20241017T160706Z">
@@ -1127,6 +1135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Always check box</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160604Z" creationid="valter" creationdate="20241023T160604Z">
+        <seg>Casella di controllo Sempre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
@@ -1275,6 +1291,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105655Z" creationid="valter" creationdate="20241017T105655Z">
         <seg>Colori applicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply replacement table</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160231Z" creationid="valter" creationdate="20241023T160231Z">
+        <seg>Applica tabella di sostituzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,6 +1635,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190304Z" creationid="valter" creationdate="20211115T190304Z">
         <seg>Casella di controllo (permette scelte multiple).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checked</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160643Z" creationid="valter" creationdate="20241023T160643Z">
+        <seg>Spuntata</seg>
       </tuv>
     </tu>
     <tu>
@@ -2263,6 +2295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enables the font replacement settings that have been defined.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160308Z" creationid="valter" creationdate="20241023T160308Z">
+        <seg>Abilita le impostazioni relative alla sostituzione dei tipi di carattere definite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enhancements, software fixes, and release dates are community-driven.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T120038Z" creationid="valter" creationdate="20240928T120038Z">
@@ -2451,6 +2491,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T205110Z" creationid="valter" creationdate="20241021T205110Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Percorsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Options LibreOffice dialog — Fonts page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160358Z" creationid="valter" creationdate="20241023T160358Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Tipi di carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,6 +5237,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Fonts page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160418Z" creationid="valter" creationdate="20241023T160418Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Tipi di carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice dialog — General page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160733Z" creationid="valter" creationdate="20241017T160733Z">
@@ -5653,6 +5709,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replacement action</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160631Z" creationid="valter" creationdate="20241023T160631Z">
+        <seg>Azione di sostituzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Replacement table</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155658Z" creationid="valter" creationdate="20241023T155658Z">
@@ -5753,6 +5817,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200929Z" creationid="valter" creationdate="20241021T200929Z">
         <seg>Antialiasing dei caratteri a schermo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Screen only check box</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160620Z" creationid="valter" creationdate="20241023T160620Z">
+        <seg>Casella di controllo Solo schermo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6426,6 +6498,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212508Z" creationid="valter" creationdate="20240928T212508Z">
         <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: esempio di tasti di scelta rapida per macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Font replacement options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160451Z" creationid="valter" creationdate="20241023T160451Z">
+        <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: opzioni di sostituzione dei tipi di carattere</seg>
       </tuv>
     </tu>
     <tu>
