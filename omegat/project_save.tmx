@@ -2361,8 +2361,8 @@
       <tuv lang="en-US">
         <seg>Enter a master password to enable easy access to websites that require a user name and password.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T162818Z" creationid="valter" creationdate="20241023T162818Z">
-        <seg>[fuzzy]Inserisci una password master per consentire un facile accesso ai siti web che richiedono un nome utente e una password.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164232Z" creationid="valter" creationdate="20241023T162818Z">
+        <seg>Inserire una password principale per consentire un accesso facile ai siti web che richiedono un nome utente e una password.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4498,6 +4498,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice will securely store all passwords used to access files from web servers.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164410Z" creationid="valter" creationdate="20241023T164410Z">
+        <seg>LibreOffice memorizzerà in modo sicuro tutte le password che saranno utilizzate per accedere ai file dai server web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice will translate seamlessly between the two.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191504Z" creationid="akurery" creationdate="20211211T191504Z">
@@ -5570,6 +5578,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T163402Z" creationid="valter" creationdate="20241017T163402Z">
         <seg>Esegui all'avvio il controllo delle associazioni dei file predefinite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Persistently save web passwords for web connections</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164304Z" creationid="valter" creationdate="20241023T164304Z">
+        <seg>Memorizza le password per le connessioni web</seg>
       </tuv>
     </tu>
     <tu>
