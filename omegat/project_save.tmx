@@ -1575,6 +1575,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Certificate Path</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164841Z" creationid="valter" creationdate="20241023T164841Z">
+        <seg>Percorso del certificato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the icon set used in a LibreOffice installation as follows:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T180732Z" creationid="valter" creationdate="20240928T180732Z">
@@ -4574,6 +4582,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201916Z" creationid="valter" creationdate="20241021T201916Z">
         <seg>Linux and macOS only — Selezionare questa opzione per cambiare il formato di lavoro della stampa interna dal formato Postscript a quello PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linux and macOS only — users can digitally sign documents using LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164845Z" creationid="valter" creationdate="20241023T164845Z">
+        <seg>[fuzzy]Linux e macOS solo — gli utenti possono firmare digitalmente documenti utilizzando LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
