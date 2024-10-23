@@ -2079,6 +2079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom Colors</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173731Z" creationid="valter" creationdate="20241023T173731Z">
+        <seg>Colori personalizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing toolbars</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171643Z" creationid="Elisabetta" creationdate="20241017T171643Z">
@@ -2161,8 +2169,8 @@
       <tuv lang="en-US">
         <seg>Deletes the color scheme displayed in the Scheme box.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T173630Z" creationid="valter" creationdate="20241023T173630Z">
-        <seg>Elimina lo schema colori visualizzata nella casella Schema.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173651Z" creationid="valter" creationdate="20241023T173630Z">
+        <seg>Elimina lo schema colori visualizzato nella casella Schema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6240,8 +6248,8 @@
       <tuv lang="en-US">
         <seg>Saves the current settings as a color scheme that can be reloaded later.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T173228Z" creationid="valter" creationdate="20241023T173228Z">
-        <seg>Salva le impostazioni attuali come uno schema di colori che può essere ricaricato in un momento successivo.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173640Z" creationid="valter" creationdate="20241023T173228Z">
+        <seg>Salva le impostazioni attuali come uno schema colori che può essere ricaricato in un momento successivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6479,6 +6487,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the colors for the user interface elements.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173816Z" creationid="valter" creationdate="20241023T173816Z">
+        <seg>Selezionare i colori per gli elementi dell'interfaccia utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the font and font size for the display of HTML and Basic source code.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161325Z" creationid="valter" creationdate="20241023T161325Z">
@@ -6609,8 +6625,8 @@
       <tuv lang="en-US">
         <seg>Selects the color scheme for use.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T172937Z" creationid="valter" creationdate="20241023T172937Z">
-        <seg>Seleziona lo schema dei colori per l'utilizzo.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173634Z" creationid="valter" creationdate="20241023T172937Z">
+        <seg>Seleziona lo schema colori per l'utilizzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7135,6 +7151,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Default scheme cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173718Z" creationid="valter" creationdate="20241023T173718Z">
+        <seg>Lo schema predefinito non può essere eliminato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Fonts page on the Options LibreOffice dialog (Figure &lt;t0&gt;6&lt;/t0&gt;) allows the definition of any replacements for any fonts that might appear in documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155109Z" creationid="valter" creationdate="20241023T155109Z">
@@ -7401,8 +7425,8 @@
       <tuv lang="en-US">
         <seg>The name of the color scheme is added to the drop-down list in the &lt;f0&gt;Scheme&lt;/f0&gt; box.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T173416Z" creationid="valter" creationdate="20241023T173416Z">
-        <seg>Il nome dello schema dei colori viene aggiunto all'elenco a tendina &lt;f0&gt;Schema&lt;/f0&gt;.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173644Z" creationid="valter" creationdate="20241023T173416Z">
+        <seg>Il nome dello schema colori viene aggiunto all'elenco a tendina &lt;f0&gt;Schema&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7887,6 +7911,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To apply a color to a user interface element, make sure that the element is selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173923Z" creationid="valter" creationdate="20241023T173923Z">
+        <seg>Per applicare un colore a un elemento dell'interfaccia utente, assicurarsi che l'elemento sia selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184109Z" creationid="valter" creationdate="20211115T184109Z">
@@ -7939,6 +7971,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To hide a user interface element, deselect the element.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T173946Z" creationid="valter" creationdate="20241023T173946Z">
+        <seg>Per nascondere un elemento dell'interfaccia utente, deselezionare l'elemento.</seg>
       </tuv>
     </tu>
     <tu>
