@@ -1119,6 +1119,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allow animated images</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180048Z" creationid="valter" creationdate="20241023T180048Z">
+        <seg>Permetti animazione immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allow animated text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180148Z" creationid="valter" creationdate="20241023T180148Z">
+        <seg>Permetti animazione testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also at this link, the release notes for earlier versions of LibreOffice are located giving more information on the features that are included in LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T194322Z" creationid="valter" creationdate="20240929T194322Z">
@@ -2283,6 +2299,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T170547Z" creationid="valter" creationdate="20241015T220621Z">
         <seg>Visualizzare o nascondere le barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays cursor in read-only documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180041Z" creationid="valter" creationdate="20241023T180041Z">
+        <seg>Mostra il cursore nei documenti di sola lettura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5966,6 +5990,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previews animated graphics, such as GIF images, in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180137Z" creationid="valter" creationdate="20241023T180137Z">
+        <seg>Esegue l'anteprima della grafica animata, come le immagini GIF, in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previews animated text, such as blinking and scrolling, in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180239Z" creationid="valter" creationdate="20241023T180239Z">
+        <seg>Esegue l'anteprima del testo animato, come il lampeggiare e lo scorrere, in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Print</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105620Z" creationid="valter" creationdate="20241017T105620Z">
@@ -7319,6 +7359,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Java Runtime Environment (JRE) must be installed on a computer before enabling assistive support.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180000Z" creationid="valter" creationdate="20241023T180000Z">
+        <seg>Per abilitare il supporto delle funzioni di accesso facilitato, l'ambiente Java Runtime (JRE) deve essere già installato nel computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LibreOffice &lt;ud0/&gt;&lt;s1/&gt;Release Notes are available at th&lt;f2&gt;e&lt;/f2&gt;s&lt;f3&gt;e&lt;/f3&gt; link&lt;f4&gt;s &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.2&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt; and &lt;/f7&gt;&lt;a8&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.8&lt;/a8&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T194123Z" creationid="valter" creationdate="20240929T194123Z">
@@ -8305,6 +8353,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use text selection cursor in read-only text document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180018Z" creationid="valter" creationdate="20241023T180018Z">
+        <seg>Usa il cursore per la selezione di testo nei documenti di sola lettura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Extensions Manager to display installed extensions and locate extensions for installation into LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T172114Z" creationid="valter" creationdate="20241017T172114Z">
@@ -8805,6 +8861,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200426Z" creationid="valter" creationdate="20241021T200426Z">
         <seg>Soltanto Windows e macOS — Forza l'uso di Skia anche se la scheda grafica si trova nella lista nera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows only — allows use of assistive tools, such as external screen readers, Braille devices, or speech recognition input devices.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T175752Z" creationid="valter" creationdate="20241023T175752Z">
+        <seg>Soltanto Windows — Consente di utilizzare strumenti per l'accessibilità, come i lettori per schermo esterni, i dispositivi Braille o i dispositivi di immissione a riconoscimento vocale.</seg>
       </tuv>
     </tu>
     <tu>
