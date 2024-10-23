@@ -7063,6 +7063,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some options cannot be reset once edited.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T182831Z" creationid="valter" creationdate="20241023T182831Z">
+        <seg>Alcune opzioni non possono essere ripristinate una volta modificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some options vary with the computer operating system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T165747Z" creationid="valter" creationdate="20241017T165747Z">
