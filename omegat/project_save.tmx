@@ -5114,6 +5114,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Miscellaneous options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T175504Z" creationid="valter" creationdate="20241023T175504Z">
+        <seg>Opzioni varie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Module Use</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204331Z" creationid="valter" creationdate="20241005T204254Z">
@@ -6735,6 +6743,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sets the accessibility options for LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T175625Z" creationid="valter" creationdate="20241023T175625Z">
+        <seg>Permette di impostare le opzioni di accesso facilitato per LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setting up and customizing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102053Z" creationid="valter" creationdate="20240928T102053Z">
@@ -7091,6 +7107,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170129Z" creationid="valter" creationdate="20240928T170129Z">
         <seg>Sono disponibili assistenza e formazione tramite contratti di assistenza siglati presso un distributore o un'azienda di consulenza specializzata in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support assistive technology tools (program restart required)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T175659Z" creationid="valter" creationdate="20241023T175659Z">
+        <seg>Supporto per le tecnologie di accesso facilitato (riavvio richiesto)</seg>
       </tuv>
     </tu>
     <tu>
