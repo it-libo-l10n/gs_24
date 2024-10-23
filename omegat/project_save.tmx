@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Passwords for Web Connections</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162817Z" creationid="valter" creationdate="20241023T162817Z">
+        <seg>Password per connessioni web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paste content</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174650Z" creationid="valter" creationdate="20241017T174650Z">
@@ -5682,6 +5690,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213858Z" creationid="valter" creationdate="20240928T213858Z">
         <seg>I guadagni derivanti dalla vendita dell'edizione stampata saranno utilizzati a favore della comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides options for removing personal information, password protection, how hyperlinks are opened, and to block any links from documents that are not trusted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162759Z" creationid="valter" creationdate="20241023T162759Z">
+        <seg>Fornisce opzioni per rimuovere le informazioni personali, la protezione con password, come sono aperti i collegamenti ipertestuali, e per bloccare qualsiasi collegamento dai documenti non affidabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,10 +6030,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Security Options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162651Z" creationid="valter" creationdate="20241023T162651Z">
+        <seg>Opzioni di sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Security Options and Warnings</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161952Z" creationid="valter" creationdate="20241023T161952Z">
         <seg>Opzioni di sicurezza e avvisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Security Warnings</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162516Z" creationid="valter" creationdate="20241023T162516Z">
+        <seg>Avvisi di sicurezza</seg>
       </tuv>
     </tu>
     <tu>
@@ -7901,6 +7933,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203143Z" creationid="valter" creationdate="20241021T203143Z">
         <seg>Avvisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warns if a restricted document contains any recorded changes, versions, hidden information, or notes when saving, sending, signing, printing, or creating PDF files.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162640Z" creationid="valter" creationdate="20241023T162523Z">
+        <seg>Avvisa se un documento con restrizioni contiene revisioni, versioni, informazioni nascoste o note registrate durante il salvataggio, l'invio, la firma, la stampa o la creazione di file PDF.</seg>
       </tuv>
     </tu>
     <tu>
