@@ -2359,6 +2359,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a master password to enable easy access to websites that require a user name and password.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162818Z" creationid="valter" creationdate="20241023T162818Z">
+        <seg>[fuzzy]Inserisci una password master per consentire un facile accesso ai siti web che richiedono un nome utente e una password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter or select the name of the replacement font.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161131Z" creationid="valter" creationdate="20241023T161131Z">
