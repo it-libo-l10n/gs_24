@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Security page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Security page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164808Z" creationid="valter" creationdate="20241023T164808Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Sicurezza&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Sicurezza&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — User Data page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — User Data page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T152923Z" creationid="valter" creationdate="20241017T152923Z">
@@ -1727,6 +1735,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Macro Security&lt;/f0&gt; to open the Macro Security dialog where the security level for executing macros and specified trusted sources can be adjusted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164731Z" creationid="valter" creationdate="20241023T164731Z">
+        <seg>Fare clic su &lt;f0&gt;Sicurezza delle macro&lt;/f0&gt; per aprire la finestra di dialogo Sicurezza delle macro in cui è possibile regolare il livello di sicurezza per l'esecuzione delle macro e le fonti affidabili specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Options&lt;/f0&gt; to open the Security and Warning Options dialog giving access to options for restricting what information can be changed or seen in a document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T162150Z" creationid="valter" creationdate="20241023T162150Z">
@@ -2571,6 +2587,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160358Z" creationid="valter" creationdate="20241023T160358Z">
         <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Tipi di carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Options LibreOffice dialog — Security page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164826Z" creationid="valter" creationdate="20241023T164826Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Sicurezza</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4690,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Macro Security</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164530Z" creationid="valter" creationdate="20241023T164530Z">
+        <seg>Sicurezza delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191227Z" creationid="akurery" creationdate="20211211T191227Z">
@@ -5430,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Security page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164835Z" creationid="valter" creationdate="20241023T164835Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice dialog — User Data page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153041Z" creationid="valter" creationdate="20241017T153041Z">
@@ -5718,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Protected by a master password</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164426Z" creationid="valter" creationdate="20241023T164426Z">
+        <seg>Protetto da una password principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Provides options for removing personal information, password protection, how hyperlinks are opened, and to block any links from documents that are not trusted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T162759Z" creationid="valter" creationdate="20241023T162759Z">
@@ -5946,6 +5994,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201245Z" creationid="valter" creationdate="20241021T201245Z">
         <seg>I risultati saranno salvati in un registro visualizzato in una finestra a comparsa, e possono essere scaricati e salvati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retrieve passwords from a password list after entering the master password.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T164521Z" creationid="valter" creationdate="20241023T164521Z">
+        <seg>Recuperare le password da un elenco di password dopo aver inserito la password principale.</seg>
       </tuv>
     </tu>
     <tu>
