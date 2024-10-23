@@ -7111,6 +7111,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Automatic&lt;/f0&gt; color setting changes the user interface element to the preset color used by the selected color scheme.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T174145Z" creationid="valter" creationdate="20241023T174145Z">
+        <seg>L'impostazione colori &lt;f0&gt;Automatico&lt;/f0&gt; cambia l'elemento dell'interfaccia utente al colore preimpostato utilizzato dallo schema colori selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Automatic&lt;/f0&gt; option uses an icon set compatible with the operating system and choice of desktop.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T170247Z" creationid="valter" creationdate="20241017T170247Z">
@@ -7275,6 +7283,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180932Z" creationid="valter" creationdate="20241016T202011Z">
         <seg>La barra del Titolo è collocata nella parte superiore della finestra di LibreOffice e indica il nome del file del documento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The color settings for &lt;f0&gt;Visited links&lt;/f0&gt; and &lt;f1&gt;Unvisited links&lt;/f1&gt; only apply to documents created after the settings are applied.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T174147Z" creationid="valter" creationdate="20241023T174147Z">
+        <seg>[fuzzy]Le impostazioni di colore per &lt;f0&gt;Link visitati&lt;/f0&gt; e &lt;f1&gt;Link non visitati&lt;/f1&gt; si applicano solo ai documenti creati dopo l'applicazione delle impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
