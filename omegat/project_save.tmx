@@ -5468,8 +5468,8 @@
       <tuv lang="en-US">
         <seg>On the Advanced page of the Options LibreOffice dialog (Figure &lt;t0&gt;Error: Reference source not found&lt;/t0&gt;), the support options are specified for Java applications in LibreOffice, including which Java Runtime Environment (JRE) to use.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T181146Z" creationid="valter" creationdate="20241023T181146Z">
-        <seg>[fuzzy]Nella pagina avanzata della finestra di dialogo Opzioni LibreOffice (Figura&lt;t0&gt;Errore: Fonte di riferimento non trovata&lt;/t0&gt;), le opzioni di supporto sono specificate per le applicazioni Java in LibreOffice, tra cui Java Runtime Environment (JRE) da utilizzare.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T182345Z" creationid="valter" creationdate="20241023T181146Z">
+        <seg>Nella pagina Avanzate della finestra di dialogo Opzioni di LibreOffice (Figura&lt;t0&gt;Errore: Fonte di riferimento non trovata&lt;/t0&gt;) sono specificate le opzioni di supporto per le applicazioni Java in LibreOffice, incluso quale Java Runtime Environment (JRE) da utilizzare.</seg>
       </tuv>
     </tu>
     <tu>
