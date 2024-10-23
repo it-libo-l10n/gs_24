@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161136Z" creationid="valter" creationdate="20241023T161136Z">
+        <seg>Applica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply replacement table</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160231Z" creationid="valter" creationdate="20241023T160231Z">
@@ -1419,6 +1427,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101905Z" creationid="valter" creationdate="20211016T101905Z">
         <seg>Bernard Siaud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blank</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160701Z" creationid="valter" creationdate="20241023T160701Z">
+        <seg>Vuota</seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,10 +2327,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter or select the name of the replacement font.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161131Z" creationid="valter" creationdate="20241023T161131Z">
+        <seg>Inserire o selezionare il nome del tipo di carattere di sostituzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the smallest font size to apply anti-aliasing.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201008Z" creationid="valter" creationdate="20241021T201008Z">
         <seg>Per applicare l'eliminazione dell'effetto scalettatura (antialiasing), inserire la dimensione più piccola del carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter, or select, the name of the font that will be replaced.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161034Z" creationid="valter" creationdate="20241023T161034Z">
+        <seg>Inserire, o selezionare, il nome del tipo di carattere che verrà sostituito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2535,10 +2567,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160937Z" creationid="valter" creationdate="20241023T160937Z">
+        <seg>Tipo di carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Font Lists</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200456Z" creationid="valter" creationdate="20241021T200456Z">
         <seg>Elenchi di caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font replacement on screen and when printing, but only if font is not available.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160930Z" creationid="valter" creationdate="20241023T160930Z">
+        <seg>Sostituzione del tipo di carattere sullo schermo e in fase di stampa, ma solo se il tipo di carattere non è disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font replacement on screen and when printing, whether the font is installed or not.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160818Z" creationid="valter" creationdate="20241023T160733Z">
+        <seg>Sostituzione del tipo di carattere sullo schermo e in fase di stampa, se il tipo di carattere è installato o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font replacement only on screen, but only if font is not available.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160911Z" creationid="valter" creationdate="20241023T160911Z">
+        <seg>Sostituzione del tipo di carattere solo sullo schermo, ma solo se il tipo di carattere non è disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font replacement only on screen, whether the font is installed or not.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T160853Z" creationid="valter" creationdate="20241023T160853Z">
+        <seg>Sostituzione del tipo di carattere solo sullo schermo, se il tipo di carattere è installato o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5705,6 +5777,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173020Z" creationid="Elisabetta" creationdate="20241017T173020Z">
         <seg>Ripetere i comandi di annullamento e ripristino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace with</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161041Z" creationid="valter" creationdate="20241023T161041Z">
+        <seg>Sostituisci con</seg>
       </tuv>
     </tu>
     <tu>
