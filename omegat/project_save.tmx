@@ -823,6 +823,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Personalization page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Personalization page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T171827Z" creationid="valter" creationdate="20241023T171827Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Personalizzazione&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Personalizzazione&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — Print page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Print page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201346Z" creationid="valter" creationdate="20241021T201346Z">
@@ -2627,6 +2635,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T164826Z" creationid="valter" creationdate="20241023T164826Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Options LibreOffice dialog — Personalization page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T171851Z" creationid="valter" creationdate="20241023T171851Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Personalizzazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5266,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Application Colors page of the Options LibreOffice dialog (Figure &lt;t0&gt;9&lt;/t0&gt;), the overall appearance of LibreOffice can be changed by setting the colors used for the LibreOffice user interface.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172105Z" creationid="valter" creationdate="20241023T172105Z">
+        <seg>Nella pagina Colori applicazione della finestra di dialogo Opzioni di LibreOffice (Figura&lt;t0&gt;9&lt;/t0&gt;) è possibile modificare l'aspetto complessivo di LibreOffice impostando i colori utilizzati per l'interfaccia di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Paths page in the Options LibreOffice dialog (Figure &lt;t0&gt;5&lt;/t0&gt;), the location of files associated with, or used by, LibreOffice can be changed to suit the working situation.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204802Z" creationid="valter" creationdate="20241021T204802Z">
@@ -5530,6 +5554,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T205129Z" creationid="valter" creationdate="20241021T205129Z">
         <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Percorsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Personalization page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T171909Z" creationid="valter" creationdate="20241023T171909Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Personalizzazione</seg>
       </tuv>
     </tu>
     <tu>
