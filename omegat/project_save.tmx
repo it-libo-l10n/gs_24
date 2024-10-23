@@ -1735,6 +1735,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Certificate&lt;/f0&gt; and select which certificate store to use.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T165855Z" creationid="valter" creationdate="20241023T165855Z">
+        <seg>Fare clic su &lt;f0&gt;Certificato&lt;/f0&gt; e selezionare l'archivio di certificati da utilizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the settings and close the dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172203Z" creationid="valter" creationdate="20240928T172203Z">
@@ -2715,6 +2723,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151531Z" creationid="Elisabetta Manuele" creationdate="20211110T151531Z">
         <seg>Per &lt;f0&gt;ulteriori informazioni&lt;/f0&gt; &lt;f1&gt;consultate il&lt;/f1&gt; Capitolo 3, Uso di stili e modelli e il Capitolo 7, Guida introduttiva a Draw, di questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T165936Z" creationid="valter" creationdate="20241023T165936Z">
+        <seg>Per Windows, LibreOffice utilizza la posizione predefinita di Windows per l'archiviazione e il recupero dei certificati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4374,6 +4390,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T153946Z" creationid="valter" creationdate="20240928T153946Z">
         <seg>LibreOffice è distribuito con un sistema di aiuto vasto e articolato, che può essere utilizzato come iniziale fonte di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice does not provide a secure method of storing these certificates, but it can access certificates that have been saved using other programs.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T165525Z" creationid="valter" creationdate="20241023T165525Z">
+        <seg>LibreOffice non fornisce un metodo sicuro per l'archiviazione di questi certificati, ma può accedere ai certificati che sono stati salvati utilizzando altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
