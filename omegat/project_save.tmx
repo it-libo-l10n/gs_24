@@ -799,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Application Colors page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Application Colors page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172653Z" creationid="valter" creationdate="20241023T172653Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Colori applicazione&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Opzioni di LibreOffice — pagina Colori applicazione&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — Fonts page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Fonts page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160342Z" creationid="valter" creationdate="20241023T160342Z">
@@ -1139,6 +1147,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160934Z" creationid="valter" creationdate="20240928T160934Z">
         <seg>Inoltre, le Guide utente si possono scaricare gratuitamente in formato PDF oppure essere acquistate in formato cartaceo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, users may prefer different colors from those used as LibreOffice defaults.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172614Z" creationid="valter" creationdate="20241023T172614Z">
+        <seg>Gli utenti possono inoltre preferire colori diversi da quelli utilizzati come predefiniti per LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1891,6 +1907,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101752Z" creationid="valter" creationdate="20211016T101752Z">
         <seg>Colleen Hayes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Color Scheme</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172813Z" creationid="valter" creationdate="20241023T172813Z">
+        <seg>Schema colori</seg>
       </tuv>
     </tu>
     <tu>
@@ -2659,6 +2683,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T171851Z" creationid="valter" creationdate="20241023T171851Z">
         <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Personalizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Options LibreOffice dialog — Application Colors page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172729Z" creationid="valter" creationdate="20241023T172729Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Colori applicazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Application Colors page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172743Z" creationid="valter" creationdate="20241023T172743Z">
+        <seg>Finestra di dialogo Opzioni di LibreOffice — pagina Colori applicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice dialog — Fonts page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160418Z" creationid="valter" creationdate="20241023T160418Z">
@@ -6182,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save and delete color schemes.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172845Z" creationid="valter" creationdate="20241023T172845Z">
+        <seg>Salva ed elimina gli schemi dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving documents</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171934Z" creationid="Elisabetta" creationdate="20241017T171934Z">
@@ -6194,6 +6242,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172015Z" creationid="Elisabetta" creationdate="20241017T172015Z">
         <seg>Salvare automaticamente un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scheme</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172903Z" creationid="valter" creationdate="20241023T172903Z">
+        <seg>Schema</seg>
       </tuv>
     </tu>
     <tu>
@@ -6531,6 +6587,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174535Z" creationid="valter" creationdate="20241017T174535Z">
         <seg>Appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selects the color scheme for use.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172937Z" creationid="valter" creationdate="20241023T172937Z">
+        <seg>Seleziona lo schema dei colori per l'utilizzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9107,6 +9171,17 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155516Z" creationid="valter" creationdate="20241017T155516Z">
         <seg>Guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GS24812-ConfiguringLO.odt</prop>
+      <prop type="prev">Selects the color scheme for use.</prop>
+      <prop type="next">Saves the current settings as a color scheme that can be reloaded later.</prop>
+      <tuv lang="en-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172950Z" creationid="valter" creationdate="20241023T172950Z">
+        <seg>Salva</seg>
       </tuv>
     </tu>
     <tu>
