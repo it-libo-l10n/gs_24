@@ -4249,6 +4249,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also specifies whether to use experimental (unstable) features such as macro recording.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T182424Z" creationid="valter" creationdate="20241023T182424Z">
+        <seg>Specifica, inoltre, se usare le funzionalità sperimentali (instabili), come la registrazione di macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can also use PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle, or any ODBC compliant or JDBC compliant database.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195733Z" creationid="valter" creationdate="20211115T195733Z">
@@ -4850,6 +4858,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linux users may need to get a JRE from the distribution software repository if it not already installed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T182607Z" creationid="valter" creationdate="20241023T182607Z">
+        <seg>Gli utenti Linux potrebbero dover installare un JRE dal repository software della distribuzione di riferimento, se non è già installato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux users will also find LibreOffice included free in many of the latest distributions.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133431Z" creationid="valter" creationdate="20240928T133431Z">
@@ -4950,6 +4966,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132148Z" creationid="valter" creationdate="20240928T132148Z">
         <seg>Mac OS X (Aarch64/Apple Silicon)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MacOS users need to install Oracle Java Development Kit (JDK), not just JRE.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T182640Z" creationid="valter" creationdate="20241023T182640Z">
+        <seg>Gli utenti MacOS devono installare Oracle Java Development Kit (JDK), e non JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8239,6 +8263,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To get the required JDK, select the macOS option at &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T182811Z" creationid="valter" creationdate="20241023T182641Z">
+        <seg>Per scaricare il JDK richiesto, selezionare l'opzione macOS in: &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To hide a user interface element, deselect the element.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T173946Z" creationid="valter" creationdate="20241023T173946Z">
@@ -9005,6 +9037,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185338Z" creationid="valter" creationdate="20211115T185338Z">
         <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows users have a suitable Java Runtime Environment (JRE) already installed on their machines.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T182645Z" creationid="valter" creationdate="20241023T182457Z">
+        <seg>Gli utenti Windows hanno un ambiente Java Runtime (JRE) adatto già installato sulle loro macchine.</seg>
       </tuv>
     </tu>
     <tu>
