@@ -1031,6 +1031,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After a brief pause the appearance of LibreOffice refreshes and reflects the selected them.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T171757Z" creationid="valter" creationdate="20241023T171757Z">
+        <seg>Dopo una breve pausa l'aspetto di LibreOffice si aggiornerà e rispecchierà il tema selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After installation, to change the default settings (options) in LibreOffice to suit working requirements and preferences, go to &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the Menu bar (&lt;f1&gt;LibreOffice &gt; Preferences&lt;/f1&gt; in macOS).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152238Z" creationid="valter" creationdate="20240928T152238Z">
@@ -6291,6 +6299,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161520Z" creationid="valter" creationdate="20241023T161520Z">
         <seg>Selezionare &lt;f0&gt;Automatico&lt;/f0&gt; per individuare in automatico un tipo di carattere adatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Default look, do not use Themes&lt;/f0&gt; and LibreOffice uses the default in all modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T170702Z" creationid="valter" creationdate="20241023T170702Z">
+        <seg>Selezionare &lt;f0&gt;Aspetto predefinito, non usare i temi&lt;/f0&gt; in modo che LibreOffice usi quello predefinito in tutti i moduli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Preinstalled Theme&lt;/f0&gt;, then click on a theme thumbnail and click &lt;f1&gt;Apply&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T170836Z" creationid="valter" creationdate="20241023T170836Z">
+        <seg>Selezionare &lt;f0&gt;Tema preinstallato&lt;/f0&gt;, quindi fare clic sulla miniatura di un tema, poi clic su &lt;f1&gt;Applica&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
