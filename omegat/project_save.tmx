@@ -1647,6 +1647,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cell borders and shadows are always shown in text color when high-contrast mode is active.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180556Z" creationid="valter" creationdate="20241023T180556Z">
+        <seg>Quando è attiva la modalità a contrasto elevato, i bordi delle celle e le ombre vengono sempre mostrati nel colore del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Certificate Path</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T164841Z" creationid="valter" creationdate="20241023T164841Z">
@@ -3504,6 +3512,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High contrast</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180618Z" creationid="valter" creationdate="20241023T180618Z">
+        <seg>Contrasto elevato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High print quality</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202356Z" creationid="valter" creationdate="20241021T202356Z">
@@ -3516,6 +3532,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202418Z" creationid="valter" creationdate="20241021T202418Z">
         <seg>Per ottenere una buona qualità di stampa è necessario impostare la risoluzione a 300 dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High-contrast is an operating system setting that changes the system color scheme to improve readability.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180426Z" creationid="valter" creationdate="20241023T180426Z">
+        <seg>La visualizzazione a contrasto elevato è un'impostazione del sistema operativo che cambia lo schema colori del sistema per migliorare la leggibilità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5774,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options for High Contrast Appearance</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180256Z" creationid="valter" creationdate="20241023T180256Z">
+        <seg>Opzioni per la visualizzazione a contrasto elevato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other features provided by Calc include:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095645Z" creationid="akurery" creationdate="20211121T095645Z">
@@ -7455,6 +7487,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cell background color is ignored then.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180609Z" creationid="valter" creationdate="20241023T180609Z">
+        <seg>Il colore di sfondo delle celle viene quindi ignorato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color settings for &lt;f0&gt;Visited links&lt;/f0&gt; and &lt;f1&gt;Unvisited links&lt;/f1&gt; only apply to documents created after the settings are applied.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174242Z" creationid="valter" creationdate="20241023T174147Z">
@@ -8425,6 +8465,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Users decide how LibreOffice uses the high-contrast settings of the operating system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180524Z" creationid="valter" creationdate="20241023T180524Z">
+        <seg>Gli utenti possono decidere il modo in cui LibreOffice utilizza le impostazioni del contrasto elevato del sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using &lt;f0&gt;s&lt;/f0&gt;preadsheets in LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095607Z" creationid="akurery" creationdate="20211121T095607Z">
@@ -8925,6 +8973,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101756Z" creationid="valter" creationdate="20211016T101756Z">
         <seg>Winston Min Tjong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With Automatic and high contrast mode selected, it switches LibreOffice into high contrast mode when the system background color is very dark.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180909Z" creationid="valter" creationdate="20241023T180909Z">
+        <seg>Coi modi Automatico e Contrasto elevato selezionati, LibreOffice passa alla modalità a contrasto elevato quando il colore di sfondo del sistema è molto scuro.</seg>
       </tuv>
     </tu>
     <tu>
