@@ -983,6 +983,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A system administrator, programmer, or other person who customizes JRE installations, can use the &lt;f0&gt;Parameters&lt;/f0&gt; and &lt;f1&gt;Class Path&lt;/f1&gt; dialogs to specify this information.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201406Z" creationid="valter" creationdate="20241023T201406Z">
+        <seg>Un amministratore di sistema, un programmatore o comunque una persona che personalizza le installazioni JRE, può usare le finestre di dialogo &lt;f0&gt;Parametri&lt;/f0&gt; e &lt;f1&gt;Percorso classe&lt;/f1&gt; per specificare queste informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tool palette is a pop-up collection of tools attached to a single tool on a toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T174626Z" creationid="Elisabetta" creationdate="20241023T174626Z">
@@ -3740,6 +3748,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133143Z" creationid="valter" creationdate="20240928T133143Z">
         <seg>Se devono essere utilizzate le funzionalità di LibreOffice che richiedono Java, è importante che sia installata la corretta versione a 32 bit o a 64 bit corrispondente alla versione installata di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If LibreOffice finds one or more JREs on a computer, it displays them in the list box.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201133Z" creationid="valter" creationdate="20241023T201133Z">
+        <seg>]Se LibreOffice trova uno o più JRE nel computer, li visualizza nel riquadro di elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6715,6 +6731,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161739Z" creationid="valter" creationdate="20241023T161739Z">
         <seg>Selezionare la dimensione del carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select one of the JREs listed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201148Z" creationid="valter" creationdate="20241023T201148Z">
+        <seg>Selezionare uno dei JRE elencati.</seg>
       </tuv>
     </tu>
     <tu>
