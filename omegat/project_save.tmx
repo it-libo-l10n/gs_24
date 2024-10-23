@@ -1375,6 +1375,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applies the high contrast settings of the operating system to page previews.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T181133Z" creationid="valter" creationdate="20241023T181133Z">
+        <seg>Applica le impostazioni della modalità a contrasto elevato del sistema operativo all'anteprima di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161136Z" creationid="valter" creationdate="20241023T161136Z">
@@ -2315,6 +2323,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180041Z" creationid="valter" creationdate="20241023T180041Z">
         <seg>Mostra il cursore nei documenti di sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays fonts in LibreOffice using the system color settings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T181029Z" creationid="valter" creationdate="20241023T181029Z">
+        <seg>Visualizza i tipi di carattere in LibreOffice utilizzando le impostazioni dei colori di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5450,6 +5466,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Advanced page of the Options LibreOffice dialog (Figure &lt;t0&gt;Error: Reference source not found&lt;/t0&gt;), the support options are specified for Java applications in LibreOffice, including which Java Runtime Environment (JRE) to use.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T181146Z" creationid="valter" creationdate="20241023T181146Z">
+        <seg>[fuzzy]Nella pagina avanzata della finestra di dialogo Opzioni LibreOffice (Figura&lt;t0&gt;Errore: Fonte di riferimento non trovata&lt;/t0&gt;), le opzioni di supporto sono specificate per le applicazioni Java in LibreOffice, tra cui Java Runtime Environment (JRE) da utilizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Application Colors page of the Options LibreOffice dialog (Figure &lt;t0&gt;9&lt;/t0&gt;), the overall appearance of LibreOffice can be changed by setting the colors used for the LibreOffice user interface.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T172105Z" creationid="valter" creationdate="20241023T172105Z">
@@ -8055,6 +8079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option only affects the screen display.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T181046Z" creationid="valter" creationdate="20241023T181046Z">
+        <seg>Questa opzione interessa solo la visualizzazione sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section covers some of the options and settings that apply to all the components of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110903Z" creationid="valter" creationdate="20241017T110903Z">
@@ -8385,10 +8417,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use automatic font color for screen display</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T180922Z" creationid="valter" creationdate="20241023T180922Z">
+        <seg>Utilizza colore carattere automatico per la visualizzazione a schermo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use hardware acceleration</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174900Z" creationid="valter" creationdate="20241017T174900Z">
         <seg>Usa accelerazione hardware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use system colors for page previews</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T181058Z" creationid="valter" creationdate="20241023T181058Z">
+        <seg>Utilizza i colori di sistema per l'anteprima di stampa</seg>
       </tuv>
     </tu>
     <tu>
