@@ -8121,6 +8121,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tool palettes can be made into floating sub-toolbars using the following example:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T174631Z" creationid="Elisabetta" creationdate="20241023T174631Z">
+        <seg>Le palette degli strumenti possono essere realizzate in sub-toolbar galleggianti utilizzando il seguente esempio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toolbar, Notebookbar, Sidebar</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T172135Z" creationid="valter" creationdate="20241017T172135Z">
