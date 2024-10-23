@@ -1615,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing colors can make using LibreOffice easier, for example when writing, editing, creating page layouts and page margins, inserting page breaks or graphics, and so on.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172522Z" creationid="valter" creationdate="20241023T172522Z">
+        <seg>Il cambio dei colori può facilitare l'uso di LibreOffice, per esempio quando si scrive, si modificano e si creano il layout e i margini delle pagine, quando si inseriscono interruzioni di pagina o immagini, e via discorrendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 10 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155209Z" creationid="valter" creationdate="20241017T155209Z">
@@ -2035,6 +2043,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114002Z" creationid="valter" creationdate="20240928T114002Z">
         <seg>Multipiattaforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current settings of a color scheme being used can be saved and reloaded at a later time.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T172231Z" creationid="valter" creationdate="20241023T172231Z">
+        <seg>È possibile salvare e ricaricare in un secondo momento le attuali impostazioni di uno schema di colori.</seg>
       </tuv>
     </tu>
     <tu>
