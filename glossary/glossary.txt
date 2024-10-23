@@ -17,3 +17,5 @@ pinned	fissato/a/i
 see	vedere
 Go to	Accedere a
 chevron	parentesi angolare
+Single Toolbar	Barra degli strumenti singola	Menu UI
+User Interface dialog	Finestra di dialogo Scegli la tua interfaccia preferita	UI
