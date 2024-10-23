@@ -1759,6 +1759,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking on the icon applies the selected font replacement.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161207Z" creationid="valter" creationdate="20241023T161207Z">
+        <seg>Facendo clic sull'icona si applica la sostituzione del tipo di carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking on the icon deletes the selected font replacement.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161237Z" creationid="valter" creationdate="20241023T161237Z">
+        <seg>Facendo clic sull'icona si elimina la sostituzione del tipo di carattere selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking on the name of a LibreOffice module.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T182527Z" creationid="valter" creationdate="20241016T182527Z">
@@ -2027,6 +2043,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203158Z" creationid="valter" creationdate="20241021T203158Z">
         <seg>Definisce le avvertenze da visualizzare prima della stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161214Z" creationid="valter" creationdate="20241023T161214Z">
+        <seg>Elimina</seg>
       </tuv>
     </tu>
     <tu>
@@ -2611,6 +2635,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160853Z" creationid="valter" creationdate="20241023T160853Z">
         <seg>Sostituzione del tipo di carattere solo sullo schermo, se il tipo di carattere è installato o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font settings for HTML, Basic and SQL Sources</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161246Z" creationid="valter" creationdate="20241023T161246Z">
+        <seg>Impostazioni dei tipi di carattere per sorgenti HTML, Basic e SQL</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,6 +4689,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mark this check box to display only non-proportional fonts in the Fonts list box.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161652Z" creationid="valter" creationdate="20241023T161652Z">
+        <seg>Selezionare questa casella per visualizzare solo i tipi di carattere non proporzionali nella casella di riepilogo Caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Martin Saffron</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101842Z" creationid="valter" creationdate="20211016T101842Z">
@@ -4973,6 +5013,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115636Z" creationid="valter" creationdate="20240928T115636Z">
         <seg>Nessun vincolo esclusivo con il produttore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non-proportional fonts only</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161529Z" creationid="valter" creationdate="20241023T161529Z">
+        <seg>Solo caratteri non proporzionali</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Automatic&lt;/f0&gt; to detect a suitable font automatically.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161520Z" creationid="valter" creationdate="20241023T161520Z">
+        <seg>Selezionare &lt;f0&gt;Automatico&lt;/f0&gt; per individuare in automatico un tipo di carattere adatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; as needed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T185455Z" creationid="calem" creationdate="20211118T185455Z">
@@ -6042,6 +6098,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174644Z" creationid="valter" creationdate="20241017T174627Z">
         <seg>Seleziona testo, tabella od oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the font and font size for the display of HTML and Basic source code.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161325Z" creationid="valter" creationdate="20241023T161325Z">
+        <seg>Selezionare il tipo e la dimensione del carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the font for the display of HTML and Basic source code.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161424Z" creationid="valter" creationdate="20241023T161424Z">
+        <seg>Selezionare il tipo di carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8641,6 +8713,17 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204519Z" creationid="valter" creationdate="20241016T204519Z">
         <seg>Visualizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GS24812-ConfiguringLO.odt</prop>
+      <prop type="prev">Select the font and font size for the display of HTML and Basic source code.</prop>
+      <prop type="next">Select the font for the display of HTML and Basic source code.</prop>
+      <tuv lang="en-US">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161352Z" creationid="valter" creationdate="20241023T161352Z">
+        <seg>Caratteri</seg>
       </tuv>
     </tu>
     <tu>
