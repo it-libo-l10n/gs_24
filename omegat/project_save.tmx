@@ -2495,6 +2495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either undo the changes manually, or click &lt;f0&gt;Cancel&lt;/f0&gt; and reopen the Options LibreOffice dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T200716Z" creationid="valter" creationdate="20241023T200716Z">
+        <seg>Annullare le modifiche manualmente oppure fare clic su &lt;f0&gt;Annulla&lt;/f0&gt; e riaprire la finestra di dialogo Opzioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Either use dialogs from the computer system (default), or dialogs provided by LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T171447Z" creationid="valter" creationdate="20240928T171447Z">
@@ -3736,6 +3744,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a JRE or JDK is installed after installing LibreOffice, or if more than one JRE is installed on a computer, use &lt;f0&gt;Java Options&lt;/f0&gt; to select the JRE for LibreOffice to use.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201032Z" creationid="valter" creationdate="20241023T201032Z">
+        <seg>Se viene installato un JRE o un JDK dopo l'installazione di LibreOffice, o se è installato più di un JRE nel computer, utilizzare &lt;f0&gt;Opzioni Java&lt;/f0&gt; per selezionare il JRE da utilizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a document is received from another source it may contain fonts that that are not installed on the computer system being used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155344Z" creationid="valter" creationdate="20241023T155344Z">
@@ -4373,6 +4389,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213053Z" creationid="valter" creationdate="20240928T213053Z">
         <seg>Il suo scopo è quello di informare di qualcosa, o richiedere un'immissione, oppure entrambe le cose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java Options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T200825Z" creationid="valter" creationdate="20241023T200825Z">
+        <seg>Opzioni Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -5022,6 +5046,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204410Z" creationid="valter" creationdate="20241005T204410Z">
         <seg>Finestra principale di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure to install a JRE that is compatible with the LibreOffice architecture being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T200755Z" creationid="valter" creationdate="20241023T200755Z">
+        <seg>Assicurarsi d'installare un JRE compatibile con l'architettura LibreOffice utilizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7347,6 +7379,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184726Z" creationid="valter" creationdate="20211115T184726Z">
         <seg>Essi &lt;f1&gt;&lt;/f1&gt; possono essere riaggiunti scaricandoli e installandoli &lt;f2&gt;come estensione da &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://extensions.libreoffice.org/en/extensions/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That is 64-bit JRE for 64-bit LibreOffice and 32-bit JRE for 32-bit LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T200818Z" creationid="valter" creationdate="20241023T200818Z">
+        <seg>Ossia JRE a 64 bit per LibreOffice a 64 bit e JRE a 32 bit per LibreOffice a 32 bit.</seg>
       </tuv>
     </tu>
     <tu>
