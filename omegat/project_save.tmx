@@ -937,8 +937,8 @@
       <tuv lang="en-US">
         <seg>A digital signature requires a personal signing certificate and most operating systems can generate a self-signed certificate.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T164922Z" creationid="valter" creationdate="20241023T164922Z">
-        <seg>[fuzzy]Una firma digitale richiede un certificato di firma personale e la maggior parte dei sistemi operativi possono generare un certificato autofirmato.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T165355Z" creationid="valter" creationdate="20241023T164922Z">
+        <seg>Una firma digitale richiede un certificato di firma personale e la maggior parte dei sistemi operativi può generare un certificato autofirmato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3428,6 +3428,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115316Z" creationid="valter" creationdate="20240928T115316Z">
         <seg>In ogni caso, le opzioni di LibreOffice possono essere configurate a livello di modulo o addirittura a livello di singolo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, a personal certificate issued by an outside agency (after verifying an individual identity) has a higher degree of trust associated with it than does a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T165501Z" creationid="valter" creationdate="20241023T165501Z">
+        <seg>Tuttavia, un certificato personale rilasciato da un'agenzia esterna (dopo aver verificato l'identità di una persona) ha un grado di fiducia più elevato associato ad esso rispetto a un certificato autofirmato.</seg>
       </tuv>
     </tu>
     <tu>
