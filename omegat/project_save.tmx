@@ -7807,6 +7807,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To close a toolbar, you can either:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T171008Z" creationid="Elisabetta" creationdate="20241023T171008Z">
+        <seg>Per chiudere una barra degli strumenti, è possibile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To display LibreOffice Help, press &lt;f0&gt;F1&lt;/f0&gt; or go to &lt;f1&gt;Help &gt; LibreOffice Help&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154428Z" creationid="valter" creationdate="20240928T154428Z">
@@ -9008,6 +9016,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GS24801-LOBasics.odt</prop>
+      <prop type="prev">To display a toolbar, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, and select the name of a toolbar from the submenu.</prop>
+      <prop type="next">To close a toolbar, you can either:</prop>
+      <tuv lang="en-US">
+        <seg>All active toolbars have a check-mark next to their name.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T171003Z" creationid="Elisabetta" creationdate="20241023T171003Z">
+        <seg>Tutte le barre degli strumenti attive presentano un segno di spunta accanto al nome.</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">GS24801-LOBasics.odt</prop>
       <prop type="prev">Open the Styles deck in the Sidebar</prop>
