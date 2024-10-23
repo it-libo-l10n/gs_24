@@ -3231,6 +3231,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, this font replacement does not change the font specified in the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T155648Z" creationid="valter" creationdate="20241023T155648Z">
+        <seg>Questa sostituzione non modifica, tuttavia, il tipo di carattere specificato nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I am writing a software application.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191748Z" creationid="valter" creationdate="20211115T191748Z">
@@ -3291,6 +3299,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133143Z" creationid="valter" creationdate="20240928T133143Z">
         <seg>Se devono essere utilizzate le funzionalità di LibreOffice che richiedono Java, è importante che sia installata la corretta versione a 32 bit o a 64 bit corrispondente alla versione installata di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a document is received from another source it may contain fonts that that are not installed on the computer system being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T155344Z" creationid="valter" creationdate="20241023T155344Z">
+        <seg>Se ricevuto da un'altra fonte, un documento potrebbe contenere tipi di carattere che non sono installati nel sistema che si sta utilizzando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4109,6 +4125,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193548Z" creationid="valter" creationdate="20211115T193548Z">
         <seg>LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice can substitute any fonts it cannot locate using the fonts listed on the Fonts page when required.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T155556Z" creationid="valter" creationdate="20241023T155556Z">
+        <seg>LibreOffice è in grado di sostituire, se necessario, tutti i tipi di carattere non individuabili utilizzando i tipi elencati nella pagina Tipi di carattere.</seg>
       </tuv>
     </tu>
     <tu>
