@@ -663,6 +663,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;User Paths&lt;/f0&gt; is a user-specific folder and is normally located on a single computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T154316Z" creationid="valter" creationdate="20241023T154316Z">
+        <seg>&lt;f0&gt;Percorsi utente&lt;/f0&gt; è una cartella specifica dell'utente e si trova in genere in un singolo computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;What's This?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T094013Z" creationid="valter" creationdate="20211016T094013Z">
@@ -1651,6 +1659,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172203Z" creationid="valter" creationdate="20240928T172203Z">
         <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare le impostazioni e chiudere la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to return to the Options dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T154055Z" creationid="valter" creationdate="20241023T154055Z">
+        <seg>Fare clic su &lt;f2&gt;OK&lt;/f2&gt; per ritornare alla finestra di dialogo Opzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,6 +6106,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200918Z" creationid="valter" creationdate="20241021T200918Z">
         <seg>Alcuni tipi di carattere mostrano un'anteprima aggiuntiva di testo esemplificativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some items may have two paths listed as follows:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T154150Z" creationid="valter" creationdate="20241023T154150Z">
+        <seg>Alcune voci possono avere due percorsi, come specificato di seguito:</seg>
       </tuv>
     </tu>
     <tu>
