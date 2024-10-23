@@ -3728,6 +3728,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the &lt;f1&gt;Application background&lt;/f1&gt; is set to Automatic, 40% grey is used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T174739Z" creationid="valter" creationdate="20241023T174739Z">
+        <seg>Se &lt;f1&gt;Sfondo di applicazione&lt;/f1&gt; è impostato su Automatic, il 40% grigio viene utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the LibreOffice features that require Java are to be used, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T183031Z" creationid="valter" creationdate="20240929T183031Z">
@@ -6903,6 +6911,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some user interface elements cannot be hidden.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T174306Z" creationid="valter" creationdate="20241023T174306Z">
+        <seg>Alcuni elementi dell'interfaccia utente non possono essere nascosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies how two-digit years are interpreted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160804Z" creationid="valter" creationdate="20241017T160804Z">
@@ -7337,8 +7353,8 @@
       <tuv lang="en-US">
         <seg>The color settings for &lt;f0&gt;Visited links&lt;/f0&gt; and &lt;f1&gt;Unvisited links&lt;/f1&gt; only apply to documents created after the settings are applied.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241023T174147Z" creationid="valter" creationdate="20241023T174147Z">
-        <seg>[fuzzy]Le impostazioni di colore per &lt;f0&gt;Link visitati&lt;/f0&gt; e &lt;f1&gt;Link non visitati&lt;/f1&gt; si applicano solo ai documenti creati dopo l'applicazione delle impostazioni.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T174242Z" creationid="valter" creationdate="20241023T174147Z">
+        <seg>Le impostazioni colori per &lt;f0&gt;Collegamenti visitati&lt;/f0&gt; e &lt;f1&gt;Collegamenti non visitati&lt;/f1&gt; si applicano solo ai documenti creati dopo l'applicazione delle impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8035,6 +8051,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enhance cursor visibility, set the &lt;f0&gt;Application background&lt;/f0&gt; to between 40% and 60% grey.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T174521Z" creationid="valter" creationdate="20241023T174521Z">
+        <seg>Per migliorare la visibilità del cursore, impostare lo &lt;f0&gt;sfondo dell'applicazione&lt;/f0&gt; tra il 40% e il 60% di grigio.</seg>
       </tuv>
     </tu>
     <tu>
