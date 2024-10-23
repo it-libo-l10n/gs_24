@@ -6094,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a font size for the display of HTML, Basic and SQL Source code.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161739Z" creationid="valter" creationdate="20241023T161739Z">
+        <seg>Selezionare la dimensione del carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select text, table, or object.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174644Z" creationid="valter" creationdate="20241017T174627Z">
@@ -8735,6 +8743,17 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155516Z" creationid="valter" creationdate="20241017T155516Z">
         <seg>Guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GS24812-ConfiguringLO.odt</prop>
+      <prop type="prev">Mark this check box to display only non-proportional fonts in the Fonts list box.</prop>
+      <prop type="next">Select a font size for the display of HTML, Basic and SQL Source code.</prop>
+      <tuv lang="en-US">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161709Z" creationid="valter" creationdate="20241023T161709Z">
+        <seg>Dimensione</seg>
       </tuv>
     </tu>
     <tu>
