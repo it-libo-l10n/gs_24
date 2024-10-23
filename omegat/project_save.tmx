@@ -1727,6 +1727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Options&lt;/f0&gt; to open the Security and Warning Options dialog giving access to options for restricting what information can be changed or seen in a document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162150Z" creationid="valter" creationdate="20241023T162150Z">
+        <seg>Fare clic su &lt;f0&gt;Opzioni&lt;/f0&gt; per aprire la finestra di dialogo Opzioni di sicurezza e avvisi che fornisce accesso alle opzioni per limitare le informazioni modificabili o visualizzabili in un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the chevron &lt;f3&gt;&gt;&lt;/f3&gt; next to LibreOffice to select a category from the drop-down list and display the relevant page on the right-hand side of the dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T152720Z" creationid="valter" creationdate="20241017T152720Z">
@@ -2819,6 +2827,15 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T103445Z" creationid="valter" creationdate="20240928T103445Z">
         <seg>Per ulteriori dettagli, consultare le guide utente relative ai singoli moduli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>VM: cambiare l'URL del collegamento con quello italiano.</note>
+      <tuv lang="en-US">
+        <seg>For more information on Security Options and Warnings, see LibreOffice Help: &lt;a1&gt;https://help.libreoffice.org/7.4/en-GB/text/shared/optionen/securityoptionsdialog.html&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T162449Z" creationid="valter" creationdate="20241023T162449Z">
+        <seg>Per ulteriori informazioni sulle opzioni di sicurezza e gli avvisi, si veda la Guida di LibreOffice: &lt;a1&gt;https://help.libreoffice.org/7.4/it/text/shared/optionen/securityoptionsdialog.html&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5129,6 +5146,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Security page of the Options LibreOffice dialog (Figure &lt;t0&gt;7&lt;/t0&gt;), the security options for saving documents and for opening documents that contain macros can be selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161942Z" creationid="valter" creationdate="20241023T161942Z">
+        <seg>Nella pagina Sicurezza della finestra di dialogo Opzioni di LibreOffice (Figura &lt;t0&gt;7&lt;/t0&gt;), possono essere selezionate le opzioni di sicurezza per il salvataggio dei documenti e per l'apertura di documenti che contengono macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the User Data page of the Options LibreOffice dialog (Figure &lt;t0&gt;1&lt;/t0&gt;), the details of a LibreOffice user can be entered and stored.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153502Z" creationid="valter" creationdate="20241017T153502Z">
@@ -5985,6 +6010,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105643Z" creationid="valter" creationdate="20241017T105643Z">
         <seg>Sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Security Options and Warnings</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T161952Z" creationid="valter" creationdate="20241023T161952Z">
+        <seg>Opzioni di sicurezza e avvisi</seg>
       </tuv>
     </tu>
     <tu>
