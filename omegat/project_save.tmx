@@ -511,6 +511,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Internal Paths&lt;/f0&gt; is a shared folder where LibreOffice is installed which is normally on a network.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T154458Z" creationid="valter" creationdate="20241023T154458Z">
+        <seg>&lt;f0&gt;&gt;Percorsi interni&lt;/f0&gt; è una cartella condivisa in cui è installato LibreOffice e in genere risiede in una rete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;requires macOS 10.15 or newer to run.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212247Z" creationid="valter" creationdate="20240928T212247Z">
@@ -6438,6 +6446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Fonts page on the Options LibreOffice dialog (Figure &lt;t0&gt;6&lt;/t0&gt;) allows the definition of any replacements for any fonts that might appear in documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T155109Z" creationid="valter" creationdate="20241023T155109Z">
+        <seg>La pagina Tipi di carattere nella finestra di dialogo Opzioni di LibreOffice (Figura &lt;t0&gt;6&lt;/t0&gt;) consente di definire le sostituzioni per qualsiasi tipo di carattere presente nei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Galaxy, Oxygen, &lt;f0&gt;and Tango&lt;/f0&gt; icon sets are no longer included as part of the standard installation package.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184635Z" creationid="valter" creationdate="20211115T184635Z">
@@ -7372,6 +7388,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T172114Z" creationid="valter" creationdate="20241017T172114Z">
         <seg>Usare il Gestore estensioni per visualizzare le estensioni installate e individuare quelle da installare in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the entries on the Paths page of the Options LibreOffice dialog to compile a list of files, such as those containing AutoText, that are required to create a back up or copy to another computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T154721Z" creationid="valter" creationdate="20241023T154721Z">
+        <seg>Utilizzare le voci nella pagina Percorsi della finestra di dialogo Opzioni di LibreOffice per compilare un elenco di file, ad esempio quelli contenenti il Testo automatico, necessari per creare copie di sicurezza o copiare su un altro computer.</seg>
       </tuv>
     </tu>
     <tu>
