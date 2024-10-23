@@ -8169,6 +8169,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it is necessary to reduce the number of toolbars displayed and provide more space for a document, the user interface can be changed to a single-toolbar as an alternative to the default double-toolbar user interface.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T165259Z" creationid="Elisabetta" creationdate="20241023T165259Z">
+        <seg>Quando è necessario ridurre il numero di barre degli strumenti visualizzate e fornire più spazio per un documento, l'interfaccia utente può essere modificata in una barra degli strumenti singola come alternativa all'interfaccia utente predefinita a doppia barra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When printing a document with transparencies, a dialog opens to enable selection if the transparency is to be printed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204249Z" creationid="valter" creationdate="20241021T204249Z">
