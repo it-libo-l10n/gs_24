@@ -1047,6 +1047,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201917Z" creationid="valter" creationdate="20241023T201917Z">
+        <seg>Aggiungi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a path to the root folder of a JRE on a computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201952Z" creationid="valter" creationdate="20241023T201952Z">
+        <seg>Aggiunge un percorso alla cartella radice di un JRE sul computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional options, and more details about the options in this user guide, are covered in LibreOffice Help.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110603Z" creationid="valter" creationdate="20241017T110603Z">
@@ -1855,6 +1871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Class Path</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202135Z" creationid="valter" creationdate="20241023T202135Z">
+        <seg>Percorso classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Certificate&lt;/f0&gt; and select which certificate store to use.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T165855Z" creationid="valter" creationdate="20241023T165855Z">
@@ -2555,6 +2579,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T155626Z" creationid="valter" creationdate="20240929T200352Z">
         <seg>I messaggi di posta elettronica inviati al forum sono sottoposti a moderazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable experimental features (may be unstable)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202321Z" creationid="valter" creationdate="20241023T202321Z">
+        <seg>Abilita le funzionalità sperimentali (potenzialmente instabile)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5786,6 +5818,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens the Class Path dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202159Z" creationid="valter" creationdate="20241023T202159Z">
+        <seg>Apre la finestra di dialogo Percorso classi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Java Start Parameters dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202119Z" creationid="valter" creationdate="20241023T202119Z">
+        <seg>Apre la finestra di dialogo Parametri di avvio Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the default browser at the Ask LibreOffice forum of questions and answers from the LibreOffice community, &lt;a0&gt;https://ask.libreoffice.org&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161713Z" creationid="valter" creationdate="20240928T161713Z">
@@ -5834,6 +5882,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204802Z" creationid="valter" creationdate="20241005T204802Z">
         <seg>Sistema operativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optional Features</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202212Z" creationid="valter" creationdate="20241023T202212Z">
+        <seg>Funzionalità opzionali</seg>
       </tuv>
     </tu>
     <tu>
@@ -6034,6 +6090,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203205Z" creationid="valter" creationdate="20241021T203205Z">
         <seg>Dimensione carta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202030Z" creationid="valter" creationdate="20241023T202030Z">
+        <seg>Parametri</seg>
       </tuv>
     </tu>
     <tu>
@@ -6867,6 +6931,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204115Z" creationid="valter" creationdate="20241021T204115Z">
         <seg>Selezionare questa opzione se è richiesto un avviso per indicare la presenza di oggetti trasparenti nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to enable features that are not yet complete, or contain known bugs.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202435Z" creationid="valter" creationdate="20241023T202435Z">
+        <seg>Selezionando questa opzione vengono abilitate delle funzionalità incomplete o aventi difetti conosciuti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7875,6 +7947,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155303Z" creationid="valter" creationdate="20240928T155303Z">
         <seg>Le opzioni seguite da un segno ‡ nell'elenco sotto riportato sono accessibili solo se il computer è collegato a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The path is set in the Select Path dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T202025Z" creationid="valter" creationdate="20241023T202025Z">
+        <seg>Il percorso viene impostato nella finestra di dialogo Seleziona percorso.</seg>
       </tuv>
     </tu>
     <tu>
