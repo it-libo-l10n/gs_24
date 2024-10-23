@@ -975,6 +975,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tool palette is a pop-up collection of tools attached to a single tool on a toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T174626Z" creationid="Elisabetta" creationdate="20241023T174626Z">
+        <seg>Una tavolozza degli strumenti è una raccolta a comparsa di strumenti collegata a un singolo strumento di una barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191302Z" creationid="akurery" creationdate="20211211T191302Z">
@@ -1867,6 +1875,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T182527Z" creationid="valter" creationdate="20241016T182527Z">
         <seg>Facendo clic sul nome di un modulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking on the triangle will display submenus containing further commands, tool palettes, or alternative methods of selecting items.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T174355Z" creationid="Elisabetta" creationdate="20241023T174355Z">
+        <seg>Fare clic sul triangolo visualizzerà il sottomenus contenente ulteriori comandi, tabelle degli strumenti o metodi alternativi di selezione degli elementi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3304,6 +3320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T172505Z" creationid="Elisabetta" creationdate="20241023T172505Z">
+        <seg>Accedere a &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; sulla barra dei menu e deselezionare la barra degli strumenti, o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; User Interface&lt;/f0&gt; on the Menu bar to change the user interface.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180810Z" creationid="valter" creationdate="20241016T201759Z">
@@ -3636,6 +3660,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155344Z" creationid="valter" creationdate="20241023T155344Z">
         <seg>Se ricevuto da un'altra fonte, un documento potrebbe contenere tipi di carattere che non sono installati nel sistema che si sta utilizzando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a toolbar item has submenus, there will be a small triangle ▼ to the right of the tool’s icon.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T174300Z" creationid="Elisabetta" creationdate="20241023T174300Z">
+        <seg>Se una voce della barra degli strumenti contiene sottomenu, sarà visibile un piccolo triangolo ▼ a destra dell'icona dello strumento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6206,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click in an empty space between the icons on a toolbar and select &lt;f0&gt;Close Toolbar&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T172536Z" creationid="Elisabetta" creationdate="20241023T172536Z">
+        <seg>Fare clic con il pulsante destro del mouse in uno spazio vuoto tra le icone in una barra degli strumenti e selezionare &lt;f0&gt;Chiudi barra degli strumenti&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rob Westein</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101754Z" creationid="valter" creationdate="20211016T101754Z">
@@ -7283,6 +7323,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180932Z" creationid="valter" creationdate="20241016T202011Z">
         <seg>La barra del Titolo è collocata nella parte superiore della finestra di LibreOffice e indica il nome del file del documento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The View menu does not include floating toolbars that were created from tool palettes, but they are displayed in the LibreOffice window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T174044Z" creationid="Elisabetta" creationdate="20241023T173709Z">
+        <seg>Le barre mobili create dalle tavolozze degli strumenti non sono elencate nel menu Visualizza, ma sono visibili nella finestra di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
