@@ -1543,6 +1543,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By adding a JRE to the $PATH variable.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201840Z" creationid="valter" creationdate="20241023T201840Z">
+        <seg>Aggiungendo un JRE alla variabile $PATH.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, LibreOffice Calc uses its own formula syntax, referred to as Calc &lt;f0&gt;A&lt;/f0&gt;1, rather than the Excel &lt;f1&gt;A&lt;/f1&gt;1 syntax that is used by Microsoft Excel.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191447Z" creationid="akurery" creationdate="20211211T191447Z">
@@ -1555,6 +1563,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180638Z" creationid="valter" creationdate="20241016T201602Z">
         <seg>Per impostazione predefinita, i comandi di LibreOffice sono raggruppati nell'interfaccia utente nella barra degli strumenti Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By providing the configuration file for the computer operating system in the folder &lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201906Z" creationid="valter" creationdate="20241023T201906Z">
+        <seg>Fornendo il file di configurazione per il sistema operativo del computer nella cartella &lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By setting the environment variable JAVA_HOME.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201832Z" creationid="valter" creationdate="20241023T201832Z">
+        <seg>Impostando la variabile ambiente JAVA_HOME.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4433,6 +4457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Java runtime environments (JRE) already installed</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201551Z" creationid="valter" creationdate="20241023T201551Z">
+        <seg>Java runtime ambienti (JRE) già installati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Java software</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101934Z" creationid="valter" creationdate="20240928T101934Z">
@@ -5526,6 +5558,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T180954Z" creationid="valter" creationdate="20240928T180954Z">
         <seg>Sul sistema operativo Mac, andare a &lt;f0&gt;LibreOffice &gt; Preferenze &gt; LibreOffice &gt; Vista&lt;/f0&gt;, sulla barra dei menu, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On some systems, LibreOffice has to be restarted to use any changed settings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201729Z" creationid="valter" creationdate="20241023T201729Z">
+        <seg>In alcuni sistemi sarà necessario riavviare LibreOffice per applicare le modifiche alle impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On some systems, it may take at least a minute until the list is populated.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201623Z" creationid="valter" creationdate="20241023T201623Z">
+        <seg>In alcuni sistemi, è necessario attendere un minuto prima che l'elenco appaia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6751,6 +6799,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the JRE required.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201604Z" creationid="valter" creationdate="20241023T201604Z">
+        <seg>Selezionare il JRE richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the colors for the user interface elements.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T173816Z" creationid="valter" creationdate="20241023T173816Z">
@@ -7623,6 +7679,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default JRE of the operating system can be overridden with one of the following alternatives:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201821Z" creationid="valter" creationdate="20241023T201821Z">
+        <seg>Il JRE predefinito del sistema operativo può essere ignorato con una delle seguenti alternative:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default controls for other modules may vary.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170906Z" creationid="Elisabetta" creationdate="20241021T170906Z">
@@ -7811,6 +7875,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155303Z" creationid="valter" creationdate="20240928T155303Z">
         <seg>Le opzioni seguite da un segno ‡ nell'elenco sotto riportato sono accessibili solo se il computer è collegato a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The path to the JRE is displayed beneath the list box.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201746Z" creationid="valter" creationdate="20241023T201746Z">
+        <seg>Il percorso al JRE è mostrato sotto l'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8051,6 +8123,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181458Z" creationid="valter" creationdate="20241016T202753Z">
         <seg>Presentano comandi in grado di eseguire una delle operazioni seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This allows the running of Java applications in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201441Z" creationid="valter" creationdate="20241023T201441Z">
+        <seg>Consente l'esecuzione delle applicazioni Java in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8513,6 +8593,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use a Java runtime environment</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201423Z" creationid="valter" creationdate="20241023T201423Z">
+        <seg>Usa un ambiente runtime Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use anti-aliasing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174953Z" creationid="valter" creationdate="20241017T174953Z">
@@ -8853,6 +8941,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T151749Z" creationid="valter" creationdate="20240928T151749Z">
         <seg>Quando LibreOffice viene scaricato attraverso gli app store ufficiali, seguire le istruzioni per l'installazione fornite dallo store.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a Java application attempts to access a hard drive, a prompt opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T201527Z" creationid="valter" creationdate="20241023T201527Z">
+        <seg>Quando un'applicazione Java tenta di accedere al disco rigido, compare una richiesta di conferma.</seg>
       </tuv>
     </tu>
     <tu>
