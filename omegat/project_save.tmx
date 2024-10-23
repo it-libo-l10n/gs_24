@@ -2431,6 +2431,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click on a listed preference to enter a value to configure the preference.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T203122Z" creationid="valter" creationdate="20241023T203122Z">
+        <seg>Fare doppio clic su una preferenza presente in elenco per inserire un valore e configurarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download links can be found at: &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133019Z" creationid="valter" creationdate="20240928T133019Z">
@@ -3948,6 +3956,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203432Z" creationid="valter" creationdate="20241021T203432Z">
         <seg>Se il formato della carta richiesto per il documento non è disponibile nella stampante attiva, comparirà un messaggio di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there is no knowledge what an option does, it is best to leave the option at its default setting.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T203357Z" creationid="valter" creationdate="20241023T203357Z">
+        <seg>Se non si sa cosa fa un'opzione, è meglio lasciarla nella sua impostazione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7655,6 +7671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Expert Configuration dialog lets a user access, edit, and save configuration preferences that can make the user profile of LibreOffice unstable, inconsistent, or even unusable.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T203248Z" creationid="valter" creationdate="20241023T203248Z">
+        <seg>La finestra di dialogo Configurazione avanzata consente di accedere, modificare e salvare le preferenze di configurazione, che possono rendere il profilo utente di LibreOffice instabile, incoerente o persino inutilizzabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Fonts page on the Options LibreOffice dialog (Figure &lt;t0&gt;6&lt;/t0&gt;) allows the definition of any replacements for any fonts that might appear in documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155109Z" creationid="valter" creationdate="20241023T155109Z">
@@ -7819,6 +7843,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170906Z" creationid="Elisabetta" creationdate="20241021T170906Z">
         <seg>I controlli predefiniti per gli altri moduli possono variare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dialog offers detailed configuration options for many aspects of the LibreOffice appearance and performance.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241023T203028Z" creationid="valter" creationdate="20241023T203028Z">
+        <seg>La finestra di dialogo offre molte opzioni di configurazione dettagliate relative all'aspetto e alle prestazioni di LibreOffice. </seg>
       </tuv>
     </tu>
     <tu>
