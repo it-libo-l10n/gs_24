@@ -22,3 +22,4 @@ User Interface dialog	Finestra di dialogo Scegli la tua interfaccia preferita	UI
 Accessibility	Accesso facilitato
 sub-toolbars	barre degli strumenti secondarie
 Lock Toolbars	Blocca barre degli strumenti	UI
+Lock Toolbar Position	Blocca posizione della barra degli strumenti
