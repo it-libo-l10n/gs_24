@@ -7959,6 +7959,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The check mark next to &lt;f1&gt;Lock Toolbar Position&lt;/f1&gt; is removed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T183517Z" creationid="Elisabetta" creationdate="20241030T183517Z">
+        <seg>Il segno di spunta accanto a &lt;f1&gt;Blocca posizione della barra degli strumenti&lt;/f1&gt; viene rimosso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color settings for &lt;f0&gt;Visited links&lt;/f0&gt; and &lt;f1&gt;Unvisited links&lt;/f1&gt; only apply to documents created after the settings are applied.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174242Z" creationid="valter" creationdate="20241023T174147Z">
@@ -8821,6 +8829,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193231Z" creationid="valter" creationdate="20211115T193231Z">
         <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To unlock a single toolbar so that it can be repositioned, or used as a floating toolbar, right‑click in an empty space on the toolbar and select &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; from the submenu that opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T183457Z" creationid="Elisabetta" creationdate="20241030T183457Z">
+        <seg>Per sbloccare una  barra degli strumenti e poterla riposizionare o utilizzare come barra degli strumenti mobile, fare clic con il pulsante destro del mouse su uno spazio vuoto della barra degli strumenti e selezionare &lt;f0&gt;Blocca posizione della barra degli strumenti&lt;/f0&gt; dal sottomenu che si apre.</seg>
       </tuv>
     </tu>
     <tu>
