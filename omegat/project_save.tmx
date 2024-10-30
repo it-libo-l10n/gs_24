@@ -6927,6 +6927,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See “&lt;bf0&gt;Locking and unlocking toolbars&lt;/bf0&gt;” &lt;bf1&gt;below&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T173221Z" creationid="Elisabetta" creationdate="20241030T173221Z">
+        <seg>Vedere “&lt;bf0&gt;Bloccare e sbloccare le barre degli strumenti&lt;/bf0&gt;” &lt;bf1&gt;di seguito&lt;/bf1&gt;&lt;s2/&gt;per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Always&lt;/f0&gt; to replace both the screen font and the printer font, even if the original font is installed on a computer system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160100Z" creationid="valter" creationdate="20241023T155942Z">
