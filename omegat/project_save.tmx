@@ -1919,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Basic Shapes&lt;/f0&gt; on the Drawing toolbar to open the tool palette.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172653Z" creationid="Elisabetta" creationdate="20241030T172653Z">
+        <seg>Fare clic su &lt;f0&gt;Forme di base&lt;/f0&gt; nella barra degli strumenti Disegno per aprire la tavolozza degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Macro Security&lt;/f0&gt; to open the Macro Security dialog where the security level for executing macros and specified trusted sources can be adjusted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T164731Z" creationid="valter" creationdate="20241023T164731Z">
@@ -1931,6 +1939,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T162150Z" creationid="valter" creationdate="20241023T162150Z">
         <seg>Fare clic su &lt;f0&gt;Opzioni&lt;/f0&gt; per aprire la finestra di dialogo Opzioni di sicurezza e avvisi che fornisce accesso alle opzioni per limitare le informazioni modificabili o visualizzabili in un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the toolbar handle (highlighted in Figure &lt;t0&gt;2&lt;/t0&gt;) and drag the tool palette onto the open document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172717Z" creationid="Elisabetta" creationdate="20241030T172717Z">
+        <seg>Fare clic sulla maniglia della barra degli strumenti (evidenziata in figura&lt;t0&gt;2&lt;/t0&gt;) e trascinare la tavolozza degli strumenti sul documento aperto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2707,6 +2723,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
         <seg>Qualsiasi cosa invierete a una mailing list, incluso il vostro indirizzo di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, sarà archiviata pubblicamente e non potrà essere eliminata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example of creating floating sub-toolbar from a tool palette</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172548Z" creationid="Elisabetta" creationdate="20241030T172548Z">
+        <seg>Esempio di creazione di barra degli strumenti secondaria mobile da una tavolozza degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -3988,6 +4012,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203432Z" creationid="valter" creationdate="20241021T203432Z">
         <seg>Se il formato della carta richiesto per il documento non è disponibile nella stampante attiva, comparirà un messaggio di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the toolbar handle is not visible, the tool palette, or toolbar, is locked into its docked position and has to be unlocked.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T173054Z" creationid="Elisabetta" creationdate="20241030T173054Z">
+        <seg>Se la maniglia della barra degli strumenti non è visibile, la tavolozza degli strumenti o la barra degli strumenti è bloccata nella sua posizione agganciata e deve essere sbloccata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6578,6 +6610,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
         <seg>Regina Henschel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release the toolbar handle and the tool palette becomes a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172802Z" creationid="Elisabetta" creationdate="20241030T172802Z">
+        <seg>Rilasciare la maniglia della barra degli strumenti e la tavolozza degli strumenti diventa una barra mobile.</seg>
       </tuv>
     </tu>
     <tu>
