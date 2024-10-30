@@ -3992,6 +3992,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the command &lt;f2&gt;Lock Toolbars&lt;/f2&gt; has a check mark next to it, all toolbars will be locked.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T180648Z" creationid="Elisabetta" creationdate="20241030T180648Z">
+        <seg>Se accanto al comando &lt;f2&gt;Blocca barre degli strumenti&lt;/f2&gt; è presente un segno di spunta, tutte le barre degli strumenti saranno bloccate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the format used by the current document is not available from the printer, an error message opens.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203600Z" creationid="valter" creationdate="20241021T203600Z">
@@ -4838,6 +4846,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T214300Z" creationid="valter" creationdate="20240928T214300Z">
         <seg>LibreOffice è stato tradotto (localizzato per più dell'80%, sia interfaccia, sia guida) in più di 46 lingue, quindi la lingua ricercata è probabilmente supportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice has to be restarted to lock all toolbars.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T173730Z" creationid="Elisabetta" creationdate="20241030T173730Z">
+        <seg>LibreOffice deve essere riavviato per bloccare tutte le barre degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
