@@ -767,6 +767,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s0&gt;&lt;s1&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T161854Z" creationid="Elisabetta" creationdate="20241030T161854Z">
+        <seg>&lt;s0&gt;Esempio di creazione di sub-toolbar galleggiante da una tavolozza degli strumenti&lt;/s0&gt;&lt;s1&gt;Esempio di creazione di sub-toolbar galleggiante da una tavolozza degli strumenti&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T095653Z" creationid="valter" creationdate="20240928T095653Z">
@@ -8715,8 +8723,8 @@
       <tuv lang="en-US">
         <seg>Tool palettes can be made into floating sub-toolbars using the following example:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T161627Z" creationid="Elisabetta" creationdate="20241023T174631Z">
-        <seg>Le tavolozze degli strumenti possono essere trasformate in barre degli strumenti mobili con l'esempio seguente:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172412Z" creationid="Elisabetta" creationdate="20241023T174631Z">
+        <seg>Le tavolozze degli strumenti possono essere trasformate in barre degli strumenti secondarie mobili in base all'esempio seguente:</seg>
       </tuv>
     </tu>
     <tu>
