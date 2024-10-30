@@ -21,3 +21,4 @@ Single Toolbar	Barra degli strumenti singola	Menu UI
 User Interface dialog	Finestra di dialogo Scegli la tua interfaccia preferita	UI
 Accessibility	Accesso facilitato
 sub-toolbars	barre degli strumenti secondarie
+Lock Toolbars	Blocca barre degli strumenti	UI
