@@ -3800,6 +3800,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if you single toolbar to prevent it from being repositioned, or turned into a floating toolbar, right‑click in an empty space on the toolbar and select &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; from the submenu that opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T183040Z" creationid="Elisabetta" creationdate="20241030T183040Z">
+        <seg>Tuttavia, per evitare che una singola barra degli strumenti venga riposizionata o trasformata in una barra mobile, fare clic con il pulsante destro del mouse su uno spazio vuoto della barra degli strumenti e selezionare &lt;f0&gt;Blocca posizione della barra degli strumenti&lt;/f0&gt; dal sottomenu che si apre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, reducing print data can result in slightly lower print quality.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202653Z" creationid="valter" creationdate="20241021T202653Z">
@@ -5790,6 +5798,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153502Z" creationid="valter" creationdate="20241017T153502Z">
         <seg>Nella pagina Dati utente della finestra di dialogo Opzioni di LibreOffice (Figura &lt;t0&gt;1&lt;/t0&gt;) possono essere immessi e memorizzati i dettagli di un utente di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you have finished unlocking the toolbars, the check mark will removed from the command &lt;f2&gt;Lock Toolbars&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T181156Z" creationid="Elisabetta" creationdate="20241030T181156Z">
+        <seg>Una volta terminato lo sblocco delle barre degli strumenti, il segno di spunta verrà rimosso dal comando &lt;f2&gt;Blocca barre degli strumenti&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
