@@ -8711,6 +8711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To finish unlocking all toolbars, LibreOffice has to be restarted to complete this task.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T181103Z" creationid="Elisabetta" creationdate="20241030T181103Z">
+        <seg>Per completare lo sblocco di tutte le barre degli strumenti, è necessario riavviare LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get the required JDK, select the macOS option at &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T182811Z" creationid="valter" creationdate="20241023T182641Z">
