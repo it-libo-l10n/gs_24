@@ -8793,6 +8793,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To unlock all toolbars and allow all toolbars to be repositioned, or turned into floating toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Lock Toolbars&lt;/f1&gt; on the submenu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T180936Z" creationid="Elisabetta" creationdate="20241030T180936Z">
+        <seg>Per sbloccare tutte le barre degli strumenti e consentirne il riposizionamento, o per trasformarle in barre mobili, accedere a &lt;f0&gt;Visualizza &gt; Barra degli strumenti&lt;/f0&gt; nella barra dei menu e selezionare &lt;f1&gt;Blocca barre degli strumenti&lt;/f1&gt; nel sottomenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To use Impress for more than very simple slide shows requires some knowledge of the elements which the slides contain.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
