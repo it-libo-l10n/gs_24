@@ -8527,6 +8527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This dotted toolbar handle is highlighted in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181709Z" creationid="Elisabetta" creationdate="20241104T181709Z">
+        <seg>Questa maniglia tratteggiata della barra degli strumenti è evidenziata nella Figura&lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This guide uses the LibreOffice Open and Save dialogs in illustrations.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160201Z" creationid="valter" creationdate="20241017T160201Z">
