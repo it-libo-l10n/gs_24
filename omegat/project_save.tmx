@@ -7135,6 +7135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the downward triangle ▼ on the toolbar title bar, then select &lt;f0&gt;Dock Toolbar&lt;/f0&gt; from the available options.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T185100Z" creationid="Elisabetta" creationdate="20241104T185100Z">
+        <seg>Selezionare il triangolo verso il basso ▼ sulla barra del titolo della barra degli strumenti, quindi &lt;f0&gt;Aggancia barra degli strumenti&lt;/f0&gt; dalle opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the font and font size for the display of HTML and Basic source code.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161325Z" creationid="valter" creationdate="20241023T161325Z">
