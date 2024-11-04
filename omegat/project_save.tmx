@@ -3191,6 +3191,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, the docked position for the Bullets and Numbering toolbar is at the bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T185201Z" creationid="Elisabetta" creationdate="20241104T185201Z">
+        <seg>Ad esempio, la posizione attraccata per i Bullets e la barra degli strumenti di numerazione è nella parte inferiore della finestra principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the drawing tools available in Writer are also found in Calc with similar, but enhanced versions in Impress and Draw.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115026Z" creationid="valter" creationdate="20240928T115026Z">
@@ -8395,6 +8403,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161847Z" creationid="valter" creationdate="20241017T161847Z">
         <seg>Il programma di notifica errori raccoglie tutte le informazioni necessarie per consentire ai programmatori di migliorare il codice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The toolbar is docked in its default position.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T185156Z" creationid="Elisabetta" creationdate="20241104T185156Z">
+        <seg>La barra degli strumenti verrà agganciata nella posizione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
