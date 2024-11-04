@@ -775,6 +775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of toolbar handles&lt;/s0&gt;&lt;s1&gt;Example of toolbar handles&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181752Z" creationid="Elisabetta" creationdate="20241104T181752Z">
+        <seg>&lt;s0&gt;Esempio di maniglie della barra degli strumenti&lt;/s0&gt;&lt;s1&gt;Esempio di maniglie della barra degli strumenti&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T095653Z" creationid="valter" creationdate="20240928T095653Z">
@@ -8539,6 +8547,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160201Z" creationid="valter" creationdate="20241017T160201Z">
         <seg>Questa guida utilizza le finestre di dialogo "Apri" e "Salva" di LibreOffice nelle illustrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This handle is used to control the location of the toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181727Z" creationid="Elisabetta" creationdate="20241104T181727Z">
+        <seg>Questa maniglia viene utilizzata per controllare la posizione della barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
