@@ -1967,6 +1967,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the toolbar handle and drag the toolbar to a new docked position, or create a floating toolbar, then release the toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183517Z" creationid="Elisabetta" creationdate="20241104T183517Z">
+        <seg>Fare clic sulla maniglia della barra degli strumenti e trascinarla in una nuova posizione agganciata, o creare una barra degli strumenti mobile, quindi rilasciarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the chevron &lt;f3&gt;&gt;&lt;/f3&gt; next to LibreOffice to select a category from the drop-down list and display the relevant page on the right-hand side of the dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T152720Z" creationid="valter" creationdate="20241017T152720Z">
@@ -9421,6 +9429,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181346Z" creationid="valter" creationdate="20241016T202551Z">
         <seg>Selezionando una voce dalla barra dei menu comparirà un sottomenu specifico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the toolbar becomes a floating toolbar, the toolbar handle disappears.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183555Z" creationid="Elisabetta" creationdate="20241104T183555Z">
+        <seg>Quando la barra degli strumenti diventa mobile, la maniglia scompare.</seg>
       </tuv>
     </tu>
     <tu>
