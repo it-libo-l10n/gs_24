@@ -7151,6 +7151,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the toolbar title bar and drag the toolbar into a location in which it can be docked.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T184057Z" creationid="Elisabetta" creationdate="20241104T184057Z">
+        <seg>Selezionare la barra del titolo della barra degli strumenti e trascinarla in una posizione che consenta di agganciarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the visibility mode (&lt;f0&gt;Automatic, Hide, Show&lt;/f0&gt;) to hide or show icons as well as text on the Menu bar and in shortcut items.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T173509Z" creationid="valter" creationdate="20241017T173509Z">
@@ -9829,6 +9837,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143207Z" creationid="Elisabetta Manuele" creationdate="20211110T143207Z">
         <seg>Con Impress potete creare diapositive contenenti molti elementi diversi, come testo, elenchi puntati e numerati, tabelle, diagrammi e un'ampia varietà di oggetti grafici come clip art, disegni e fotografie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can dock a toolbar at the top, the left side, and the bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T184316Z" creationid="Elisabetta" creationdate="20241104T184316Z">
+        <seg>È possibile agganciare una barra degli strumenti in alto, a sinistra, e in fondo alla finestra principale.</seg>
       </tuv>
     </tu>
     <tu>
