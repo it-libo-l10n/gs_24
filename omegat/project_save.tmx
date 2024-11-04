@@ -2751,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of toolbar handles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181805Z" creationid="Elisabetta" creationdate="20241104T181805Z">
+        <seg>Esempio di maniglie della barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extended tips</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155530Z" creationid="valter" creationdate="20241017T155530Z">
@@ -2891,6 +2899,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213408Z" creationid="valter" creationdate="20240928T213408Z">
         <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: finestra di dialogo mostrante un esempio dei controlli comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Example of toolbar handles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181801Z" creationid="Elisabetta" creationdate="20241104T181801Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Esempio di maniglie della barra degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5518,6 +5534,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T173517Z" creationid="valter" creationdate="20241017T173517Z">
         <seg>Mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move the cursor over the toolbar handle (the small vertical bar of dots to the left of a docked toolbar).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T182620Z" creationid="Elisabetta" creationdate="20241104T182620Z">
+        <seg>Spostare il cursore sulla maniglia della barra degli strumenti (cioè la piccola barra verticale a puntini sulla sinistra di una barra agganciata).</seg>
       </tuv>
     </tu>
     <tu>
