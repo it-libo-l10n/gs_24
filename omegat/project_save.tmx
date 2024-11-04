@@ -8015,6 +8015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cursor will change shape to the moving shape used by the computer system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183328Z" creationid="Elisabetta" creationdate="20241104T183328Z">
+        <seg>Il cursore assumerà la forma grafica dello spostamento prevista dal computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default JRE of the operating system can be overridden with one of the following alternatives:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201821Z" creationid="valter" creationdate="20241023T201821Z">
