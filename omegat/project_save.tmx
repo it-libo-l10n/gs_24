@@ -8471,6 +8471,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The toolbar can be moved to a different docked position&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T174314Z" creationid="Elisabetta" creationdate="20241106T174314Z">
+        <seg>La barra degli strumenti può essere spostata in una diversa posizione di aggancio&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The toolbar is docked in its default position.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T185156Z" creationid="Elisabetta" creationdate="20241104T185156Z">
@@ -8915,6 +8923,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To dock all floating toolbars in their default positions, select &lt;f0&gt;Dock All Toolbars&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T174439Z" creationid="Elisabetta" creationdate="20241106T174439Z">
+        <seg>Per agganciare tutte le barre degli strumenti mobili nelle rispettive posizioni predefinite, selezionare &lt;f0&gt;Aggancia tutte le barre degli strumenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
