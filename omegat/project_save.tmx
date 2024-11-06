@@ -7887,6 +7887,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That is, the top tool in the &lt;f1&gt;Visible Buttons&lt;/f1&gt; list is positioned at the left end of the toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T181824Z" creationid="Elisabetta" creationdate="20241106T181824Z">
+        <seg>Cioè, lo strumento più in alto nell'elenco &lt;f1&gt;Pulsanti visibili&lt;/f1&gt; è posizionato all'estremità sinistra della barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Automatic&lt;/f0&gt; color setting changes the user interface element to the preset color used by the selected color scheme.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174145Z" creationid="valter" creationdate="20241023T174145Z">
