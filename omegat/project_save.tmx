@@ -8487,6 +8487,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The toolbars can be moved to different docked positions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T174634Z" creationid="Elisabetta" creationdate="20241106T174634Z">
+        <seg>Le barre degli strumenti possono essere spostate in diverse posizioni di aggancio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161728Z" creationid="valter" creationdate="20241017T161728Z">
@@ -8963,6 +8971,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T173946Z" creationid="valter" creationdate="20241023T173946Z">
         <seg>Per nascondere un elemento dell'interfaccia utente, deselezionare l'elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To lock a docked toolbar into its docked position, select &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T175245Z" creationid="Elisabetta" creationdate="20241106T175245Z">
+        <seg>Per bloccare una barra degli strumenti agganciata nella sua posizione, selezionare &lt;f0&gt;Blocca posizione della barra degli strumenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
