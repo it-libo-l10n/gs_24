@@ -8903,6 +8903,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To close the selected toolbar, click on the X on the right of the toolbar title bar or select &lt;f0&gt;Close Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T175814Z" creationid="Elisabetta" creationdate="20241106T175814Z">
+        <seg>Per chiudere la barra degli strumenti selezionata, fare clic sulla X a destra della barra del titolo o selezionare &lt;f0&gt;Chiudi barra degli strumenti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To customize a toolbar, you can add tools listed in &lt;f0&gt;Visible Buttons&lt;/f0&gt;, or add new tools to a toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T173025Z" creationid="Elisabetta" creationdate="20241106T173025Z">
