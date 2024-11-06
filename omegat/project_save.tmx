@@ -1247,6 +1247,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, you can access the customization options for a toolbar by right-clicking in an empty space on a docked toolbar or clicking on the downward triangle ▼ on the title bar of a floating toolbar to open a context menu:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T173343Z" creationid="Elisabetta" creationdate="20241106T173343Z">
+        <seg>Inoltre, è possibile accedere alle opzioni di personalizzazione per una barra degli strumenti facendo clic con il pulsante destro del mouse su uno spazio vuoto di una barra degli strumenti agganciata o selezionando il triangolo verso il basso ▼ nella barra del titolo di una barra degli strumenti mobile per aprire un menu contestuale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alt</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212752Z" creationid="valter" creationdate="20240928T212752Z">
