@@ -9489,6 +9489,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you are moving a toolbar into a docked location, LibreOffice will indicate that the toolbar is in a docked position when you see a hashed border around the toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T171531Z" creationid="Elisabetta" creationdate="20241106T171531Z">
+        <seg>Se si sposta una barra degli strumenti in una posizione di aggancio, LibreOffice segnala che la barra è agganciata quando appare delimitata da un bordo tratteggiato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190402Z" creationid="valter" creationdate="20211115T190402Z">
