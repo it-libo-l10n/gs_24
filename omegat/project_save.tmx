@@ -8391,6 +8391,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The remaining tools are positioned on the toolbar in a position that matches its list position.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T182101Z" creationid="Elisabetta" creationdate="20241106T182101Z">
+        <seg>Gli strumenti restanti sono disposti sulla barra in una posizione corrispondente a quella dell'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The resolution can only be reduced and not increased.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202245Z" creationid="valter" creationdate="20241021T202245Z">
