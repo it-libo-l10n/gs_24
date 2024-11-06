@@ -8103,6 +8103,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Status bar is located at the bottom of the workspace.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T182857Z" creationid="Elisabetta" creationdate="20241106T182857Z">
+        <seg>La barra di stato si trova nella parte inferiore dello spazio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Title bar is located at the top of the LibreOffice window and it shows the file name of the current document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180932Z" creationid="valter" creationdate="20241016T202011Z">
@@ -9149,6 +9157,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
         <seg>L'uso di Impress per una presentazione che non sia di livello estremamente semplice richiede la conoscenza degli elementi contenuti nelle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use these options, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences LibreOffice &gt; View&lt;/f1&gt;) and select the options available in &lt;f2&gt;Visibility&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T182843Z" creationid="Elisabetta" creationdate="20241106T182843Z">
+        <seg>Per utilizzare queste opzioni, accedere a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze LibreOffice &gt; Vista&lt;/f1&gt;) e selezionare le opzioni disponibili in &lt;f2&gt;Visibilità&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
