@@ -7567,6 +7567,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some toolbars in LibreOffice are context sensitive and only open when an object is selected, or the cursor has been positioned in text.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T172619Z" creationid="Elisabetta" creationdate="20241106T172619Z">
+        <seg>Alcune barre degli strumenti di LibreOffice sono sensibili al contesto e si aprono solo quando viene selezionato un oggetto o il cursore è posizionato nel testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some user interface elements cannot be hidden.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174306Z" creationid="valter" creationdate="20241023T174306Z">
