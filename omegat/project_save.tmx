@@ -1327,6 +1327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An image is selected and the Image toolbar opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T172751Z" creationid="Elisabetta" creationdate="20241106T172751Z">
+        <seg>Viene selezionata un'immagine e si apre la barra degli strumenti Immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An interactive web page that guides users in contributing with their best skills available at &lt;a1&gt;https://whatcanidoforlibreoffice.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T183614Z" creationid="valter" creationdate="20240929T183614Z">
@@ -3211,6 +3219,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204857Z" creationid="valter" creationdate="20241021T204857Z">
         <seg>Ad esempio, si potrebbero voler salvare in maniera predefinita i documenti in una cartella diversa da &lt;f1&gt;Documenti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T172621Z" creationid="Elisabetta" creationdate="20241106T172621Z">
+        <seg>Ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8071,6 +8087,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cursor is positioned in a table and the Table toolbar opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T172657Z" creationid="Elisabetta" creationdate="20241106T172657Z">
+        <seg>Il cursore è posizionato in una tabella e si apre la barra degli strumenti Tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The cursor is positioned in an ordered or unordered list, and the Bullets and Numbering toolbar opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T172722Z" creationid="Elisabetta" creationdate="20241106T172722Z">
+        <seg>Il cursore è posizionato in un elenco ordinato o non ordinato, e si apre la barra degli strumenti Elenchi puntati e numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cursor will change shape to the moving shape used by the computer system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183328Z" creationid="Elisabetta" creationdate="20241104T183328Z">
@@ -8835,6 +8867,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T171008Z" creationid="Elisabetta" creationdate="20241023T171008Z">
         <seg>Per chiudere una barra degli strumenti, è possibile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To customize a toolbar, you can add tools listed in &lt;f0&gt;Visible Buttons&lt;/f0&gt;, or add new tools to a toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T173025Z" creationid="Elisabetta" creationdate="20241106T173025Z">
+        <seg>Per personalizzare una barra degli strumenti, è possibile aggiungere gli strumenti elencati in &lt;f0&gt;Pulsanti visibili&lt;/f0&gt;, oppure aggiungerne di nuovi.</seg>
       </tuv>
     </tu>
     <tu>
