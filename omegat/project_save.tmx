@@ -3023,6 +3023,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, you can select &lt;f0&gt;Visible Buttons&lt;/f0&gt; and select the required tool from the options in the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T180013Z" creationid="Elisabetta" creationdate="20241106T180013Z">
+        <seg>Infine, è possibile selezionare &lt;f0&gt;Pulsanti visibili&lt;/f0&gt; e scegliere lo strumento desiderato dalle opzioni del menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Florian Reisinger</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
