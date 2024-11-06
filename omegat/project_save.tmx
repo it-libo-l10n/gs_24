@@ -3193,8 +3193,8 @@
       <tuv lang="en-US">
         <seg>For example, the docked position for the Bullets and Numbering toolbar is at the bottom of the main window.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T185201Z" creationid="Elisabetta" creationdate="20241104T185201Z">
-        <seg>Ad esempio, la posizione attraccata per i Bullets e la barra degli strumenti di numerazione è nella parte inferiore della finestra principale.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T170849Z" creationid="Elisabetta" creationdate="20241104T185201Z">
+        <seg>Ad esempio, la posizione di aggancio della barra degli strumenti Elenchi puntati e numerati si trova nella parte inferiore della finestra principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7145,8 +7145,8 @@
       <tuv lang="en-US">
         <seg>Select the downward triangle ▼ on the toolbar title bar, then select &lt;f0&gt;Dock Toolbar&lt;/f0&gt; from the available options.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T185100Z" creationid="Elisabetta" creationdate="20241104T185100Z">
-        <seg>Selezionare il triangolo verso il basso ▼ sulla barra del titolo della barra degli strumenti, quindi &lt;f0&gt;Aggancia barra degli strumenti&lt;/f0&gt; dalle opzioni disponibili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T170531Z" creationid="Elisabetta" creationdate="20241104T185100Z">
+        <seg>Selezionare il triangolo verso il basso ▼ sulla barra del titolo della barra degli strumenti, quindi scegliere &lt;f0&gt;Aggancia barra degli strumenti&lt;/f0&gt; dalle opzioni disponibili.</seg>
       </tuv>
     </tu>
     <tu>
