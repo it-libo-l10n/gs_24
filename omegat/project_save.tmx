@@ -8968,6 +8968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To open the Customize dialog an add more tools to the toolbar, select &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T173443Z" creationid="Elisabetta" creationdate="20241106T173443Z">
+        <seg>Per aprire la finestra di dialogo Personalizza e aggiungere altri strumenti alla barra, selezionare &lt;f0&gt;Personalizza barra degli strumenti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To open the Options LibreOffice dialog for LibreOffice (Figure &lt;t0&gt;1&lt;/t0&gt;), go to &lt;f1&gt;Tools &gt; Options&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferences&lt;/f2&gt;) on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T111154Z" creationid="valter" creationdate="20241017T111154Z">
