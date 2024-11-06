@@ -8503,6 +8503,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tools are added to the toolbar in the same order as the tools appear in the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T181645Z" creationid="Elisabetta" creationdate="20241106T181645Z">
+        <seg>Gli strumenti vengono aggiunti alla barra degli strumenti nello stesso ordine in cui compaiono nel menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161728Z" creationid="valter" creationdate="20241017T161728Z">
@@ -9125,6 +9133,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241015T215852Z" creationid="valter" creationdate="20241015T215852Z">
         <seg>Barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tools already installed on a toolbar are indicated by a check mark next to the tool icon.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T180139Z" creationid="Elisabetta" creationdate="20241106T180139Z">
+        <seg>Gli strumenti già installati su una barra sono evidenziati da un segno di spunta accanto all'icona dello strumento.</seg>
       </tuv>
     </tu>
     <tu>
