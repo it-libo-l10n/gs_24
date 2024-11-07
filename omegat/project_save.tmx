@@ -8145,8 +8145,8 @@
       <tuv lang="en-US">
         <seg>The Impress Status bar is shown in Figure &lt;t0&gt;4&lt;/t0&gt; and it has the following components:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T162913Z" creationid="Elisabetta" creationdate="20241107T162913Z">
-        <seg>Nella Figura &lt;t0&gt;4&lt;/t0&gt; è illustrata la barra di stato Impress, che presenta i seguenti componenti:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164655Z" creationid="Elisabetta" creationdate="20241107T162913Z">
+        <seg>Nella Figura &lt;t0&gt;4&lt;/t0&gt; è illustrata la barra di stato di Impress, che presenta i seguenti componenti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8609,8 +8609,8 @@
       <tuv lang="en-US">
         <seg>The slide number currently displayed in the Impress Workspace and the total number of slides in the presentation.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163003Z" creationid="Elisabetta" creationdate="20241107T163003Z">
-        <seg>Il numero di diapositiva attualmente visualizzato nello spazio di lavoro Impress e il numero totale di di diapositive della presentazione.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164719Z" creationid="Elisabetta" creationdate="20241107T163003Z">
+        <seg>Il numero di diapositiva attualmente visualizzato nello spazio di lavoro di Impress e il numero totale di di diapositive della presentazione.</seg>
       </tuv>
     </tu>
     <tu>
