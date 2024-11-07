@@ -2319,6 +2319,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cursor position</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165906Z" creationid="Elisabetta" creationdate="20241107T165906Z">
+        <seg>Posizione del cursore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom Colors</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T173731Z" creationid="valter" creationdate="20241023T173731Z">
@@ -2459,6 +2467,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213412Z" creationid="valter" creationdate="20240928T213412Z">
         <seg>Finestra di dialogo mostrante un esempio dei controlli comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Digital signature</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165940Z" creationid="Elisabetta" creationdate="20241107T165940Z">
+        <seg>Firma digitale</seg>
       </tuv>
     </tu>
     <tu>
@@ -3115,6 +3131,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T180013Z" creationid="Elisabetta" creationdate="20241106T180013Z">
         <seg>Infine, è possibile selezionare &lt;f0&gt;Pulsanti visibili&lt;/f0&gt; e scegliere lo strumento desiderato dalle opzioni del menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fit slide</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T170042Z" creationid="Elisabetta" creationdate="20241107T170042Z">
+        <seg>Adattamento della diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -5906,6 +5930,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Object size</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165932Z" creationid="Elisabetta" creationdate="20241107T165932Z">
+        <seg>Dimensioni oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Offline Help is installed with the MacOS version of LibreOffice &lt;f0&gt;by default&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154301Z" creationid="valter" creationdate="20240928T154301Z">
@@ -8023,6 +8055,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text language</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165942Z" creationid="Elisabetta" creationdate="20241107T165942Z">
+        <seg>Lingua del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Th&lt;f1&gt;ey&lt;/f1&gt; can be added back by downloading and installing &lt;f2&gt;them as extensions from &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://extensions.libreoffice.org/en/extensions/&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184726Z" creationid="valter" creationdate="20211115T184726Z">
@@ -9397,6 +9437,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172803Z" creationid="Elisabetta" creationdate="20241017T172803Z">
         <seg>Annullare e ripristinare le modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unsaved changes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165938Z" creationid="Elisabetta" creationdate="20241107T165938Z">
+        <seg>Modifiche non salvate</seg>
       </tuv>
     </tu>
     <tu>
