@@ -2583,6 +2583,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click to open the Available Master Slides dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T171751Z" creationid="Elisabetta" creationdate="20241107T171751Z">
+        <seg>Fare doppio clic per aprire la finestra di dialogo Disponibile Master Slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download links can be found at: &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133019Z" creationid="valter" creationdate="20240928T133019Z">
@@ -4156,6 +4164,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152725Z" creationid="valter" creationdate="20240928T152725Z">
         <seg>Se risulta difficile capire a cosa serve un'opzione, LibreOffice consiglia di non modificare l'opzione e mantenerla alle sue impostazioni predefinite, a meno che le istruzioni contenute in questa guida non consiglino il contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary you can select a master slide and apply it to the current slide.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T171747Z" creationid="Elisabetta" creationdate="20241107T171747Z">
+        <seg>Se necessario è possibile selezionare una diapositiva schema e applicarla alla diapositiva attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10333,6 +10349,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193714Z" creationid="valter" creationdate="20211115T193714Z">
         <seg>È possibile inserire grafici e oggetti di altri componenti nei documenti Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can right-click this area to view a list of available master slides in Impress.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T171706Z" creationid="Elisabetta" creationdate="20241107T171706Z">
+        <seg>È possibile fare clic con il pulsante destro del mouse su quest'area per visualizzare un elenco delle diapositive schema disponibili in Impress.</seg>
       </tuv>
     </tu>
     <tu>
