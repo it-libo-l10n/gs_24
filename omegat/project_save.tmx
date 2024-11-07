@@ -4673,6 +4673,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It provides information about the document and also include convenient ways to change some features quickly.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T162346Z" creationid="Elisabetta" creationdate="20241107T162346Z">
+        <seg>Fornisce informazioni sul documento e include anche comode soluzioni per una rapida modifica di alcune caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its Smart Connectors feature allows definition connection points.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T112905Z" creationid="valter" creationdate="20240928T112905Z">
