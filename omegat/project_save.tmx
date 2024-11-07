@@ -1783,6 +1783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changes depending on the object selected on the current Impress slide.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163128Z" creationid="Elisabetta" creationdate="20241107T163128Z">
+        <seg>Cambia in base all'oggetto selezionato nella diapositiva Impress attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing colors can make using LibreOffice easier, for example when writing, editing, creating page layouts and page margins, inserting page breaks or graphics, and so on.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T172522Z" creationid="valter" creationdate="20241023T172522Z">
@@ -2811,6 +2819,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181805Z" creationid="Elisabetta" creationdate="20241104T181805Z">
         <seg>Esempio di maniglie della barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example selection</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163312Z" creationid="Elisabetta" creationdate="20241107T163312Z">
+        <seg>Selezione d'esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples shown in Table &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163136Z" creationid="Elisabetta" creationdate="20241107T163136Z">
+        <seg>Esempi indicati nella tabella&lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4460,6 +4484,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181624Z" creationid="valter" creationdate="20211115T181624Z">
         <seg>Informazioni relative alle reti sociali&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information area</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163006Z" creationid="Elisabetta" creationdate="20241107T163006Z">
+        <seg>Area Informazioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -7891,6 +7923,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204202Z" creationid="valter" creationdate="20241016T204202Z">
         <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: &lt;f1&gt;voci&lt;/f1&gt; della barra dei menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Examples of information</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163140Z" creationid="Elisabetta" creationdate="20241107T163140Z">
+        <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: Esempi di informazioni</seg>
       </tuv>
     </tu>
     <tu>
