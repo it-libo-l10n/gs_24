@@ -905,8 +905,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s0&gt;&lt;s1&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164147Z" creationid="Elisabetta" creationdate="20241107T164147Z">
-        <seg>&lt;s0&gt;La barra di stato Impress Numero della diapositiva Area delle informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adatta diapositiva Zoom diapositiva &lt;/s0&gt;&lt;s1&gt;La barra di stato Impress Numero diapositiva Area delle informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adatta diapositiva Zoom diapositiva &lt;/s1&gt;</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165030Z" creationid="Elisabetta" creationdate="20241107T164147Z">
+        <seg>&lt;s0&gt;La barra di stato di Impress Numero diapositiva Area informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adattamento diapositiva Zoom diapositiva &lt;/s0&gt;&lt;s1&gt;La barra di stato di Impress Numero diapositiva Area informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adattamento diapositiva Zoom diapositiva &lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8137,8 +8137,8 @@
       <tuv lang="en-US">
         <seg>The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164626Z" creationid="Elisabetta" creationdate="20241107T164626Z">
-        <seg>La barra di stato Impress Numero di scorrimento Settore informativo Scivolo Master Posizione del cursore Dimensioni oggetti Cambiamenti non salvati Firma digitale Lingua processuale Scivolo per montaggio Guida dello zoom</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165242Z" creationid="Elisabetta" creationdate="20241107T164626Z">
+        <seg>La barra di stato di Impress Numero diapositiva Area informazioni Diapositiva Master Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adattamento diapositiva Zoom diapositiva</seg>
       </tuv>
     </tu>
     <tu>
