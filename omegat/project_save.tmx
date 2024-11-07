@@ -5514,6 +5514,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Master slide</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165859Z" creationid="Elisabetta" creationdate="20241107T165859Z">
+        <seg>Diapositiva schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Math (equation editor)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092121Z" creationid="valter" creationdate="20211016T092121Z">
