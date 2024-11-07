@@ -903,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s0&gt;&lt;s1&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164147Z" creationid="Elisabetta" creationdate="20241107T164147Z">
+        <seg>&lt;s0&gt;La barra di stato Impress Numero della diapositiva Area delle informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adatta diapositiva Zoom diapositiva &lt;/s0&gt;&lt;s1&gt;La barra di stato Impress Numero diapositiva Area delle informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adatta diapositiva Zoom diapositiva &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Preface&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T195920Z" creationid="valter" creationdate="20240929T195920Z">
@@ -1855,6 +1863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Charts, spreadsheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163355Z" creationid="Elisabetta" creationdate="20241107T163355Z">
+        <seg>Grafici, fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check for Updates</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163727Z" creationid="valter" creationdate="20240928T163727Z">
@@ -2703,6 +2719,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Embedded object (OLE) “ObjectName” selected</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163404Z" creationid="Elisabetta" creationdate="20241107T163404Z">
+        <seg>Oggetto incorporato (OLE) “NomeOggetto” selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable experimental features (may be unstable)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202321Z" creationid="valter" creationdate="20241023T202321Z">
@@ -2827,6 +2851,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163312Z" creationid="Elisabetta" creationdate="20241107T163312Z">
         <seg>Selezione d'esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples of information shown</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163325Z" creationid="Elisabetta" creationdate="20241107T163325Z">
+        <seg>Esempi di informazioni visualizzate</seg>
       </tuv>
     </tu>
     <tu>
@@ -7955,6 +7987,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212337Z" creationid="valter" creationdate="20240928T212337Z">
         <seg>La tabella &lt;t0&gt;2&lt;/t0&gt; che segue fornisce alcune sostituzioni comuni per le istruzioni di questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Edit: Paragraph x, Row y, Column z</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163350Z" creationid="Elisabetta" creationdate="20241107T163350Z">
+        <seg>Modifica testo: Paragrafo x, Riga y, Colonna z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text area</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163338Z" creationid="Elisabetta" creationdate="20241107T163338Z">
+        <seg>Area del testo</seg>
       </tuv>
     </tu>
     <tu>
