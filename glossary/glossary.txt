@@ -26,3 +26,4 @@ Lock Toolbar Position	Blocca posizione della barra degli strumenti
 Dock Toolbar	Aggancia barra degli strumenti	Voce UI
 docked positions	posizioni di aggancio/ancoraggio
 Master slide	Diapositiva schema
+Zoom	Ingrandimento
