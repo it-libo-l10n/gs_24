@@ -3039,6 +3039,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: The Impress Status bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164157Z" creationid="Elisabetta" creationdate="20241107T164157Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: La barra di stato Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Options LibreOffice dialog — Paths page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T205110Z" creationid="valter" creationdate="20241021T205110Z">
@@ -8123,6 +8131,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155207Z" creationid="valter" creationdate="20240928T155207Z">
         <seg>Il menu Aiuto include anche collegamenti ad altre informazioni su LibreOffice e risorse di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164626Z" creationid="Elisabetta" creationdate="20241107T164626Z">
+        <seg>La barra di stato Impress Numero di scorrimento Settore informativo Scivolo Master Posizione del cursore Dimensioni oggetti Cambiamenti non salvati Firma digitale Lingua processuale Scivolo per montaggio Guida dello zoom</seg>
       </tuv>
     </tu>
     <tu>
