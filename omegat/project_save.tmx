@@ -2495,6 +2495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Digital signatures</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180146Z" creationid="Elisabetta" creationdate="20241108T180146Z">
+        <seg>Firme digitali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174931Z" creationid="valter" creationdate="20241017T174931Z">
@@ -4576,10 +4584,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Indicates if the Impress presentation has a digital signature.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180208Z" creationid="Elisabetta" creationdate="20241108T180208Z">
+        <seg>Informa dell' esistenza di una firma digitale nella presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Indicates if there are any unsaved changes in the Impress presentation.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175823Z" creationid="Elisabetta" creationdate="20241108T175823Z">
         <seg>Indica la presenza di modifiche non salvate nella presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indicates the language used for any text in an Impress presentation.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180244Z" creationid="Elisabetta" creationdate="20241108T180244Z">
+        <seg>Identifica la lingua impiegata nel testo della presentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10005,6 +10029,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183555Z" creationid="Elisabetta" creationdate="20241104T183555Z">
         <seg>Quando la barra degli strumenti diventa mobile, la maniglia scompare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this icon is selected, the displayed slide in the Impress Workspace zooms to fit in the Workspace.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180315Z" creationid="Elisabetta" creationdate="20241108T180315Z">
+        <seg>Quando questa icona viene selezionata, la diapositiva visualizzata nello spazio di lavoro Impress zoom per adattarsi allo spazio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
