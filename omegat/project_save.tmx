@@ -3169,8 +3169,8 @@
       <tuv lang="en-US">
         <seg>Fit slide</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T170042Z" creationid="Elisabetta" creationdate="20241107T170042Z">
-        <seg>Adattamento della diapositiva</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180502Z" creationid="Elisabetta" creationdate="20241107T170042Z">
+        <seg>Adatta la diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -10035,8 +10035,8 @@
       <tuv lang="en-US">
         <seg>When this icon is selected, the displayed slide in the Impress Workspace zooms to fit in the Workspace.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180315Z" creationid="Elisabetta" creationdate="20241108T180315Z">
-        <seg>Quando questa icona viene selezionata, la diapositiva visualizzata nello spazio di lavoro Impress zoom per adattarsi allo spazio di lavoro.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180844Z" creationid="Elisabetta" creationdate="20241108T180315Z">
+        <seg>Se questa icona è selezionata, la diapositiva nell'Area di lavoro si ingrandisce per adattarvisi.</seg>
       </tuv>
     </tu>
     <tu>
