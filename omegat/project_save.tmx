@@ -8687,6 +8687,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number and type of decks used in the Sidebar depend on the type of document and the current LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T183140Z" creationid="Elisabetta" creationdate="20241108T183140Z">
+        <seg>Il numero e il tipo di mazzi utilizzati nella barra laterale dipendono dal tipo di documento e dall'attuale modulo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The old menu in the system tray is no longer used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162906Z" creationid="valter" creationdate="20241017T162906Z">
