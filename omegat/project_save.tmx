@@ -4560,6 +4560,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Indicates if there are any unsaved changes in the Impress presentation.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175823Z" creationid="Elisabetta" creationdate="20241108T175823Z">
+        <seg>Indica la presenza di modifiche non salvate nella presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information about available accessibility options &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181846Z" creationid="valter" creationdate="20211115T181846Z">
@@ -8903,6 +8911,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These numbers do not relate to the object itself, but to the selection outline, which is the smallest possible rectangle that can contain the visible parts of the object.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175710Z" creationid="Elisabetta" creationdate="20241108T175710Z">
+        <seg>Questi numeri non si riferiscono all'oggetto in sé, ma al contorno della selezione, cioè al rettangolo più piccolo possibile in grado di contenere le parti visibili dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These pages &lt;f6&gt;give&lt;/f6&gt; access to the LibreOffice User Guides and other useful information that can be opened in the default browser.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160733Z" creationid="valter" creationdate="20240928T160733Z">
@@ -9901,6 +9917,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175239Z" creationid="Elisabetta" creationdate="20241108T175021Z">
         <seg>Se è presente un oggetto selezionato e ridimensionato, quest'area della barra di stato indica le dimensioni dell'oggetto (espresse in larghezza e altezza).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When an object is selected, clicking in these areas opens the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175752Z" creationid="Elisabetta" creationdate="20241108T175752Z">
+        <seg>Se è selezionato un oggetto, un clic in una di queste aree apre la finestra di dialogo Posizione e dimensione.</seg>
       </tuv>
     </tu>
     <tu>
