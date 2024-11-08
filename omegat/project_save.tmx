@@ -10561,6 +10561,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zoom slider</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T181132Z" creationid="Elisabetta" creationdate="20241108T181132Z">
+        <seg>Cursore dello zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>features</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095641Z" creationid="akurery" creationdate="20211121T095641Z">
