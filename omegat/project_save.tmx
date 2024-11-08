@@ -2103,6 +2103,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking on zoom percentage opens the Zoom &amp; View Layout dialog where the settings for zoom factor and view layout are adjusted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T182018Z" creationid="Elisabetta" creationdate="20241108T182018Z">
+        <seg>Facendo clic sulla percentuale di ingrandimento si apre la finestra di dialogo Zoom e layout visualizzazione in cui è possibile adattare le impostazioni per il fattore di ingrandimento e il layout di visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking the middle mouse button pastes at the cursor position.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174819Z" creationid="valter" creationdate="20241017T174819Z">
@@ -4604,6 +4612,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180244Z" creationid="Elisabetta" creationdate="20241108T180244Z">
         <seg>Identifica la lingua impiegata nel testo della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indicates the zoom level of the slide displayed in the Impress Workspace.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T181540Z" creationid="Elisabetta" creationdate="20241108T181540Z">
+        <seg>Indica il livello di ingrandimento della diapositiva visualizzata nell'area di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
