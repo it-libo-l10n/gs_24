@@ -2095,6 +2095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking on this icon saves the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175928Z" creationid="Elisabetta" creationdate="20241108T175928Z">
+        <seg>Fare clic su quest'icona per salvare il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking the middle mouse button pastes at the cursor position.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174819Z" creationid="valter" creationdate="20241017T174819Z">
@@ -4268,6 +4276,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203432Z" creationid="valter" creationdate="20241021T203432Z">
         <seg>Se il formato della carta richiesto per il documento non è disponibile nella stampante attiva, comparirà un messaggio di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the presentation has not been saved before, the Save As dialog opens giving the opportunity to save the presentation.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180144Z" creationid="Elisabetta" creationdate="20241108T180144Z">
+        <seg>Se la presentazione non è stata precedentemente salvata, si apre una finestra di dialogo che consente di salvarla.</seg>
       </tuv>
     </tu>
     <tu>
