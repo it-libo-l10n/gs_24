@@ -4160,6 +4160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an object is currently selected in Impress, the position numbers shows X and Y coordinates of the upper‑left corner and the object size number pair displays the size of the object.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175140Z" creationid="Elisabetta" creationdate="20241108T175140Z">
+        <seg>Se un oggetto è attualmente selezionato in Impress, i numeri di posizione mostrano le coordinate X e Y dell'angolo in alto a sinistra e la coppia di numeri di dimensione dell'oggetto visualizza la dimensione dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any documents have not been saved since the last change, a warning message is displayed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175943Z" creationid="valter" creationdate="20241016T200835Z">
