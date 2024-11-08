@@ -2327,6 +2327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cursor position/Object size</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174214Z" creationid="Elisabetta" creationdate="20241108T174214Z">
+        <seg>Posizione del cursore/dimensione dell'oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom Colors</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T173731Z" creationid="valter" creationdate="20241023T173731Z">
@@ -2585,8 +2593,8 @@
       <tuv lang="en-US">
         <seg>Double-click to open the Available Master Slides dialog.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T171751Z" creationid="Elisabetta" creationdate="20241107T171751Z">
-        <seg>Fare doppio clic per aprire la finestra di dialogo Disponibile Master Slides.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174139Z" creationid="Elisabetta" creationdate="20241107T171751Z">
+        <seg>Fare doppio clic per aprire la finestra di dialogo Diapositive schema disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,8 +4178,8 @@
       <tuv lang="en-US">
         <seg>If necessary you can select a master slide and apply it to the current slide.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T171747Z" creationid="Elisabetta" creationdate="20241107T171747Z">
-        <seg>Se necessario è possibile selezionare una diapositiva schema e applicarla alla diapositiva attiva.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174025Z" creationid="Elisabetta" creationdate="20241107T171747Z">
+        <seg>Se necessario si può selezionare una diapositiva schema e applicarla alla diapositiva attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7611,6 +7619,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155852Z" creationid="valter" creationdate="20241017T155852Z">
         <seg>Mostra la finestra di dialogo "Suggerimento del giorno" all'avvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows different information depending on which Impress objects are selected or not:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174345Z" creationid="Elisabetta" creationdate="20241108T174345Z">
+        <seg>Visualizza informazioni diverse in base alla presenza o meno di oggetti Impress selezionati:</seg>
       </tuv>
     </tu>
     <tu>
