@@ -1343,6 +1343,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An example of the Writer Sidebar is shown in Figure &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T182853Z" creationid="Elisabetta" creationdate="20241108T182853Z">
+        <seg>Un esempio della barra laterale di Writer è illustrato nella Figura &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190425Z" creationid="valter" creationdate="20211115T190425Z">
