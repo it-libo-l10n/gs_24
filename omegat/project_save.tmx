@@ -1647,6 +1647,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, the Sidebar is on the right side of a LibreOffice module’s Workspace.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T182752Z" creationid="Elisabetta" creationdate="20241108T182752Z">
+        <seg>Per impostazione predefinita la barra laterale si trova sul lato destro dell'Area di lavoro del modulo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By providing the configuration file for the computer operating system in the folder &lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201906Z" creationid="valter" creationdate="20241023T201906Z">
