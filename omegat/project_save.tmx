@@ -3816,6 +3816,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f1&gt;View &gt; Sidebar&lt;/f1&gt; on the Menu bar to display or hide the Sidebar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T182955Z" creationid="Elisabetta" creationdate="20241108T182955Z">
+        <seg>Accedere a &lt;f1&gt;Visualizza &gt; Barra laterale&lt;/f1&gt; sulla barra del menu per visualizzare o nascondere la barra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gradient stripes</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204349Z" creationid="valter" creationdate="20241021T204349Z">
@@ -8403,6 +8411,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174259Z" creationid="valter" creationdate="20241017T174259Z">
         <seg>Gli Appunti di selezione sono indipendenti dagli appunti normali usati con i comandi &lt;f0&gt;Modifica &gt; Copia/Taglia/Incolla&lt;/f0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Sidebar contains several decks and each deck contains tools and options for formatting a document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T183135Z" creationid="Elisabetta" creationdate="20241108T183135Z">
+        <seg>La Barra laterale contiene diversi pannelli e ogni pannello contiene strumenti e opzioni per la formattazione di un documento.</seg>
       </tuv>
     </tu>
     <tu>
