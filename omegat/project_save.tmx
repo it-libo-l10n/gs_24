@@ -10041,6 +10041,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When this slider is moved, the slide displayed in the Impress Workspace will adjusts how the document is viewed (by percentage) in the Workspace.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T181506Z" creationid="Elisabetta" creationdate="20241108T181506Z">
+        <seg>Quando si sposta questo cursore, la diapositiva presente nell'Area di lavoro si adatta alla visualizzazione del documento (in percentuale) all'interno dell'area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you are moving a toolbar into a docked location, LibreOffice will indicate that the toolbar is in a docked position when you see a hashed border around the toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T171531Z" creationid="Elisabetta" creationdate="20241106T171531Z">
