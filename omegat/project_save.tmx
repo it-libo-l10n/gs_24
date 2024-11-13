@@ -4488,6 +4488,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this option is not selected, the following user-specific settings still apply:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213958Z" creationid="valter" creationdate="20241113T213958Z">
+        <seg>Se questa opzione non è selezionata, vengono comunque applicate le seguenti impostazioni personalizzate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this option is selected, the next time the document is closed after printing, the print date is recorded in the document properties as a change.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160502Z" creationid="valter" creationdate="20241017T160502Z">
@@ -6800,8 +6808,8 @@
       <tuv lang="en-US">
         <seg>Options for loading and saving documents can be selected in the Options Load/Save dialog to suit working requirements on a computer system.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241113T212922Z" creationid="valter" creationdate="20241113T212922Z">
-        <seg>È possibile selezionare le opzioni per il caricamento e il salvataggio dei documenti nella finestra di dialogo Carica/salva delle Opzioni, in modo da renderle adatte ai requisiti di lavoro del proprio sistema informatico.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213856Z" creationid="valter" creationdate="20241113T212922Z">
+        <seg>È possibile selezionare le opzioni per il caricamento e il salvataggio dei documenti nella finestra di dialogo Carica/salva delle Opzioni, in modo da renderle adatte ai requisiti di lavoro del proprio computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7783,6 +7791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on the computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213831Z" creationid="valter" creationdate="20241113T213831Z">
+        <seg>Selezionando questa opzione, durante il caricamento del documento, esso ignora le impostazioni salvate, in favore di quelle sul proprio computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to enable features that are not yet complete, or contain known bugs.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202435Z" creationid="valter" creationdate="20241023T202435Z">
@@ -7931,6 +7947,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201712Z" creationid="valter" creationdate="20241021T201712Z">
         <seg>Impostazioni per</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings in &lt;f0&gt;File &gt; Print &gt; Options&lt;/f0&gt;.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214030Z" creationid="valter" creationdate="20241113T214030Z">
+        <seg>Impostazioni in &lt;f0&gt;File &gt; Stampa &gt; Opzioni&lt;/f0&gt;.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10341,6 +10365,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204249Z" creationid="valter" creationdate="20241021T204249Z">
         <seg>Quando si stampa un documento che contiene trasparenze, si apre una finestra di dialogo che abilita la selezione della stampa della trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving a document, these settings are saved with it.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213633Z" creationid="valter" creationdate="20241113T213633Z">
+        <seg>Durante il salvataggio, queste impostazioni vengono salvate con il documento.</seg>
       </tuv>
     </tu>
     <tu>
