@@ -767,6 +767,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of Properties deck in Writer Sidebar&lt;/s0&gt;&lt;s1&gt;Example of Properties deck in Writer Sidebar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T163903Z" creationid="Elisabetta" creationdate="20241113T163903Z">
+        <seg>&lt;s0&gt;Esempio di Proprietà mazzo in Writer Sidebar&lt;/s0&gt;&lt;s1&gt;Esempio di Proprietà mazzo in Writer Sidebar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s0&gt;&lt;s1&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172521Z" creationid="Elisabetta" creationdate="20241030T161854Z">
