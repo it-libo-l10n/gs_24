@@ -4368,6 +4368,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If disabled, the default printer will be used to print the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215143Z" creationid="valter" creationdate="20241113T215143Z">
+        <seg>Se le impostazioni sono disattivate, per stampare il documento sarà utilizzata la stampante predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If enabled, the printer settings are loaded with the document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T214635Z" creationid="valter" creationdate="20241113T214635Z">
@@ -7462,6 +7470,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215323Z" creationid="valter" creationdate="20241113T215323Z">
+        <seg>Salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save AutoRecovery information every __ minutes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215346Z" creationid="valter" creationdate="20241113T215346Z">
+        <seg>Salva informazioni di ripristino automatico ogni __ minuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save and delete color schemes.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T172845Z" creationid="valter" creationdate="20241023T172845Z">
@@ -7707,6 +7731,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160106Z" creationid="valter" creationdate="20241023T160027Z">
         <seg>Selezionare &lt;f1&gt;Solo schermo&lt;/f1&gt; per sostituire il tipo di carattere solo a schermo e mai per la stampa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select AutoRecovery and the time period for how often the information used by the AutoRecovery process is saved.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215530Z" creationid="valter" creationdate="20241113T215530Z">
+        <seg>Selezionare Ripristino automatico e la frequenza con cui salvare le informazioni utilizzate da tale processo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8803,6 +8835,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T212537Z" creationid="valter" creationdate="20241113T212537Z">
         <seg>Per utilizzare questa funzionalità, il driver della scheda video deve supportare OpenCL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current printer settings are stored with the document whether or not this option is selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215314Z" creationid="valter" creationdate="20241113T215314Z">
+        <seg>Le impostazioni correnti della stampante saranno salvate col documento, indipendentemente dalla selezione di questa opzione.</seg>
       </tuv>
     </tu>
     <tu>
