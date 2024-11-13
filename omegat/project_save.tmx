@@ -919,6 +919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options Load/Save dialog — General page&lt;/s0&gt;&lt;s1&gt;Options Load/Save dialog — General page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221103Z" creationid="valter" creationdate="20241113T221103Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Carica/salva delle Opzioni — pagina Generale&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Carica/salva delle Opzioni — pagina Generale&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s0&gt;&lt;s1&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T170218Z" creationid="Elisabetta" creationdate="20241107T164147Z">
@@ -995,6 +1003,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175400Z" creationid="valter" creationdate="20241016T200054Z">
         <seg>Un modulo LibreOffice si attiva facendo doppio clic sul nome del file di un documento ODF in una cartella, oppure in una finestra di gestione dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A backup copy uses the extension &lt;f0&gt;BAK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220759Z" creationid="valter" creationdate="20241113T220759Z">
+        <seg>La copia di sicurezza usa l'estensione &lt;f0&gt;BAK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3019,6 +3035,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180426Z" creationid="valter" creationdate="20241016T201431Z">
         <seg>Ogni modulo presenta la barra del titolo, la barra dei menu, la barra degli strumenti standard nella parte superiore della finestra, la barra di stato nella parte inferiore, mentre gli strumenti e le informazioni variano da un modulo all'altro di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every time LibreOffice creates a backup copy, the previous backup copy is replaced.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220633Z" creationid="valter" creationdate="20241113T220633Z">
+        <seg>Ogni volta che LibreOffice crea una copia di sicurezza, questa sostituisce quella precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9747,6 +9771,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184109Z" creationid="valter" creationdate="20211115T184109Z">
         <seg>Per cambiare il gruppo di icone utilizzate, andate a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the location of the backup copy, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Paths&lt;/f1&gt;) and then enter a new path for the backup file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220955Z" creationid="valter" creationdate="20241113T220955Z">
+        <seg>Per cambiare la posizione della copia di sicurezza, scegliere &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Percorsi&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze &gt; LibreOffice &gt; Percorsi&lt;/f1&gt;) e specificare un nuovo percorso per il file di copia.</seg>
       </tuv>
     </tu>
     <tu>
