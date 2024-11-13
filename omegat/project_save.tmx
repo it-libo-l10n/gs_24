@@ -4416,6 +4416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Options Load/Save dialog is not already open, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Load/Save&lt;/f1&gt;) on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213147Z" creationid="valter" creationdate="20241113T213147Z">
+        <seg>Se la finestra di dialogo Carica/Salva delle Opzioni non è già aperta, dalla barra dei menu andare a &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/salva&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze &gt; Carica/salva&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the command &lt;f2&gt;Lock Toolbars&lt;/f2&gt; has a check mark next to it, all toolbars will be locked.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T180648Z" creationid="Elisabetta" creationdate="20241030T180648Z">
@@ -6754,6 +6762,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180256Z" creationid="valter" creationdate="20241023T180256Z">
         <seg>Opzioni per la visualizzazione a contrasto elevato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options for loading and saving documents can be selected in the Options Load/Save dialog to suit working requirements on a computer system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212922Z" creationid="valter" creationdate="20241113T212922Z">
+        <seg>È possibile selezionare le opzioni per il caricamento e il salvataggio dei documenti nella finestra di dialogo Carica/salva delle Opzioni, in modo da renderle adatte ai requisiti di lavoro del proprio sistema informatico.</seg>
       </tuv>
     </tu>
     <tu>
