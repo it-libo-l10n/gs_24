@@ -2919,6 +2919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of Properties deck in Writer Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T172111Z" creationid="Elisabetta" creationdate="20241113T172111Z">
+        <seg>Esempio di area Proprietà nella Barra laterale di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of creating floating sub-toolbar from a tool palette</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172548Z" creationid="Elisabetta" creationdate="20241030T172548Z">
@@ -3135,6 +3143,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Example of Properties deck in Writer Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T172044Z" creationid="Elisabetta" creationdate="20241113T172044Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Esempio di area Proprietà nella Barra laterale di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Options LibreOffice dialog — Paths page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T205110Z" creationid="valter" creationdate="20241021T205110Z">
@@ -3347,6 +3363,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212409Z" creationid="valter" creationdate="20240928T212409Z">
         <seg>Per un elenco più dettagliato, vedere la Guida dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For all LibreOffice modules, each Sidebar contains Properties, Styles, Gallery, and Navigator decks.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T172210Z" creationid="Elisabetta" creationdate="20241113T172210Z">
+        <seg>Per tutti i moduli di LibreOffice, ogni barra laterale contiene le aree Proprietà, Stili, Galleria e Navigatore.</seg>
       </tuv>
     </tu>
     <tu>
