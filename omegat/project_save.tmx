@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>../images/img.jpg</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221756Z" creationid="valter" creationdate="20241113T221756Z">
+        <seg>../immagini/img.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T195926Z" creationid="valter" creationdate="20240929T195926Z">
@@ -2535,6 +2543,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Default File Format and ODF Settings</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221906Z" creationid="valter" creationdate="20241113T221906Z">
+        <seg>Formato file predefinito e impostazioni ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Default printer</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173031Z" creationid="Elisabetta" creationdate="20241017T173031Z">
@@ -3103,6 +3119,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221712Z" creationid="valter" creationdate="20241113T221712Z">
+        <seg>Esempi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examples of information shown</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163325Z" creationid="Elisabetta" creationdate="20241107T163325Z">
@@ -3363,6 +3387,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115341Z" creationid="valter" creationdate="20240928T115341Z">
         <seg>Compatibilità tra file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File system</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221727Z" creationid="valter" creationdate="20241113T221727Z">
+        <seg>File system</seg>
       </tuv>
     </tu>
     <tu>
@@ -4800,6 +4832,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In contrast, absolute addressing always starts from a root directory.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221555Z" creationid="valter" creationdate="20241113T221555Z">
+        <seg>Un indirizzo assoluto, al contrario, inizia sempre dalla cartella radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In macOS, &lt;f0&gt;LibreOffice &gt; Preferences &gt; LibreOffice Impress &gt; General&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Start with Template Selection&lt;/f1&gt; under &lt;f2&gt;New Document&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211202T142603Z" creationid="Elisabetta Manuele" creationdate="20211202T142603Z">
@@ -4989,6 +5029,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204522Z" creationid="valter" creationdate="20241021T204522Z">
         <seg>Colore intermedio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internet</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221732Z" creationid="valter" creationdate="20241113T221732Z">
+        <seg>Internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -6350,6 +6398,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T201711Z" creationid="valter" creationdate="20240929T194510Z">
         <seg>Questa versione include i seguenti miglioramenti degni di nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ODF format version</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221912Z" creationid="valter" creationdate="20241113T221912Z">
+        <seg>Versione del formato ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -8631,6 +8687,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Examples of saving URLs</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221705Z" creationid="valter" creationdate="20241113T221705Z">
+        <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: Esempi di salvataggio di URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows the default Menu bar controls for the Writer module.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170824Z" creationid="Elisabetta" creationdate="20241021T170824Z">
@@ -9083,6 +9147,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113803Z" creationid="valter" creationdate="20240928T113803Z">
         <seg>Di seguito vengono spiegati alcuni dei vantaggi di LibreOffice rispetto ad altre suite per ufficio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following table demonstrates the difference in syntax between relative and absolute referencing:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221610Z" creationid="valter" creationdate="20241113T221610Z">
+        <seg>La tabella seguente illustra la differenza di sintassi tra un riferimento assoluto e uno relativo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11201,10 +11273,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>absolute</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221808Z" creationid="valter" creationdate="20241113T221808Z">
+        <seg>assoluto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>features</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095641Z" creationid="akurery" creationdate="20211121T095641Z">
         <seg>caratteristiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>file:///c:/work/images/img.jp</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221836Z" creationid="valter" creationdate="20241113T221836Z">
+        <seg>file:///C:/lavoro/immagini/immagine.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>http://myserver.com/work/images/img.jpg</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221854Z" creationid="valter" creationdate="20241113T221854Z">
+        <seg>https://mioserver.com/lavoro/immagini/immagine.jpg</seg>
       </tuv>
     </tu>
     <tu>
@@ -11253,6 +11349,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T203506Z" creationid="valter" creationdate="20241005T203506Z">
         <seg>selezione menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>relative</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221742Z" creationid="valter" creationdate="20241113T221742Z">
+        <seg>relativo</seg>
       </tuv>
     </tu>
     <tu>
