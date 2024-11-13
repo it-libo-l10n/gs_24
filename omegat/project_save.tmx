@@ -967,6 +967,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t3/&gt;Information about automatic updating for links, field functions, and charts.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214221Z" creationid="valter" creationdate="20241113T214221Z">
+        <seg>&lt;t3/&gt;Informazioni sull'aggiornamento automatico per collegamenti, funzioni di campo e grafici.&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;ud0&gt;Getting Started Guide&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T095738Z" creationid="valter" creationdate="20240928T095738Z">
@@ -4824,6 +4832,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information about working with Asian character formats.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214323Z" creationid="valter" creationdate="20241113T214323Z">
+        <seg>Informazioni riguardanti l'utilizzo dei formati di caratteri Asiatici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information area</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163006Z" creationid="Elisabetta" creationdate="20241107T163006Z">
@@ -5702,6 +5718,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162731Z" creationid="valter" creationdate="20241017T162731Z">
         <seg>Carica LibreOffice all'avvio del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load printer settings with the document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214539Z" creationid="valter" creationdate="20241113T214539Z">
+        <seg>Carica le impostazioni della stampante assieme al documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -8199,6 +8223,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spacing options for paragraphs before text tables.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214142Z" creationid="valter" creationdate="20241113T214142Z">
+        <seg>Posizioni di distanza per i paragrafi davanti alle tabelle.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies how two-digit years are interpreted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160804Z" creationid="valter" creationdate="20241017T160804Z">
@@ -8787,6 +8819,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183328Z" creationid="Elisabetta" creationdate="20241104T183328Z">
         <seg>Il cursore assumerà la forma grafica dello spostamento prevista dal computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data source linked to the document and its view are always loaded with the document, whether or not this option is selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214517Z" creationid="valter" creationdate="20241113T214517Z">
+        <seg>La sorgente dati collegata al documento e la sua visualizzazione sono sempre caricate assieme al documento, a prescindere che questa opzione sia selezionata o no.</seg>
       </tuv>
     </tu>
     <tu>
