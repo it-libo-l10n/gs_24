@@ -4753,6 +4753,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Installing language dictionaries</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T190708Z" creationid="valter" creationdate="20241113T190708Z">
+        <seg>Installazione di dizionari di lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Integration</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114830Z" creationid="valter" creationdate="20240928T114820Z">
