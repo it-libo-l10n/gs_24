@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A relative address always starts from the directory in which the current document is located.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221543Z" creationid="valter" creationdate="20241113T221543Z">
+        <seg>Un indirizzo relativo inizia sempre dalla cartella in cui si trova il documento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A system administrator, programmer, or other person who customizes JRE installations, can use the &lt;f0&gt;Parameters&lt;/f0&gt; and &lt;f1&gt;Class Path&lt;/f1&gt; dialogs to specify this information.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201406Z" creationid="valter" creationdate="20241023T201406Z">
@@ -3187,6 +3195,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153914Z" creationid="Elisabetta Manuele" creationdate="20211111T153914Z">
         <seg>Figura &lt;seq0&gt;124&lt;/seq0&gt;: finestra di dialogo Seleziona un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Options Load/Save dialog — General page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221121Z" creationid="valter" creationdate="20241113T221121Z">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Finestra di dialogo Carica/salva delle Opzioni — pagina Generale</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,6 +6910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options Load/Save dialog — General page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221134Z" creationid="valter" creationdate="20241113T221134Z">
+        <seg>Finestra di dialogo Carica/salva delle Opzioni — pagina Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options for High Contrast Appearance</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180256Z" creationid="valter" creationdate="20241023T180256Z">
@@ -7390,6 +7414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relative addressing is only possible if the source document and the referenced document are both on the same drive.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221515Z" creationid="valter" creationdate="20241113T221515Z">
+        <seg>Gli indirizzi relativi possono essere usati solo se il documento di origine e quello di destinazione si trovano sullo stesso disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Release the toolbar handle and the tool palette becomes a floating toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T175754Z" creationid="Elisabetta" creationdate="20241030T172802Z">
@@ -7538,6 +7570,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T215346Z" creationid="valter" creationdate="20241113T215346Z">
         <seg>Salva informazioni di ripristino automatico ogni __ minuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save URLs relative to file system/Save URLs relative to the Internet</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221255Z" creationid="valter" creationdate="20241113T221255Z">
+        <seg>Salva URL relativamente al file system / Salva URL relativamente a internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -8003,6 +8043,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
         <seg>Selezionare righe e colonne in una tabella di database (aperta con F4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting these options specifies the default for relative addressing of URLs in the file system and on the Internet.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T221438Z" creationid="valter" creationdate="20241113T221438Z">
+        <seg>Usare queste due opzioni per specificare il comportamento predefinito per l'indirizzamento relativo degli URL nel file system e in Internet.</seg>
       </tuv>
     </tu>
     <tu>
