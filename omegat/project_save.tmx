@@ -3590,6 +3590,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>For more information on OpenCL, visit &lt;a0&gt;https://www.khronos.org/opencl/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212359Z" creationid="valter" creationdate="20241113T212359Z">
+        <seg>Per ulteriori informazioni su OpenCL, visitare &lt;a0&gt;https://www.khronos.org/opencl/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>VM: cambiare l'URL del collegamento con quello italiano.</note>
       <tuv lang="en-US">
         <seg>For more information on Security Options and Warnings, see LibreOffice Help: &lt;a1&gt;https://help.libreoffice.org/7.4/en-GB/text/shared/optionen/securityoptionsdialog.html&lt;/a1&gt;.</seg>
@@ -6466,6 +6474,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenCL (Open Computing Language) greatly improves speed and responsiveness for a wide spectrum of applications in numerous market categories from gaming and entertainment to scientific and medical software.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212315Z" creationid="valter" creationdate="20241113T212315Z">
+        <seg>OpenCL (Open Computing Language) migliora enormemente la velocità e la risposta di un ampio spettro di applicazioni in molte categorie del mercato, dai software di giochi e di intrattenimento a quelli per scopi scientifici o medicali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCL™ is an open, royalty-free standard for cross-platform, parallel programming of modern processors found in personal computers, servers and hand-held/embedded devices.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212234Z" creationid="valter" creationdate="20241113T212234Z">
+        <seg>OpenCL™ è uno standard aperto e gratuito per la programmazione parallela e multi-piattaforma dei moderni processori presenti nei personal computer, server e dispositivi mobili o incorporati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenOffice Forum</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181929Z" creationid="valter" creationdate="20211115T181929Z">
@@ -8663,6 +8687,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The computer video card driver must have support for OpenCL to use this feature.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212537Z" creationid="valter" creationdate="20241113T212537Z">
+        <seg>Per utilizzare questa funzionalità, il driver della scheda video deve supportare OpenCL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cursor is positioned in a table and the Table toolbar opens.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T172657Z" creationid="Elisabetta" creationdate="20241106T172657Z">
@@ -9339,6 +9371,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T164249Z" creationid="valter" creationdate="20240928T164249Z">
         <seg>Queste informazioni sono spesso richieste se si chiede aiuto alla comunità o assistenza per il software (in macOS, questa opzione si trova sotto la voce &lt;f1&gt;LibreOffice&lt;/f1&gt; nella barra dei menu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This information is used to optimize the download.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212132Z" creationid="valter" creationdate="20241113T212132Z">
+        <seg>Queste informazioni vengono utilizzate per ottimizzare lo scaricamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10541,6 +10581,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180909Z" creationid="valter" creationdate="20241023T180909Z">
         <seg>Coi modi Automatico e Contrasto elevato selezionati, LibreOffice passa alla modalità a contrasto elevato quando il colore di sfondo del sistema è molto scuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With OpenCL enabled, LibreOffice can benefit from the very fast numerical calculations performed in the GPU, which is especially useful in very large spreadsheets with extensive calculations.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212514Z" creationid="valter" creationdate="20241113T212514Z">
+        <seg>Con OpenCL abilitato, LibreOffice può beneficiare dei calcoli numerici molto veloci eseguiti nella GPU, particolarmente utile in fogli di calcolo molto grandi con calcoli estesi.</seg>
       </tuv>
     </tu>
     <tu>
