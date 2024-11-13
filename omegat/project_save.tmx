@@ -1247,6 +1247,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, click on &lt;f3&gt;Check Now&lt;/f3&gt; to immediately check for an update.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211515Z" creationid="valter" creationdate="20241113T211515Z">
+        <seg>Fare clic, altresì, su &lt;f3&gt;Controlla ora&lt;/f3&gt; per verificare immediatamente la presenza di un aggiornamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182653Z" creationid="valter" creationdate="20211115T182653Z">
@@ -2211,6 +2219,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105026Z" creationid="valter" creationdate="20241017T105026Z">
         <seg>Configurazione di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connecting to the Internet by a proxy server, set the proxy in &lt;f0&gt;Tools &gt; Options &gt; Internet &gt; Proxy&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Internet &gt; Proxy&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211632Z" creationid="valter" creationdate="20241113T211632Z">
+        <seg>Per il collegamento a Internet tramite un server proxy, impostare il proxy in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Internet &gt; Proxy&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze &gt; Internet &gt; Proxy&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5230,6 +5246,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193548Z" creationid="valter" creationdate="20211115T193548Z">
         <seg>LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice can check &lt;f0&gt;Every day&lt;/f0&gt;, &lt;f1&gt;Every week&lt;/f1&gt;, or &lt;f2&gt;Every month&lt;/f2&gt;, as soon as a working Internet connection is detected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211413Z" creationid="valter" creationdate="20241113T211413Z">
+        <seg>LibreOffice può controllare &lt;f0&gt;Ogni giorno&lt;/f0&gt;♪ &lt;f1&gt;Ogni settimana&lt;/f1&gt; oppure &lt;f2&gt;Ogni mese&lt;/f2&gt;, non appena viene rilevata una connessione Internet funzionante.</seg>
       </tuv>
     </tu>
     <tu>
