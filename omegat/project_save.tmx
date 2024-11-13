@@ -975,6 +975,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A LibreOffice document contains settings that are read from a computer system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213609Z" creationid="valter" creationdate="20241113T213609Z">
+        <seg>Un documento di LibreOffice contiene impostazioni che vengono lette dal computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A LibreOffice module will become active if you double-click the filename of an ODF document in a folder, or file browser.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175400Z" creationid="valter" creationdate="20241016T200054Z">
@@ -5674,10 +5682,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213441Z" creationid="valter" creationdate="20241113T213441Z">
+        <seg>Carica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load LibreOffice during system start-up</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162731Z" creationid="valter" creationdate="20241017T162731Z">
         <seg>Carica LibreOffice all'avvio del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load user-specific settings with the document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213453Z" creationid="valter" creationdate="20241113T213453Z">
+        <seg>Carica le impostazioni personalizzate assieme al documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6310,6 +6334,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T172105Z" creationid="valter" creationdate="20241023T172105Z">
         <seg>Nella pagina Colori applicazione della finestra di dialogo Opzioni di LibreOffice (Figura&lt;t0&gt;9&lt;/t0&gt;) è possibile modificare l'aspetto complessivo di LibreOffice impostando i colori utilizzati per l'interfaccia di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the General page of the Options Load/Save dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), the default settings for saving documents and default file formats can be selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T213435Z" creationid="valter" creationdate="20241113T213435Z">
+        <seg>Nella pagina Generale della finestra di dialogo Carica/salva delle Opzioni (Figura &lt;t0&gt;12&lt;/t0&gt;) può essere selezionate le impostazioni per il salvataggio dei documenti e i formati dei file predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
