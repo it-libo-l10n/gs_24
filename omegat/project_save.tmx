@@ -4368,6 +4368,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If enabled, the printer settings are loaded with the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214635Z" creationid="valter" creationdate="20241113T214635Z">
+        <seg>Le impostazioni della stampante, se attivate, sono caricate con il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is difficult to understand what an option does, LibreOffice recommends leaving the option on its default setting unless instructions in this user guide recommend changing the setting.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152725Z" creationid="valter" creationdate="20240928T152725Z">
@@ -9399,6 +9407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can cause a document to be printed on a distant printer (perhaps in an office setting).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T214959Z" creationid="valter" creationdate="20241113T214959Z">
+        <seg>Ciò potrebbe far sì che un documento venga stampato su una stampante distante (magari in una configurazione di ufficio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chapter describes some of the setup options found in &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences&lt;/f1&gt;) on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110421Z" creationid="valter" creationdate="20241017T110421Z">
@@ -9804,6 +9820,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T172224Z" creationid="valter" creationdate="20241016T182231Z">
         <seg>Per fissare un documento nel Centro di Avvio e renderlo sempre visibile, passare il mouse sul documento desiderato e fare clic sull'icona a forma di puntina nell'angolo in alto a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To prevent this happening, manually change the printer in the Print dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215050Z" creationid="valter" creationdate="20241113T215050Z">
+        <seg>Per impedire che questo si verifichi, cambiare manualmente la stampante nella finestra di dialogo Stampa.</seg>
       </tuv>
     </tu>
     <tu>
