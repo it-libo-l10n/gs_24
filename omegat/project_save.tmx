@@ -1823,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211914Z" creationid="valter" creationdate="20241113T211914Z">
+        <seg>Cambia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the icon set used in a LibreOffice installation as follows:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T180732Z" creationid="valter" creationdate="20240928T180732Z">
@@ -2091,6 +2099,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201144Z" creationid="valter" creationdate="20241021T201144Z">
         <seg>Fare clic su questo pulsante per eseguire dei test e determinare l'efficienza della resa grafica di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to select the destination folder for downloaded files.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211936Z" creationid="valter" creationdate="20241113T211936Z">
+        <seg>Fare clic per scegliere la cartella di destinazione dei file scaricati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2631,6 +2647,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the selected folder to store the downloaded files.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211824Z" creationid="valter" creationdate="20241113T211824Z">
+        <seg>Visualizza la cartella prescelta per il salvataggio dei file scaricati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distribute, copy, and modify the software as required, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
@@ -2687,10 +2711,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download Destination</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211659Z" creationid="valter" creationdate="20241113T211659Z">
+        <seg>Destinazione dello scaricamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download links can be found at: &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133019Z" creationid="valter" creationdate="20240928T133019Z">
         <seg>I collegamenti per lo scaricamento si trovano all'indirizzo: &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download updates automatically</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211848Z" creationid="valter" creationdate="20241113T211830Z">
+        <seg>Scarica automaticamente gli aggiornamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2859,6 +2899,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202517Z" creationid="valter" creationdate="20241023T202517Z">
         <seg>Abilita la registrazione di macro (potenzialmente limitata)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable the automatic download of updates to the specified folder.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211907Z" creationid="valter" creationdate="20241113T211907Z">
+        <seg>Abilita lo scaricamento automatico degli aggiornamenti nella cartella specificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7679,6 +7727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to send information about the LibreOffice version, operating system and basic hardware.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T212120Z" creationid="valter" creationdate="20241113T212120Z">
+        <seg>Selezionare questa opzione per inviare le informazioni sulla versione di LibreOffice, del sistema operativo e dell'hardware di base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200952Z" creationid="valter" creationdate="20241021T200952Z">
@@ -9853,6 +9909,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161733Z" creationid="valter" creationdate="20211115T185554Z">
         <seg>Usato in combinazione con altri tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User Agent</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T211944Z" creationid="valter" creationdate="20241113T211944Z">
+        <seg>User Agent</seg>
       </tuv>
     </tu>
     <tu>
