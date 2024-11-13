@@ -1343,6 +1343,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Always create backup copy</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220457Z" creationid="valter" creationdate="20241113T220457Z">
+        <seg>Crea sempre copia di sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
@@ -2859,6 +2867,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200319Z" creationid="valter" creationdate="20240929T200319Z">
         <seg>Ed Olson, B. Antonio Fernandez, Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit document properties before saving</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220148Z" creationid="valter" creationdate="20241113T220148Z">
+        <seg>Modifica le proprietà prima di salvare</seg>
       </tuv>
     </tu>
     <tu>
@@ -7518,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saves the previous version of a document as a backup copy whenever a document is saved.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220550Z" creationid="valter" creationdate="20241113T220550Z">
+        <seg>Salva la versione precedente di un documento come copia di sicurezza (backup) quando si salva un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving documents</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171934Z" creationid="Elisabetta" creationdate="20241017T171934Z">
@@ -8331,6 +8355,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204554Z" creationid="valter" creationdate="20241021T204554Z">
         <seg>Abilita la stampa delle sfumature in un singolo colore intermedio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that the Properties dialog opens when a file is saved for the first time and every time &lt;f0&gt;Save As&lt;/f0&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220450Z" creationid="valter" creationdate="20241113T220450Z">
+        <seg>Stabilisce che si apra la finestra di dialogo Proprietà quando un file viene salvato per la prima volta e ogni qualvolta venga selezionato il comando &lt;f0&gt;Salva con nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
