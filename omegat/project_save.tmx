@@ -1551,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AutoRecovery saves information required to restore all open documents if LibreOffice crashes.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215944Z" creationid="valter" creationdate="20241113T215827Z">
+        <seg>Nel caso di un blocco di LibreOffice, il Ripristino automatico salva le informazioni necessarie al ripristino di tutti i documenti aperti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatically</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202843Z" creationid="valter" creationdate="20241021T202843Z">
@@ -4724,6 +4732,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T103801Z" creationid="valter" creationdate="20211016T103801Z">
         <seg>Inoltre, è possibile scegliere di attivare la Guida attiva da &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In adition to the AutoRecovery information option, LibreOffice can also automatically save the document in the given time interval.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T220139Z" creationid="valter" creationdate="20241113T220139Z">
+        <seg>In aggiunta all'opzione di ripristino automatico delle informazioni, LibreOffice può anche salvare automaticamente il documento alla frequenza di tempo specificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7995,6 +8011,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T175625Z" creationid="valter" creationdate="20241023T175625Z">
         <seg>Permette di impostare le opzioni di accesso facilitato per LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting this option makes recovering a document after a system crash easier.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241113T215932Z" creationid="valter" creationdate="20241113T215932Z">
+        <seg>Con l'attivazione di questa opzione sarà più facile recuperare un documento dopo un blocco del sistema.</seg>
       </tuv>
     </tu>
     <tu>
