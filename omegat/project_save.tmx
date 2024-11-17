@@ -2135,6 +2135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right, do the Sidebar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181226Z" creationid="Elisabetta" creationdate="20241117T181226Z">
+        <seg>Fare clic su &lt;f0&gt;Impostazioni della barra laterale&lt;/f0&gt; in alto a destra, selezionare Sgancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the toolbar handle (highlighted in Figure &lt;t0&gt;2&lt;/t0&gt;) and drag the tool palette onto the open document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172717Z" creationid="Elisabetta" creationdate="20241030T172717Z">
@@ -10179,8 +10187,8 @@
       <tuv lang="en-US">
         <seg>To undock the Sidebar and make it floating, do the following:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T180830Z" creationid="Elisabetta" creationdate="20241117T180830Z">
-        <seg>Per sbloccare la barra laterale e renderla mobile, procedere come segue:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181109Z" creationid="Elisabetta" creationdate="20241117T180830Z">
+        <seg>Per sganciare la barra laterale e renderla mobile, procedere come segue:</seg>
       </tuv>
     </tu>
     <tu>
