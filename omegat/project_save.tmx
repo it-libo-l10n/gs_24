@@ -4136,6 +4136,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the options available in the submenu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T183358Z" creationid="Elisabetta" creationdate="20241117T183358Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Procedure guidate&lt;/f0&gt; sulla barra dei menu e selezionare il tipo di documento dalle opzioni disponibili nel sottomenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175853Z" creationid="valter" creationdate="20241016T200718Z">
@@ -10244,6 +10252,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183713Z" creationid="Elisabetta" creationdate="20241104T183713Z">
         <seg>Per spostare una barra degli strumenti mobile, procedere come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To open an existing LibreOffice document in the appropriate module, use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T183457Z" creationid="Elisabetta" creationdate="20241117T183457Z">
+        <seg>Per aprire un documento LibreOffice esistente nel modulo appropriato, utilizzare uno dei seguenti metodi.</seg>
       </tuv>
     </tu>
     <tu>
