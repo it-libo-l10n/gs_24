@@ -2135,6 +2135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181813Z" creationid="Elisabetta" creationdate="20241117T181813Z">
+        <seg>Fare clic su &lt;f0&gt;Impostazioni della barra laterale&lt;/f0&gt; in alto a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right, do the Sidebar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181441Z" creationid="Elisabetta" creationdate="20241117T181226Z">
@@ -5578,6 +5586,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice has multiple methods for creating a new document:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181948Z" creationid="Elisabetta" creationdate="20241117T181948Z">
+        <seg>LibreOffice dispone di diversi metodi per creare un nuovo documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice has to be restarted to lock all toolbars.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T173730Z" creationid="Elisabetta" creationdate="20241030T173730Z">
@@ -7911,6 +7927,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Dock&lt;/f0&gt; from the options available, or use the keyboard shortcut &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181905Z" creationid="Elisabetta" creationdate="20241117T181905Z">
+        <seg>Selezionare &lt;f0&gt;Aggancia&lt;/f0&gt; dalle opzioni disponibili, oppure utilizzare i tasti di scelta rapida &lt;f1&gt;Ctrl+Maiusc+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Maiusc+F10&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Preinstalled Theme&lt;/f0&gt;, then click on a theme thumbnail and click &lt;f1&gt;Apply&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T170836Z" creationid="valter" creationdate="20241023T170836Z">
@@ -10035,6 +10059,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T174439Z" creationid="Elisabetta" creationdate="20241106T174439Z">
         <seg>Per agganciare tutte le barre degli strumenti mobili nelle rispettive posizioni predefinite, selezionare &lt;f0&gt;Aggancia tutte le barre degli strumenti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To dock the Sidebar into its usual position on the main window, do the following:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181741Z" creationid="Elisabetta" creationdate="20241117T181741Z">
+        <seg>Per agganciare la barra laterale alla sua posizione originale nella finestra principale, procedere come segue:</seg>
       </tuv>
     </tu>
     <tu>
