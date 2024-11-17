@@ -3695,6 +3695,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more detail on options available on the Sidebar, see the guides for each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T180350Z" creationid="Elisabetta" creationdate="20241117T180350Z">
+        <seg>Per maggiori dettagli sulle opzioni disponibili nella barra laterale, consultare le guide di ciascun modulo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more detail, see the user guides for the individual components.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092140Z" creationid="valter" creationdate="20211016T092140Z">
@@ -8371,6 +8379,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T181458Z" creationid="valter" creationdate="20240928T181458Z">
         <seg>Alcuni sistemi operativi Linux, per esempio Ubuntu, includono LibreOffice come parte dell'installazione e potrebbero non includere il gruppo di icone desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some Sidebar panels also have a More Options button, which opens a dialog &lt;t0/&gt;with additional editing controls.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T180212Z" creationid="Elisabetta" creationdate="20241117T180212Z">
+        <seg>Alcuni pannelli della barra laterale dispongono anche di un pulsante Altre opzioni, che apre una finestra di dialogo &lt;t0/&gt;con altri controlli di modifica.</seg>
       </tuv>
     </tu>
     <tu>
