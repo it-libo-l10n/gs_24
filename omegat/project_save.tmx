@@ -3880,6 +3880,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Functions for Calc</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T175612Z" creationid="Elisabetta" creationdate="20241117T175612Z">
+        <seg>Funzioni di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Functions, which can be used to create formulas to perform complex calculations on data.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T100319Z" creationid="akurery" creationdate="20211121T100319Z">
