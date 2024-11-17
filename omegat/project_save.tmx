@@ -2137,8 +2137,8 @@
       <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right, do the Sidebar.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181226Z" creationid="Elisabetta" creationdate="20241117T181226Z">
-        <seg>Fare clic su &lt;f0&gt;Impostazioni della barra laterale&lt;/f0&gt; in alto a destra, selezionare Sgancia.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181441Z" creationid="Elisabetta" creationdate="20241117T181226Z">
+        <seg>Fare clic su &lt;f0&gt;Impostazioni della barra laterale&lt;/f0&gt; in alto a destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7923,6 +7923,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T185455Z" creationid="calem" creationdate="20211118T185455Z">
         <seg>[fuzzy]&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;Interruzione riga&lt;/f1&gt; oppure &lt;f2&gt;Interruzione colonna&lt;/f2&gt;&lt;f3&gt; in base alle vostre necessità.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Undock&lt;/f0&gt; from the options available, or use the keyboard shortcut &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181640Z" creationid="Elisabetta" creationdate="20241117T181640Z">
+        <seg>Selezionare &lt;f0&gt;Sgancia&lt;/f0&gt; dalle opzioni disponibili, oppure utilizzare i tasti di scelta rapida &lt;f1&gt;Ctrl+Maiusc+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Maiusc+F10&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
