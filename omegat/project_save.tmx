@@ -6010,6 +6010,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Master Slides, Animation, Shapes, and Slide Transition for ImpressShapes for Draw</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T175548Z" creationid="Elisabetta" creationdate="20241117T175548Z">
+        <seg>Diapositive schema, animazioni, forme, transizioni tra le diapositive per Impress, Forme per Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Master slide</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165859Z" creationid="Elisabetta" creationdate="20241107T165859Z">
