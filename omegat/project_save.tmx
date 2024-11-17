@@ -3599,6 +3599,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, text can be made bold or italic with the Format menu, the Formatting toolbar, or the Properties deck.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T180000Z" creationid="Elisabetta" creationdate="20241117T180000Z">
+        <seg>Ad esempio, il testo può essere scritto in grassetto o in corsivo tramite il menu Formato, la barra degli strumenti Formattazione o l'area Proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the People Gallery is available from &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212146Z" creationid="valter" creationdate="20240928T212146Z">
@@ -4788,6 +4796,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T181216Z" creationid="valter" creationdate="20240928T181216Z">
         <seg>Nella sezione &lt;f0&gt;Tema di icone&lt;/f0&gt;, selezionare un tipo di carattere dalle opzioni disponibili nell'elenco a tendina, come mostrato in Figura &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In LibreOffice, menus, toolbars, and Sidebar panels share many functions across modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T175708Z" creationid="Elisabetta" creationdate="20241117T175708Z">
+        <seg>In LibreOffice, i menu, le barre degli strumenti e i pannelli della barra laterale condividono molte funzioni tra i vari moduli.</seg>
       </tuv>
     </tu>
     <tu>
