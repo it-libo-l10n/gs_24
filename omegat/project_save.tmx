@@ -3639,6 +3639,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T183221Z" creationid="Elisabetta" creationdate="20241117T183221Z">
+        <seg>Ad esempio, se Calc è aperto e attivo, viene creato un nuovo foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if Writer is open and active, this icon will create a new Writer document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T182946Z" creationid="Elisabetta" creationdate="20241117T182946Z">
+        <seg>Ad esempio, se Writer è aperto e attivo, questa icona creerà un nuovo documento Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if Writer or Calc are opened, the second docked toolbar is the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171856Z" creationid="Elisabetta" creationdate="20241021T171856Z">
@@ -9647,6 +9663,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of document created depends on which LibreOffice module is open and active.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T183123Z" creationid="Elisabetta" creationdate="20241117T183123Z">
+        <seg>Il tipo di documento dipende dal modulo di LibreOffice aperto ed attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161728Z" creationid="valter" creationdate="20241017T161728Z">
@@ -10501,6 +10525,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T154721Z" creationid="valter" creationdate="20241023T154721Z">
         <seg>Utilizzare le voci nella pagina Percorsi della finestra di dialogo Opzioni di LibreOffice per compilare un elenco di file, ad esempio quelli contenenti il Testo automatico, necessari per creare copie di sicurezza o copiare su un altro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;N&lt;/f1&gt;) to create a new document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T183044Z" creationid="Elisabetta" creationdate="20241117T183044Z">
+        <seg>Usare la combinazione di tasti &lt;f0&gt;Ctrl+N&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;N&lt;/f1&gt;) per creare un nuovo documento. </seg>
       </tuv>
     </tu>
     <tu>
