@@ -33,3 +33,4 @@ Style Inspector	Ispettore degli stili
 decks	aree
 Slide Transition	transizioni tra le diapositive
 do the Sidebar	Sgancia	UI
+Undock	Sgancia	UI
