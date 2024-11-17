@@ -35,3 +35,4 @@ Slide Transition	transizioni tra le diapositive
 do the Sidebar	Sgancia	UI
 Undock	Sgancia	UI
 Dock	Aggancia	Voce UI
+Wizards	Procedure guidate	Voce UI
