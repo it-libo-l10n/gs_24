@@ -31,3 +31,4 @@ Zoom slider	Cursore dello zoom
 Track Changes	Revisioni	Così nell'interfaccia utente.
 Style Inspector	Ispettore degli stili
 decks	aree
+Slide Transition	transizioni tra le diapositive
