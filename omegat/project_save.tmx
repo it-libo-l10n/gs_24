@@ -6282,6 +6282,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lock files</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T192852Z" creationid="valter" creationdate="20241123T192852Z">
+        <seg>File di blocco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lock files signal to applications that a resource or file should not be used until the lock is released.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T193434Z" creationid="valter" creationdate="20241123T193434Z">
+        <seg>I file di blocco segnalano alle applicazioni che una risorsa o un file non dovrà essere utilizzato fino al rilascio del blocco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locking and unlocking toolbars</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T170648Z" creationid="valter" creationdate="20241015T221535Z">
@@ -8347,6 +8363,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181905Z" creationid="Elisabetta" creationdate="20241117T181905Z">
         <seg>Selezionare &lt;f0&gt;Aggancia&lt;/f0&gt; dalle opzioni disponibili, oppure utilizzare i tasti di scelta rapida &lt;f1&gt;Ctrl+Maiusc+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Maiusc+F10&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Lock files&lt;/f0&gt; to generate a Microsoft Office lock file in addition to the LibreOffice lock file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T193017Z" creationid="valter" creationdate="20241123T193017Z">
+        <seg>Scegliere &lt;f0&gt;File di blocco&lt;/f0&gt; per generare un file di blocco Microsoft Office in aggiunta a file di blocco specifico di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
