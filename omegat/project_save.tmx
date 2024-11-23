@@ -2031,6 +2031,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Character Highlighting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184917Z" creationid="valter" creationdate="20241123T184917Z">
+        <seg>Evidenziazione carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Charts, spreadsheets</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163355Z" creationid="Elisabetta" creationdate="20241107T163355Z">
@@ -4488,6 +4496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Highlighting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T185210Z" creationid="valter" creationdate="20241123T185210Z">
+        <seg>Evidenziazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192651Z" creationid="valter" creationdate="20211115T192651Z">
@@ -6514,6 +6530,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Microsoft Office has two character attributes similar to LibreOffice character highlighting.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T185007Z" creationid="valter" creationdate="20241123T185007Z">
+        <seg>Microsoft Office possiede due attributi di carattere simili all'evidenziazione dei caratteri di LibreOffice. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microsoft PowerPoint</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T183038Z" creationid="valter" creationdate="20241123T183038Z">
@@ -8387,6 +8411,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T184817Z" creationid="valter" creationdate="20241123T184817Z">
         <seg>Selezionare la colonna [C] prima della voce se un oggetto OLE di Microsoft, o un altro oggetto OLE, deve essere trasformato in un oggetto OLE di LibreOffice quando si carica il documento di Microsoft, o di altro formato, in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the &lt;f0&gt;[S]&lt;/f0&gt; column in front of the entry if a LibreOffice OLE object is to be converted into the specified Microsoft OLE object when a document is saved in a Microsoft file format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184900Z" creationid="valter" creationdate="20241123T184900Z">
+        <seg>Selezionare la colonna [S] prima della voce se un oggetto OLE LibreOffice deve essere trasformato in un oggetto OLE Microsoft quando salvate il documento in un formato file Microsoft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10965,6 +10997,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T200751Z" creationid="valter" creationdate="20241016T200751Z">
         <seg>Usare la combinazione di tasti ⌘+&lt;f0&gt;Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this control to select the attribute, highlighting or shading, that LibreOffice should use when exporting LibreOffice character highlighting to Microsoft Office file formats.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T185152Z" creationid="valter" creationdate="20241123T185152Z">
+        <seg>Utilizzare questo controllo per selezionare l'attributo, evidenziazione od ombreggiatura,, che LibreOffice dovrà usare durante l'esportazione dell'evidenziazione dei caratteri LibreOffice nei formati di file Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
