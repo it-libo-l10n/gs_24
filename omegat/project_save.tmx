@@ -1231,6 +1231,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After loading the VBA code, LibreOffice inserts the statement Option VBASupport 1 in every Basic module to enable a limited support for VBA statements, functions and objects.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182103Z" creationid="valter" creationdate="20241123T182103Z">
+        <seg>Dopo aver caricato il codice VBA, LibreOffice inserisce l'istruzione Option VBASupport 1 in tutti i moduli Basic per attivare un supporto limitato per le istruzioni, le funzioni e gli oggetti VBA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; users have a voice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T120008Z" creationid="valter" creationdate="20240928T120008Z">
@@ -3247,6 +3255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Executable code</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181821Z" creationid="valter" creationdate="20241123T181821Z">
+        <seg>Codice eseguibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extended tips</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155530Z" creationid="valter" creationdate="20241017T155530Z">
@@ -4696,6 +4712,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not selected, the VBA code is commented out so it can be inspected, but not run.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182029Z" creationid="valter" creationdate="20241123T182029Z">
+        <seg>Se non è selezionata, il codice VBA sarà commentato in modo da poter essere controllato, ma non verrà eseguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If only one LibreOffice document is open, click on the X on the right of the title bar to close the entire application.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175826Z" creationid="valter" creationdate="20241016T200653Z">
@@ -4708,6 +4732,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204339Z" creationid="valter" creationdate="20241021T204339Z">
         <seg>Se selezionata, imposta la stampa delle sfumature con una qualità ridotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If selected, the Visual Basic for Applications (VBA) code is loaded ready to be executed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181949Z" creationid="valter" creationdate="20241123T181949Z">
+        <seg>Se selezionata, sarà caricato il codice Visual Basic for Applications (VBA), pronto per essere eseguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7926,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save original Basic code</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182108Z" creationid="valter" creationdate="20241123T182108Z">
+        <seg>Salva codice Basic originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saves the current settings as a color scheme that can be reloaded later.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T173640Z" creationid="valter" creationdate="20241023T173228Z">
@@ -8811,6 +8851,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T220450Z" creationid="valter" creationdate="20241113T220450Z">
         <seg>Stabilisce che si apra la finestra di dialogo Proprietà quando un file viene salvato per la prima volta e ogni qualvolta venga selezionato il comando &lt;f0&gt;Salva con nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that the original Microsoft Basic code contained in the document is held in a special internal memory for as long as the document remains loaded in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182143Z" creationid="valter" creationdate="20241123T182143Z">
+        <seg>Se si seleziona questa opzione, il codice Basic originale di Microsoft contenuto nel documento viene salvato in una particolare memoria interna per tutto il tempo in cui il documento rimane aperto con LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11121,10 +11169,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When saving in a format other than Microsoft Format, the Microsoft Basic Code is not saved.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182235Z" creationid="valter" creationdate="20241123T182235Z">
+        <seg>Salvando in un formato diverso da Microsoft, il codice Basic Microsoft non viene salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When saving in another format, the Basic code from the LibreOffice Basic IDE is not saved.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T181816Z" creationid="valter" creationdate="20241123T181816Z">
         <seg>Salvando in un formato diverso, il codice Basic proveniente dall'IDE di LibreOffice Basic non viene salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving the document in Microsoft format, the Microsoft Basic code is saved again with the code in an unchanged form.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182219Z" creationid="valter" creationdate="20241123T182219Z">
+        <seg>Se si salva il documento nel formato Microsoft, il codice Basic di Microsoft viene salvato senza modifiche.</seg>
       </tuv>
     </tu>
     <tu>
