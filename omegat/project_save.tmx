@@ -9607,6 +9607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The compatibility filter in the Character Highlighting Color dialog provides the Microsoft Office highlighting colors.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T192550Z" creationid="valter" creationdate="20241123T192550Z">
+        <seg>Il filtro di compatibilità presente nella finestra di dialogo Colore Evidenziazione del carattere fornisce i colori di evidenziazione di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The computer video card driver must have support for OpenCL to use this feature.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T212537Z" creationid="valter" creationdate="20241113T212537Z">
@@ -10387,6 +10395,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T175101Z" creationid="valter" creationdate="20211115T174849Z">
         <seg>Queste informazioni sono spesso richieste se chiedete aiuto alla comunità o assistenza per il software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the default setting since LibreOffice 7.0.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T191904Z" creationid="valter" creationdate="20241123T191904Z">
+        <seg>È l'impostazione predefinita da LibreOffice 7.0.</seg>
       </tuv>
     </tu>
     <tu>
