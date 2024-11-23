@@ -495,6 +495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Embedded Objects&lt;/f0&gt; specifies how Microsoft Office objects, or other OLE objects, are imported and exported.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183708Z" creationid="valter" creationdate="20241123T183708Z">
+        <seg>&lt;f0&gt;Oggetti incorporati&lt;/f0&gt; specifica come debbano essere importati ed esportati gli oggetti di Microsoft Office e gli altri oggetti OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Ask LibreOffice&lt;f2&gt; &lt;/f2&gt;forum of questions and answers from the LibreOffice community, &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T104430Z" creationid="valter" creationdate="20211016T104430Z">
@@ -3071,6 +3079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Embedded Objects</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183553Z" creationid="valter" creationdate="20241123T183553Z">
+        <seg>Oggetti incorporati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Embedded object (OLE) “ObjectName” selected</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163404Z" creationid="Elisabetta" creationdate="20241107T163404Z">
@@ -3841,8 +3857,8 @@
       <tuv lang="en-US">
         <seg>For information on &lt;f0&gt;Load Basic code&lt;/f0&gt; and &lt;f1&gt;Save original Basic code&lt;/f1&gt;, see &lt;f2&gt;Microsoft Word&lt;/f2&gt; above.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T183143Z" creationid="valter" creationdate="20241123T183143Z">
-        <seg>Per informazioni sulle opzioni &lt;f0&gt;Carica il codice Basic&lt;/f0&gt; and &lt;f1&gt;Save original Basic code&lt;/f1&gt;, see &lt;f2&gt;Microsoft Word&lt;/f2&gt; above.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183353Z" creationid="valter" creationdate="20241123T183143Z">
+        <seg>Per informazioni sulle opzioni &lt;f0&gt;Carica il codice Basic&lt;/f0&gt; e &lt;f1&gt;Salva il codice Basic originale&lt;/f1&gt; si veda &lt;f2&gt;Microsoft Word&lt;/f2&gt; sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6854,6 +6870,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T213435Z" creationid="valter" creationdate="20241113T213435Z">
         <seg>Nella pagina Generale della finestra di dialogo Carica/salva delle Opzioni (Figura &lt;t0&gt;12&lt;/t0&gt;) può essere selezionate le impostazioni per il salvataggio dei documenti e i formati dei file predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Microsoft Office page of the Options Load/Save dialog (Figure &lt;t0&gt;14&lt;/t0&gt;), the settings for importing and exporting Microsoft Office and other documents are specified.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183549Z" creationid="valter" creationdate="20241123T183549Z">
+        <seg>Nella pagina Microsoft Office della finestra di dialogo Carica/salva delle Opzioni (Figura &lt;t0&gt;14&lt;/t0&gt;), sono specificate le impostazioni per l'importazione e l'esportazione di documenti di Microsoft Office e di altri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10071,6 +10095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These settings are valid even when no Microsoft, or other OLE, &lt;t1/&gt;server exists (for example, in UNIX), or when there is no LibreOffice OLE server ready for editing the OLE objects.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183949Z" creationid="valter" creationdate="20241123T183949Z">
+        <seg>Queste impostazioni sono valide se non è presente alcun &lt;t1/&gt;server Microsoft o di altro OLE (ad esempio, in UNIX), o se non è disponibile alcun server OLE LibreOffice per applicare le modifiche agli oggetti OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These user details are used for several things within LibreOffice such as who created or last edited a document , author of comments or changes, sender address in mailing lists, and so on.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153727Z" creationid="valter" creationdate="20241017T153727Z">
@@ -10594,8 +10626,8 @@
       <tuv lang="en-US">
         <seg>To remove any possible Microsoft Basic macro viruses from a Microsoft document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt; and save the document in Microsoft format.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T182822Z" creationid="valter" creationdate="20241123T182822Z">
-        <seg>Per eliminare qualsiasi possibile virus nelle macro in Basic dal documento Microsoft, deselezionare la casella di controllo &lt;f0&gt;Salva codice Basic originale&lt;/f0&gt; e salvare il documento in formato Microsoft.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183308Z" creationid="valter" creationdate="20241123T182822Z">
+        <seg>Per eliminare qualsiasi possibile virus nelle macro in Basic dal documento Microsoft, deselezionare la casella di controllo &lt;f0&gt;Salva il codice Basic originale&lt;/f0&gt; e salvare il documento in formato Microsoft.</seg>
       </tuv>
     </tu>
     <tu>
