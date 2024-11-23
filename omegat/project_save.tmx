@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options Load/Save dialog — HTML Compatibility page&lt;/s0&gt;&lt;s1&gt;Options Load/Save dialog — HTML Compatibility page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194326Z" creationid="valter" creationdate="20241123T194326Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Carica/salva delle Opzioni — pagina Compatibilità HTML&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Carica/salva delle Opzioni — pagina Compatibilità HTML&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options Load/Save dialog — Microsoft Office page&lt;/s0&gt;&lt;s1&gt;Options Load/Save dialog — Microsoft Office page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T184217Z" creationid="valter" creationdate="20241123T184217Z">
@@ -2703,6 +2711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defines the settings for importing HTML documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194253Z" creationid="valter" creationdate="20241123T194253Z">
+        <seg>Definisce le impostazioni per l'importazione dei documenti HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defines which warnings appear before printing begins.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203158Z" creationid="valter" creationdate="20241021T203158Z">
@@ -3667,6 +3683,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161246Z" creationid="valter" creationdate="20241023T161246Z">
         <seg>Impostazioni dei tipi di carattere per sorgenti HTML, Basic e SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font sizes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194014Z" creationid="valter" creationdate="20241123T194009Z">
+        <seg>Dimensioni carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -5044,6 +5068,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182418Z" creationid="valter" creationdate="20211115T182418Z">
         <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194237Z" creationid="valter" creationdate="20241123T194237Z">
+        <seg>Importa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10981,6 +11013,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200258Z" creationid="valter" creationdate="20241021T200258Z">
         <seg>Usare &lt;f0&gt;Ctrl+Maiusc+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Maiusc+R&lt;/f1&gt;) per ripristinare o aggiornare la vista del documento attivo dopo avere modificato le impostazioni anti-aliasing per vederne l'effetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Size 1&lt;/f0&gt; to &lt;f1&gt;Size 7&lt;/f1&gt; to define the respective font sizes for the HTML &lt;f2&gt;&lt;font size=1&gt;&lt;/f2&gt; to &lt;f3&gt;&lt;font size=7&gt;&lt;/f3&gt; tags.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194225Z" creationid="valter" creationdate="20241123T194225Z">
+        <seg>Utilizzare i campi da &lt;f0&gt;Dimensione 1&lt;/f0&gt; a &lt;f1&gt;Dimensione 7&lt;/f1&gt; per definire le rispettive dimensioni del tipo di carattere per i tag HTML da &lt;f2&gt;&lt;font size=1&gt;&lt;/f2&gt; a &lt;f3&gt;&lt;font size=7&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
