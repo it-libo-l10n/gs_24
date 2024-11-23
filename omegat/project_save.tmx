@@ -3431,6 +3431,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Options Load/Save dialog — HTML Compatibility page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194343Z" creationid="valter" creationdate="20241123T194343Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Finestra di dialogo Carica/salva delle Opzioni — pagina Compatibilità HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190156Z" creationid="valter" creationdate="20211115T190156Z">
@@ -3859,6 +3867,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212146Z" creationid="valter" creationdate="20240928T212146Z">
         <seg>Per esempio, la galleria People è disponibile in &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the characters "1.000" copied from a German Web page probably mean “one thousand” because the dot-on-the-line is the thousands separator in a German locale.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195106Z" creationid="valter" creationdate="20241123T195106Z">
+        <seg>Ad esempio, la sequenza "1.000" copiata da una pagina web tedesca probabilmente sta a significare "mille", perché il punto è il separatore delle migliaia nelle impostazioni locali tedesche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7494,6 +7510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options Load/Save dialog — HTML Compatibility page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194407Z" creationid="valter" creationdate="20241123T194407Z">
+        <seg>Finestra di dialogo Carica/salva delle Opzioni — pagina Compatibilità HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options Load/Save dialog — Microsoft Office page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T184246Z" creationid="valter" creationdate="20241123T184246Z">
@@ -9671,6 +9695,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The clipboard, however, contains no information about the locale.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194522Z" creationid="valter" creationdate="20241123T194522Z">
+        <seg>Gli appunti, comunque, non contengono informazioni sull'area geografica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color settings for &lt;f0&gt;Visited links&lt;/f0&gt; and &lt;f1&gt;Unvisited links&lt;/f1&gt; only apply to documents created after the settings are applied.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174242Z" creationid="valter" creationdate="20241023T174147Z">
@@ -11009,6 +11041,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use 'English (USA)' locale for numbers</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194417Z" creationid="valter" creationdate="20241123T194417Z">
+        <seg>Usa 'Inglese (USA)' locale per i numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Ctrl+Shift+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+R&lt;/f1&gt;) to restore or refresh the view of the current document after changing the anti-aliasing settings to see the effect.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200258Z" creationid="valter" creationdate="20241021T200258Z">
@@ -11485,6 +11525,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200758Z" creationid="valter" creationdate="20241021T200758Z">
         <seg>Se deselezionato, l'elenco dei caratteri mostra soltanto i loro nomi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When importing numbers from an HTML page, the decimal separator and the thousands separator characters differ according to the locale of the HTML page.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T194509Z" creationid="valter" creationdate="20241123T194509Z">
+        <seg>Quando si importano i numeri da una pagina HTML, i caratteri separatori per i decimali e le migliaia variano a seconda delle impostazioni locali della pagina stessa.</seg>
       </tuv>
     </tu>
     <tu>
