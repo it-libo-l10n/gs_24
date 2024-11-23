@@ -10431,6 +10431,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This preserves color fidelity between LibreOffice and Microsoft Office documents, but Microsoft Office users must edit this character attribute with a tool that is not commonly used or easy to find in Microsoft Office applications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T191844Z" creationid="valter" creationdate="20241123T191844Z">
+        <seg>Questo salvaguarda la fedeltà dei colori tra i documenti LibreOffice e Microsoft Office, ma gli utenti di Microsoft Office dovranno modificare questo attributo di carattere con uno strumento che viene normalmente utilizzato o non è facile da trovare nelle applicazioni Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section covers some of the options and settings that apply to all the components of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110903Z" creationid="valter" creationdate="20241017T110903Z">
