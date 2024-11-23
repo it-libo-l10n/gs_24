@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options Load/Save dialog — Microsoft Office page&lt;/s0&gt;&lt;s1&gt;Options Load/Save dialog — Microsoft Office page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184217Z" creationid="valter" creationdate="20241123T184217Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Carica/salva delle Opzioni — pagina Microsoft Office&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Carica/salva delle Opzioni — pagina Microsoft Office&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options Load/Save dialog — VBA Properties page&lt;/s0&gt;&lt;s1&gt;Options Load/Save dialog — VBA Properties page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T181052Z" creationid="valter" creationdate="20241123T181052Z">
@@ -3375,6 +3383,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Options Load/Save dialog — Microsoft Office page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184228Z" creationid="valter" creationdate="20241123T184228Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Finestra di dialogo Carica/salva delle Opzioni — pagina Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190156Z" creationid="valter" creationdate="20211115T190156Z">
@@ -3996,6 +4012,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170439Z" creationid="valter" creationdate="20240928T170439Z">
         <seg>Per scuole, enti di formazione e di ricerca, e organizzazioni di grandi dimensioni, vedere la pagina web &lt;a0&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this conversion, the embedded MathType objects must not exceed the MathType 3.1 specifications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184124Z" creationid="valter" creationdate="20241123T184124Z">
+        <seg>Affinché sia possibile la conversione è necessario che gli oggetti MathType non utilizzino una specifica MathType più recente della 3.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,6 +4728,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an OLE server is active for the embedded object, then the OLE server is used to handle the object.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184024Z" creationid="valter" creationdate="20241123T184024Z">
+        <seg>Se è attivo un server OLE per l'oggetto incorporato, esso viene utilizzato per la gestione dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If an object is currently selected in Impress, the position numbers shows X and Y coordinates of the upper‑left corner and the object size number pair displays the size of the object.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175547Z" creationid="Elisabetta" creationdate="20241108T175140Z">
@@ -4756,6 +4788,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174025Z" creationid="Elisabetta" creationdate="20241107T171747Z">
         <seg>Se necessario si può selezionare una diapositiva schema e applicarla alla diapositiva attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If no OLE server is active for MathType objects, then embedded MathType objects are converted to LibreOffice Math objects.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184113Z" creationid="valter" creationdate="20241123T184113Z">
+        <seg>Se non è attivo alcun server OLE per gli oggetti MathType, allora gli oggetti MathType incorporati sono convertiti in oggetti di LibreOffice Math.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7346,6 +7386,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T221134Z" creationid="valter" creationdate="20241113T221134Z">
         <seg>Finestra di dialogo Carica/salva delle Opzioni — pagina Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Load/Save dialog — Microsoft Office page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T184246Z" creationid="valter" creationdate="20241123T184246Z">
+        <seg>Finestra di dialogo Carica/salva delle Opzioni — pagina Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
