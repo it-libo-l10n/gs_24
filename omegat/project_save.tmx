@@ -3311,6 +3311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T200348Z" creationid="valter" creationdate="20241123T200348Z">
+        <seg>Esporta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exports all RGB colors to the other Microsoft Office character attribute.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T191511Z" creationid="valter" creationdate="20241123T191511Z">
@@ -8719,6 +8727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to include the LibreOffice Basic instructions when exporting to HTML format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T200452Z" creationid="valter" creationdate="20241123T200452Z">
+        <seg>Selezionare questa opzione per includere le istruzioni di LibreOffice Basic nell'esportazione al formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to open a new dialog in which the LibreOffice installation can be fine tuned.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202953Z" creationid="valter" creationdate="20241023T202953Z">
@@ -12598,6 +12614,17 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155516Z" creationid="valter" creationdate="20241017T155516Z">
         <seg>Guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GS24812-ConfiguringLO.odt</prop>
+      <prop type="prev">Export</prop>
+      <prop type="next">Select this option to include the LibreOffice Basic instructions when exporting to HTML format.</prop>
+      <tuv lang="en-US">
+        <seg>LibreOffice Basic</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T200408Z" creationid="valter" creationdate="20241123T200408Z">
+        <seg>LibreOffice Basic</seg>
       </tuv>
     </tu>
     <tu>
