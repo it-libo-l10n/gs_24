@@ -3727,6 +3727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a closing tag, an &lt;f1&gt;HTML_OFF&lt;/f1&gt; is created.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195909Z" creationid="valter" creationdate="20241123T195909Z">
+        <seg>Per un tag di chiusura, verrà creato un campo &lt;f1&gt;HTML_OFF&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a detailed list of requirements and operating systems supported, see the LibreOffice website, &lt;a0&gt;https://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132359Z" creationid="valter" creationdate="20240928T132359Z">
@@ -5108,6 +5116,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192543Z" creationid="valter" creationdate="20211115T192422Z">
         <seg>Se volete utilizzare le funzionalità di LibreOffice che richiedono Java, è importante che abbiate installato la corretta versione a 32 bit o a 64 bit coincidente con la versione installata di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ignore font settings</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195933Z" creationid="valter" creationdate="20241123T195933Z">
+        <seg>Ignora impostazioni carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -8695,6 +8711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to ignore all font settings when importing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T200015Z" creationid="valter" creationdate="20241123T200015Z">
+        <seg>Selezionare questa opzione per ignorare tutte le impostazioni dei tipi di carattere durante l'importazione. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to open a new dialog in which the LibreOffice installation can be fine tuned.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202953Z" creationid="valter" creationdate="20241023T202953Z">
@@ -9919,6 +9943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The fonts that were defined in the HTML Page Style are the fonts used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T200342Z" creationid="valter" creationdate="20241123T200342Z">
+        <seg>Sono utilizzati i tipi di carattere definiti nello stile della pagina HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184024Z" creationid="valter" creationdate="20211115T184024Z">
@@ -10339,6 +10371,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182628Z" creationid="valter" creationdate="20211115T182628Z">
         <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These fields are converted to tags in the HTML export.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195925Z" creationid="valter" creationdate="20241123T195925Z">
+        <seg>Questi campi vengono convertiti in tag durante l'esportazione HTML.</seg>
       </tuv>
     </tu>
     <tu>
