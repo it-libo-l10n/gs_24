@@ -3295,6 +3295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exports all RGB colors to the other Microsoft Office character attribute.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T191511Z" creationid="valter" creationdate="20241123T191511Z">
+        <seg>Esporta tutti i colori RGB nell'altro attributo di carattere Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exports the closest match between a LibreOffice highlighting color and one of the 16 Microsoft highlighting colors.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T190406Z" creationid="valter" creationdate="20241123T190406Z">
