@@ -11059,8 +11059,16 @@
       <tuv lang="en-US">
         <seg>Use this control to select the attribute, highlighting or shading, that LibreOffice should use when exporting LibreOffice character highlighting to Microsoft Office file formats.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T185152Z" creationid="valter" creationdate="20241123T185152Z">
-        <seg>Utilizzare questo controllo per selezionare l'attributo, evidenziazione od ombreggiatura,, che LibreOffice dovrà usare durante l'esportazione dell'evidenziazione dei caratteri LibreOffice nei formati di file Microsoft Office.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T192623Z" creationid="valter" creationdate="20241123T185152Z">
+        <seg>Utilizzare questo controllo per selezionare l'attributo, evidenziazione o sfumatura, che LibreOffice dovrà usare durante l'esportazione dell'evidenziazione dei caratteri LibreOffice nei formati di file Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use those colors and choose &lt;f0&gt;Highlighting&lt;/f0&gt; if both color fidelity and ease of editing is required for Microsoft Office users.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T192808Z" creationid="valter" creationdate="20241123T192808Z">
+        <seg>Usare tali colori e scegliere &lt;f0&gt;Evidenziazione&lt;/f0&gt; se gli utenti di Microsoft Office richiedono fedeltà dei colori e facilità di modifica.</seg>
       </tuv>
     </tu>
     <tu>
