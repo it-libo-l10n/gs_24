@@ -1385,8 +1385,8 @@
       <tuv lang="en-US">
         <seg>Always save as</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T175912Z" creationid="valter" creationdate="20241123T175912Z">
-        <seg>Salva con nome</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T180523Z" creationid="valter" creationdate="20241123T175912Z">
+        <seg>Salva sempre come</seg>
       </tuv>
     </tu>
     <tu>
@@ -1483,6 +1483,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101908Z" creationid="valter" creationdate="20211016T101908Z">
         <seg>Andrew Pitonyak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another file type for the current document can be selected in the Save as dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T180735Z" creationid="valter" creationdate="20241123T180735Z">
+        <seg>È tuttavia possibile selezionare un altro tipo di file per il documento attivo all'interno della finestra di dialogo Salva con nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8721,8 +8729,8 @@
       <tuv lang="en-US">
         <seg>Specifies that documents of the type selected on the left are always saved as the file type selected from the drop-down list.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T180451Z" creationid="valter" creationdate="20241123T180451Z">
-        <seg>Specifica che i documenti del tipo selezionato sulla sinistra sono sempre salvati come </seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T180604Z" creationid="valter" creationdate="20241123T180451Z">
+        <seg>Specifica che i documenti del tipo selezionato sulla sinistra sono sempre salvati come il tipo selezionato nell'elenco a discesa. </seg>
       </tuv>
     </tu>
     <tu>
