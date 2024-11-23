@@ -8735,6 +8735,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shading</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T191104Z" creationid="valter" creationdate="20241123T190703Z">
+        <seg>Sfumatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Tip of the Day</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160952Z" creationid="valter" creationdate="20240928T160952Z">
@@ -10267,6 +10275,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T144113Z" creationid="Elisabetta Manuele" creationdate="20211110T144113Z">
         <seg>Questo capitolo comprende istruzioni, schermate e consigli utili per guidarvi nell'ambiente di Impress nel corso della progettazione delle vostre presentazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This character attribute makes it easy for Microsoft Office users to edit with the highlighting tool in Microsoft Office applications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T190624Z" creationid="valter" creationdate="20241123T190624Z">
+        <seg>Questo attributo del carattere ne semplifica la modifica, agli utenti di Microsoft Office, con lo strumento di evidenziazione presente nelle applicazioni Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
