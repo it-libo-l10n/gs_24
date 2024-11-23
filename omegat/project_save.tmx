@@ -10647,6 +10647,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option must be selected before creating the LibreOffice Basic Script, otherwise it will not be inserted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T225938Z" creationid="valter" creationdate="20241123T225938Z">
+        <seg>Prima di creare lo script di LibreOffice Basic, è necessario attivare questa opzione, altrimenti lo script non viene inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option only affects the screen display.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T181046Z" creationid="valter" creationdate="20241023T181046Z">
