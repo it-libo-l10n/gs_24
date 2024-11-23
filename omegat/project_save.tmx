@@ -4832,6 +4832,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If copied from an English Web page, the same characters stand for the number 1 as in “one dot zero zero zero”.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195215Z" creationid="valter" creationdate="20241123T195215Z">
+        <seg>Se copiata da una pagina web inglese, la stessa sequenza di caratteri indica il numero uno, come se fosse “uno virgola zero zero zero”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If disabled, the default printer will be used to print the document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T215143Z" creationid="valter" creationdate="20241113T215143Z">
@@ -4868,6 +4876,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T184113Z" creationid="valter" creationdate="20241123T184113Z">
         <seg>Se non è attivo alcun server OLE per gli oggetti MathType, allora gli oggetti MathType incorporati sono convertiti in oggetti di LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If not selected, numbers are interpreted according to the setting in &lt;f0&gt;Tools &gt; Options &gt; Languages and Locales&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Languages and Locales&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195446Z" creationid="valter" creationdate="20241123T195446Z">
+        <seg>Se l'opzione non è selezionata, i numeri sono interpretati in base all'impostazione contenuta &lt;f0&gt;Strumenti &gt; Opzioni &gt; Lingue e impostazioni locali&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze &gt; Lingue e impostazioni locali&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
