@@ -3783,6 +3783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For an opening tag, an &lt;f0&gt;HTML_ON&lt;/f0&gt; field is created with the value of the tag name.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195838Z" creationid="valter" creationdate="20241123T195838Z">
+        <seg>Per un tag di apertura, verrà creato un campo &lt;f0&gt;HTML_ON&lt;/f0&gt; con il valore del nome del tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For comprehensive online support from the community, look at mailing lists and the Ask LibreOffice website, &lt;a2&gt;https://ask.libreoffice.org/en/questions/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T164725Z" creationid="valter" creationdate="20240928T164725Z">
@@ -4864,6 +4872,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If marked, numbers are interpreted using the English (USA) locale.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195700Z" creationid="valter" creationdate="20241123T195700Z">
+        <seg>Se selezionata, i numeri vengono interpretati utilizzando l'area geografica 'Inglese (USA)'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary you can select a master slide and apply it to the current slide.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174025Z" creationid="Elisabetta" creationdate="20241107T171747Z">
@@ -5116,6 +5132,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191309Z" creationid="akurery" creationdate="20211211T191309Z">
         <seg>Importazione ed esportazione di fogli elettronici in più formati, inclusi HTML, CSV, PDF e PostScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import unknown HTML tags as fields</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195711Z" creationid="valter" creationdate="20241123T195711Z">
+        <seg>Importa tag HTML sconosciuti come campi</seg>
       </tuv>
     </tu>
     <tu>
@@ -8643,6 +8667,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204115Z" creationid="valter" creationdate="20241021T204115Z">
         <seg>Selezionare questa opzione se è richiesto un avviso per indicare la presenza di oggetti trasparenti nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option if tags that are not recognized by LibreOffice are to be imported as fields.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T195759Z" creationid="valter" creationdate="20241123T195759Z">
+        <seg>Selezionare questa opzione se i tag che non sono riconosciuti da LibreOffice debbano essere importati come campi.</seg>
       </tuv>
     </tu>
     <tu>
