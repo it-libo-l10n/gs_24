@@ -2831,6 +2831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display warning</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T230051Z" creationid="valter" creationdate="20241123T230051Z">
+        <seg>Mostra avviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displaying multiple views of a document</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172747Z" creationid="Elisabetta" creationdate="20241017T172747Z">
@@ -5906,6 +5914,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice Basic scripts must be located in the header of the HTML document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T230011Z" creationid="valter" creationdate="20241123T230011Z">
+        <seg>Gli script di LibreOffice Basic devono essere situati nell'intestazione del documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice Basics</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200521Z" creationid="valter" creationdate="20240929T200521Z">
@@ -7158,6 +7174,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T172432Z" creationid="Elisabetta" creationdate="20241106T172432Z">
         <seg>Quando compare il bordo tratteggiato rilasciare la barra degli strumenti, che si aggancerà automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the macro is created in LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T230037Z" creationid="valter" creationdate="20241123T230037Z">
+        <seg>Una volta creata la macro nell'IDE di LibreOffice Basic, questa apparirà nel sorgente pagina del documento HTML, nell'intestazione.</seg>
       </tuv>
     </tu>
     <tu>
