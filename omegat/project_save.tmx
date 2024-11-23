@@ -1383,6 +1383,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Always save as</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T175912Z" creationid="valter" creationdate="20241123T175912Z">
+        <seg>Salva con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
@@ -2811,6 +2819,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160205Z" creationid="valter" creationdate="20241017T160205Z">
         <seg>Stato del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Document type</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T175809Z" creationid="valter" creationdate="20241123T175809Z">
+        <seg>Tipo documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -8703,6 +8719,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies that documents of the type selected on the left are always saved as the file type selected from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T180451Z" creationid="valter" creationdate="20241123T180451Z">
+        <seg>Specifica che i documenti del tipo selezionato sulla sinistra sono sempre salvati come </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies that gradients are only printed in a single intermediate color.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204554Z" creationid="valter" creationdate="20241021T204554Z">
@@ -8723,6 +8747,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202903Z" creationid="valter" creationdate="20241021T202903Z">
         <seg>Abilita la stampa delle aree trasparenti solo se queste coprono meno di un quarto dell'intera pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies the document type to define the default file format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T175854Z" creationid="valter" creationdate="20241123T175854Z">
+        <seg>Specifica il tipo di documento per il quale viene definito il formato di file predefinito.</seg>
       </tuv>
     </tu>
     <tu>
