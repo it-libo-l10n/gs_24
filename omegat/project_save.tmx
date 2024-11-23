@@ -3743,6 +3743,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if the document contains Microsoft Basic code and the document is saved in OpenDocument format, a warning is displayed stating that Microsoft Basic code will not be saved.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182359Z" creationid="valter" creationdate="20241123T182359Z">
+        <seg>Ad esempio, se il documento contiene codice Basic Microsoft e lo si salva in formato OpenDocument, un messaggio avverte che il codice Basic di Microsoft non verrà salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160823Z" creationid="valter" creationdate="20241017T160823Z">
@@ -4676,6 +4684,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175943Z" creationid="valter" creationdate="20241016T200835Z">
         <seg>Se qualche documento non è stato salvato dopo l'ultima modifica, verrà visualizzato un avviso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If both options are marked and the disabled Basic code is edited in the LibreOffice Basic IDE, the original Microsoft Basic code is saved when saving in Microsoft format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182701Z" creationid="valter" creationdate="20241123T182701Z">
+        <seg>Se vengono selezionate entrambe le opzioni e se si modifica il codice Basic commentato nell'IDE Basic di LibreOffice, salvando in formato Microsoft il codice Basic originale di Microsoft viene incluso nel salvataggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9167,6 +9183,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Save original Basic code&lt;/f0&gt; selection takes precedence over the &lt;f1&gt;Load Basic code&lt;/f1&gt; selection.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182453Z" creationid="valter" creationdate="20241123T182453Z">
+        <seg>L'opzione &lt;f0&gt;Salva codice Basic originale&lt;/f0&gt; ha precedenza sull'opzione &lt;f1&gt;Carica codice Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f1&gt;Clipboard&lt;/f1&gt; and &lt;f2&gt;Selection clipboard&lt;/f2&gt; can contain different contents at the same time as shown in Table &lt;t3&gt;1&lt;/t3&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174420Z" creationid="valter" creationdate="20241017T174420Z">
@@ -10524,6 +10548,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T170935Z" creationid="valter" creationdate="20241016T181855Z">
         <seg>Per ridurre il numero di file visualizzati nel Centro di Avvio, selezionare un modulo di LibreOffice dall'elenco a discesa &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove any possible Microsoft Basic macro viruses from a Microsoft document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt; and save the document in Microsoft format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182822Z" creationid="valter" creationdate="20241123T182822Z">
+        <seg>Per eliminare qualsiasi possibile virus nelle macro in Basic dal documento Microsoft, deselezionare la casella di controllo &lt;f0&gt;Salva codice Basic originale&lt;/f0&gt; e salvare il documento in formato Microsoft.</seg>
       </tuv>
     </tu>
     <tu>
