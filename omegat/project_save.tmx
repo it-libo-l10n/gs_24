@@ -3839,6 +3839,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information on &lt;f0&gt;Load Basic code&lt;/f0&gt; and &lt;f1&gt;Save original Basic code&lt;/f1&gt;, see &lt;f2&gt;Microsoft Word&lt;/f2&gt; above.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183143Z" creationid="valter" creationdate="20241123T183143Z">
+        <seg>Per informazioni sulle opzioni &lt;f0&gt;Carica il codice Basic&lt;/f0&gt; and &lt;f1&gt;Save original Basic code&lt;/f1&gt;, see &lt;f2&gt;Microsoft Word&lt;/f2&gt; above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For information on &lt;f0&gt;Load Basic code&lt;/f0&gt;, &lt;f1&gt;Executable code&lt;/f1&gt;, and &lt;f2&gt;Save original Basic code&lt;/f2&gt;, see &lt;f3&gt;Microsoft Word&lt;/f3&gt; above.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183204Z" creationid="valter" creationdate="20241123T183033Z">
+        <seg>Per informazioni sulle opzioni &lt;f0&gt;Carica il codice Basic&lt;/f0&gt;, &lt;f1&gt;Codice eseguibile&lt;/f1&gt; e &lt;f2&gt;Salva il codice Basic originale&lt;/f2&gt; si veda &lt;f3&gt;Microsoft Word&lt;/f3&gt; sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For information on options or settings that are not discussed in this section, see the LibreOffice Help.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110949Z" creationid="valter" creationdate="20241017T110949Z">
@@ -6426,10 +6442,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Microsoft Excel</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182836Z" creationid="valter" creationdate="20241123T182836Z">
+        <seg>Microsoft Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microsoft Office</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105938Z" creationid="valter" creationdate="20241017T105938Z">
         <seg>Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft PowerPoint</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183038Z" creationid="valter" creationdate="20241123T183038Z">
+        <seg>Microsoft PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -7976,8 +8008,8 @@
       <tuv lang="en-US">
         <seg>Save original Basic code</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T182108Z" creationid="valter" creationdate="20241123T182108Z">
-        <seg>Salva codice Basic originale</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183239Z" creationid="valter" creationdate="20241123T182108Z">
+        <seg>Salva il codice Basic originale</seg>
       </tuv>
     </tu>
     <tu>
@@ -9185,8 +9217,8 @@
       <tuv lang="en-US">
         <seg>The &lt;f0&gt;Save original Basic code&lt;/f0&gt; selection takes precedence over the &lt;f1&gt;Load Basic code&lt;/f1&gt; selection.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T182453Z" creationid="valter" creationdate="20241123T182453Z">
-        <seg>L'opzione &lt;f0&gt;Salva codice Basic originale&lt;/f0&gt; ha precedenza sull'opzione &lt;f1&gt;Carica codice Basic&lt;/f1&gt;.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T183232Z" creationid="valter" creationdate="20241123T182453Z">
+        <seg>L'opzione &lt;f0&gt;Salva il codice Basic originale&lt;/f0&gt; ha precedenza sull'opzione &lt;f1&gt;Carica il codice Basic&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9531,6 +9563,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182818Z" creationid="valter" creationdate="20211115T182818Z">
         <seg>Le differenze stanno principalmente nelle finestre di dialogo Apri, Salva e Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document is saved without the Microsoft Basic code.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T182829Z" creationid="valter" creationdate="20241123T182829Z">
+        <seg>Il documento verrà salvato senza il codice Microsoft Basic.</seg>
       </tuv>
     </tu>
     <tu>
