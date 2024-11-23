@@ -3337,8 +3337,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Options Load/Save dialog — VBA Properties page</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T181108Z" creationid="valter" creationdate="20241123T181108Z">
-        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Finestra di dialogo Carica/salva delle Opzioni — pagina Proprietà VBA</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181247Z" creationid="valter" creationdate="20241123T181108Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Finestra di dialogo Carica/salva delle Opzioni — pagina Proprietà VBA</seg>
       </tuv>
     </tu>
     <tu>
@@ -6074,6 +6074,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load Basic code</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181431Z" creationid="valter" creationdate="20241123T181431Z">
+        <seg>Carica il codice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load LibreOffice during system start-up</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162731Z" creationid="valter" creationdate="20241017T162731Z">
@@ -6102,6 +6110,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105915Z" creationid="valter" creationdate="20241017T105915Z">
         <seg>Caricamento e salvataggio di documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loads and saves Basic code from a Microsoft document as a special LibreOffice Basic module with the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181554Z" creationid="valter" creationdate="20241123T181554Z">
+        <seg>Carica e salva il codice Basic da un documento Microsoft come un modulo speciale di LibreOffice Basic con il documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,6 +6382,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105938Z" creationid="valter" creationdate="20241017T105938Z">
         <seg>Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft Word</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181414Z" creationid="valter" creationdate="20241123T181414Z">
+        <seg>Microsoft Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -6796,8 +6820,8 @@
       <tuv lang="en-US">
         <seg>On the VBA Properties page of the Options Load/Save dialog (Figure &lt;t0&gt;13&lt;/t0&gt;), the general properties for loading and saving Microsoft Office documents with VBA (Visual Basic for Applications) code are specified.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241123T181243Z" creationid="valter" creationdate="20241123T181243Z">
-        <seg>Nella pagina Proprietà VBA della finestra di dialogo Carica/salva delle Opzioni (Figura &lt;t0&gt;13&lt;/t0&gt;), the general properties for loading and saving Microsoft Office documents with VBA (Visual Basic for Applications) code are specified.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181404Z" creationid="valter" creationdate="20241123T181243Z">
+        <seg>Nella pagina Proprietà VBA della finestra di dialogo Carica/salva delle Opzioni (Figura &lt;t0&gt;13&lt;/t0&gt;), sono specificate le proprietà generali per caricare e salvare i documenti di Microsoft Office con codice VBA (Visual Basic for Applications).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8235,6 +8259,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161424Z" creationid="valter" creationdate="20241023T161424Z">
         <seg>Selezionare il tipo di carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the settings for Microsoft Word documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181426Z" creationid="valter" creationdate="20241123T181426Z">
+        <seg>Selezionare le impostazioni per i documenti di Microsoft Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11085,6 +11117,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T213633Z" creationid="valter" creationdate="20241113T213633Z">
         <seg>Durante il salvataggio, queste impostazioni vengono salvate con il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving in another format, the Basic code from the LibreOffice Basic IDE is not saved.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181816Z" creationid="valter" creationdate="20241123T181816Z">
+        <seg>Salvando in un formato diverso, il codice Basic proveniente dall'IDE di LibreOffice Basic non viene salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving the document in OpenDocument format, the Basic code is saved as well.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T181705Z" creationid="valter" creationdate="20241123T181705Z">
+        <seg>Se si salva il documento nel formato OpenDocument, con esso è salvato anche il codice Basic.</seg>
       </tuv>
     </tu>
     <tu>
