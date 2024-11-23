@@ -3295,6 +3295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exports the closest match between a LibreOffice highlighting color and one of the 16 Microsoft highlighting colors.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241123T190406Z" creationid="valter" creationdate="20241123T190406Z">
+        <seg>Esporta la corrispondenza più vicina tra un colore di evidenziazione di LibreOffice e quello tra i 16 colori di evidenziazione Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extended tips</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155530Z" creationid="valter" creationdate="20241017T155530Z">
