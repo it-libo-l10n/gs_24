@@ -4370,8 +4370,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document from the submenu that opens.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T182609Z" creationid="Elisabetta" creationdate="20241117T182609Z">
-        <seg>Accedere a &lt;f0&gt;File &gt; Nuovo&lt;/f0&gt; sulla barra dei menu e selezionare il tipo di documento dal sottomenu che si apre.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241127T120155Z" creationid="Elisabetta" creationdate="20241117T182609Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Nuovo&lt;/f0&gt;nella Barra dei menu e selezionare il tipo di documento dal sottomenu che si apre.</seg>
       </tuv>
     </tu>
     <tu>
