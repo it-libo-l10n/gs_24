@@ -4378,16 +4378,16 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and select the file.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T183709Z" creationid="Elisabetta" creationdate="20241117T183709Z">
-        <seg>Accedere a &lt;f0&gt;File &gt; Apri&lt;/f0&gt; sulla barra dei menu e selezionare il file.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241127T115827Z" creationid="Elisabetta" creationdate="20241117T183709Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Apri&lt;/f0&gt; sulla Barra dei menu e selezionare il file.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the options available in the submenu.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T183358Z" creationid="Elisabetta" creationdate="20241117T183358Z">
-        <seg>Accedere a &lt;f0&gt;File &gt; Procedure guidate&lt;/f0&gt; sulla barra dei menu e selezionare il tipo di documento dalle opzioni disponibili nel sottomenu.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241127T115921Z" creationid="Elisabetta" creationdate="20241117T183358Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Procedure guidate&lt;/f0&gt; nella Barra dei menu e selezionare il tipo di documento dalle opzioni disponibili nel sottomenu.</seg>
       </tuv>
     </tu>
     <tu>
