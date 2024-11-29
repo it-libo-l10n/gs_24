@@ -11841,6 +11841,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you are selecting a LibreOffice file from the Start Center, Open dialog, or file browser you can limit the files seen by file type.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T184553Z" creationid="Elisabetta" creationdate="20241129T184553Z">
+        <seg>Selezionando un file di LibreOffice dal Centro di avvio, dalla finestra di dialogo Apri o da quella di esplorazione file, è possibile limitare i file visualizzati in base al tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190402Z" creationid="valter" creationdate="20211115T190402Z">
