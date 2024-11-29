@@ -4392,6 +4392,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Recent Documents&lt;/f0&gt; on the Menu bar and select the file from the files displayed in the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T174827Z" creationid="Elisabetta" creationdate="20241129T174827Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Documenti recenti&lt;/f0&gt; nella barra dei menu e selezionare il file dall'elenco visibile nel menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the options available in the submenu.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241127T115921Z" creationid="Elisabetta" creationdate="20241117T183358Z">
