@@ -11056,6 +11056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To remove the file from the Start Center, hover the cursor over the thumbnail until an X appears in the upper right corner, and then click on the X.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T183838Z" creationid="Elisabetta" creationdate="20241129T183838Z">
+        <seg>Per rimuovere i file dal Centro di avvio, posizionare il cursore sulle miniature finché non appare una X nell'angolo in alto a destra, quindi fare clic su di essa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To show the Sidebar, click on the &lt;f2&gt;Hide/Show&lt;/f2&gt; button again.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T180709Z" creationid="Elisabetta" creationdate="20241117T180709Z">
