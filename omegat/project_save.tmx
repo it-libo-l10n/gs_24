@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save&lt;/f0&gt; — can save all changes made, keeping the current filename and location of the file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T190652Z" creationid="Elisabetta" creationdate="20241129T190652Z">
+        <seg>&lt;f0&gt;Salva&lt;/f0&gt; - consente di salvare tutte le modifiche apportate, mantenendo il nome del file e la sua posizione attuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Feedback page of the LibreOffice website, &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T104739Z" creationid="valter" creationdate="20211016T104739Z">
@@ -6062,6 +6070,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T153946Z" creationid="valter" creationdate="20240928T153946Z">
         <seg>LibreOffice è distribuito con un sistema di aiuto vasto e articolato, che può essere utilizzato come iniziale fonte di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice documents can be saved with one of the following methods:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T185543Z" creationid="Elisabetta" creationdate="20241129T185543Z">
+        <seg>È possibile salvare i documenti di LibreOffice con uno dei seguenti metodi:</seg>
       </tuv>
     </tu>
     <tu>
