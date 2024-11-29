@@ -4440,6 +4440,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Save&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T190927Z" creationid="Elisabetta" creationdate="20241129T190927Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Salva&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the options available in the submenu.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241127T115921Z" creationid="Elisabetta" creationdate="20241117T183358Z">
