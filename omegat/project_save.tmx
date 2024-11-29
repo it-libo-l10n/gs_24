@@ -2175,6 +2175,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Recent Documents&lt;/f0&gt; in the Start Center and select a recent file from the Center.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T173922Z" creationid="Elisabetta" creationdate="20241129T173922Z">
+        <seg>Fare clic su &lt;f0&gt;Documenti recenti&lt;/f0&gt; nel Centro di avvio e selezionare un file recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to return to the Options dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T154055Z" creationid="valter" creationdate="20241023T154055Z">
