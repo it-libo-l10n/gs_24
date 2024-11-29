@@ -3839,6 +3839,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, LibreOffice can open MS Word files (*.doc or *.docx) in Writer, MS Excel files (*.xls or *.xlsx) can be opened in Calc; MS PowerPoint files (*.ppt or *.pptx) can be opened in Impress, and so on.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T185323Z" creationid="Elisabetta" creationdate="20241129T185323Z">
+        <seg>Ad esempio, LibreOffice può aprire i file MS Word (*.doc o *.docx) in Writer, i file MS Excel (*.xls o *.xlsx) in Calc, i file MS PowerPoint (*.ppt o *.pptx) in Impress ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, click on &lt;f0&gt;Impress Presentation&lt;/f0&gt; and a new presentation is created.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T182154Z" creationid="Elisabetta" creationdate="20241117T182154Z">
@@ -8498,6 +8506,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115623Z" creationid="valter" creationdate="20240928T115623Z">
         <seg>Per un elenco, vedere l'Appendice B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 10, Working with File Formats, Security and Exporting for more information about working with different file types.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T185511Z" creationid="Elisabetta" creationdate="20241129T185511Z">
+        <seg>Per ulteriori informazioni su come lavorare con i diversi tipi di file, consultare il Capitolo 10, Lavorare con formati di file, sicurezza ed esportazione.</seg>
       </tuv>
     </tu>
     <tu>
