@@ -10855,6 +10855,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option is only available when more than one LibreOffice document is open.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T155742Z" creationid="Elisabetta" creationdate="20241201T155742Z">
+        <seg>Questa opzione è disponibile solo se è aperto più di un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option must be selected before creating the LibreOffice Basic Script, otherwise it will not be inserted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T225938Z" creationid="valter" creationdate="20241123T225938Z">
