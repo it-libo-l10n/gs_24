@@ -615,6 +615,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save a Copy&lt;/f0&gt; — can save a copy of the current document, for example, in a different location on the computer system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T152018Z" creationid="Elisabetta" creationdate="20241201T151957Z">
+        <seg>&lt;f0&gt;Salva una copia&lt;/f0&gt; consente di salvare una copia del documento attivo, ad esempio, in una posizione diversa nel computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Save&lt;/f0&gt; — can save all changes made, keeping the current filename and location of the file.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T190652Z" creationid="Elisabetta" creationdate="20241129T190652Z">
@@ -9971,6 +9979,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T212537Z" creationid="valter" creationdate="20241113T212537Z">
         <seg>Per utilizzare questa funzionalità, il driver della scheda video deve supportare OpenCL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current document remains open for more editing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T152148Z" creationid="Elisabetta" creationdate="20241201T152148Z">
+        <seg>Il documento attivo viene tenuto aperto per eventuali modifiche.</seg>
       </tuv>
     </tu>
     <tu>
