@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save As&lt;/f0&gt; — can create a new document, change the filename or file format, or save the file in a different location on a computer system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151537Z" creationid="Elisabetta" creationdate="20241201T151537Z">
+        <seg>&lt;f0&gt;Salva con nome&lt;/f0&gt; consente di creare un nuovo documento, modificare il nome o il formato del file oppure di salvare il file in una posizione diversa nel computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Save&lt;/f0&gt; — can save all changes made, keeping the current filename and location of the file.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T190652Z" creationid="Elisabetta" creationdate="20241129T190652Z">
