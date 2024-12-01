@@ -5088,6 +5088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not, you can define the remote server settings and protocols in the Remote Files dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T160326Z" creationid="Elisabetta" creationdate="20241201T160326Z">
+        <seg>Altrimenti è possibile configurare le impostazioni e i protocolli del server remoto nella finestra di dialogo File remoti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If only one LibreOffice document is open, click on the X on the right of the title bar to close the entire application.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175826Z" creationid="valter" creationdate="20241016T200653Z">
