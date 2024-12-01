@@ -10527,6 +10527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The time interval is the same as the &lt;f1&gt;AutoRecovery information every&lt;/f1&gt; time interval.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T162010Z" creationid="Elisabetta" creationdate="20241201T162010Z">
+        <seg>L'intervallo di tempo corrisponde a quello indicato dall'opzione &lt;f1&gt;Salva informazioni di ripristino ogni&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tool gathers all necessary information that can help the program developers to improve the code.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161847Z" creationid="valter" creationdate="20241017T161847Z">
