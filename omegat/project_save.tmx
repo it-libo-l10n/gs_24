@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save Remote&lt;/f0&gt; – save the file in a remote server.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T155917Z" creationid="Elisabetta" creationdate="20241201T155917Z">
+        <seg>&lt;f0&gt;Salva in remoto&lt;/f0&gt; consente di salvare il file su un server remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Save a Copy&lt;/f0&gt; — can save a copy of the current document, for example, in a different location on the computer system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T152018Z" creationid="Elisabetta" creationdate="20241201T151957Z">
@@ -10363,6 +10371,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T182101Z" creationid="Elisabetta" creationdate="20241106T182101Z">
         <seg>Gli strumenti restanti sono disposti sulla barra in una posizione corrispondente a quella dell'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The remote server settings must exist prior to the &lt;f1&gt;Save Remote&lt;/f1&gt; command.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T160142Z" creationid="Elisabetta" creationdate="20241201T160142Z">
+        <seg>Le impostazioni del server remoto devono essere già state configurate prima di eseguire il comando &lt;f1&gt;Salva in remoto&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
