@@ -36,3 +36,4 @@ do the Sidebar	Sgancia	UI
 Undock	Sgancia	UI
 Dock	Aggancia	Voce UI
 Wizards	Procedure guidate	Voce UI
+Save All	Salva tutto	UI
