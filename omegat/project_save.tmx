@@ -2311,6 +2311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the downward triangle ▼ next to &lt;f0&gt;Save&lt;/f0&gt; on the Standard toolbar and select &lt;f1&gt;Save As&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151831Z" creationid="Elisabetta" creationdate="20241201T151831Z">
+        <seg>Fare clic sul triangolo rivolto verso il basso ▼ accanto alla voce &lt;f0&gt;Salva&lt;/f0&gt; nella barra degli strumenti Standard e selezionare &lt;f1&gt;Salva con nome&lt;/f1&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the required template to create a new file and the LibreOffice module opens with a new document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T182429Z" creationid="Elisabetta" creationdate="20241117T182429Z">
@@ -4460,6 +4468,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T174827Z" creationid="Elisabetta" creationdate="20241129T174827Z">
         <seg>Accedere a &lt;f0&gt;File &gt; Documenti recenti&lt;/f0&gt; nella barra dei menu e selezionare il file dall'elenco visibile nel menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151559Z" creationid="Elisabetta" creationdate="20241201T151559Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11437,6 +11453,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T150743Z" creationid="Elisabetta" creationdate="20241201T150743Z">
         <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;S&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Shift+S&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151641Z" creationid="Elisabetta" creationdate="20241201T151641Z">
+        <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Maiusc+S&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
