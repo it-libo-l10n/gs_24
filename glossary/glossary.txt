@@ -38,3 +38,4 @@ Dock	Aggancia	Voce UI
 Wizards	Procedure guidate	Voce UI
 Save All	Salva tutto	UI
 Save Remote	Salva in remoto	Voce UI
+AutoRecovery information every	Salva informazioni di ripristino ogni	Voce UI
