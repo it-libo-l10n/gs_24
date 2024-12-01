@@ -5440,6 +5440,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Save&lt;/f0&gt;, select the option &lt;f1&gt;AutoRecovery information every&lt;/f1&gt; and set the time interval in the box, for example 10 minutes.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T161504Z" creationid="Elisabetta" creationdate="20241201T161504Z">
+        <seg>Nell'area &lt;f0&gt;Salva&lt;/f0&gt;, selezionare l'opzione &lt;f1&gt;Salva informazioni di ripristino ogni&lt;/f1&gt; e impostare l'intervallo di tempo nella casella, ad esempio 10 minuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In LibreOffice, menus, toolbars, and Sidebar panels share many functions across modules.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T175708Z" creationid="Elisabetta" creationdate="20241117T175708Z">
