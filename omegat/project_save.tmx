@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save All&lt;/f0&gt; — can save all the files that are open in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T152320Z" creationid="Elisabetta" creationdate="20241201T152320Z">
+        <seg>&lt;f0&gt;Salva tutto&lt;/f0&gt; consente di salvare tutti i file aperti nella sessione corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Save As&lt;/f0&gt; — can create a new document, change the filename or file format, or save the file in a different location on a computer system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151537Z" creationid="Elisabetta" creationdate="20241201T151537Z">
@@ -2323,6 +2331,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151831Z" creationid="Elisabetta" creationdate="20241201T151831Z">
         <seg>Fare clic sul triangolo rivolto verso il basso ▼ accanto alla voce &lt;f0&gt;Salva&lt;/f0&gt; nella barra degli strumenti Standard e selezionare &lt;f1&gt;Salva con nome&lt;/f1&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the downward triangle ▼ next to &lt;f0&gt;Save&lt;/f0&gt; on the Standard toolbar and select &lt;f1&gt;Save a Copy&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T152238Z" creationid="Elisabetta" creationdate="20241201T152238Z">
+        <seg>Fare clic sul triangolo rivolto verso il basso ▼ accanto alla voce &lt;f0&gt;Salva&lt;/f0&gt; nella barra degli strumenti Standard e selezionare la voce &lt;f1&gt;Salva una copia&lt;/f1&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4488,6 +4504,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Save a Copy&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T152204Z" creationid="Elisabetta" creationdate="20241201T152204Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Salva una copia&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Save&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T190927Z" creationid="Elisabetta" creationdate="20241129T190927Z">
@@ -4532,6 +4556,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T154456Z" creationid="valter" creationdate="20241017T154456Z">
         <seg>Andare a &lt;f1&gt;File &gt; Proprietà&lt;/f1&gt; nella barra dei menu per aprire la finestra di dialogo Proprietà di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f1&gt;File &gt; Save All&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T155411Z" creationid="Elisabetta" creationdate="20241201T155411Z">
+        <seg>Accedere a &lt;f1&gt;File &gt; Salva tutto&lt;/f1&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
