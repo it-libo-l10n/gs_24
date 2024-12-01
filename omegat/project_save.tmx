@@ -2255,6 +2255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T150957Z" creationid="Elisabetta" creationdate="20241201T150957Z">
+        <seg>Fare clic su &lt;f0&gt;Salva&lt;/f0&gt; nella barra degli strumenti Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right of the Sidebar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181813Z" creationid="Elisabetta" creationdate="20241117T181813Z">
@@ -11405,6 +11413,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T200518Z" creationid="valter" creationdate="20241016T200518Z">
         <seg>Usare la combinazione di tasti &lt;f0&gt;Ctrl+Q&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;S&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T150743Z" creationid="Elisabetta" creationdate="20241201T150743Z">
+        <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;S&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
