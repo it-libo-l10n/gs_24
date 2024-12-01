@@ -4544,6 +4544,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Load/Save &gt; General&lt;/f1&gt;) on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T161047Z" creationid="Elisabetta" creationdate="20241201T161047Z">
+        <seg>Accedere a &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze &gt; Carica/Salva &gt; Generale&lt;/f1&gt;) nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T172505Z" creationid="Elisabetta" creationdate="20241023T172505Z">
@@ -11260,6 +11268,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T183838Z" creationid="Elisabetta" creationdate="20241129T183838Z">
         <seg>Per rimuovere i file dal Centro di avvio, posizionare il cursore sulle miniature finché non appare una X nell'angolo in alto a destra, quindi fare clic su di essa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To set up automatic file saving, do the following:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T160917Z" creationid="Elisabetta" creationdate="20241201T160917Z">
+        <seg>Per impostare il salvataggio automatico procedere come segue:</seg>
       </tuv>
     </tu>
     <tu>
