@@ -7694,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Optionally, you can save the whole file instead by checking the &lt;f0&gt;Automatically save the document too&lt;/f0&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T161728Z" creationid="Elisabetta" creationdate="20241201T161728Z">
+        <seg>È possibile salvare l'intero file selezionando la casella di controllo &lt;f0&gt;Salva automaticamente il documento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice General dialog</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170633Z" creationid="valter" creationdate="20240928T170633Z">
