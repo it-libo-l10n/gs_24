@@ -2207,6 +2207,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the selection and close the dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T162033Z" creationid="Elisabetta" creationdate="20241201T162033Z">
+        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare le impostazioni e chiudere la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the settings and close the dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172203Z" creationid="valter" creationdate="20240928T172203Z">
