@@ -11296,6 +11296,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To reload a document, go to &lt;f0&gt;File &gt; Reload&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250217T155143Z" creationid="Elisabetta" creationdate="20250217T155143Z">
+        <seg>Per ricaricare un documento, selezionare &lt;f0&gt;File &gt; Ricarica&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To remove any possible Microsoft Basic macro viruses from a Microsoft document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt; and save the document in Microsoft format.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T183308Z" creationid="valter" creationdate="20241123T182822Z">
