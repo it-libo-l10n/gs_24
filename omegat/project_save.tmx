@@ -7138,6 +7138,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigator dialog: go to &lt;f0&gt;View &gt; Navigator&lt;/f0&gt; on the Menu bar, or use the keyboard shortcut &lt;f1&gt;F5&lt;/f1&gt; for Windows and macOS, or &lt;f2&gt;Ctrl+Shift+F5&lt;/f2&gt; for Linux.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T160849Z" creationid="Elisabetta" creationdate="20250409T160849Z">
+        <seg>Finestra di dialogo Navigatore: accedere a &lt;f0&gt;Visualizza &gt; Navigatore&lt;/f0&gt; nella barra dei menu, oppure servirsi della scorciatoia da tastiera &lt;f1&gt;F5&lt;/f1&gt; per Windows e macOS, o &lt;f2&gt;Ctrl+Maiuscolo+F5&lt;/f2&gt; per Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New "Quick find" deck in the Sidebar</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T194607Z" creationid="valter" creationdate="20240929T194607Z">
