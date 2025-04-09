@@ -3399,6 +3399,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examples can be seen in examples from Impress and Writer (Figure &lt;t0&gt;6&lt;/t0&gt; and Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T160304Z" creationid="Elisabetta" creationdate="20250409T160304Z">
+        <seg>Si possono vedere esempi tratti da Impress e Writer (Figura &lt;t0&gt;6&lt;/t0&gt; e Figura &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examples of information shown</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163325Z" creationid="Elisabetta" creationdate="20241107T163325Z">
@@ -9111,6 +9119,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select whether to save, or discard, the changes before closing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155842Z" creationid="Elisabetta" creationdate="20250409T155842Z">
+        <seg>Scegliere se salvare o eliminare le modifiche apportate prima della chiusura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting &lt;f0&gt;Open File&lt;/f0&gt;, which will allow you to navigate to the chosen file’s location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to open the file and the applicable LibreOffice module.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T174615Z" creationid="valter" creationdate="20241016T195442Z">
@@ -10051,6 +10067,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181159Z" creationid="valter" creationdate="20241016T202442Z">
         <seg>La barra dei menu si trova sopra la barra degli strumenti Standard nei sistemi operativi Windows e Linux, e nella parte superiore del desktop in macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Navigator is available as a dialog or Sidebar deck, and it lists all objects contained in a document in categories.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T160003Z" creationid="Elisabetta" creationdate="20250409T160003Z">
+        <seg>Il Navigatore è disponibile come finestra di dialogo o pannello della barra laterale ed elenca tutti gli oggetti contenuti in un documento per categorie.</seg>
       </tuv>
     </tu>
     <tu>
