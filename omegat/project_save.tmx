@@ -10071,6 +10071,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Navigator can be opened with one of the following methods:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T160412Z" creationid="Elisabetta" creationdate="20250409T160412Z">
+        <seg>Il Navigatore può essere aperto con una delle seguenti modalità:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Navigator is available as a dialog or Sidebar deck, and it lists all objects contained in a document in categories.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T160003Z" creationid="Elisabetta" creationdate="20250409T160003Z">
