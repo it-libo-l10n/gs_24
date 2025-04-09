@@ -2487,6 +2487,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close a LibreOffice document with one of the following methods:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155400Z" creationid="Elisabetta" creationdate="20250409T155400Z">
+        <seg>Chiudere un documento LibreOffice con uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Closing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T170428Z" creationid="valter" creationdate="20241005T204316Z">
@@ -4472,6 +4480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155418Z" creationid="Elisabetta" creationdate="20250409T155418Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Chiudi&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Exit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175707Z" creationid="valter" creationdate="20241016T200445Z">
@@ -5476,6 +5492,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T175708Z" creationid="Elisabetta" creationdate="20241117T175708Z">
         <seg>In LibreOffice, i menu, le barre degli strumenti e i pannelli della barra laterale condividono molte funzioni tra i vari moduli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Windows or Linux — click on the &lt;f0&gt;X&lt;/f0&gt; at the right end of the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155438Z" creationid="Elisabetta" creationdate="20250409T155438Z">
+        <seg>In Windows o Linux, fare clic su &lt;f0&gt;X&lt;/f0&gt; all'estremità destra della barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
