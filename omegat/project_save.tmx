@@ -5200,6 +5200,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the document has not been saved since the last change, a confirmation dialog opens with a warning message.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155749Z" creationid="Elisabetta" creationdate="20250409T155749Z">
+        <seg>Se il documento non è stato salvato dall'ultima modifica, si aprirà una finestra di conferma con un messaggio di avviso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the document to be closed is the only document that is open, the following happens:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155515Z" creationid="Elisabetta" creationdate="20250409T155515Z">
+        <seg>Se il documento da chiudere è l'unico aperto, si verifica quanto segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the format used by the current document is not available from the printer, an error message opens.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203600Z" creationid="valter" creationdate="20241021T203600Z">
@@ -5504,6 +5520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Windows or Linux — the document closes and the LibreOffice Start Center opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155542Z" creationid="Elisabetta" creationdate="20250409T155542Z">
+        <seg>In Windows e Linux il documento si chiuderà e si aprirà il Centro di Avvio di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Windows or Linux, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Start with Template Selection&lt;/f1&gt; under &lt;f2&gt;New Document&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T190839Z" creationid="calem" creationdate="20211118T190839Z">
@@ -5556,6 +5580,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T221555Z" creationid="valter" creationdate="20241113T221555Z">
         <seg>Un indirizzo assoluto, al contrario, inizia sempre dalla cartella radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In macOS — click on the red button at the left end of the title bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155451Z" creationid="Elisabetta" creationdate="20250409T155451Z">
+        <seg>In macOS, fare clic sul pulsante rosso all'estremità sinistra della barra del titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In macOS — the document closes and the Menu bar remains at the top of the screen.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155703Z" creationid="Elisabetta" creationdate="20250409T155703Z">
+        <seg>In macOS il documento si chiude e la barra dei menu rimane nella parte superiore dello schermo.</seg>
       </tuv>
     </tu>
     <tu>
