@@ -5314,8 +5314,8 @@
       <tuv lang="en-US">
         <seg>If you reload a document in LibreOffice, all the changes made in an editing session after the last save are discarded.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250217T155009Z" creationid="Elisabetta" creationdate="20250217T155009Z">
-        <seg>Se si ricarica un documento in LibreOffice, tutte le modifiche successive all'ultimo salvataggio della sessione vengono eliminate.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T154005Z" creationid="Elisabetta" creationdate="20250217T155009Z">
+        <seg>Se si ricarica un documento in LibreOffice, tutte le modifiche apportate dopo l'ultimo salvataggio della sessione vengono eliminate.</seg>
       </tuv>
     </tu>
     <tu>
