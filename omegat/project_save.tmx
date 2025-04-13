@@ -4135,6 +4135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, when using Writer, separate views of a document can be used for copying or moving information from one page to another.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165003Z" creationid="Elisabetta" creationdate="20250413T165003Z">
+        <seg>Ad esempio, in Writer, è possibile sfruttare viste separate di un documento per copiare o spostare informazioni da una pagina all'altra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you select &lt;f0&gt;Text Documents&lt;/f0&gt; as the file type, only documents that Writer can open are displayed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T184721Z" creationid="Elisabetta" creationdate="20241129T184721Z">
@@ -12197,6 +12205,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T202205Z" creationid="valter" creationdate="20241016T202205Z">
         <seg>Se viene creato un documento, il suo nome sarà Senza nome X, dove X è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a user makes a change to the document in one window, it will be reflected in the other windows.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164841Z" creationid="Elisabetta" creationdate="20250413T164841Z">
+        <seg>Se un utente apporta una modifica al documento in una finestra, si rifletterà anche nelle altre finestre.</seg>
       </tuv>
     </tu>
     <tu>
