@@ -863,6 +863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of separate windows list&lt;/s0&gt;&lt;s1&gt;Example of separate windows list&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165730Z" creationid="Elisabetta" creationdate="20250413T165730Z">
+        <seg>&lt;s0&gt;Esempio di elenco di finestre separate&lt;/s0&gt;&lt;s1&gt;Esempio di elenco di finestre separate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of toolbar handles&lt;/s0&gt;&lt;s1&gt;Example of toolbar handles&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181752Z" creationid="Elisabetta" creationdate="20241104T181752Z">
@@ -3431,6 +3439,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of separate windows list</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165803Z" creationid="Elisabetta" creationdate="20250413T165803Z">
+        <seg>Esempio di elenco di finestre separate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of toolbar handles</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181805Z" creationid="Elisabetta" creationdate="20241104T181805Z">
@@ -3763,6 +3779,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T164826Z" creationid="valter" creationdate="20241023T164826Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Example of separate windows list</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165751Z" creationid="Elisabetta" creationdate="20250413T165751Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: esempio di elenco di finestre separate</seg>
       </tuv>
     </tu>
     <tu>
@@ -11367,6 +11391,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To close a window, go to &lt;f0&gt;Window &gt; Close Window&lt;/f0&gt; on the Menu bar, use the keyboard shortcut &lt;f1&gt;Ctrl+W&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+W&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165935Z" creationid="Elisabetta" creationdate="20250413T165935Z">
+        <seg>Per chiudere una finestra, accedere a &lt;f0&gt;Finestra &gt; Chiudi finestra&lt;/f0&gt; nella barra dei menu,  o utilizzare i tasti di scelta rapida &lt;f1&gt;Ctrl+W&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+W&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To close the Navigator, click on the &lt;f0&gt;X&lt;/f0&gt; on the right of the title bar, or use the keyboard shortcut.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T161236Z" creationid="Elisabetta" creationdate="20250413T161236Z">
@@ -12861,6 +12893,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195858Z" creationid="valter" creationdate="20211115T195858Z">
         <seg>Con Math è possibile salvare le formule nel formato standard Mathematical Markup Language (MathML) e inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can switch between windows by clicking on a name in the list or by clicking on the window itself if it is visible on the display.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165711Z" creationid="Elisabetta" creationdate="20250413T165711Z">
+        <seg>È possibile passare da una finestra all'altra facendo clic sul nome dell'elenco o sulla finestra stessa, se visibile sullo schermo.</seg>
       </tuv>
     </tu>
     <tu>
