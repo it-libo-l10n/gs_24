@@ -10159,6 +10159,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The categories are specific to each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T162708Z" creationid="Elisabetta" creationdate="20250413T162708Z">
+        <seg>Le categorie sono assegnate in modo specifico a ciascun modulo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cell background color is ignored then.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180609Z" creationid="valter" creationdate="20241023T180609Z">
