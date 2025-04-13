@@ -3199,6 +3199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each view can be displayed in its own window and LibreOffice can show different pages, use different zoom levels, or use other settings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164739Z" creationid="Elisabetta" creationdate="20250413T164739Z">
+        <seg>Ogni vista può essere riprodotta in una propria finestra e LibreOffice può presentare pagine diverse, applicare livelli di ingrandimento diversi o altre impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ed Olson, B. Antonio Fernandez, Olivier Hallot</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200319Z" creationid="valter" creationdate="20240929T200319Z">
@@ -3395,6 +3403,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T163748Z" creationid="Elisabetta" creationdate="20250413T163748Z">
         <seg>Esempio della finestra di dialogo del Navigatore in Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example of Navigator deck in Writer Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164414Z" creationid="Elisabetta" creationdate="20250413T164414Z">
+        <seg>Esempio di pannello del Navigatore nella barra laterale di Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -3731,6 +3747,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160358Z" creationid="valter" creationdate="20241023T160358Z">
         <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Tipi di carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example of Navigator deck in Writer Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164440Z" creationid="Elisabetta" creationdate="20250413T164359Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: esempio di pannello del Navigatore nella barra laterale di Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -11893,6 +11917,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T183145Z" creationid="valter" creationdate="20240929T183145Z">
         <seg>Gli utenti possono contribuire allo sviluppo e al supporto utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users can open multiple views of the same document in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164532Z" creationid="Elisabetta" creationdate="20250413T164532Z">
+        <seg>Gli utenti possono aprire più viste dello stesso documento di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
