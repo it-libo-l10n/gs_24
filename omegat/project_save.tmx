@@ -839,6 +839,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of Navigator deck in Writer Sidebar&lt;/s0&gt;&lt;s1&gt;Example of Navigator deck in Writer Sidebar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164314Z" creationid="Elisabetta" creationdate="20250413T164314Z">
+        <seg>&lt;s0&gt;Esempio di pannello del Navigatore nella barra laterale di Writer&lt;/s0&gt;&lt;s1&gt;Esempio di pannello del Navigatore nella barra laterale di Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of Properties deck in Writer Sidebar&lt;/s0&gt;&lt;s1&gt;Example of Properties deck in Writer Sidebar&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T171932Z" creationid="Elisabetta" creationdate="20241113T163903Z">
@@ -8602,6 +8610,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T172536Z" creationid="Elisabetta" creationdate="20241023T172536Z">
         <seg>Fare clic con il pulsante destro del mouse in uno spazio vuoto tra le icone in una barra degli strumenti e selezionare &lt;f0&gt;Chiudi barra degli strumenti&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right‑click on an object in the Navigator dialog, or Sidebar deck and select &lt;f0&gt;Rename&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164205Z" creationid="Elisabetta" creationdate="20250413T164205Z">
+        <seg>Fare clic con il pulsante destro del mouse su un oggetto nella finestra di dialogo Navigatore o nella barra laterale e selezionare &lt;f0&gt;Rinomina&lt;/f0&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
