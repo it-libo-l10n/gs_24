@@ -7138,6 +7138,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigator deck on the Sidebar: click on the Navigator icon on the right of the Sidebar, or use the keyboard shortcut &lt;f0&gt;Alt+Ctrl+4&lt;/f0&gt; for Windows and Linux, or ⌥+⌘&lt;f1&gt;+4&lt;/f1&gt; for macOS.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T161046Z" creationid="Elisabetta" creationdate="20250413T161046Z">
+        <seg>Pannello Navigatore nella barra laterale: fare clic sull'icona Navigatore a destra della barra laterale, oppure usare la scorciatoia da tastiera  &lt;f0&gt;Alt+Ctrl+4&lt;/f0&gt;  per Windows e Linux, o ⌥+⌘ &lt;f1&gt;+4&lt;/f1&gt;  per macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigator dialog: go to &lt;f0&gt;View &gt; Navigator&lt;/f0&gt; on the Menu bar, or use the keyboard shortcut &lt;f1&gt;F5&lt;/f1&gt; for Windows and macOS, or &lt;f2&gt;Ctrl+Shift+F5&lt;/f2&gt; for Linux.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T160849Z" creationid="Elisabetta" creationdate="20250409T160849Z">
