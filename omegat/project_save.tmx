@@ -3783,6 +3783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;t1&gt;8&lt;/t1&gt; shows how separate views of one document can be open at the same time.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165146Z" creationid="Elisabetta" creationdate="20250413T165146Z">
+        <seg>La figura &lt;t1&gt;8&lt;/t1&gt; illustra come sia possibile aprire contemporaneamente viste separate di un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204221Z" creationid="valter" creationdate="20241016T204221Z">
@@ -5224,6 +5232,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If other LibreOffice documents are open at the same time, the LibreOffice windows list also includes these other documents and the active window has a check mark by its filename.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165541Z" creationid="Elisabetta" creationdate="20250413T165541Z">
+        <seg>Se si aprono altri documenti di LibreOffice, anche questi verranno inclusi nell'elenco delle finestre di LibreOffice e la finestra attiva avrà un segno di spunta accanto al nome del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If possible you should give each object an easily identified name so you can easily locate an object, instead of using default names such as Sheet1, Table1, or Image2, and so on.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164000Z" creationid="Elisabetta" creationdate="20250413T164000Z">
@@ -5676,6 +5692,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T221555Z" creationid="valter" creationdate="20241113T221555Z">
         <seg>Un indirizzo assoluto, al contrario, inizia sempre dalla cartella radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In each open window, the filename of the document will be displayed in the title bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165111Z" creationid="Elisabetta" creationdate="20250413T165111Z">
+        <seg>In ogni finestra aperta, il nome del file del documento viene visualizzato nella barra del titolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11484,6 +11508,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183713Z" creationid="Elisabetta" creationdate="20241104T183713Z">
         <seg>Per spostare una barra degli strumenti mobile, procedere come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To open a new document window, go to &lt;f0&gt;Window &gt; New Window&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165051Z" creationid="Elisabetta" creationdate="20250413T165051Z">
+        <seg>Per aprire una nuova finestra del documento, accedere a &lt;f0&gt;Finestra &gt; Nuova finestra&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
