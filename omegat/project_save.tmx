@@ -1407,6 +1407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, the Navigator provides some functions that are specific to each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T163416Z" creationid="Elisabetta" creationdate="20250413T163416Z">
+        <seg>Inoltre, il Navigatore fornisce alcune funzioni assegnate in modo specifico a ciascun modulo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, the User Guides are available in PDF format as a free download or to buy as printed copies.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160934Z" creationid="valter" creationdate="20240928T160934Z">
