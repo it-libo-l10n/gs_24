@@ -11231,6 +11231,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To close the Navigator, click on the &lt;f0&gt;X&lt;/f0&gt; on the right of the title bar, or use the keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T161236Z" creationid="Elisabetta" creationdate="20250413T161236Z">
+        <seg>Per chiudere il Navigatore, fare clic su &lt;f0&gt;X&lt;/f0&gt; a destra della barra del titolo o utilizzare i tasti di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To close the selected toolbar, click on the X on the right of the toolbar title bar or select &lt;f0&gt;Close Toolbar&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T175814Z" creationid="Elisabetta" creationdate="20241106T175814Z">
