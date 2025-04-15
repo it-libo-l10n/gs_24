@@ -9135,6 +9135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Manage &gt; Set as default&lt;/f0&gt; and then close &lt;f1&gt;Settings&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T174600Z" creationid="Elisabetta" creationdate="20250415T174600Z">
+        <seg>Seleziona &lt;f0&gt;Gestisci &gt; Imposta come predefinito&lt;/f0&gt;, quindi chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Preinstalled Theme&lt;/f0&gt;, then click on a theme thumbnail and click &lt;f1&gt;Apply&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T170836Z" creationid="valter" creationdate="20241023T170836Z">
@@ -9187,6 +9195,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161739Z" creationid="valter" creationdate="20241023T161739Z">
         <seg>Selezionare la dimensione del carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a printer from the displayed list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T174343Z" creationid="Elisabetta" creationdate="20250415T174343Z">
+        <seg>Selezionare una stampante dall'elenco visualizzato.</seg>
       </tuv>
     </tu>
     <tu>
