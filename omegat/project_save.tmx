@@ -4904,6 +4904,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here are examples of how to setup a default printer on a computer in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T171000Z" creationid="Elisabetta" creationdate="20250415T171000Z">
+        <seg>Di seguito si riportano alcuni esempi che illustrano come configurare una stampante predefinita in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T213644Z" creationid="valter" creationdate="20211115T213644Z">
