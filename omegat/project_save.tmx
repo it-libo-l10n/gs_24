@@ -8486,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printing options are not available when viewing a LibreOffice Base table or query.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T173157Z" creationid="Elisabetta" creationdate="20250415T173157Z">
+        <seg>Le opzioni di stampa non sono disponibili durante la visualizzazione di una tabella o di una query LibreOffice Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printing sets “document modified” status</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T160317Z" creationid="valter" creationdate="20241017T160317Z">
