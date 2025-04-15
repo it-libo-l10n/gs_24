@@ -6466,6 +6466,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice can select multiple consecutive undo commands and redo them at the same time.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T165008Z" creationid="Elisabetta" creationdate="20250415T165008Z">
+        <seg>È possibile selezionare più comandi di annullamento consecutivi e ripristinarli contemporaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice can substitute any fonts it cannot locate using the fonts listed on the Fonts page when required.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155556Z" creationid="valter" creationdate="20241023T155556Z">
@@ -8674,6 +8682,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173020Z" creationid="Elisabetta" creationdate="20241017T173020Z">
         <seg>Ripetere i comandi di annullamento e ripristino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeating undo and redo commands can save several repetitive menu navigation clicks, or keyboard shortcuts, especially when a command is taken from a context menu or submenu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T170445Z" creationid="Elisabetta" creationdate="20250415T170445Z">
+        <seg>La ripetizione dei comandi di annullamento e ripristino può far risparmiare numerosi clic superflui durante la consultazione dei menu o l'uso dei tasti di scelta rapida, soprattutto quando un comando viene selezionato da un menu contestuale o da un sottomenu.</seg>
       </tuv>
     </tu>
     <tu>
