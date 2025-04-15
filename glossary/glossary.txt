@@ -40,3 +40,4 @@ Save All	Salva tutto	UI
 Save Remote	Salva in remoto	Voce UI
 AutoRecovery information every	Salva informazioni di ripristino ogni	Voce UI
 Automatically save the document too	Salva automaticamente il documento	Voce UI
+Print Directly	Stampa direttamente	Voce UI
