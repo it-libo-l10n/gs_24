@@ -4648,6 +4648,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Repeat&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T170622Z" creationid="Elisabetta" creationdate="20250415T170622Z">
+        <seg>Accedere a &lt;f0&gt;Modifica &gt; Ripeti&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Undo&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164156Z" creationid="Elisabetta" creationdate="20250415T164156Z">
@@ -11704,6 +11712,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To repeat the last undo or redo command applied to a document, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T170522Z" creationid="Elisabetta" creationdate="20250415T170522Z">
+        <seg>Per ripetere l'ultimo comando di annullamento o ripristino applicato a un documento, adottare uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To set up automatic file saving, do the following:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T160917Z" creationid="Elisabetta" creationdate="20241201T160917Z">
@@ -12013,6 +12029,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151641Z" creationid="Elisabetta" creationdate="20241201T151641Z">
         <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Maiusc+S&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+Y&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T170539Z" creationid="Elisabetta" creationdate="20250415T170539Z">
+        <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+Y&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Maiusc+Y&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
