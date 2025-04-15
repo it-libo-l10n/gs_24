@@ -1303,6 +1303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After changes have been undone, changes can be redone using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164539Z" creationid="Elisabetta" creationdate="20250415T164539Z">
+        <seg>Dopo aver annullato le modifiche è possibile ripristinarle mediante uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After installation, to change the default settings (options) in LibreOffice to suit working requirements and preferences, go to &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the Menu bar (&lt;f1&gt;LibreOffice &gt; Preferences&lt;/f1&gt; in macOS).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152238Z" creationid="valter" creationdate="20240928T152238Z">
@@ -2327,6 +2335,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Redo&lt;/f0&gt; in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164614Z" creationid="Elisabetta" creationdate="20250415T164614Z">
+        <seg>Fare clic su &lt;f0&gt;Ripristina&lt;/f0&gt; nella barra degli strumenti Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T150957Z" creationid="Elisabetta" creationdate="20241201T150957Z">
@@ -2435,6 +2451,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T152720Z" creationid="valter" creationdate="20241017T152720Z">
         <seg>Fare clic sulla parentesi uncinata &lt;f3&gt;&gt;&lt;/f3&gt; accanto a LibreOffice per selezionare una categoria dall'elenco a tendina e visualizzare la pagina pertinente sul lato destro della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the small triangle ▼ to the right of &lt;f0&gt;Redo&lt;/f0&gt; on the Standard toolbar to open a list of undo commands that can be redone.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164901Z" creationid="Elisabetta" creationdate="20250415T164901Z">
+        <seg>Fare clic sul piccolo triangolo ▼ a destra dell'icona &lt;f0&gt;Ripristina&lt;/f0&gt; nella barra degli strumenti Standard per aprire un elenco dei comandi di annullamento che possono essere ripristinati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4612,6 +4636,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101900Z" creationid="valter" creationdate="20211016T101900Z">
         <seg>Gisbert Friege (Dmaths)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Redo&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164630Z" creationid="Elisabetta" creationdate="20250415T164630Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Ripristina&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11965,6 +11997,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151641Z" creationid="Elisabetta" creationdate="20241201T151641Z">
         <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Maiusc+S&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Y&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164559Z" creationid="Elisabetta" creationdate="20250415T164559Z">
+        <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Y&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Y&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
