@@ -10703,6 +10703,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The method will vary depending on the computer and its operating system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T171024Z" creationid="Elisabetta" creationdate="20250415T171024Z">
+        <seg>Il metodo varia a seconda del computer e del sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most notable one is the HSQLDB relational database engine.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192016Z" creationid="valter" creationdate="20211115T192016Z">
@@ -12477,6 +12485,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T204249Z" creationid="valter" creationdate="20241021T204249Z">
         <seg>Quando si stampa un documento che contiene trasparenze, si apre una finestra di dialogo che abilita la selezione della stampa della trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When printing, the name of the default printer installed on a computer appears in the &lt;f0&gt;Print&lt;/f0&gt; tool name, &lt;f1&gt;Print Directly&lt;/f1&gt; tool name, Print dialog, and Printer Settings dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T172526Z" creationid="Elisabetta" creationdate="20250415T172526Z">
+        <seg>Al momento della stampa, il nome della stampante predefinita del computer compare nei nomi degli strumenti &lt;f0&gt;Stampa&lt;/f0&gt; e &lt;f1&gt;Stampa direttamente&lt;/f1&gt;, oltre che nelle finestre di dialogo Stampa e Impostazioni stampante.</seg>
       </tuv>
     </tu>
     <tu>
