@@ -2359,6 +2359,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Undo&lt;/f0&gt; in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164110Z" creationid="Elisabetta" creationdate="20250415T164110Z">
+        <seg>Fare clic su &lt;f0&gt;Annulla&lt;/f0&gt; nella barra degli strumenti Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the &lt;f0&gt;Save&lt;/f0&gt; icon in the Status bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151149Z" creationid="Elisabetta" creationdate="20241201T151149Z">
@@ -4596,6 +4604,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101900Z" creationid="valter" creationdate="20211016T101900Z">
         <seg>Gisbert Friege (Dmaths)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Undo&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164156Z" creationid="Elisabetta" creationdate="20250415T164156Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Annulla&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11665,6 +11681,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To undo the most recent change in a document, use one of these methods:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164028Z" creationid="Elisabetta" creationdate="20250415T164028Z">
+        <seg>Per annullare la modifica più recente di un documento, adottare uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To undock the Sidebar and make it floating, do the following:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181109Z" creationid="Elisabetta" creationdate="20241117T180830Z">
@@ -11925,6 +11949,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T151641Z" creationid="Elisabetta" creationdate="20241201T151641Z">
         <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Maiusc+S&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Z&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Z&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164054Z" creationid="Elisabetta" creationdate="20250415T164054Z">
+        <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Z&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Z&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
