@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the small triangle ▼ to the right of &lt;f0&gt;Undo&lt;/f0&gt; on the Standard toolbar to open a list of changes that can be undone.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164423Z" creationid="Elisabetta" creationdate="20250415T164423Z">
+        <seg>Fare clic sul piccolo triangolo ▼ a destra dell'icona &lt;f0&gt;Annulla&lt;/f0&gt; nella barra degli strumenti Standard per aprire un elenco delle modifiche che possono essere annullate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click this button to run tests and determine the efficiency of LibreOffice graphics rendering.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201144Z" creationid="valter" creationdate="20241021T201144Z">
@@ -7270,6 +7278,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171328Z" creationid="Elisabetta" creationdate="20241017T171328Z">
         <seg>Spostare, bloccare e sbloccare le barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple consecutive changes can be selected and deleted at the same time.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164445Z" creationid="Elisabetta" creationdate="20250415T164445Z">
+        <seg>È possibile selezionare ed eliminare più modifiche consecutive contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
