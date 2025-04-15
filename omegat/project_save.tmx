@@ -4311,6 +4311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information about printing the different types of documents that LibreOffice can create, see the user guides for each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T172958Z" creationid="Elisabetta" creationdate="20250415T172958Z">
+        <seg>Per ulteriori informazioni sulla stampa dei diversi tipi di documento che LibreOffice può generare, consultare le guide per l'utente di ciascun modulo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on OpenCL, visit &lt;a0&gt;https://www.khronos.org/opencl/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T212359Z" creationid="valter" creationdate="20241113T212359Z">
