@@ -2431,6 +2431,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the settings icon on the right of the printer name.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T174659Z" creationid="Elisabetta" creationdate="20250415T174659Z">
+        <seg>Fare clic sull'icona delle impostazioni a destra del nome della stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the toolbar handle (highlighted in Figure &lt;t0&gt;2&lt;/t0&gt;) and drag the tool palette onto the open document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172717Z" creationid="Elisabetta" creationdate="20241030T172717Z">
@@ -7786,6 +7794,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open &lt;f0&gt;Settings&lt;/f0&gt;, then go to &lt;f1&gt;Printers&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T174632Z" creationid="Elisabetta" creationdate="20250415T174632Z">
+        <seg>Aprire &lt;f0&gt;Impostazioni&lt;/f0&gt;, quindi accedere a &lt;f1&gt;Stampanti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Expert Configuration</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202757Z" creationid="valter" creationdate="20241023T202757Z">
@@ -9171,6 +9187,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172129Z" creationid="valter" creationdate="20240928T172129Z">
         <seg>Selezionare &lt;f0&gt;Usa finestre di dialogo di LibreOffice&lt;/f0&gt; nella sezione &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; in modo da visualizzare le finestre di dialogo di LibreOffice nel monitor del computer, come mostrato in Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Use Printer by Default&lt;/f0&gt; from the drop-down list and close &lt;f1&gt;Settings&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T180329Z" creationid="Elisabetta" creationdate="20250415T180329Z">
+        <seg>Selezionare &lt;f0&gt;Usa stampante per impostazione predefinita&lt;/f0&gt; dall'elenco a discesa e chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
