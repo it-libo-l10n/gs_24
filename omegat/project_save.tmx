@@ -3855,6 +3855,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Draw Standard toolbar with Print Directly installed</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T170240Z" creationid="Elisabetta" creationdate="20250428T170240Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: barra degli strumenti Standard di Draw con Stampa direttamente installata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Options LibreOffice dialog — Application Colors page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T172729Z" creationid="valter" creationdate="20241023T172729Z">
