@@ -7802,6 +7802,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open &lt;f0&gt;System Settings&lt;/f0&gt;, then open &lt;f1&gt;Printers &amp; Scanners&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T165546Z" creationid="Elisabetta" creationdate="20250428T165546Z">
+        <seg>Aprire &lt;f0&gt;Impostazioni di sistema&lt;/f0&gt;, quindi accedere a &lt;f1&gt;Stampanti e scanner&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Expert Configuration</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202757Z" creationid="valter" creationdate="20241023T202757Z">
