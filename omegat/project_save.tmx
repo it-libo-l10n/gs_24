@@ -3071,6 +3071,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays additional information for the printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173016Z" creationid="Elisabetta" creationdate="20250428T173016Z">
+        <seg>Visualizza informazioni supplementari sulla stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays cursor in read-only documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180041Z" creationid="valter" creationdate="20241023T180041Z">
@@ -3083,6 +3091,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T181029Z" creationid="valter" creationdate="20241023T181029Z">
         <seg>Visualizza i tipi di carattere in LibreOffice utilizzando le impostazioni dei colori di sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the computer connection for the selected printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172839Z" creationid="Elisabetta" creationdate="20250428T172839Z">
+        <seg>Visualizza il percorso di collegamento al computer della stampante selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13509,6 +13525,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T165230Z" creationid="valter" creationdate="20240928T165230Z">
         <seg>‍&lt;f0&gt;Forum della comunità&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Comments</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172854Z" creationid="Elisabetta" creationdate="20250428T172854Z">
+        <seg>Commenti</seg>
       </tuv>
     </tu>
     <tu>
