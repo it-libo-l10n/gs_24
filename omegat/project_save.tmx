@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Draw Standard toolbar with Print Directly installed&lt;/s0&gt;&lt;s1&gt;Draw Standard toolbar with Print Directly installed&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T170109Z" creationid="Elisabetta" creationdate="20250428T170109Z">
+        <seg>&lt;s0&gt;Barra degli strumenti standard di Draw con la funzione Stampa direttamente installata&lt;/s0&gt;&lt;s1&gt;Barra degli strumenti standard di Draw con la funzione Stampa direttamente installata&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of Impress Navigator dialog&lt;/s0&gt;&lt;s1&gt;Example of Impress Navigator dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T163624Z" creationid="Elisabetta" creationdate="20250413T163624Z">
@@ -5700,6 +5708,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T154655Z" creationid="valter" creationdate="20241017T154655Z">
         <seg>Nella sezione &lt;f0&gt;Cifratura&lt;/f0&gt; della pagina Dati utente, impostare le chiavi pubbliche preferite per la cifratura e la firma digitale OpenPGP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Default printer&lt;/f0&gt; select the printer to use as default printer from the drop-down list, then close &lt;f1&gt;Settings&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T165655Z" creationid="Elisabetta" creationdate="20250428T165655Z">
+        <seg>In &lt;f0&gt;Stampante predefinita&lt;/f0&gt; selezionare la stampante da utilizzare come predefinita dall'elenco a discesa, quindi chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
