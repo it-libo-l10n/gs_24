@@ -2079,6 +2079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changes the printer settings of the computer operating system for the current document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173309Z" creationid="Elisabetta" creationdate="20250428T173309Z">
+        <seg>Modifica le impostazioni della stampante del sistema operativo per il documento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing colors can make using LibreOffice easier, for example when writing, editing, creating page layouts and page margins, inserting page breaks or graphics, and so on.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T172522Z" creationid="valter" creationdate="20241023T172522Z">
@@ -13581,6 +13589,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172055Z" creationid="Elisabetta" creationdate="20250428T172055Z">
         <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Properties</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173019Z" creationid="Elisabetta" creationdate="20250428T173019Z">
+        <seg>Proprietà</seg>
       </tuv>
     </tu>
     <tu>
