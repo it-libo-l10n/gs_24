@@ -2663,6 +2663,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connect the printer to the computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173935Z" creationid="Elisabetta" creationdate="20250428T173935Z">
+        <seg>Collegare la stampante al computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connecting to the Internet by a proxy server, set the proxy in &lt;f0&gt;Tools &gt; Options &gt; Internet &gt; Proxy&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Internet &gt; Proxy&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T211632Z" creationid="valter" creationdate="20241113T211632Z">
