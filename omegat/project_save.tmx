@@ -2959,6 +2959,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Describes the current status of the selected printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172303Z" creationid="Elisabetta" creationdate="20250428T172303Z">
+        <seg>Descrive lo stato della stampante selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204212Z" creationid="valter" creationdate="20241016T204212Z">
@@ -6946,6 +6954,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists the installed printers on the computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172128Z" creationid="Elisabetta" creationdate="20250428T172128Z">
+        <seg>Elenca le stampanti installate nel computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lists the original font and the font that replaces it.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155741Z" creationid="valter" creationdate="20241023T155741Z">
@@ -8794,6 +8810,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202533Z" creationid="valter" creationdate="20241021T202533Z">
         <seg>Riducendo la quantità di dati inviati alla stampante si aumenta la velocità di stampa, poiché i file diventano più piccoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refer to the printer and computer user guides for more information on connecting printers.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172043Z" creationid="Elisabetta" creationdate="20250428T172043Z">
+        <seg>Per ulteriori informazioni sul collegamento delle stampanti, consultare le guide per l'utente della stampante e del computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11647,6 +11671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the default printer, select a printer name from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172247Z" creationid="Elisabetta" creationdate="20250428T172247Z">
+        <seg>Per modificare la stampante predefinita, selezionare il nome della stampante dall'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184109Z" creationid="valter" creationdate="20211115T184109Z">
@@ -13501,6 +13533,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204904Z" creationid="valter" creationdate="20241005T204904Z">
         <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Name</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172055Z" creationid="Elisabetta" creationdate="20250428T172055Z">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Status</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172250Z" creationid="Elisabetta" creationdate="20250428T172250Z">
+        <seg>Stato</seg>
       </tuv>
     </tu>
     <tu>
