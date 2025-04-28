@@ -9231,6 +9231,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Print Directly&lt;/f0&gt; from the list of available tools to install it on the Standard toolbar, as shown by the highlighted example in Figure &lt;t1&gt;9&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171644Z" creationid="Elisabetta" creationdate="20250428T171644Z">
+        <seg>Selezionare la funzione &lt;f0&gt;Stampa direttamente&lt;/f0&gt; dall'elenco degli strumenti disponibili e installarla nella barra degli strumenti Standard, come da esempio illustrato nella Figura &lt;t1&gt;9&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; as needed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T185455Z" creationid="calem" creationdate="20211118T185455Z">
