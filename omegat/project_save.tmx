@@ -3175,6 +3175,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw Standard toolbar with Print Directly installed</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171012Z" creationid="Elisabetta" creationdate="20250428T171012Z">
+        <seg>Barra degli strumenti standard di Draw con "Stampa direttamente" installata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw can import graphics from many common formats and save them in &lt;f0&gt;many&lt;/f0&gt; formats, including PNG, &lt;f1&gt;GIF, JPEG, BMP, TIFF, SVG, &lt;/f1&gt;HTML and PDF.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195549Z" creationid="valter" creationdate="20211115T195549Z">
@@ -3857,8 +3865,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Draw Standard toolbar with Print Directly installed</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T170240Z" creationid="Elisabetta" creationdate="20250428T170240Z">
-        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: barra degli strumenti Standard di Draw con Stampa direttamente installata</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T170947Z" creationid="Elisabetta" creationdate="20250428T170240Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: barra degli strumenti standard di Draw con "Stampa direttamente" installata</seg>
       </tuv>
     </tu>
     <tu>
@@ -6510,6 +6518,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T211413Z" creationid="valter" creationdate="20241113T211413Z">
         <seg>LibreOffice può controllare &lt;f0&gt;Ogni giorno&lt;/f0&gt;♪ &lt;f1&gt;Ogni settimana&lt;/f1&gt; oppure &lt;f2&gt;Ogni mese&lt;/f2&gt;, non appena viene rilevata una connessione Internet funzionante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice can print an entire open document using the computer’s default printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171035Z" creationid="Elisabetta" creationdate="20250428T171035Z">
+        <seg>LibreOffice può stampare un intero documento aperto utilizzando la stampante predefinita del computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11788,6 +11804,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T215050Z" creationid="valter" creationdate="20241113T215050Z">
         <seg>Per impedire che questo si verifichi, cambiare manualmente la stampante nella finestra di dialogo Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To quick print, click on &lt;f0&gt;Print Directly&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171120Z" creationid="Elisabetta" creationdate="20250428T171120Z">
+        <seg>Per stampare rapidamente, fare clic su &lt;f0&gt;Stampa direttamente&lt;/f0&gt; nella barra degli strumenti Standard.</seg>
       </tuv>
     </tu>
     <tu>
