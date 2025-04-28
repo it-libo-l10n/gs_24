@@ -7154,6 +7154,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure that the layout orientation (Landscape or Portrait) matches the page format set in &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173422Z" creationid="Elisabetta" creationdate="20250428T173422Z">
+        <seg>Assicurarsi che l'orientamento del layout (Orizzontale o Verticale) corrisponda al formato di pagina impostato in &lt;f0&gt;Formato &gt; Pagina&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure to install a JRE that is compatible with the LibreOffice architecture being used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T200755Z" creationid="valter" creationdate="20241023T200755Z">
@@ -8118,6 +8126,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202119Z" creationid="valter" creationdate="20241023T202119Z">
         <seg>Apre la finestra di dialogo Parametri di avvio Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Printer Options dialog box allowing the global printer options set in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer&lt;/f0&gt; or &lt;f1&gt;LibreOffice Calc &gt; Print&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferences &gt; LibreOffice Writer&lt;/f2&gt; or &lt;f3&gt;LibreOffice Calc &gt; Print&lt;/f3&gt;) to be overridden when printing the current document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173616Z" creationid="Elisabetta" creationdate="20250428T173616Z">
+        <seg>Apre la finestra di dialogo Opzioni stampante che consente di ignorare le opzioni globali della stampante impostate in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Writer&lt;/f0&gt; o &lt;f1&gt;LibreOffice Calc &gt; Stampa&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferenze &gt; LibreOffice Writer&lt;/f2&gt; o &lt;f3&gt;LibreOffice Calc &gt; Stampa&lt;/f3&gt;) durante la stampa del documento attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13589,6 +13605,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172055Z" creationid="Elisabetta" creationdate="20250428T172055Z">
         <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173433Z" creationid="Elisabetta" creationdate="20250428T173433Z">
+        <seg>Opzioni</seg>
       </tuv>
     </tu>
     <tu>
