@@ -599,6 +599,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Options&lt;/f0&gt; in the Printer Settings dialog is only available in LibreOffice Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173724Z" creationid="Elisabetta" creationdate="20250428T173724Z">
+        <seg>Le &lt;f0&gt;Opzioni&lt;/f0&gt; presenti nella finestra di dialogo Impostazioni stampante sono disponibili solo in LibreOffice Writer e Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to its default settings.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T105019Z" creationid="valter" creationdate="20211016T105019Z">
@@ -5004,6 +5012,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T213644Z" creationid="valter" creationdate="20211115T213644Z">
         <seg>Ecco alcuni dei vantaggi di LibreOffice rispetto ad altre suite per ufficio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is an example of setting up a printer on a computer for LibreOffice:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173928Z" creationid="Elisabetta" creationdate="20250428T173928Z">
+        <seg>Segue un esempio di configurazione di stampante in un computer per LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
