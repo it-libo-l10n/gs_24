@@ -5176,6 +5176,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If &lt;f0&gt;Print Directly&lt;/f0&gt; is not visible on the Standard toolbar, it can be installed as follows:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171152Z" creationid="Elisabetta" creationdate="20250428T171152Z">
+        <seg>Se &lt;f0&gt;Stampa direttamente&lt;/f0&gt; non è visibile nella barra degli strumenti Standard, può essere installata come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If Java is not going to be used, nearly all of the LibreOffice features can still be used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132722Z" creationid="valter" creationdate="20240928T132722Z">
@@ -8870,6 +8878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click in a blank area on the Standard toolbar to open a context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171254Z" creationid="Elisabetta" creationdate="20250428T171254Z">
+        <seg>Fare clic con il pulsante destro del mouse su un'area vuota della barra degli strumenti standard per aprire un menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click in an empty space between the icons on a toolbar and select &lt;f0&gt;Close Toolbar&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T172536Z" creationid="Elisabetta" creationdate="20241023T172536Z">
@@ -9243,6 +9259,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T180329Z" creationid="Elisabetta" creationdate="20250415T180329Z">
         <seg>Selezionare &lt;f0&gt;Usa stampante per impostazione predefinita&lt;/f0&gt; dall'elenco a discesa e chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Visible Buttons&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171404Z" creationid="Elisabetta" creationdate="20250428T171404Z">
+        <seg>Selezionare &lt;f0&gt;Pulsanti visibili&lt;/f0&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
