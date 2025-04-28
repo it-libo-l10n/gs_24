@@ -671,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;able &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;l&lt;/f3&gt;ists the options that are available in the Printer Setup dialog:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171846Z" creationid="Elisabetta" creationdate="20250428T171846Z">
+        <seg>&lt;f0&gt;Tabella&lt;/f0&gt; &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;e&lt;/f3&gt;lenca le opzioni disponibili nella finestra di dialogo Impostazione stampante:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Templates included with Impress are designed to fit the two standard sizes of presentation slides: 4:3 and 16:9 ratios.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153211Z" creationid="Elisabetta Manuele" creationdate="20211111T153211Z">
@@ -5480,6 +5488,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the list is empty, install a default printer for the computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171948Z" creationid="Elisabetta" creationdate="20250428T171948Z">
+        <seg>Se l'elenco è vuoto installare una stampante predefinita per il computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the offline help is not installed on a computer, but connected to the Internet, a dialog opens giving the option to &lt;f2&gt;Read Help Online&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154947Z" creationid="valter" creationdate="20240928T154947Z">
@@ -6922,6 +6938,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists information that applies to the selected printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171932Z" creationid="Elisabetta" creationdate="20250428T171932Z">
+        <seg>Elenca le informazioni relative alla stampante selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lists the original font and the font that replaces it.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155741Z" creationid="valter" creationdate="20241023T155741Z">
@@ -8102,6 +8126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Option</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171910Z" creationid="Elisabetta" creationdate="20250428T171910Z">
+        <seg>Opzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Optional Features</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202212Z" creationid="valter" creationdate="20241023T202212Z">
@@ -8546,6 +8578,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174714Z" creationid="Elisabetta" creationdate="20241017T174714Z">
         <seg>Anteprima di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printer</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171915Z" creationid="Elisabetta" creationdate="20250428T171915Z">
+        <seg>Stampante</seg>
       </tuv>
     </tu>
     <tu>
@@ -10203,6 +10243,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T221705Z" creationid="valter" creationdate="20241113T221705Z">
         <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: Esempi di salvataggio di URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;4&lt;/seq0&gt;: Options for printer setup</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171908Z" creationid="Elisabetta" creationdate="20250428T171908Z">
+        <seg>Tabella &lt;seq0&gt;4&lt;/seq0&gt;: opzioni per l'impostazione della stampante</seg>
       </tuv>
     </tu>
     <tu>
