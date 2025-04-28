@@ -3095,6 +3095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the type of printer that is selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172343Z" creationid="Elisabetta" creationdate="20250428T172343Z">
+        <seg>Visualizza il tipo di stampante selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distribute, copy, and modify the software as required, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
@@ -13537,6 +13545,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Location</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172726Z" creationid="Elisabetta" creationdate="20250428T172350Z">
+        <seg>Posizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Name</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172055Z" creationid="Elisabetta" creationdate="20250428T172055Z">
@@ -13573,6 +13589,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170134Z" creationid="Elisabetta" creationdate="20241021T170134Z">
         <seg>Strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Type</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T172306Z" creationid="Elisabetta" creationdate="20250428T172306Z">
+        <seg>Tipo</seg>
       </tuv>
     </tu>
     <tu>
