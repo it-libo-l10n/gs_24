@@ -11777,8 +11777,8 @@
       <tuv lang="en-US">
         <seg>This makes it easier for printers with a smaller memory when printing large files.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202621Z" creationid="valter" creationdate="20241021T202621Z">
-        <seg>Questa funzione è particolarmente utile per le stampanti con una memoria relativamente ridotta quando si stampano file di grandi dimensioni.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T175210Z" creationid="valter" creationdate="20241021T202621Z">
+        <seg>Questo agevola le stampanti con una memoria ridotta nella stampa di file di grandi dimensioni.</seg>
       </tuv>
     </tu>
     <tu>
