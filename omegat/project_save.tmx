@@ -3023,6 +3023,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on bitmap size and the print resolution, a large amount of data may be generated.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T181527Z" creationid="Elisabetta" creationdate="20250429T181527Z">
+        <seg>In base alle dimensioni dei bitmap e della risoluzione di stampa, può essere generata una grande quantità di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on bitmap size and the print resolution, a large amount of data may result.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203135Z" creationid="valter" creationdate="20241021T203135Z">
@@ -12357,6 +12365,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T203112Z" creationid="valter" creationdate="20241021T203112Z">
         <seg>Le trasparenze devono essere visibili per essere calcolate come bitmap e inviate alla stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transparencies must be visible to be calculated by LibreOffice as bitmaps and sent to the printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T181311Z" creationid="Elisabetta" creationdate="20250429T181311Z">
+        <seg>La trasparenza deve essere visibile per essere calcolata come bitmap e riprodotta dalla stampante.</seg>
       </tuv>
     </tu>
     <tu>
