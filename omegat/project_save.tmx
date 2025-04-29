@@ -5306,8 +5306,8 @@
       <tuv lang="en-US">
         <seg>However, reducing print data can result in slightly lower print quality.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202653Z" creationid="valter" creationdate="20241021T202653Z">
-        <seg>Per contro, la riduzione della quantità di dati può determinare un leggero peggioramento della qualità di stampa.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T175445Z" creationid="valter" creationdate="20241021T202653Z">
+        <seg>Tuttavia, la riduzione della quantità di dati può determinare un lieve peggioramento della qualità di stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9016,8 +9016,8 @@
       <tuv lang="en-US">
         <seg>Reducing the amount of data sent by LibreOffice to the printer increases the print speed because the print files are smaller.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174804Z" creationid="Elisabetta" creationdate="20250429T174804Z">
-        <seg>La riduzione della quantità di dati inviati alla stampante incrementa la velocità di stampa poiché i file di stampa sono di dimensioni inferiori..</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T175214Z" creationid="Elisabetta" creationdate="20250429T174804Z">
+        <seg>La riduzione della quantità di dati inviati alla stampante incrementa la velocità di stampa poiché i file di stampa sono di dimensioni inferiori.</seg>
       </tuv>
     </tu>
     <tu>
