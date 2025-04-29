@@ -5618,8 +5618,8 @@
       <tuv lang="en-US">
         <seg>If selected, transparent objects are printed like normal, non-transparent objects, depending on your selection in the following two option buttons.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202809Z" creationid="valter" creationdate="20241021T202809Z">
-        <seg>Se si seleziona questa opzione, vengono stampati sia gli oggetti trasparenti che quelli non trasparenti, in base all'impostazione dei due campi di selezione seguenti.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T180201Z" creationid="valter" creationdate="20241021T202809Z">
+        <seg>Se selezionata, gli oggetti trasparenti vengono stampati come normali oggetti non trasparenti, in base alla scelta compiuta nelle due opzioni seguenti.</seg>
       </tuv>
     </tu>
     <tu>
