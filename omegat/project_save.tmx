@@ -4952,6 +4952,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Print&lt;/f1&gt;) to open the Options LibreOffice Print dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171727Z" creationid="Elisabetta" creationdate="20250429T171727Z">
+        <seg>Accedere a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Stampa&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze &gt; LibreOffice &gt; Stampa&lt;/f1&gt;) per aprire la finestra di dialogo Opzioni di stampa di LibreOffice (Figura &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Load/Save &gt; General&lt;/f1&gt;) on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T161047Z" creationid="Elisabetta" creationdate="20241201T161047Z">
@@ -10295,6 +10303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies whether the print settings apply to direct printing or to printing to a file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171906Z" creationid="Elisabetta" creationdate="20250429T171906Z">
+        <seg>È possibile specificare se applicare le impostazioni alla stampa diretta o alla stampa su file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spin box (click the up and down arrows to change the number shown in the adjacent text box, or type in the text box).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213649Z" creationid="valter" creationdate="20211115T190335Z">
@@ -11027,6 +11043,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T200342Z" creationid="valter" creationdate="20241123T200342Z">
         <seg>Sono utilizzati i tipi di carattere definiti nello stile della pagina HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The general print options for LibreOffice are as follows:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171835Z" creationid="Elisabetta" creationdate="20250429T171835Z">
+        <seg>Le opzioni generali di stampa sono le seguenti:</seg>
       </tuv>
     </tu>
     <tu>
