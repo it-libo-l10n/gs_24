@@ -5170,16 +5170,16 @@
       <tuv lang="en-US">
         <seg>High print quality</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202356Z" creationid="valter" creationdate="20241021T202356Z">
-        <seg>Qualità ottima</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174253Z" creationid="valter" creationdate="20241021T202356Z">
+        <seg>Qualità di stampa elevata</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>High print quality corresponds to a resolution of 300dpi.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202418Z" creationid="valter" creationdate="20241021T202418Z">
-        <seg>Per ottenere una buona qualità di stampa è necessario impostare la risoluzione a 300 dpi.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174429Z" creationid="valter" creationdate="20241021T202418Z">
+        <seg>Un qualità di stampa elevata corrisponde a una risoluzione di 300 dpi.</seg>
       </tuv>
     </tu>
     <tu>
