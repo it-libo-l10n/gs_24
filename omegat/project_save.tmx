@@ -10257,8 +10257,8 @@
       <tuv lang="en-US">
         <seg>Specifies that bitmaps are printed with reduced quality.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202234Z" creationid="valter" creationdate="20241021T202234Z">
-        <seg>Imposta la stampa dei bitmap con una qualità ridotta.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174111Z" creationid="valter" creationdate="20241021T202234Z">
+        <seg>Imposta la stampa dei bitmap in qualità ridotta.</seg>
       </tuv>
     </tu>
     <tu>
