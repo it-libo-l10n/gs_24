@@ -7780,16 +7780,16 @@
       <tuv lang="en-US">
         <seg>Normal print quality</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202430Z" creationid="valter" creationdate="20241021T202430Z">
-        <seg>Qualità normale</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174456Z" creationid="valter" creationdate="20241021T202430Z">
+        <seg>Qualità di stampa normale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Normal print quality corresponds to a resolution of 200dpi.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202445Z" creationid="valter" creationdate="20241021T202445Z">
-        <seg>Per avere una qualità di stampa normale impostare la risoluzione a 200 dpi.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174521Z" creationid="valter" creationdate="20241021T202445Z">
+        <seg>Una qualità di stampa normale corrisponde a una risoluzione di 200 dpi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9010,6 +9010,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202702Z" creationid="valter" creationdate="20241021T202702Z">
         <seg>Riduci trasparenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reducing the amount of data sent by LibreOffice to the printer increases the print speed because the print files are smaller.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174804Z" creationid="Elisabetta" creationdate="20250429T174804Z">
+        <seg>La riduzione della quantità di dati inviati alla stampante incrementa la velocità di stampa poiché i file di stampa sono di dimensioni inferiori..</seg>
       </tuv>
     </tu>
     <tu>
