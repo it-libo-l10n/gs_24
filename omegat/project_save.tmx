@@ -879,6 +879,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of a Printer Setup dialog&lt;/s0&gt;&lt;s1&gt;Example of a Printer Setup dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T170725Z" creationid="Elisabetta" creationdate="20250429T170725Z">
+        <seg>&lt;s0&gt;Esempio di finestra di dialogo per l'impostazione della stampante&lt;/s0&gt;&lt;s1&gt;Esempio di finestra di dialogo per l'impostazione della stampante&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s0&gt;&lt;s1&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172521Z" creationid="Elisabetta" creationdate="20241030T161854Z">
@@ -2359,6 +2367,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Options&lt;/f0&gt; in Printer Setup dialog to open the Printer Options dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T170959Z" creationid="Elisabetta" creationdate="20250429T170959Z">
+        <seg>Fare clic su &lt;f0&gt;Opzioni&lt;/f0&gt; nella finestra di dialogo Impostazione stampante per aprire la finestra Opzioni stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Options&lt;/f0&gt; to open the Security and Warning Options dialog giving access to options for restricting what information can be changed or seen in a document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T162150Z" creationid="valter" creationdate="20241023T162150Z">
@@ -3559,6 +3575,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of a Printer Setup dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T170833Z" creationid="Elisabetta" creationdate="20250429T170833Z">
+        <seg>Esempio di finestra di dialogo per l'impostazione della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of creating floating sub-toolbar from a tool palette</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T172548Z" creationid="Elisabetta" creationdate="20241030T172548Z">
@@ -3707,6 +3731,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101748Z" creationid="valter" creationdate="20211016T101748Z">
         <seg>Felipe Viggiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of a Printer Setup dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T170817Z" creationid="Elisabetta" creationdate="20250429T170817Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: esempio di finestra di dialogo per l'impostazione della stampante</seg>
       </tuv>
     </tu>
     <tu>
