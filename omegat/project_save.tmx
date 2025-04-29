@@ -1375,6 +1375,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After you install a printer on a computer, the general printing options for LibreOffice can be customized.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171632Z" creationid="Elisabetta" creationdate="20250429T171632Z">
+        <seg>Una volta installata la stampante, è possibile personalizzare le opzioni di stampa generali di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; users have a voice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T120008Z" creationid="valter" creationdate="20240928T120008Z">
@@ -2291,6 +2299,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T165855Z" creationid="valter" creationdate="20241023T165855Z">
         <seg>Fare clic su &lt;f0&gt;Certificato&lt;/f0&gt; e selezionare l'archivio di certificati da utilizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the printer setup and close the Printer Setup Dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171437Z" creationid="Elisabetta" creationdate="20250429T171437Z">
+        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare la configurazione della stampante e chiudere la finestra di dialogo Impostazione stampante.</seg>
       </tuv>
     </tu>
     <tu>
