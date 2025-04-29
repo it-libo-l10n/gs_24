@@ -4808,6 +4808,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Printer Settings&lt;/f0&gt; on the Menu bar to open a Printer Setup dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T170621Z" creationid="Elisabetta" creationdate="20250429T170621Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Impostazioni stampante&lt;/f0&gt; nella barra dei menu e aprire la finestra di dialogo Impostazione stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Recent Documents&lt;/f0&gt; on the Menu bar and select the file from the files displayed in the context menu.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T174827Z" creationid="Elisabetta" creationdate="20241129T174827Z">
