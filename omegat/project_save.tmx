@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice Print dialog&lt;/s0&gt;&lt;s1&gt;Options LibreOffice Print dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T172348Z" creationid="Elisabetta" creationdate="20250429T172348Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Opzioni di stampa di LibreOffice&lt;/s0&gt;&lt;s1Finestra di dialogo Opzioni di stampa di LibreOffice&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice View dialog&lt;/s0&gt;&lt;s1&gt;Options LibreOffice View dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172543Z" creationid="valter" creationdate="20240928T172543Z">
@@ -2969,8 +2977,8 @@
       <tuv lang="en-US">
         <seg>Defaults</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T201750Z" creationid="valter" creationdate="20241021T201750Z">
-        <seg>Predefiniti</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171921Z" creationid="valter" creationdate="20241021T201750Z">
+        <seg>Impostazioni predefinite</seg>
       </tuv>
     </tu>
     <tu>
@@ -5594,8 +5602,8 @@
       <tuv lang="en-US">
         <seg>If selected, the reduction in print quality for bitmaps also applies to the transparent areas of objects.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T202210Z" creationid="valter" creationdate="20241021T202210Z">
-        <seg>Se selezionata, la riduzione della qualità di stampa per le bitmap vale anche per le aree trasparenti degli oggetti.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T172205Z" creationid="valter" creationdate="20241021T202210Z">
+        <seg>Se selezionata, la riduzione della qualità di stampa per le bitmap si applica anche alle aree trasparenti degli oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10218,6 +10226,14 @@
         <seg>Specifies that all colors in a document are printed only as grayscale.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202133Z" creationid="valter" creationdate="20241021T202133Z">
+        <seg>Imposta la stampa dei colori come sfumature di grigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that all colors in a document are printed only as greyscale.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T172036Z" creationid="Elisabetta" creationdate="20250429T172036Z">
         <seg>Imposta la stampa dei colori come sfumature di grigio.</seg>
       </tuv>
     </tu>
