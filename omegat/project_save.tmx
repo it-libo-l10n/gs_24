@@ -12347,8 +12347,8 @@
       <tuv lang="en-US">
         <seg>Transparencies cannot be sent directly to a printer.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T203029Z" creationid="valter" creationdate="20241021T203029Z">
-        <seg>Le trasparenze non possono essere inviate alla stampante in modo diretto.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T181207Z" creationid="valter" creationdate="20241021T203029Z">
+        <seg>La trasparenza non può essere riprodotta dalla stampante in modo diretto.</seg>
       </tuv>
     </tu>
     <tu>
