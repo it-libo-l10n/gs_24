@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of Printer Options dialog&lt;/s0&gt;&lt;s1&gt;Example of Printer Options dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171049Z" creationid="Elisabetta" creationdate="20250429T171049Z">
+        <seg>&lt;s0&gt;Esempio di finestra di dialogo per l'impostazione della stampante&lt;/s0&gt;&lt;s1&gt;Esempio di finestra di dialogo per l'impostazione della stampante&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of Properties deck in Writer Sidebar&lt;/s0&gt;&lt;s1&gt;Example of Properties deck in Writer Sidebar&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T171932Z" creationid="Elisabetta" creationdate="20241113T163903Z">
@@ -3567,6 +3575,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of Printer Options dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171136Z" creationid="Elisabetta" creationdate="20250429T171136Z">
+        <seg>Esempio di finestra di dialogo per l'impostazione della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of Properties deck in Writer Sidebar</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T172111Z" creationid="Elisabetta" creationdate="20241113T172111Z">
@@ -3747,6 +3763,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174953Z" creationid="valter" creationdate="20241023T174953Z">
         <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Accesso facilitato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Example of Printer Options dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171121Z" creationid="Elisabetta" creationdate="20250429T171121Z">
+        <seg>La Figura &lt;seq0&gt;11&lt;/seq0&gt;: esempio di finestra di dialogo per l'impostazione della stampante</seg>
       </tuv>
     </tu>
     <tu>
@@ -3979,6 +4003,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T170655Z" creationid="Elisabetta" creationdate="20250429T170655Z">
         <seg>La Figura &lt;t1&gt;10&lt;/t1&gt; illustra un esempio di finestra di dialogo per l'impostazione della stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t1&gt;11&lt;/t1&gt; shows an example of a Printer Options dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171018Z" creationid="Elisabetta" creationdate="20250429T171018Z">
+        <seg>La Figura &lt;t1&gt;11&lt;/t1&gt; illustra un esempio di finestra di dialogo per l'impostazione della stampante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5452,6 +5484,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174025Z" creationid="Elisabetta" creationdate="20241107T171747Z">
         <seg>Se necessario si può selezionare una diapositiva schema e applicarla alla diapositiva attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, click on &lt;f0&gt;Properties&lt;/f0&gt; in the Printer Setup dialog to open a properties dialog for the default printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171238Z" creationid="Elisabetta" creationdate="20250429T171238Z">
+        <seg>Se necessario, fare clic su &lt;f0&gt;Proprietà&lt;/f0&gt; nella finestra di dialogo Impostazione stampante per aprire una finestra delle proprietà per la stampante predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9563,6 +9603,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161424Z" creationid="valter" creationdate="20241023T161424Z">
         <seg>Selezionare il tipo di carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the required printer options, then click on &lt;f0&gt;OK&lt;/f0&gt; to save the selection and close the Printer Options dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171036Z" creationid="Elisabetta" creationdate="20250429T171036Z">
+        <seg>Selezionare le opzioni di stampa desiderate, quindi fare clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare la selezione e chiudere la finestra di dialogo Opzioni stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the required properties, then click on &lt;f0&gt;OK&lt;/f0&gt; to save the selection and close the properties dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171347Z" creationid="Elisabetta" creationdate="20250429T171347Z">
+        <seg>Selezionare le proprietà desiderate, quindi fare clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare la selezione e chiudere la finestra di dialogo delle proprietà.</seg>
       </tuv>
     </tu>
     <tu>
