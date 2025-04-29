@@ -3943,6 +3943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;t1&gt;10&lt;/t1&gt; shows an example of a Printer Setup dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T170655Z" creationid="Elisabetta" creationdate="20250429T170655Z">
+        <seg>La Figura &lt;t1&gt;10&lt;/t1&gt; illustra un esempio di finestra di dialogo per l'impostazione della stampante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;t1&gt;8&lt;/t1&gt; shows how separate views of one document can be open at the same time.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165146Z" creationid="Elisabetta" creationdate="20250413T165146Z">
