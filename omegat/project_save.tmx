@@ -1975,6 +1975,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161601Z" creationid="Elisabetta" creationdate="20250430T161601Z">
+        <seg>Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193753Z" creationid="valter" creationdate="20211115T193753Z">
@@ -3287,6 +3295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161645Z" creationid="Elisabetta" creationdate="20250430T161645Z">
+        <seg>Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw (vector graphics)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092103Z" creationid="valter" creationdate="20211016T092103Z">
@@ -3763,6 +3779,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180349Z" creationid="valter" creationdate="20211115T180349Z">
         <seg>Domande frequenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161552Z" creationid="Elisabetta" creationdate="20250430T161552Z">
+        <seg>Caratteristica</seg>
       </tuv>
     </tu>
     <tu>
@@ -5896,6 +5920,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161603Z" creationid="Elisabetta" creationdate="20250430T161603Z">
+        <seg>Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress (presentations)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092058Z" creationid="valter" creationdate="20211016T092058Z">
@@ -7394,6 +7426,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Math</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161653Z" creationid="Elisabetta" creationdate="20250430T161653Z">
+        <seg>Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Math (equation editor)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092121Z" creationid="valter" creationdate="20211016T092121Z">
@@ -8814,6 +8854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print multiple pages, sheets, or slides on one page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161940Z" creationid="Elisabetta" creationdate="20250430T161940Z">
+        <seg>Stampare più pagine, fogli o diapositive in un'unica pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Print previewing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174714Z" creationid="Elisabetta" creationdate="20241017T174714Z">
@@ -9611,6 +9659,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201148Z" creationid="valter" creationdate="20241023T201148Z">
         <seg>Selezionare uno dei JRE elencati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select pages, sheets, or slides to print</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161756Z" creationid="Elisabetta" creationdate="20250430T161756Z">
+        <seg>Selezionare le pagine, i fogli o le diapositive da stampare</seg>
       </tuv>
     </tu>
     <tu>
@@ -10539,6 +10595,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171908Z" creationid="Elisabetta" creationdate="20250428T171908Z">
         <seg>Tabella &lt;seq0&gt;4&lt;/seq0&gt;: opzioni per l'impostazione della stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;5&lt;/seq0&gt;: Print options in LibreOffice modules</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161539Z" creationid="Elisabetta" creationdate="20250430T161539Z">
+        <seg>Tabella &lt;seq0&gt;5&lt;/seq0&gt;: opzioni di stampa nei moduli di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -13397,6 +13461,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171719Z" creationid="Elisabetta" creationdate="20241017T171719Z">
         <seg>Lavorare con i documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161557Z" creationid="Elisabetta" creationdate="20250430T161557Z">
+        <seg>Writer</seg>
       </tuv>
     </tu>
     <tu>
