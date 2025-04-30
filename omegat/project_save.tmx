@@ -8822,6 +8822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preview pages or sheets before printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T162118Z" creationid="Elisabetta" creationdate="20250430T162118Z">
+        <seg>Anteprima di pagine o fogli prima della stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previews animated graphics, such as GIF images, in LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180137Z" creationid="valter" creationdate="20241023T180137Z">
@@ -8848,8 +8856,24 @@
       <tuv lang="en-US">
         <seg>Print a brochure</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240929T200154Z" creationid="valter" creationdate="20240929T200154Z">
-        <seg>Stampa di un dépliant</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T162008Z" creationid="valter" creationdate="20240929T200154Z">
+        <seg>Stampare un dépliant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print envelopes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T162033Z" creationid="Elisabetta" creationdate="20250430T162033Z">
+        <seg>Stampare buste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print labels or business cards</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T162050Z" creationid="Elisabetta" creationdate="20250430T162050Z">
+        <seg>Stampare etichette o biglietti da visita</seg>
       </tuv>
     </tu>
     <tu>
