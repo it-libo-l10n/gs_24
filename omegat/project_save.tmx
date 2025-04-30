@@ -12993,6 +12993,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When printing a document with transparencies, a dialogue box opens to enable selection if the transparency is to be printed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161114Z" creationid="Elisabetta" creationdate="20250430T161114Z">
+        <seg>Quando si stampa un documento che contiene trasparenze, si apre una finestra di dialogo che consente di selezionare la stampa della trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When printing, the name of the default printer installed on a computer appears in the &lt;f0&gt;Print&lt;/f0&gt; tool name, &lt;f1&gt;Print Directly&lt;/f1&gt; tool name, Print dialog, and Printer Settings dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T172526Z" creationid="Elisabetta" creationdate="20250415T172526Z">
