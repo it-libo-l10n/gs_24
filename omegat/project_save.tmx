@@ -6016,6 +6016,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress Print dialog — Impress General page — Windows or Linux</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165506Z" creationid="Elisabetta" creationdate="20250430T165506Z">
+        <seg>Finestra di dialogo Stampa di Impress - Pagina generale di Impress - Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress also includes a spelling checker, a thesaurus, and styles for drawings, text, and backgrounds.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143611Z" creationid="Elisabetta Manuele" creationdate="20211110T143611Z">
@@ -7738,6 +7746,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More &gt; Pages per sheet</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165727Z" creationid="Elisabetta" creationdate="20250430T165727Z">
+        <seg>Altro &gt; Pagine per foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More &gt; Paper sides</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164648Z" creationid="Elisabetta" creationdate="20250430T164648Z">
@@ -8710,6 +8726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Orientation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165631Z" creationid="Elisabetta" creationdate="20250430T165631Z">
+        <seg>Orientazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other features provided by Calc include:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095645Z" creationid="akurery" creationdate="20211121T095645Z">
@@ -8770,6 +8794,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201805Z" creationid="valter" creationdate="20241021T201805Z">
         <seg>PDF come formato di stampa standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page Layout</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165551Z" creationid="Elisabetta" creationdate="20250430T165551Z">
+        <seg>Impaginazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -9839,6 +9871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select from the drop-down list &lt;f0&gt;Automatic&lt;/f0&gt;, &lt;f1&gt;Portrait&lt;/f1&gt;, or &lt;f2&gt;Landscape&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165702Z" creationid="Elisabetta" creationdate="20250430T165702Z">
+        <seg>Selezionare dall'elenco a discesa &lt;f0&gt;Automatico&lt;/f0&gt;, &lt;f1&gt;Verticale&lt;/f1&gt; o &lt;f2&gt;Orizzontale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select from the drop-down list &lt;f0&gt;Odd and Even Pages&lt;/f0&gt;, &lt;f1&gt;Odd Pages&lt;/f1&gt;, or &lt;f2&gt;Even Pages&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164510Z" creationid="Elisabetta" creationdate="20250430T164510Z">
@@ -9939,6 +9979,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164333Z" creationid="Elisabetta" creationdate="20250430T164333Z">
         <seg>Selezionare il numero o i numeri di pagina da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the paper size to use from the drop‑down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165626Z" creationid="Elisabetta" creationdate="20250430T165626Z">
+        <seg>Selezionare il formato carta da utilizzare dall'elenco a discesa.</seg>
       </tuv>
     </tu>
     <tu>
