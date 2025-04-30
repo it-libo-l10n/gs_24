@@ -3567,6 +3567,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter number of printed copies required for the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164840Z" creationid="Elisabetta" creationdate="20250430T164840Z">
+        <seg>Inserire il numero di copie stampate necessarie per il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter or select the name of the replacement font.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161131Z" creationid="valter" creationdate="20241023T161131Z">
@@ -7682,6 +7690,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More &gt; Number of copies</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164824Z" creationid="Elisabetta" creationdate="20250430T164824Z">
+        <seg>Altro &gt; Numero di copie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More &gt; Paper sides</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164648Z" creationid="Elisabetta" creationdate="20250430T164648Z">
@@ -9779,6 +9795,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164510Z" creationid="Elisabetta" creationdate="20250430T164510Z">
         <seg>Selezionare dall'elenco a discesa &lt;f0&gt;Pagine pari e dispari&lt;/f0&gt;, &lt;f1&gt;Pagine dispari&lt;/f1&gt; o &lt;f2&gt;Pagine pari&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select from the drop-down list &lt;f0&gt;Print on one side (simplex)&lt;/f0&gt;, &lt;f1&gt;Print on both sides (duplex long edge)&lt;/f1&gt;, or &lt;f2&gt;Print on both sides (duplex short edge)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164804Z" creationid="Elisabetta" creationdate="20250430T164804Z">
+        <seg>Selezionare dall'elenco a discesa &lt;f0&gt;Stampa su un lato (simplex)&lt;/f0&gt;, &lt;f1&gt;Stampa su entrambi i lati (lato lungo duplex)&lt;/f1&gt;, oppure &lt;f2&gt;Stampa su entrambi i lati (lato corto duplex)&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
