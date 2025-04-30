@@ -43,3 +43,4 @@ Automatically save the document too	Salva automaticamente il documento	Voce UI
 Print Directly	Stampa direttamente	Voce UI
 System Settings	Impostazioni di sistema	Voce UI  delle versioni più recenti di MacOS
 Printer Settings	Impostazioni stampante	Voce UI
+Create separate print jobs for collated output	Crea ordini di stampa separati per la fascicolatura	Voce UI
