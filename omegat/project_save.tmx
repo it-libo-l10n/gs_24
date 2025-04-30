@@ -2431,6 +2431,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Properties&lt;/f0&gt; to open the properties dialog for the printer being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T163914Z" creationid="Elisabetta" creationdate="20250430T163914Z">
+        <seg>Fare clic su &lt;f0&gt;Proprietà&lt;/f0&gt; per aprire la finestra di dialogo delle proprietà della stampante in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Redo&lt;/f0&gt; in the Standard toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164614Z" creationid="Elisabetta" creationdate="20250415T164614Z">
@@ -8966,6 +8974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T163809Z" creationid="Elisabetta" creationdate="20250430T163809Z">
+        <seg>Proprietà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protected by a master password</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T164426Z" creationid="valter" creationdate="20241023T164426Z">
@@ -9779,6 +9795,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161424Z" creationid="valter" creationdate="20241023T161424Z">
         <seg>Selezionare il tipo di carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the printer to use from the printers available in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T163806Z" creationid="Elisabetta" creationdate="20250430T163806Z">
+        <seg>Selezionare la stampante da utilizzare tra quelle disponibili nell'elenco a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11363,6 +11387,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T165506Z" creationid="valter" creationdate="20241017T165506Z">
         <seg>Le opzioni disponibili nella pagina Vista della finestra di dialogo Opzioni di LibreOffice (Figura &lt;t0&gt;Errore: sorgente del riferimento non trovata&lt;/t0&gt;) influenzano il modo in cui la finestra appare e si comporta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The options available in this dialog depends on the type of printer connected to the computer and the computer operating system being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164005Z" creationid="Elisabetta" creationdate="20250430T164005Z">
+        <seg>Le opzioni disponibili in questa finestra di dialogo dipendono dal tipo di stampante collegata al computer e dal sistema operativo utilizzato.</seg>
       </tuv>
     </tu>
     <tu>
