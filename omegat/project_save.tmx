@@ -4656,6 +4656,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For multiple pages, use the format 1, 3, 7 or 1 – 5, 7, 9 for page number selection.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164418Z" creationid="Elisabetta" creationdate="20250430T164418Z">
+        <seg>Per più pagine, utilizzare il formato 1, 3, 7 o 1 – 5, 7, 9 per la selezione del numero di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For quick tips when a toolbar is visible, place the cursor over any of the tool icons to see a small tooltip box with a brief explanation of the tool function.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155541Z" creationid="valter" creationdate="20240928T155541Z">
@@ -6216,6 +6224,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Include</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164434Z" creationid="Elisabetta" creationdate="20250430T164434Z">
+        <seg>Includi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Include any additional information that may help the developers to localize the error.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161925Z" creationid="valter" creationdate="20241017T161925Z">
@@ -7662,6 +7678,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204331Z" creationid="valter" creationdate="20241005T204254Z">
         <seg>Uso del modulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More &gt; Paper sides</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164648Z" creationid="Elisabetta" creationdate="20250430T164648Z">
+        <seg>Altro &gt; Lati del foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -9751,6 +9775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select from the drop-down list &lt;f0&gt;Odd and Even Pages&lt;/f0&gt;, &lt;f1&gt;Odd Pages&lt;/f1&gt;, or &lt;f2&gt;Even Pages&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164510Z" creationid="Elisabetta" creationdate="20250430T164510Z">
+        <seg>Selezionare dall'elenco a discesa &lt;f0&gt;Pagine pari e dispari&lt;/f0&gt;, &lt;f1&gt;Pagine dispari&lt;/f1&gt; o &lt;f2&gt;Pagine pari&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select one of the JREs listed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201148Z" creationid="valter" creationdate="20241023T201148Z">
@@ -9827,6 +9859,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161424Z" creationid="valter" creationdate="20241023T161424Z">
         <seg>Selezionare il tipo di carattere da usare per la visualizzazione del codice sorgente HTML e Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the page number(s) to print.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164333Z" creationid="Elisabetta" creationdate="20250430T164333Z">
+        <seg>Selezionare il numero o i numeri di pagina da stampare.</seg>
       </tuv>
     </tu>
     <tu>
