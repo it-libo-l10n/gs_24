@@ -2711,6 +2711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collates multiple printed copies into separate documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165134Z" creationid="Elisabetta" creationdate="20250430T165134Z">
+        <seg>Fascicola più copie stampate in documenti separati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colleen Hayes</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101752Z" creationid="valter" creationdate="20211016T101752Z">
@@ -7690,10 +7698,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More &gt; Collate</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165111Z" creationid="Elisabetta" creationdate="20250430T165111Z">
+        <seg>Altro &gt; Fascicolatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More &gt; Number of copies</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164824Z" creationid="Elisabetta" creationdate="20250430T164824Z">
         <seg>Altro &gt; Numero di copie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More &gt; Order</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165143Z" creationid="Elisabetta" creationdate="20250430T165143Z">
+        <seg>Altro &gt; Ordine</seg>
       </tuv>
     </tu>
     <tu>
