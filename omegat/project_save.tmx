@@ -1399,6 +1399,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Slides</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164020Z" creationid="Elisabetta" creationdate="20250430T164020Z">
+        <seg>Tutte le diapositive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All modules share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114930Z" creationid="valter" creationdate="20240928T114930Z">
@@ -8966,6 +8974,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prints all the slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164033Z" creationid="Elisabetta" creationdate="20250430T164033Z">
+        <seg>Stampa tutte le diapositive della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prints the slides selected in LibreOffice Impress.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164226Z" creationid="Elisabetta" creationdate="20250430T164226Z">
+        <seg>Stampa le diapositive selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213858Z" creationid="valter" creationdate="20240928T213858Z">
@@ -9082,6 +9106,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101750Z" creationid="valter" creationdate="20211016T101750Z">
         <seg>Rafael Lima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Range and Copies</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164018Z" creationid="Elisabetta" creationdate="20250430T164018Z">
+        <seg>Intervallo e copie</seg>
       </tuv>
     </tu>
     <tu>
