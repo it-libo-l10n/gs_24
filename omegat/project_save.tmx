@@ -4552,6 +4552,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, refer to the specific user guide for each module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161514Z" creationid="Elisabetta" creationdate="20250430T161514Z">
+        <seg>Per ulteriori informazioni, fare riferimento alla guida utente specifica di ciascun modulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Appendix B, Open Source, Open Standards, OpenDocument.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104230Z" creationid="valter" creationdate="20240928T104230Z">
@@ -11039,6 +11047,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The different print settings for each LibreOffice module are summarized in Table &lt;t2&gt;5&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161433Z" creationid="Elisabetta" creationdate="20250430T161433Z">
+        <seg>Le diverse impostazioni di stampa per ogni modulo di LibreOffice sono riassunte nella Tabella &lt;t2&gt;5&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document is saved without the Microsoft Basic code.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T182829Z" creationid="valter" creationdate="20241123T182829Z">
@@ -12164,6 +12180,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T111154Z" creationid="valter" creationdate="20241017T111154Z">
         <seg>Per aprire la finestra di dialogo delle opzioni di LibreOffice (Figura &lt;t0&gt;1&lt;/t0&gt;) andare a &lt;f1&gt;Strumenti &gt; Opzioni&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferenze&lt;/f2&gt;) nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To open the printing options dialog for each LibreOffice module, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice module name &gt; Print&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice module name &gt; Print&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161348Z" creationid="Elisabetta" creationdate="20250430T161348Z">
+        <seg>Per aprire la finestra di dialogo delle opzioni di stampa per ciascun modulo di LibreOffice, accedere a &lt;f0&gt;Strumenti &gt; Opzioni &gt; Nome modulo LibreOffice &gt; Stampa&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferenze &gt; Nome modulo LibreOffice &gt; Stampa&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
