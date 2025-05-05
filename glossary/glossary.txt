@@ -45,3 +45,4 @@ System Settings	Impostazioni di sistema	Voce UI  delle versioni più recenti di 
 Printer Settings	Impostazioni stampante	Voce UI
 Create separate print jobs for collated output	Crea ordini di stampa separati per la fascicolatura	Voce UI
 Page Layout	Impaginazione	Voce UI
+booklet	opuscolo
