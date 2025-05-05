@@ -46,3 +46,4 @@ Printer Settings	Impostazioni stampante	Voce UI
 Create separate print jobs for collated output	Crea ordini di stampa separati per la fascicolatura	Voce UI
 Page Layout	Impaginazione	Voce UI
 booklet	opuscolo
+double sided	su entrambi i lati - fronte-retro
