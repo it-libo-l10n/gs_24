@@ -6850,6 +6850,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162111Z" creationid="Elisabetta" creationdate="20250505T162111Z">
+        <seg>Layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leo Moons</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101758Z" creationid="valter" creationdate="20211016T101758Z">
@@ -7710,6 +7718,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155403Z" creationid="Elisabetta" creationdate="20250505T155403Z">
         <seg>Supporto e qualità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Media Type</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T161853Z" creationid="Elisabetta" creationdate="20250505T161853Z">
+        <seg>Tipo di supporto</seg>
       </tuv>
     </tu>
     <tu>
@@ -8926,6 +8942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pages per sheet</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162118Z" creationid="Elisabetta" creationdate="20250505T162118Z">
+        <seg>Pagine per foglio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182105Z" creationid="valter" creationdate="20211115T182105Z">
@@ -9322,6 +9346,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190351Z" creationid="valter" creationdate="20211115T190351Z">
         <seg>Pulsanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162034Z" creationid="Elisabetta" creationdate="20250505T162034Z">
+        <seg>Qualità</seg>
       </tuv>
     </tu>
     <tu>
@@ -10063,6 +10095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select how many slides are printed on one sheet of paper &lt;f0&gt;f&lt;/f0&gt;rom the drop-down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162222Z" creationid="Elisabetta" creationdate="20250505T162222Z">
+        <seg>Selezionare il numero di diapositive da stampare su un solo foglio &lt;f0&gt;dall'elenco a discesa&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select one of the JREs listed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201148Z" creationid="valter" creationdate="20241023T201148Z">
@@ -10159,6 +10199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the paper type that has been loaded into the paper tray from the drop-down list , (for example Envelope, Photo, Plain Paper).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162025Z" creationid="Elisabetta" creationdate="20250505T162025Z">
+        <seg>Selezionare il tipo di carta caricata nel vassoio dall'elenco a discesa (ad esempio Busta, Foto, Carta comune).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the printer to be used from the drop-down list.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154255Z" creationid="Elisabetta" creationdate="20250505T154255Z">
@@ -10171,6 +10219,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T163806Z" creationid="Elisabetta" creationdate="20250430T163806Z">
         <seg>Selezionare la stampante da utilizzare tra quelle disponibili nell'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the required level of printing quality.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162047Z" creationid="Elisabetta" creationdate="20250505T162047Z">
+        <seg>Selezionare il livello di qualità di stampa desiderato.</seg>
       </tuv>
     </tu>
     <tu>
