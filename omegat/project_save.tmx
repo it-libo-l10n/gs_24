@@ -3871,6 +3871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feed from</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155428Z" creationid="Elisabetta" creationdate="20250505T155428Z">
+        <seg>Alimentazione da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101928Z" creationid="valter" creationdate="20211016T101928Z">
@@ -7686,6 +7694,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T164756Z" creationid="valter" creationdate="20241016T203848Z">
         <seg>Può contenere l'icona del comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Media &amp; Quality</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155403Z" creationid="Elisabetta" creationdate="20250505T155403Z">
+        <seg>Supporto e qualità</seg>
       </tuv>
     </tu>
     <tu>
