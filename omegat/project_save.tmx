@@ -3329,8 +3329,8 @@
       <tuv lang="en-US">
         <seg>Double-Sided</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154857Z" creationid="Elisabetta" creationdate="20250505T154857Z">
-        <seg>Su entrambi i lati</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T163124Z" creationid="Elisabetta" creationdate="20250505T154857Z">
+        <seg>Fronte-retro</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,8 +4866,8 @@
       <tuv lang="en-US">
         <seg>From: to:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154711Z" creationid="Elisabetta" creationdate="20250505T154711Z">
-        <seg>Da: a:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162949Z" creationid="Elisabetta" creationdate="20250505T154711Z">
+        <seg>Intervallo di stampa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5914,8 +5914,8 @@
       <tuv lang="en-US">
         <seg>If the printer selected is capable of color printing, this selection can be switched off to print the presentation in monochrome.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155804Z" creationid="Elisabetta" creationdate="20250505T154852Z">
-        <seg>Se la stampante selezionata è in grado di stampare a colori, questa opzione può essere disattivata per stampare la presentazione in monocromia.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T163023Z" creationid="Elisabetta" creationdate="20250505T154852Z">
+        <seg>Se la stampante selezionata è in grado di stampare a colori, questa opzione può essere disattivata per stampare la presentazione in bianco e nero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10089,8 +10089,8 @@
       <tuv lang="en-US">
         <seg>Select from the drop-down list a printing preset.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154424Z" creationid="Elisabetta" creationdate="20250505T154424Z">
-        <seg>Selezionare dall'elenco a discesa una preimpostazione di stampa.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162750Z" creationid="Elisabetta" creationdate="20250505T154424Z">
+        <seg>Selezionare dall'elenco a discesa un preset di stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11897,8 +11897,8 @@
       <tuv lang="en-US">
         <seg>The presets available depend on the type of printer connected to the computer.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154442Z" creationid="Elisabetta" creationdate="20250505T154442Z">
-        <seg>Le preimpostazioni disponibili dipendono dal tipo di stampante collegata al computer.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162807Z" creationid="Elisabetta" creationdate="20250505T154442Z">
+        <seg>I preset disponibili dipendono dal tipo di stampante collegata al computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12265,8 +12265,8 @@
       <tuv lang="en-US">
         <seg>This also includes any custom presets that have been created.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154523Z" creationid="Elisabetta" creationdate="20250505T154523Z">
-        <seg>Ciò include anche tutte le preimpostazioni personalizzate precedentemente create.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162852Z" creationid="Elisabetta" creationdate="20250505T154523Z">
+        <seg>Ciò include anche tutti i preset personalizzati precedentemente creati.</seg>
       </tuv>
     </tu>
     <tu>
