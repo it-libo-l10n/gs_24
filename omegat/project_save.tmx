@@ -4255,6 +4255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flip horizontally</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T165418Z" creationid="Elisabetta" creationdate="20250505T165418Z">
+        <seg>Speculare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Florian Reisinger</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
@@ -5604,6 +5612,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201133Z" creationid="valter" creationdate="20241023T201133Z">
         <seg>]Se LibreOffice trova uno o più JRE nel computer, li visualizza nel riquadro di elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If LibreOffice prints the pages in the wrong orientation, select this option and print the document again.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T165451Z" creationid="Elisabetta" creationdate="20250505T165451Z">
+        <seg>Se LibreOffice stampa le pagine con l'orientamento sbagliato, selezionare questa opzione e stampare nuovamente il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If LibreOffice prints the slides in the wrong order, select this option and print the document again.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T165327Z" creationid="Elisabetta" creationdate="20250505T165327Z">
+        <seg>Se LibreOffice stampa le diapositive nell'ordine sbagliato, selezionare questa opzione e stampare nuovamente il documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13667,8 +13691,8 @@
       <tuv lang="en-US">
         <seg>When multiple slides are printed on one sheet of paper, a border is drawn around each slide.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T153540Z" creationid="Elisabetta" creationdate="20250505T153540Z">
-        <seg>Quando si stampano più diapositive su un foglio di carta, viene tracciato un bordo intorno a ognuna di esse.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T165159Z" creationid="Elisabetta" creationdate="20250505T153540Z">
+        <seg>Quando si stampano più diapositive su un foglio di carta, viene tracciato un margine intorno a ognuna di esse.</seg>
       </tuv>
     </tu>
     <tu>
