@@ -10679,6 +10679,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sheet Order</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T171401Z" creationid="Elisabetta" creationdate="20250505T171401Z">
+        <seg>Ordine fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sheets to Print</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T171012Z" creationid="Elisabetta" creationdate="20250505T171012Z">
