@@ -10377,8 +10377,8 @@
       <tuv lang="en-US">
         <seg>Select this option to print the presentation double sided if the printer selected is capable of double sided printing.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155220Z" creationid="Elisabetta" creationdate="20250505T155220Z">
-        <seg>Selezionare questa opzione per stampare la presentazione su entrambi i lati se la stampante selezionata è in grado di stampare fronte-retro.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T163216Z" creationid="Elisabetta" creationdate="20250505T155220Z">
+        <seg>Selezionare questa opzione per stampare la presentazione su entrambi i lati della carta se la stampante selezionata lo consente.</seg>
       </tuv>
     </tu>
     <tu>
