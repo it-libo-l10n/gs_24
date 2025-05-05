@@ -2751,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collate sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T170215Z" creationid="Elisabetta" creationdate="20250505T170215Z">
+        <seg>Fascicola fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collates multiple printed copies into separate documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165134Z" creationid="Elisabetta" creationdate="20250430T165134Z">
@@ -7780,8 +7788,8 @@
       <tuv lang="en-US">
         <seg>Media &amp; Quality</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155403Z" creationid="Elisabetta" creationdate="20250505T155403Z">
-        <seg>Supporto e qualità</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T165842Z" creationid="Elisabetta" creationdate="20250505T155403Z">
+        <seg>Supporti e qualità</seg>
       </tuv>
     </tu>
     <tu>
@@ -9018,6 +9026,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182105Z" creationid="valter" creationdate="20211115T182105Z">
         <seg>Supporto e formazione a pagamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paper Handling</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T170009Z" creationid="Elisabetta" creationdate="20250505T170009Z">
+        <seg>Gestione carta</seg>
       </tuv>
     </tu>
     <tu>
