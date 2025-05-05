@@ -1951,6 +1951,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Border</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162602Z" creationid="Elisabetta" creationdate="20250505T162602Z">
+        <seg>Bordo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brochure printing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173903Z" creationid="Elisabetta" creationdate="20241017T173903Z">
@@ -9120,8 +9128,8 @@
       <tuv lang="en-US">
         <seg>Presets</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154405Z" creationid="Elisabetta" creationdate="20250505T154405Z">
-        <seg>Preimpostazioni</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162738Z" creationid="Elisabetta" creationdate="20250505T154405Z">
+        <seg>Preset</seg>
       </tuv>
     </tu>
     <tu>
@@ -10227,6 +10235,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T163806Z" creationid="Elisabetta" creationdate="20250430T163806Z">
         <seg>Selezionare la stampante da utilizzare tra quelle disponibili nell'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the printing order of multiple slides on one sheet of paper.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162600Z" creationid="Elisabetta" creationdate="20250505T162600Z">
+        <seg>Selezionare l'ordine di stampa di più diapositive per foglio.</seg>
       </tuv>
     </tu>
     <tu>
