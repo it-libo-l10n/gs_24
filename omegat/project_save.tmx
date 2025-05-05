@@ -10511,6 +10511,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select which slides in the document to print from the drop-down list: (&lt;f0&gt;All pages&lt;/f0&gt;; &lt;f1&gt;Odd only&lt;/f1&gt;; &lt;f2&gt;Even only)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T171318Z" creationid="Elisabetta" creationdate="20250505T171318Z">
+        <seg>Selezionare quali diapositive del documento stampare dall'elenco a discesa: (&lt;f0&gt;Tutte le pagine&lt;/f0&gt;; &lt;f1&gt;Solo le dispari&lt;/f1&gt;; &lt;f2&gt;Solo le pari)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting &lt;f0&gt;Open File&lt;/f0&gt;, which will allow you to navigate to the chosen file’s location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to open the file and the applicable LibreOffice module.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T174615Z" creationid="valter" creationdate="20241016T195442Z">
