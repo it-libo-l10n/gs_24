@@ -7730,6 +7730,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More &gt; Draw a border around each page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T153445Z" creationid="Elisabetta" creationdate="20250505T153445Z">
+        <seg>Altro &gt; Traccia un bordo intorno a ogni pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More &gt; Number of copies</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164824Z" creationid="Elisabetta" creationdate="20250430T164824Z">
