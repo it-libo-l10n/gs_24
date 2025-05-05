@@ -51,3 +51,4 @@ Layout Direction	Orientamento layout	Voce UI MacOs
 Presets	Preset	Voce UI SO MacOS
 From: to:	Intervallo di stampa:	Voce UI MacOS
 Double-Sided	Fronte-retro	Voce UI MacOs
+Flip horizontally	Speculare	Voce UI MacOs
