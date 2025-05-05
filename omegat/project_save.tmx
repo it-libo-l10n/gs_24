@@ -6858,6 +6858,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layout Direction</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162441Z" creationid="Elisabetta" creationdate="20250505T162441Z">
+        <seg>Orientamento layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leo Moons</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101758Z" creationid="valter" creationdate="20211016T101758Z">
