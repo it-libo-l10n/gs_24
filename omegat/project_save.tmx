@@ -3873,8 +3873,8 @@
       <tuv lang="en-US">
         <seg>Feed from</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155428Z" creationid="Elisabetta" creationdate="20250505T155428Z">
-        <seg>Alimentazione da</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T160249Z" creationid="Elisabetta" creationdate="20250505T155428Z">
+        <seg>Alimentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,8 +5898,8 @@
       <tuv lang="en-US">
         <seg>If the printer selected is capable of color printing, this selection can be switched off to print the presentation in monochrome.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154852Z" creationid="Elisabetta" creationdate="20250505T154852Z">
-        <seg>Se la stampante selezionata è in grado di stampare a colori, questa opzione può essere disattivata per stampare la presentazione in bianco e nero.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T155804Z" creationid="Elisabetta" creationdate="20250505T154852Z">
+        <seg>Se la stampante selezionata è in grado di stampare a colori, questa opzione può essere disattivata per stampare la presentazione in monocromia.</seg>
       </tuv>
     </tu>
     <tu>
