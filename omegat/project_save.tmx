@@ -5776,6 +5776,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the default printer is being used, then this printer will already be selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154318Z" creationid="Elisabetta" creationdate="20250505T154318Z">
+        <seg>Se si utilizza la stampante predefinita, questa sarà già selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the document has not been saved since the last change, a confirmation dialog opens with a warning message.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155749Z" creationid="Elisabetta" creationdate="20250409T155749Z">
@@ -8990,6 +8998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Presets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154405Z" creationid="Elisabetta" creationdate="20250505T154405Z">
+        <seg>Preimpostazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preview pages or sheets before printing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T162118Z" creationid="Elisabetta" creationdate="20250430T162118Z">
@@ -9919,6 +9935,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select from the drop-down list a printing preset.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154424Z" creationid="Elisabetta" creationdate="20250505T154424Z">
+        <seg>Selezionare dall'elenco a discesa una preimpostazione di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select from the drop-down list how many pages are printed on one sheet of paper.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T152334Z" creationid="Elisabetta" creationdate="20250505T152334Z">
@@ -10027,6 +10051,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T165626Z" creationid="Elisabetta" creationdate="20250430T165626Z">
         <seg>Selezionare il formato carta da utilizzare dall'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the printer to be used from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154255Z" creationid="Elisabetta" creationdate="20250505T154255Z">
+        <seg>Selezionare la stampante da utilizzare dall'elenco a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11671,6 +11703,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The presets available depend on the type of printer connected to the computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154442Z" creationid="Elisabetta" creationdate="20250505T154442Z">
+        <seg>Le preimpostazioni disponibili dipendono dal tipo di stampante collegata al computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The previous versions of LibreOffice support the file format ODF 1.2.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T175504Z" creationid="valter" creationdate="20241123T175504Z">
@@ -12027,6 +12067,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201441Z" creationid="valter" creationdate="20241023T201441Z">
         <seg>Consente l'esecuzione delle applicazioni Java in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This also includes any custom presets that have been created.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154523Z" creationid="Elisabetta" creationdate="20250505T154523Z">
+        <seg>Ciò include anche tutte le preimpostazioni personalizzate precedentemente create.</seg>
       </tuv>
     </tu>
     <tu>
