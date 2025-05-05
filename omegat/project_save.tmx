@@ -11455,6 +11455,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following general options are an example of the options available on the General page of the Impress Print dialog in macOS (Figure &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154234Z" creationid="Elisabetta" creationdate="20250505T154234Z">
+        <seg>Le seguenti opzioni generali sono un esempio delle opzioni disponibili nella pagina Generale della finestra di dialogo Stampa di Impress in macOS (Figura &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following table demonstrates the difference in syntax between relative and absolute referencing:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T221610Z" creationid="valter" creationdate="20241113T221610Z">
