@@ -9110,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prints the document so the pages can be folded into a brochure or booklet.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154141Z" creationid="Elisabetta" creationdate="20250505T154141Z">
+        <seg>Stampa il documento in modo da poter piegare le pagine in formato di dépliant o di opuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prints the slides selected in LibreOffice Impress.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164226Z" creationid="Elisabetta" creationdate="20250430T164226Z">
