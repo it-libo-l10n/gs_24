@@ -3159,6 +3159,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determine how a multi-page document will be bound from a drop-down list: &lt;f0&gt;Off&lt;/f0&gt;; &lt;f1&gt;Long-Edge binding&lt;/f1&gt;; &lt;f2&gt;Short-Edge binding&lt;/f2&gt;, &lt;f3&gt;Booklet&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T164822Z" creationid="Elisabetta" creationdate="20250505T164822Z">
+        <seg>Determina la modalità di rilegatura di un documento a più pagine selezionando da un elenco a discesa: &lt;f0&gt;Off&lt;/f0&gt;; &lt;f1&gt;Rilegatura lato lungo&lt;/f1&gt;; &lt;f2&gt;Rilegatura lato corto&lt;/f2&gt;, &lt;f3&gt;Opuscolo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213412Z" creationid="valter" creationdate="20240928T213412Z">
