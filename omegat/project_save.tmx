@@ -1471,6 +1471,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows selected multiple printed copies to be collated into separate documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T170911Z" creationid="Elisabetta" creationdate="20250505T170911Z">
+        <seg>Più copie stampate selezionate possono essere fascicolate in documenti separati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows you to select which paper tray to use from a drop-down list (if the printer has more than one paper tray).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T161837Z" creationid="Elisabetta" creationdate="20250505T161837Z">
