@@ -48,3 +48,4 @@ Page Layout	Impaginazione	Voce UI
 booklet	opuscolo
 double sided	su entrambi i lati - fronte-retro
 Layout Direction	Orientamento layout	Voce UI MacOs
+Presets	Preset	Voce UI SO MacOS
