@@ -9334,6 +9334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printer info</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T104811Z" creationid="Elisabetta" creationdate="20250507T104811Z">
+        <seg>Informazioni stampante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printer setup</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173236Z" creationid="Elisabetta" creationdate="20241017T173236Z">
@@ -9426,6 +9434,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T162759Z" creationid="valter" creationdate="20241023T162759Z">
         <seg>Fornisce opzioni per rimuovere le informazioni personali, la protezione con password, come sono aperti i collegamenti ipertestuali, e per bloccare qualsiasi collegamento dai documenti non affidabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides options to print watermark text on the slides, for example &lt;f0&gt;Confidential&lt;/f0&gt; if the presentation is of a sensitive nature.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T103813Z" creationid="Elisabetta" creationdate="20250507T103813Z">
+        <seg>Fornisce opzioni per stampare un testo di filigrana sulle diapositive, ad esempio &lt;f0&gt;Riservato&lt;/f0&gt;, se la presentazione è di natura sensibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13645,6 +13661,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T162640Z" creationid="valter" creationdate="20241023T162523Z">
         <seg>Avvisa se un documento con restrizioni contiene revisioni, versioni, informazioni nascoste o note registrate durante il salvataggio, l'invio, la firma, la stampa o la creazione di file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Watermark</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T103704Z" creationid="Elisabetta" creationdate="20250507T103704Z">
+        <seg>Filigrana</seg>
       </tuv>
     </tu>
     <tu>
