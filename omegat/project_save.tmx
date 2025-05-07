@@ -1985,8 +1985,8 @@
       <tuv lang="en-US">
         <seg>Brochure printing</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173903Z" creationid="Elisabetta" creationdate="20241017T173903Z">
-        <seg>Stampare depliant</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105920Z" creationid="Elisabetta" creationdate="20241017T173903Z">
+        <seg>Stampare dépliant</seg>
       </tuv>
     </tu>
     <tu>
@@ -3721,8 +3721,8 @@
       <tuv lang="en-US">
         <seg>Envelopes, labels, or business cards (Writer).</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105706Z" creationid="Elisabetta" creationdate="20250507T105706Z">
-        <seg>Buste, etichette, biglietti da visita &lt;s0/&gt;285</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105850Z" creationid="Elisabetta" creationdate="20250507T105706Z">
+        <seg>buste, etichette, biglietti da visita &lt;s0/&gt;285</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,8 +5346,8 @@
       <tuv lang="en-US">
         <seg>Handouts, outlines, or notes (Impress).</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105642Z" creationid="Elisabetta" creationdate="20250507T105642Z">
-        <seg>Stampati, strutture o note (Impress).</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105839Z" creationid="Elisabetta" creationdate="20250507T105642Z">
+        <seg>stampati, strutture o note (Impress).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6522,16 +6522,16 @@
       <tuv lang="en-US">
         <seg>Individual pages, slides, or drawings.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105313Z" creationid="Elisabetta" creationdate="20250507T105313Z">
-        <seg>Singole pagine, diapositive o disegni.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105719Z" creationid="Elisabetta" creationdate="20250507T105313Z">
+        <seg>singole pagine, diapositive o disegni.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Individual sheets, range of sheets, or selected cells (Calc).</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105508Z" creationid="Elisabetta" creationdate="20250507T105508Z">
-        <seg>Singoli fogli, serie di fogli o celle selezionate (Calc).</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105816Z" creationid="Elisabetta" creationdate="20250507T105508Z">
+        <seg>singoli fogli, serie di fogli o celle selezionate (Calc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9600,8 +9600,8 @@
       <tuv lang="en-US">
         <seg>Range of pages, slides, or drawings.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105424Z" creationid="Elisabetta" creationdate="20250507T105424Z">
-        <seg>Serie di pagine, diapositive o disegni.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105722Z" creationid="Elisabetta" creationdate="20250507T105424Z">
+        <seg>serie di pagine, diapositive o disegni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10713,8 +10713,8 @@
       <tuv lang="en-US">
         <seg>Selection of text, or graphics (Writer).</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105450Z" creationid="Elisabetta" creationdate="20250507T105450Z">
-        <seg>Selezione di testo o immagini (Writer).</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105829Z" creationid="Elisabetta" creationdate="20250507T105450Z">
+        <seg>testo selezionato o immagini (Writer).</seg>
       </tuv>
     </tu>
     <tu>
