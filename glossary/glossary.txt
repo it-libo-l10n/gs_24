@@ -56,3 +56,4 @@ Media & Quality	Supporti e qualità	Voce UI macOS
 Paper Handling	Gestione carta	Voce UI macOs
 Collate sheets	Fascicola fogli	Voce UI macOs
 Sheet Order	Ordine fogli	Voce UI macOs
+Normal	Standard	Voce UI macOS
