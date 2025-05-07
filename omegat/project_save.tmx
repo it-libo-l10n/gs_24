@@ -9838,6 +9838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scale to fit paper size</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T102357Z" creationid="Elisabetta" creationdate="20250507T102357Z">
+        <seg>Adatta in scala al foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scheme</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T172903Z" creationid="valter" creationdate="20241023T172903Z">
