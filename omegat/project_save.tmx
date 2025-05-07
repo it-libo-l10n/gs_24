@@ -6504,6 +6504,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Individual pages, slides, or drawings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105313Z" creationid="Elisabetta" creationdate="20250507T105313Z">
+        <seg>Singole pagine, diapositive o disegni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information about available accessibility options &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181846Z" creationid="valter" creationdate="20211115T181846Z">
@@ -9562,6 +9570,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164018Z" creationid="Elisabetta" creationdate="20250430T164018Z">
         <seg>Intervallo e copie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Range of pages, slides, or drawings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105424Z" creationid="Elisabetta" creationdate="20250507T105424Z">
+        <seg>Serie di pagine, diapositive o disegni.</seg>
       </tuv>
     </tu>
     <tu>
