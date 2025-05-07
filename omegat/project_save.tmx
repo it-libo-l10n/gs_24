@@ -10511,6 +10511,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to reduce slide size to fit the paper.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T103528Z" creationid="Elisabetta" creationdate="20250507T103528Z">
+        <seg>Selezionare questa opzione solo per ridurre le dimensioni delle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to send information about the LibreOffice version, operating system and basic hardware.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T212120Z" creationid="valter" creationdate="20241113T212120Z">
