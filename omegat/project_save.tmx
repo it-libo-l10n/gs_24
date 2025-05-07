@@ -10591,6 +10591,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selects the page printing order from the drop-down list: &lt;f0&gt;Automatic&lt;/f0&gt;; &lt;f1&gt;Normal&lt;/f1&gt;; &lt;f2&gt;Reverse&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T102116Z" creationid="Elisabetta" creationdate="20250507T102116Z">
+        <seg>Seleziona l'ordine di stampa delle pagine dall'elenco a discesa: &lt;f0&gt;Automatico&lt;/f0&gt;; &lt;f1&gt;Standard&lt;/f1&gt;; &lt;f2&gt;Inverso&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Send Feedback</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161918Z" creationid="valter" creationdate="20240928T161918Z">
