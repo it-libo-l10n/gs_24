@@ -3191,6 +3191,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destination Paper Size</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T102743Z" creationid="Elisabetta" creationdate="20250507T102743Z">
+        <seg>Dimensioni foglio di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determine how a multi-page document will be bound from a drop-down list: &lt;f0&gt;Off&lt;/f0&gt;; &lt;f1&gt;Long-Edge binding&lt;/f1&gt;; &lt;f2&gt;Short-Edge binding&lt;/f2&gt;, &lt;f3&gt;Booklet&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T164822Z" creationid="Elisabetta" creationdate="20250505T164822Z">
@@ -8458,6 +8466,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only available if &lt;f0&gt;Scale to fit paper size&lt;/f0&gt; has been selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T102838Z" creationid="Elisabetta" creationdate="20250507T102838Z">
+        <seg>Disponibile solo se è stato selezionato &lt;f0&gt;Adatta in scala al foglio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T171807Z" creationid="valter" creationdate="20241016T182022Z">
@@ -9846,6 +9862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scale down only</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T102952Z" creationid="Elisabetta" creationdate="20250507T102952Z">
+        <seg>Riduci solamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scale to fit paper size</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T102357Z" creationid="Elisabetta" creationdate="20250507T102357Z">
@@ -10595,6 +10619,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174535Z" creationid="valter" creationdate="20241017T174535Z">
         <seg>Appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selects a paper size from the options available in the included drop‑down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T102909Z" creationid="Elisabetta" creationdate="20250507T102909Z">
+        <seg>Seleziona un formato carta dalle opzioni disponibili nell'elenco a discesa incluso.</seg>
       </tuv>
     </tu>
     <tu>
