@@ -4559,6 +4559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, specific printing could be for:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105245Z" creationid="Elisabetta" creationdate="20250507T105245Z">
+        <seg>Ad esempio, una specifica stampa potrebbe interessare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, text can be made bold or italic with the Format menu, the Formatting toolbar, or the Properties deck.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T180000Z" creationid="Elisabetta" creationdate="20241117T180000Z">
@@ -4756,6 +4764,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175538Z" creationid="valter" creationdate="20241016T200331Z">
         <seg>Per ulteriori informazioni sull'apertura dei file, vedere “&lt;bf0&gt;Apertura di documenti esistenti&lt;/bf0&gt;” a pagina &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on using specific printing options available in each LibreOffice module, see the &lt;f0&gt;User Guide&lt;/f0&gt; for each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105048Z" creationid="Elisabetta" creationdate="20250507T105048Z">
+        <seg>Per ulteriori informazioni sull'uso di opzioni di stampa specifiche disponibili in ciascun modulo di LibreOffice, consultare la &lt;f0&gt;Guida&lt;/f0&gt; di ciascun modulo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10811,6 +10827,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T174345Z" creationid="Elisabetta" creationdate="20241108T174345Z">
         <seg>Visualizza informazioni diverse in base alla presenza o meno di oggetti Impress selezionati:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the details of the selected printer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T104835Z" creationid="Elisabetta" creationdate="20250507T104835Z">
+        <seg>Visualizza i dettagli della stampante selezionata.</seg>
       </tuv>
     </tu>
     <tu>
