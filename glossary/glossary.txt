@@ -58,3 +58,5 @@ Collate sheets	Fascicola fogli	Voce UI macOs
 Sheet Order	Ordine fogli	Voce UI macOs
 Normal	Standard	Voce UI macOS
 Scale to fit paper size	Adatta in scala al foglio	Voce UI macOS
+Destination Paper Size	Dimensioni foglio di stampa	Voce UI macOS
+Scale down only	Riduci solamente	Voce UI macOS
