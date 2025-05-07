@@ -3719,6 +3719,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Envelopes, labels, or business cards (Writer).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105706Z" creationid="Elisabetta" creationdate="20250507T105706Z">
+        <seg>Buste, etichette, biglietti da visita &lt;s0/&gt;285</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Every module has the Title bar, Menu bar, and Standard toolbar at the top of the window and the Status bar at the bottom of the window, while the tools and information vary between each LibreOffice module.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180426Z" creationid="valter" creationdate="20241016T201431Z">
@@ -5336,6 +5344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Handouts, outlines, or notes (Impress).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105642Z" creationid="Elisabetta" creationdate="20250507T105642Z">
+        <seg>Stampati, strutture o note (Impress).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Has commands for editing a document, including &lt;f0&gt;Undo&lt;/f0&gt;, &lt;f1&gt;Find and Replace&lt;/f1&gt;, &lt;f2&gt;Cut&lt;/f2&gt;, &lt;f3&gt;Copy&lt;/f3&gt;, &lt;f4&gt;Paste&lt;/f4&gt;, and &lt;f5&gt;Track Changes&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T204501Z" creationid="valter" creationdate="20241016T204501Z">
@@ -6508,6 +6524,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105313Z" creationid="Elisabetta" creationdate="20250507T105313Z">
         <seg>Singole pagine, diapositive o disegni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Individual sheets, range of sheets, or selected cells (Calc).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105508Z" creationid="Elisabetta" creationdate="20250507T105508Z">
+        <seg>Singoli fogli, serie di fogli o celle selezionate (Calc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10683,6 +10707,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174535Z" creationid="valter" creationdate="20241017T174535Z">
         <seg>Appunti di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selection of text, or graphics (Writer).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105450Z" creationid="Elisabetta" creationdate="20250507T105450Z">
+        <seg>Selezione di testo o immagini (Writer).</seg>
       </tuv>
     </tu>
     <tu>
