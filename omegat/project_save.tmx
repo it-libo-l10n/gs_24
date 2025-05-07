@@ -8474,6 +8474,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only available if the paper size is smaller than the slide size.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T103619Z" creationid="Elisabetta" creationdate="20250507T103619Z">
+        <seg>Disponibile solo se il formato della carta è inferiore a quello della diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T171807Z" creationid="valter" creationdate="20241016T182022Z">
