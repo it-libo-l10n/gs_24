@@ -6344,6 +6344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Writer, Impress, and Draw, documents can be printed in the correct order to form a booklet or brochure.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T171029Z" creationid="Elisabetta" creationdate="20250508T171029Z">
+        <seg>In Writer, Impress e Draw si possono stampare i documenti nell'ordine appropriato per realizzare un opuscolo o un dépliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to its native Open Document Formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115659Z" creationid="valter" creationdate="20240928T115553Z">
