@@ -8642,6 +8642,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Print dialog using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T172335Z" creationid="Elisabetta" creationdate="20250508T172335Z">
+        <seg>Aprire la finestra di dialogo Stampa in uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Styles deck in the Sidebar</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204152Z" creationid="valter" creationdate="20241005T204152Z">
