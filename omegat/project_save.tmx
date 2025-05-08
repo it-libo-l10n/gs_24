@@ -12711,6 +12711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is an example of how you can create a brochure or booklet with a printer that can only print single sided pages.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T172244Z" creationid="Elisabetta" creationdate="20250508T172244Z">
+        <seg>Questo è un esempio di come sia possibile creare dépliant oppure opuscoli con una stampante priva della funzione fronte-retro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the default setting since LibreOffice 7.0.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T191904Z" creationid="valter" creationdate="20241123T191904Z">
