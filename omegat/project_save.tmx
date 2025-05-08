@@ -2399,6 +2399,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the properties dialog and return to the Print dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T173029Z" creationid="Elisabetta" creationdate="20250508T173029Z">
+        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per chiudere la finestra di dialogo delle proprietà e tornare alla finestra di dialogo Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the printer setup and close the Printer Setup Dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171437Z" creationid="Elisabetta" creationdate="20250429T171437Z">
