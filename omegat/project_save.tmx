@@ -1959,6 +1959,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below are some examples.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T171120Z" creationid="Elisabetta" creationdate="20250508T171120Z">
+        <seg>Di seguito vengono riportati alcuni esempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bernard Siaud</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101905Z" creationid="valter" creationdate="20211016T101905Z">
