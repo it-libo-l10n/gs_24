@@ -13713,6 +13713,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Usually page orientation does not matter, but it is important for brochures.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T172957Z" creationid="Elisabetta" creationdate="20250508T172957Z">
+        <seg>In generale l'orientamento non è rilevante, ma lo è per i dépliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usually, if you change an option, it affects all modules.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115220Z" creationid="valter" creationdate="20240928T115220Z">
