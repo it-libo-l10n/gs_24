@@ -1319,6 +1319,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Actual brochure printing procedure depends on the computer operating system and type of printer being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T171217Z" creationid="Elisabetta" creationdate="20250508T171217Z">
+        <seg>La procedura effettiva di stampa del dépliant dipende dal sistema operativo e dal tipo di stampante in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201917Z" creationid="valter" creationdate="20241023T201917Z">
@@ -14605,6 +14613,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101558Z" creationid="valter" creationdate="20211016T101558Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (GPL) (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may need to experiment to find the correct method for brochure printing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T171642Z" creationid="Elisabetta" creationdate="20250508T171642Z">
+        <seg>Per individuare il metodo corretto per la stampa di dépliant, a volte è necessario procedere per tentativi.</seg>
       </tuv>
     </tu>
     <tu>
