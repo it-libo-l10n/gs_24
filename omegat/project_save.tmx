@@ -9606,6 +9606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print previewing is useful, especially when printing a document double-sided making sure there are no errors before the document is printed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T145553Z" creationid="Elisabetta" creationdate="20250509T145553Z">
+        <seg>L'anteprima di stampa è utile soprattutto per i documenti fronte-retro allo scopo di garantire l'assenza di eventuali errori prima di procedere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printer</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171915Z" creationid="Elisabetta" creationdate="20250428T171915Z">
