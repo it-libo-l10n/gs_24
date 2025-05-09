@@ -61,3 +61,4 @@ Scale to fit paper size	Adatta in scala al foglio	Voce UI macOS
 Destination Paper Size	Dimensioni foglio di stampa	Voce UI macOS
 Scale down only	Riduci solamente	Voce UI macOS
 Printer info	Informazioni stampante	Voce UI macOS
+Layout	Impaginazione	Voce UI Stampa
