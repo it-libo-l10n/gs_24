@@ -6416,6 +6416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select &lt;f1&gt;Print on both sides (duplex long edge)&lt;/f1&gt; or &lt;f2&gt;Print on both sides (duplex short edge)&lt;/f2&gt; option.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T143706Z" creationid="Elisabetta" creationdate="20250509T143706Z">
+        <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare l'opzione &lt;f1&gt;Stampa su entrambi i lati (lato lungo duplex)&lt;/f1&gt; o &lt;f2&gt;Stampa su entrambi i lati (lato corto duplex)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select the &lt;f1&gt;Number of copies&lt;/f1&gt; required to match the required number of brochures.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T095016Z" creationid="Elisabetta" creationdate="20250509T094810Z">
