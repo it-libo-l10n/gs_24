@@ -10743,6 +10743,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the required preview from &lt;f0&gt;Single Page Preview&lt;/f0&gt;, &lt;f1&gt;Two Pages Preview&lt;/f1&gt;, &lt;f2&gt;Book Preview&lt;/f2&gt;, or &lt;f3&gt;Multiple Pages Preview&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T150445Z" creationid="Elisabetta" creationdate="20250509T150445Z">
+        <seg>Selezionare l'anteprima desiderata tra &lt;f0&gt;Anteprima a pagina singola&lt;/f0&gt;, &lt;f1&gt;Anteprima a due pagine&lt;/f1&gt;, &lt;f2&gt;Anteprima a libro&lt;/f2&gt; o &lt;f3&gt;Anteprima a più pagine&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the required printer options, then click on &lt;f0&gt;OK&lt;/f0&gt; to save the selection and close the Printer Options dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171036Z" creationid="Elisabetta" creationdate="20250429T171036Z">
@@ -13797,6 +13805,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T150743Z" creationid="Elisabetta" creationdate="20241201T150743Z">
         <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;S&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+O&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+O&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T150042Z" creationid="Elisabetta" creationdate="20250509T150042Z">
+        <seg>Utilizzare la combinazione di tasti &lt;f0&gt;Ctrl+Maiusc+O&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Maiusc+O&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
