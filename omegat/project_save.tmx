@@ -6424,10 +6424,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select the &lt;f1&gt;Collate&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T144205Z" creationid="Elisabetta" creationdate="20250509T144205Z">
+        <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare l'opzione &lt;f1&gt;Fascicola&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select the &lt;f1&gt;Number of copies&lt;/f1&gt; required to match the required number of brochures.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T095016Z" creationid="Elisabetta" creationdate="20250509T094810Z">
-        <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare il &lt;f1&gt;numero di copie&lt;/f1&gt; necessario alla quantità di dépliant da stampare.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T144009Z" creationid="Elisabetta" creationdate="20250509T094810Z">
+        <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare il &lt;f1&gt;Numero di copie&lt;/f1&gt; necessario alla quantità di dépliant da stampare.</seg>
       </tuv>
     </tu>
     <tu>
