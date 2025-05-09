@@ -12239,6 +12239,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The document switches back to normal view and the Formatting toolbar reopens replacing the Print Preview toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T150658Z" creationid="Elisabetta" creationdate="20250509T150658Z">
+        <seg>Il documento torna alla visualizzazione normale e la barra degli strumenti Formattazione si riapre sostituendo la barra degli strumenti Anteprima di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The figures in this chapter show this list in the left-hand box as it appears when a Writer document is open.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T111320Z" creationid="valter" creationdate="20241017T111320Z">
@@ -13235,6 +13243,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T161236Z" creationid="Elisabetta" creationdate="20250413T161236Z">
         <seg>Per chiudere il Navigatore, fare clic su &lt;f0&gt;X&lt;/f0&gt; a destra della barra del titolo o utilizzare i tasti di scelta rapida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To close the preview, click on &lt;f0&gt;Close Preview&lt;/f0&gt; on the Print Preview toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T150619Z" creationid="Elisabetta" creationdate="20250509T150619Z">
+        <seg>Per chiudere l'anteprima, fare clic su &lt;f0&gt;Chiudi anteprima&lt;/f0&gt; nella barra degli strumenti Anteprima di stampa.</seg>
       </tuv>
     </tu>
     <tu>
