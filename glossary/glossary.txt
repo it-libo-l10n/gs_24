@@ -62,3 +62,5 @@ Destination Paper Size	Dimensioni foglio di stampa	Voce UI macOS
 Scale down only	Riduci solamente	Voce UI macOS
 Printer info	Informazioni stampante	Voce UI macOS
 Layout	Impaginazione	Voce UI Stampa
+Even slides	Pagine pari	Voce UI Stampa
+Include	Includi	Voce UI Stampa
