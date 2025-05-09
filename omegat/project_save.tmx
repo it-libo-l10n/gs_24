@@ -2423,6 +2423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close to the Print dialog and print the required number of pages for the brochures.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T144529Z" creationid="Elisabetta" creationdate="20250509T144529Z">
+        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per chiudere la finestra di dialogo Stampa e stampare il numero di pagine richiesto per i dépliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the even slides in the presentation.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T100555Z" creationid="Elisabetta" creationdate="20250509T100555Z">
@@ -12931,6 +12939,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202534Z" creationid="valter" creationdate="20241023T202534Z">
         <seg>Questa opzione abilita la registrazione di macro, con alcune limitazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option is only active when printing multiple copies of the same document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T144323Z" creationid="Elisabetta" creationdate="20250509T144323Z">
+        <seg>Questa opzione è disponibile solo se si stampano più copie dello stesso documento.</seg>
       </tuv>
     </tu>
     <tu>
