@@ -2647,6 +2647,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Toggle Print Preview&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T150020Z" creationid="Elisabetta" creationdate="20250509T150020Z">
+        <seg>Fare clic su &lt;f0&gt;Attiva/disattiva anteprima di stampa&lt;/f0&gt; nella barra degli strumenti Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Undo&lt;/f0&gt; in the Standard toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T164110Z" creationid="Elisabetta" creationdate="20250415T164110Z">
@@ -5292,6 +5300,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T173952Z" creationid="Elisabetta" creationdate="20241117T183709Z">
         <seg>Accedere a &lt;f0&gt;File &gt; Apri&lt;/f0&gt; nella Barra dei menu e selezionare il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T145827Z" creationid="Elisabetta" creationdate="20250509T145827Z">
+        <seg>Accedere a &lt;f0&gt;File &gt; Anteprima di stampa&lt;/f0&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8748,8 +8764,8 @@
       <tuv lang="en-US">
         <seg>Open &lt;f0&gt;Print Preview&lt;/f0&gt; using one of the following methods.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T145642Z" creationid="Elisabetta" creationdate="20250509T145642Z">
-        <seg>Aprire &lt;f0&gt;Anteprima di stampa&lt;/f0&gt; in uno dei seguenti metodi.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T145701Z" creationid="Elisabetta" creationdate="20250509T145642Z">
+        <seg>Aprire &lt;f0&gt;Anteprima di stampa&lt;/f0&gt; con uno dei seguenti metodi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11963,6 +11979,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T163847Z" creationid="Elisabetta" creationdate="20250413T163847Z">
         <seg>Il Navigatore offre un metodo semplice per individuare e selezionare gli oggetti all'interno di un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Print Preview toolbar (Figure &lt;t1&gt;15&lt;/t1&gt;) opens and the Formatting toolbar closes:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T145736Z" creationid="Elisabetta" creationdate="20250509T145736Z">
+        <seg>Si apre la barra degli strumenti Anteprima di stampa (Figura &lt;t1&gt;15&lt;/t1&gt;) e si chiude la barra degli strumenti Formattazione:</seg>
       </tuv>
     </tu>
     <tu>
