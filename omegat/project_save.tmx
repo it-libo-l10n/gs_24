@@ -8402,6 +8402,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normally, long edge binding is used for portrait printing and short edge binding is used for landscape printing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T143940Z" creationid="Elisabetta" creationdate="20250509T143940Z">
+        <seg>Solitamente la rilegatura su bordo lungo viene utilizzata per la stampa verticale e quella su bordo corto per la stampa orizzontale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093843Z" creationid="valter" creationdate="20211016T093843Z">
