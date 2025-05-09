@@ -1871,6 +1871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assemble the brochures and bind them, if necessary.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142618Z" creationid="Elisabetta" creationdate="20250509T142618Z">
+        <seg>Assemblare i dépliant e rilegarli, se necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AutoRecovery saves information required to restore all open documents if LibreOffice crashes.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T215944Z" creationid="valter" creationdate="20241113T215827Z">
@@ -2419,6 +2427,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T100555Z" creationid="Elisabetta" creationdate="20250509T100555Z">
         <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per stampare le diapositive pari della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the odd slides in the presentation and close the Print dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142532Z" creationid="Elisabetta" creationdate="20250509T142532Z">
+        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per stampare le diapositive dispari della presentazione e chiudere la finestra di dialogo Stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6396,6 +6412,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T095016Z" creationid="Elisabetta" creationdate="20250509T094810Z">
         <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare il &lt;f1&gt;numero di copie&lt;/f1&gt; necessario alla quantità di dépliant da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select the same &lt;f1&gt;Number of copies&lt;/f1&gt; used for printing the even slides.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142508Z" creationid="Elisabetta" creationdate="20250509T142508Z">
+        <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare lo stesso &lt;f1&gt;numero di copie&lt;/f1&gt; utilizzato per la stampa delle diapositive pari.</seg>
       </tuv>
     </tu>
     <tu>
