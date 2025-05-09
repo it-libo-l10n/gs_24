@@ -1247,6 +1247,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A minimum of four slides is required to create a brochure.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T094451Z" creationid="Elisabetta" creationdate="20250509T094451Z">
+        <seg>Per creare un dépliant sono necessarie almeno quattro diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A relative address always starts from the directory in which the current document is located.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T221543Z" creationid="valter" creationdate="20241113T221543Z">
@@ -6340,6 +6348,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T181216Z" creationid="valter" creationdate="20240928T181216Z">
         <seg>Nella sezione &lt;f0&gt;Tema di icone&lt;/f0&gt;, selezionare un tipo di carattere dalle opzioni disponibili nell'elenco a tendina, come mostrato in Figura &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select &lt;f1&gt;All Slides&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T094339Z" creationid="Elisabetta" creationdate="20250509T094339Z">
+        <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare &lt;f1&gt;Tutte le diapositive&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select the &lt;f1&gt;Number of copies&lt;/f1&gt; required to match the required number of brochures.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T094810Z" creationid="Elisabetta" creationdate="20250509T094810Z">
+        <seg>In &lt;f0&gt;Intervallo e copie&lt;/f0&gt;, selezionare il &lt;f1&gt;numero di copie&lt;/f1&gt; necessario alla quantità di dépliant richiesta.</seg>
       </tuv>
     </tu>
     <tu>
