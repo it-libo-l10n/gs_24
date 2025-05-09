@@ -64,3 +64,5 @@ Printer info	Informazioni stampante	Voce UI macOS
 Layout	Impaginazione	Voce UI Stampa
 Even slides	Pagine pari	Voce UI Stampa
 Include	Includi	Voce UI Stampa
+Print on both sides (duplex long edge)	Stampa su entrambi i lati (lato lungo duplex)	Voce UI stampa
+Print on both sides (duplex short edge	Stampa su entrambi i lati (lato corto duplex)	Voce UI stampa
