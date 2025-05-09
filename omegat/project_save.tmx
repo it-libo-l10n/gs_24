@@ -2559,6 +2559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Properties&lt;/f0&gt; to open the printer properties dialog for the printer being used and check the printer is set to the same page orientation (as specified for the page setup for the slides).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T143134Z" creationid="Elisabetta" creationdate="20250509T143134Z">
+        <seg>Fare clic su &lt;f0&gt;Proprietà&lt;/f0&gt; per aprire la finestra di dialogo delle proprietà della stampante in uso e verificare che l'impostazione dell'orientamento pagina della stampante sia la stessa specificata nelle impostazioni della pagina delle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Properties&lt;/f0&gt; to open the printer properties dialog for the printer being used and check the printer is set to the same page orientation as specified for the page setup for the pages.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T172924Z" creationid="Elisabetta" creationdate="20250508T172924Z">
@@ -9234,6 +9242,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T175138Z" creationid="Elisabetta" creationdate="20241113T173824Z">
         <seg>Stile di pagina, Temi grafici, Ispettore degli stili, Gestione delle revisioni, Controllo dell'accesso facilitato e Ricerca del testo in Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page orientation is especially important for brochures.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T143226Z" creationid="Elisabetta" creationdate="20250509T143226Z">
+        <seg>L'orientamento della pagina è particolarmente importante per i dépliant.</seg>
       </tuv>
     </tu>
     <tu>
