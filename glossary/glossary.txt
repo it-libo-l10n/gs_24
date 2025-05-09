@@ -67,3 +67,5 @@ Include	Includi	Voce UI Stampa
 Print on both sides (duplex long edge)	Stampa su entrambi i lati (lato lungo duplex)	Voce UI stampa
 Print on both sides (duplex short edge	Stampa su entrambi i lati (lato corto duplex)	Voce UI stampa
 Collate	Fascicola	Voce UI stampa
+Print Preview	Anteprima di stampa	Voce UI
+Toggle Print Preview	Attiva/disattiva anteprima di stampa	Voce UI
