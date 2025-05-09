@@ -6897,6 +6897,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It may be necessary to experiment to find out the correct arrangement for the printer being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142111Z" creationid="Elisabetta" creationdate="20250509T142111Z">
+        <seg>A volte è necessario procedere per tentativi allo scopo di determinare la disposizione corretta per la stampante in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It provides controls to use to specify how to carry out an action.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190012Z" creationid="valter" creationdate="20211115T190012Z">
