@@ -3441,8 +3441,8 @@
       <tuv lang="en-US">
         <seg>Double sided or duplex printing</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174648Z" creationid="Elisabetta" creationdate="20241017T174315Z">
-        <seg>Stampare in fronte retro o in duplex</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142754Z" creationid="Elisabetta" creationdate="20241017T174315Z">
+        <seg>Stampare fronte-retro o duplex</seg>
       </tuv>
     </tu>
     <tu>
@@ -9546,6 +9546,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173026Z" creationid="Elisabetta" creationdate="20241017T173026Z">
         <seg>Stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing a brochure with a printer that is capable of double sided, or duplex printing, makes the task of creating brochures simpler.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142915Z" creationid="Elisabetta" creationdate="20250509T142915Z">
+        <seg>La stampa di un opuscolo con una stampante in grado di stampare su due lati, o fronte-retro, semplifica il compito di creare dépliant.</seg>
       </tuv>
     </tu>
     <tu>
