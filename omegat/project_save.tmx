@@ -13432,6 +13432,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To print the document from &lt;f0&gt;Print Preview&lt;/f0&gt;, click &lt;f1&gt;Print&lt;/f1&gt; on the Print Preview toolbar to open the Print dialog, then select the printing options and click &lt;f2&gt;OK&lt;/f2&gt; (macOS &lt;f3&gt;Print&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T150553Z" creationid="Elisabetta" creationdate="20250509T150553Z">
+        <seg>Per stampare il documento da &lt;f0&gt;Anteprima di stampa&lt;/f0&gt;, fare clic su &lt;f1&gt;Stampa&lt;/f1&gt; nella barra degli strumenti Anteprima di stampa e aprire la finestra di dialogo Stampa, quindi selezionare le opzioni di stampa e fare clic su &lt;f2&gt;OK&lt;/f2&gt; (macOS &lt;f3&gt;Stampa&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To quick print, click on &lt;f0&gt;Print Directly&lt;/f0&gt; on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171120Z" creationid="Elisabetta" creationdate="20250428T171120Z">
