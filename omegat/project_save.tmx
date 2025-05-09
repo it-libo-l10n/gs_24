@@ -2415,6 +2415,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the even slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T100555Z" creationid="Elisabetta" creationdate="20250509T100555Z">
+        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per stampare le diapositive pari della presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the printer setup and close the Printer Setup Dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T171437Z" creationid="Elisabetta" creationdate="20250429T171437Z">
@@ -11523,6 +11531,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212337Z" creationid="valter" creationdate="20240928T212337Z">
         <seg>La tabella &lt;t0&gt;2&lt;/t0&gt; che segue fornisce alcune sostituzioni comuni per le istruzioni di questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take the printed pages out of the printer and put them back into the printer in the correct orientation to print on the other side of the paper.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T100906Z" creationid="Elisabetta" creationdate="20250509T100906Z">
+        <seg>Estrarre le pagine stampate e inserirle nuovamente nella stampante con l'orientamento corretto per stampare sull'altro lato della carta.</seg>
       </tuv>
     </tu>
     <tu>
