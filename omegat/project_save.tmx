@@ -1247,6 +1247,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A document can be previewed before it is printed in the Writer and Calc modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T145045Z" creationid="Elisabetta" creationdate="20250509T145045Z">
+        <seg>Nei moduli Writer e Calc è possibile visualizzare l'anteprima di un documento prima di stamparlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A forum that provides support for LibreOffice, among other open source office suites &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182056Z" creationid="valter" creationdate="20211115T182056Z">
@@ -4155,6 +4163,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T194343Z" creationid="valter" creationdate="20241123T194343Z">
         <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Finestra di dialogo Carica/salva delle Opzioni — pagina Compatibilità HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Print Preview toolbar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T144929Z" creationid="Elisabetta" creationdate="20250509T144929Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: barra degli strumenti Anteprima di stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -9522,6 +9538,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105620Z" creationid="valter" creationdate="20241017T105620Z">
         <seg>Stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print Preview toolbar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T145018Z" creationid="Elisabetta" creationdate="20250509T145018Z">
+        <seg>Barra degli strumenti Anteprima di stampa</seg>
       </tuv>
     </tu>
     <tu>
