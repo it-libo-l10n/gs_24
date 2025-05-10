@@ -12231,6 +12231,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The document can be edited when using &lt;f2&gt;Book view&lt;/f2&gt; on the Status bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T165324Z" creationid="Elisabetta" creationdate="20250510T165324Z">
+        <seg>La modifica del documento è possibile con la visualizzazione &lt;f2&gt;Anteprima a libro&lt;/f2&gt; nella barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document is saved without the Microsoft Basic code.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T182829Z" creationid="valter" creationdate="20241123T182829Z">
