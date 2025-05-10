@@ -10126,6 +10126,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reset entire user profile</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173521Z" creationid="Elisabetta" creationdate="20250510T173521Z">
+        <seg>Ripristina l'intero profilo utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset settings and user interface modifications</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173407Z" creationid="Elisabetta" creationdate="20250510T173407Z">
+        <seg>Ripristina le impostazioni e le modifiche all'interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reset to factory settings</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173129Z" creationid="Elisabetta" creationdate="20250510T173129Z">
@@ -13083,6 +13099,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T175441Z" creationid="valter" creationdate="20241123T175441Z">
         <seg>Da un lato ciò permette una funzionalità migliorata, dall'altro lato potrebbero esserci problemi di compatibilità con le versioni precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function erases all customized options and returns a user profile to the factory default state.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173634Z" creationid="Elisabetta" creationdate="20250510T173634Z">
+        <seg>Questa funzione cancella tutte le opzioni personalizzate e riporta il profilo utente allo stato predefinito di fabbrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function resets any user interface and configuration changes, but keeps items such as personal dictionary, templates, and so on.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173516Z" creationid="Elisabetta" creationdate="20250510T173516Z">
+        <seg>Questa funzione azzera tutte le modifiche apportate all'interfaccia utente e alla configurazione, ma mantiene elementi come il dizionario personale, i modelli ecc.</seg>
       </tuv>
     </tu>
     <tu>
