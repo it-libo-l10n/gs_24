@@ -473,8 +473,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;at &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240929T195821Z" creationid="valter" creationdate="20240929T195821Z">
-        <seg>&lt;f0&gt;La documentazione per LibreOffice è disponibile&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;all'indirizzo &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175619Z" creationid="valter" creationdate="20240929T195821Z">
+        <seg>&lt;f0&gt;La documentazione di LibreOffice è disponibile&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;all'indirizzo &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1143,6 +1143,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Getting Started Guide 24.8 - Chapter 1, LibreOffice Basics&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175243Z" creationid="Elisabetta" creationdate="20250510T175243Z">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Guida introduttiva 24.8 - Capitolo 1, Fondamenti di LibreOffice&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Chapter 1, LibreOffice Basics&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175357Z" creationid="Elisabetta" creationdate="20250510T175357Z">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Guida introduttiva 24.8 - Capitolo 1, Fondamenti di LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Preface&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T195733Z" creationid="valter" creationdate="20240929T195733Z">
@@ -1155,6 +1171,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T195600Z" creationid="valter" creationdate="20240929T195600Z">
         <seg>&lt;t0&gt;Domande ricorrenti&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;13&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Getting Started Guide 24.8 - Chapter 1, LibreOffice Basics&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175311Z" creationid="Elisabetta" creationdate="20250510T175311Z">
+        <seg>&lt;t0&gt;Guida introduttiva 24.8 - Capitolo 1, Fondamenti di LibreOffice&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt;5&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
