@@ -1871,6 +1871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply Changes and Restart</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174333Z" creationid="Elisabetta" creationdate="20250510T174333Z">
+        <seg>Applica le modifiche e riavvia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply replacement table</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160231Z" creationid="valter" creationdate="20241023T160231Z">
@@ -6100,6 +6108,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164000Z" creationid="Elisabetta" creationdate="20250413T164000Z">
         <seg>Se possibile, si dovrebbe assegnare a ogni oggetto un nome facilmente identificabile, in modo da poterlo individuare facilmente, invece di ricorrere a nomi predefiniti come Foglio1, Tabella1 o Immagine2 ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If problems are not solved using Safe Mode, selecting &lt;f0&gt;Advanced&lt;/f0&gt; provides instructions on receiving further aid.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174634Z" creationid="Elisabetta" creationdate="20250510T174634Z">
+        <seg>Se i problemi non vengono risolti mediante la modalità provvisoria, selezionando &lt;f0&gt;Avanzate&lt;/f0&gt; vengono fornite istruzioni su come ricevere ulteriore assistenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11035,6 +11051,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T213831Z" creationid="valter" creationdate="20241113T213831Z">
         <seg>Selezionando questa opzione, durante il caricamento del documento, esso ignora le impostazioni salvate, in favore di quelle sul proprio computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to apply any of the above changes and restart LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174425Z" creationid="Elisabetta" creationdate="20250510T174425Z">
+        <seg>Selezionare questa opzione per applicare le modifiche sopra citate e riavviare LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
