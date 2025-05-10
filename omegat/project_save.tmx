@@ -11255,6 +11255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since LibreOffice keeps backups of previous configurations and activated extensions, Restore from backup will allow you to restore the user configuration, installed extensions (or both), to a previous known working state.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T172453Z" creationid="Elisabetta" creationdate="20250510T172453Z">
+        <seg>Poiché il programma conserva le copie di backup delle configurazioni precedenti e delle estensioni attivate, l'opzione Ripristina da backup consente di ripristinare la configurazione dell'utente, le estensioni installate (o entrambe), a uno  stato precedente noto e funzionante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single sided printing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174323Z" creationid="Elisabetta" creationdate="20241017T174012Z">
