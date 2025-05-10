@@ -6304,6 +6304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you suspect that the problems were caused by recent changes to LibreOffice’s working state, this option may help you.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T172130Z" creationid="Elisabetta" creationdate="20250510T172130Z">
+        <seg>Se si ritiene che la causa dei problemi sia da ricercare in modifiche recenti apportate alle condizioni operative di LibreOffice, questa opzione può essere d'aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to lock all toolbars into place, which will prevent all toolbars from being moved, select &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Lock Toolbars&lt;/f1&gt; on the submenu.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T180115Z" creationid="Elisabetta" creationdate="20241030T173723Z">
@@ -10098,6 +10106,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163041Z" creationid="valter" creationdate="20240928T163041Z">
         <seg>Il riavvio in modalità provvisoria offre anche l'opportunità di ripristinare LibreOffice da una copia di sicurezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restore from backup</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T171745Z" creationid="Elisabetta" creationdate="20250510T171745Z">
+        <seg>Ripristina dalla copia di sicurezza</seg>
       </tuv>
     </tu>
     <tu>
