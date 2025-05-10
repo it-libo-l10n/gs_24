@@ -5376,6 +5376,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Help &gt; Restart in Safe Mode&lt;/f0&gt; on the Menu bar to open the Safe Mode dialog (Figure &lt;t1&gt;16&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T170206Z" creationid="Elisabetta" creationdate="20250510T170206Z">
+        <seg>Accedere ad &lt;f0&gt;Aiuto &gt; Riavvia in modalità provvisoria&lt;/f0&gt; nella barra dei menu per aprire la finestra di dialogo della modalità provvisoria (Figura &lt;t1&gt;16&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T175853Z" creationid="valter" creationdate="20241016T200718Z">
@@ -7017,6 +7025,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is recommended to use Safe Mode options from the top down (Figure &lt;t0&gt;16&lt;/t0&gt;) because the options get more extreme from the top down.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T171736Z" creationid="Elisabetta" creationdate="20250510T171736Z">
+        <seg>Si consiglia di iniziare con le prime opzioni dall'alto della Modalità provvisoria ( Figura &lt;t0&gt;16&lt;/t0&gt;) perché diventano sempre più complesse procedendo verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is similar in Writer, Calc, Impress, and Draw, but each LibreOffice module includes some module-specific items.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T162648Z" creationid="Elisabetta" creationdate="20241107T162648Z">
@@ -7045,6 +7061,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T162346Z" creationid="Elisabetta" creationdate="20241107T162346Z">
         <seg>Fornisce informazioni sul documento e include anche comode soluzioni per una rapida modifica di alcune caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It starts LibreOffice with a fresh user profile and disables hardware acceleration.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T170102Z" creationid="Elisabetta" creationdate="20250510T170102Z">
+        <seg>Avvia LibreOffice con un nuovo profilo utente e disattiva l'accelerazione hardware.</seg>
       </tuv>
     </tu>
     <tu>
