@@ -14233,6 +14233,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a document is in &lt;f0&gt;Print Preview mode,&lt;/f0&gt; the document cannot be edited.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T164730Z" creationid="Elisabetta" creationdate="20250510T164730Z">
+        <seg>Quando un documento è in modalità &lt;f0&gt;Anteprima di stampa,&lt;/f0&gt; il documento non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a user makes a change to the document in one window, it will be reflected in the other windows.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164841Z" creationid="Elisabetta" creationdate="20250413T164841Z">
