@@ -1103,6 +1103,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Safe Mode dialog&lt;/s0&gt;&lt;s1&gt;Safe Mode dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174138Z" creationid="Elisabetta" creationdate="20250510T174138Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Modalità provvisoria&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Modalità provvisoria&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s0&gt;&lt;s1&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T170218Z" creationid="Elisabetta" creationdate="20241107T164147Z">
@@ -4215,6 +4223,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Safe Mode dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174148Z" creationid="Elisabetta" creationdate="20250510T174148Z">
+        <seg>Figura &lt;seq0&gt;16&lt;/seq0&gt;: finestra di dialogo Modalità provvisoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190156Z" creationid="valter" creationdate="20211115T190156Z">
@@ -6296,6 +6312,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have started Safe Mode accidentally, this option discards any changes, terminating Safe Mode, and restarting LibreOffice normally.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174321Z" creationid="Elisabetta" creationdate="20250510T174321Z">
+        <seg>Se la modalità provvisoria è stata avviata accidentalmente, questa opzione elimina tutte le modifiche, interrompendo la modalità provvisoria e riavviando LibreOffice normalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you need LibreOffice to save files automatically, you can use the AutoRecovery function.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T160559Z" creationid="Elisabetta" creationdate="20241201T160559Z">
@@ -7270,6 +7294,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101835Z" creationid="valter" creationdate="20211016T101835Z">
         <seg>Jorge Rodriguez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep in mind that any changes made to the temporary user profile are lost after a restart.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174040Z" creationid="Elisabetta" creationdate="20250510T174040Z">
+        <seg>Comporta anche il fatto che tutte le modifiche apportate al profilo utente temporaneo vengono perse dopo il riavvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10182,6 +10214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restart in Normal Mode</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174204Z" creationid="Elisabetta" creationdate="20250510T174204Z">
+        <seg>Riavvia in modalità normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restart in Safe Mode</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162845Z" creationid="valter" creationdate="20240928T162447Z">
@@ -10290,6 +10330,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T201051Z" creationid="valter" creationdate="20241021T201051Z">
         <seg>Pulsante Esegui test grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Safe Mode dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174159Z" creationid="Elisabetta" creationdate="20250510T174159Z">
+        <seg>Finestra di dialogo Modalità provvisoria</seg>
       </tuv>
     </tu>
     <tu>
