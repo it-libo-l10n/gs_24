@@ -73,3 +73,4 @@ Single Page Preview	Anteprima a pagina singola	Voce UI
 Two Pages Preview	Anteprima a due pagine	Voce UI
 Book Preview	Anteprima a libro	Voce UI
 Multiple Pages Preview	Anteprima a più pagine	Voce UI
+Book view	Anteprima a libro	Voce UI Stampa
