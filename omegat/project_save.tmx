@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Advanced&lt;/f0&gt; can allow you to create a zip file of a corrupted user profile, and this file can be uploaded to the bug tracking system for further investigation by the LibreOffice developers.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174948Z" creationid="Elisabetta" creationdate="20250510T174948Z">
+        <seg>L'opzione &lt;f0&gt;Avanzate&lt;/f0&gt; può consentire di creare un file zip di un profilo utente danneggiato che può essere caricato nel sistema di tracciamento dei bug per ulteriori indagini da parte degli sviluppatori di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Chapter 1&lt;/f0&gt;, &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200509Z" creationid="valter" creationdate="20240929T200509Z">
