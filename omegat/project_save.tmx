@@ -1167,6 +1167,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;Using Safe Mode&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;31&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175211Z" creationid="Elisabetta" creationdate="20250510T175211Z">
+        <seg>&lt;t0&gt;Utilizzare la Modalità provvisoria&lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;31&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t3/&gt;Information about automatic updating for links, field functions, and charts.&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T214221Z" creationid="valter" creationdate="20241113T214221Z">
@@ -10162,6 +10170,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172035Z" creationid="Elisabetta" creationdate="20241017T172035Z">
         <seg>Ricaricare un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember that an uploaded user profile may also contain sensitive information such as installed extensions, personal dictionaries, and user-specific settings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175127Z" creationid="Elisabetta" creationdate="20250510T175127Z">
+        <seg>È bene notare, tuttavia, che un profilo utente caricato può anche contenere informazioni sensibili come estensioni installate, dizionari personali e impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
