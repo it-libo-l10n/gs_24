@@ -5904,6 +5904,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If all of the above fails, this function will reset the settings and user interface modifications (or the entire user profile) back to factory defaults.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173352Z" creationid="Elisabetta" creationdate="20250510T173352Z">
+        <seg>Se nessuno dei precedenti tentativi dovesse funzionare, questa funzione ripristina le impostazioni e le modifiche dell'interfaccia utente (o l'intero profilo utente) ai valori predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If an OLE server is active for the embedded object, then the OLE server is used to handle the object.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T184024Z" creationid="valter" creationdate="20241123T184024Z">
@@ -6712,6 +6720,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the case of shared, or bundled extensions, the option only works if a user has the proper system access rights.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173118Z" creationid="Elisabetta" creationdate="20250510T173118Z">
+        <seg>Nel caso di estensioni condivise o comprese nel pacchetto di installazione, l'opzione funzionerà solo se in possesso dei necessari diritti di accesso al sistema. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the default LibreOffice installation, the Standard toolbar is docked at the top of the window across all of the LibreOffice modules and the second toolbar is in a docked to the top of the window.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171719Z" creationid="Elisabetta" creationdate="20241021T171632Z">
@@ -7085,6 +7101,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T162346Z" creationid="Elisabetta" creationdate="20241107T162346Z">
         <seg>Fornisce informazioni sul documento e include anche comode soluzioni per una rapida modifica di alcune caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It should be used with caution.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173124Z" creationid="Elisabetta" creationdate="20250510T173124Z">
+        <seg>Tale operazione dovrebbe essere eseguita con cautela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10098,6 +10122,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155658Z" creationid="valter" creationdate="20241023T155658Z">
         <seg>Tabella di sostituzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset to factory settings</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173129Z" creationid="Elisabetta" creationdate="20250510T173129Z">
+        <seg>Ripristina alle impostazioni di fabbrica</seg>
       </tuv>
     </tu>
     <tu>
