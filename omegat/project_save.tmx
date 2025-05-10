@@ -5976,6 +5976,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, click on &lt;f1&gt;Book view&lt;/f1&gt; in the Status Bar to display the document in book format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T165019Z" creationid="Elisabetta" creationdate="20250510T165019Z">
+        <seg>Se necessario, fare clic su &lt;f1&gt;Anteprima a libro&lt;/f1&gt; nella barra di stato per visualizzare il documento in formato libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If no OLE server is active for MathType objects, then embedded MathType objects are converted to LibreOffice Math objects.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T184113Z" creationid="valter" creationdate="20241123T184113Z">
