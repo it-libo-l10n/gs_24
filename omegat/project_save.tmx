@@ -10166,6 +10166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Safe Mode is used to restore LibreOffice after it has stopped working, fails to launch correctly, or a file has become corrupted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T165946Z" creationid="Elisabetta" creationdate="20250510T165946Z">
+        <seg>La modalità provvisoria serve a ripristinare LibreOffice in caso di malfunzionamento, di mancato avvio o di danneggiamento di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T215323Z" creationid="valter" creationdate="20241113T215323Z">
@@ -14003,8 +14011,8 @@
       <tuv lang="en-US">
         <seg>Using Safe Mode</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174751Z" creationid="Elisabetta" creationdate="20241017T174751Z">
-        <seg>Utilizzare la Modalità sicura</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T165642Z" creationid="Elisabetta" creationdate="20241017T174751Z">
+        <seg>Utilizzare la Modalità provvisoria</seg>
       </tuv>
     </tu>
     <tu>
