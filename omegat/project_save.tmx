@@ -2927,6 +2927,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configure</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T172459Z" creationid="Elisabetta" creationdate="20250510T172459Z">
+        <seg>Configurazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configuring LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105026Z" creationid="valter" creationdate="20241017T105026Z">
@@ -6308,6 +6316,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T172130Z" creationid="Elisabetta" creationdate="20250510T172130Z">
         <seg>Se si ritiene che la causa dei problemi sia da ricercare in modifiche recenti apportate alle condizioni operative di LibreOffice, questa opzione può essere d'aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you think that a corrupted extension is blocking or causing LibreOffice to crash, this option will uninstall all user extensions and reset the state of any shared or bundled extensions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173023Z" creationid="Elisabetta" creationdate="20250510T173023Z">
+        <seg>Se si ritiene che un'estensione danneggiata stia bloccando o causando l'arresto anomalo di LibreOffice, questa opzione disinstallerà tutte le estensioni dell'utente e ripristinerà lo stato di tutte le estensioni condivise o incorporate nel programma. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12919,6 +12935,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Safe Mode option disables either all user extensions, hardware acceleration, or both functions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T172624Z" creationid="Elisabetta" creationdate="20250510T172624Z">
+        <seg>Questa opzione della modalità provvisoria disattiva tutte le estensioni utente, l'accelerazione hardware o entrambe le funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allows the running of Java applications in LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201441Z" creationid="valter" creationdate="20241023T201441Z">
@@ -13107,6 +13131,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T175210Z" creationid="valter" creationdate="20241021T202621Z">
         <seg>Questo agevola le stampanti con una memoria ridotta nella stampa di file di grandi dimensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This may help you if there are crashes on startup or visual glitches that are often related to hardware acceleration.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T172701Z" creationid="Elisabetta" creationdate="20250510T172701Z">
+        <seg>Questa è una buona scelta se si verificano arresti anomali all'avvio o problemi di visualizzazione in genere correlati all'accelerazione hardware.</seg>
       </tuv>
     </tu>
     <tu>
