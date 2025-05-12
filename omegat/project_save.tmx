@@ -7131,8 +7131,8 @@
       <tuv lang="en-US">
         <seg>It includes commands that apply common styles and manage styles as well as commands for editing, loading, and creating styles.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T165946Z" creationid="valter" creationdate="20241016T205306Z">
-        <seg>Include i comandi per applicare gli stili comuni e per gestire gli stili, oltre che i comandi per la modifica, il caricamento e la creazione di stili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T170626Z" creationid="valter" creationdate="20241016T205306Z">
+        <seg>Include i comandi per applicare e gestire gli stili, oltre che i comandi per la loro modifica, il caricamento e la creazione.</seg>
       </tuv>
     </tu>
     <tu>
