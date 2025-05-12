@@ -13137,8 +13137,8 @@
       <tuv lang="en-US">
         <seg>They feature commands that can do one of these commands:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T181458Z" creationid="valter" creationdate="20241016T202753Z">
-        <seg>Presentano comandi in grado di eseguire una delle operazioni seguenti:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T165820Z" creationid="valter" creationdate="20241016T202753Z">
+        <seg>Presenta comandi in grado di eseguire una delle operazioni seguenti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14563,8 +14563,8 @@
       <tuv lang="en-US">
         <seg>When a document is created the document name will be Untitled X, where X is a number.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T202205Z" creationid="valter" creationdate="20241016T202205Z">
-        <seg>Se viene creato un documento, il suo nome sarà Senza nome X, dove X è un numero.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T165145Z" creationid="valter" creationdate="20241016T202205Z">
+        <seg>Quando viene creato un documento, il suo nome sarà Senza nome X, dove X è un numero.</seg>
       </tuv>
     </tu>
     <tu>
