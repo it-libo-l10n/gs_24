@@ -7820,8 +7820,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice’s toolbars can be in one of two states: docked and floating.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T171649Z" creationid="Elisabetta" creationdate="20241021T171116Z">
-        <seg>Le barre degli strumenti possono essere agganciate e mobili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T171058Z" creationid="Elisabetta" creationdate="20241021T171116Z">
+        <seg>Le barre degli strumenti possono essere agganciate o mobili.</seg>
       </tuv>
     </tu>
     <tu>
