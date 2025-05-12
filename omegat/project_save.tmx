@@ -3929,8 +3929,8 @@
       <tuv lang="en-US">
         <seg>Entries for LibreOffice and each of the LibreOffice modules appear in Applications.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T175506Z" creationid="valter" creationdate="20241015T221809Z">
-        <seg>In Applicazioni compaiono voci relative a LibreOffice e ciascuno dei moduli di LibreOffice.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T163704Z" creationid="valter" creationdate="20241015T221809Z">
+        <seg>In Applicazioni compaiono voci relative a LibreOffice e a ciascuno dei moduli di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12001,8 +12001,8 @@
       <tuv lang="en-US">
         <seg>Table shows the effect of installation on each supported operating system.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T170721Z" creationid="valter" creationdate="20241005T204712Z">
-        <seg>La tabella mostra l'esito dell'installazione su ogni sistema operativo supportato.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T163603Z" creationid="valter" creationdate="20241005T204712Z">
+        <seg>La tabella mostra l'esito dell'installazione in ogni sistema operativo supportato.</seg>
       </tuv>
     </tu>
     <tu>
