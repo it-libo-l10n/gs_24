@@ -7836,8 +7836,8 @@
       <tuv lang="en-US">
         <seg>Links to the LibreOffice Help, What’s This?, and information about LibreOffice.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170556Z" creationid="Elisabetta" creationdate="20241021T170556Z">
-        <seg>Contiene i collegamenti al file della Guida di LibreOffice, Cos'è questo?, e informazioni sul programma.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T170946Z" creationid="Elisabetta" creationdate="20241021T170556Z">
+        <seg>Contiene i collegamenti al file della Guida di LibreOffice, Cos'è questo? e informazioni sul programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7908,8 +7908,8 @@
       <tuv lang="en-US">
         <seg>Lists commands that allow you to insert and edit tables with text.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170053Z" creationid="Elisabetta" creationdate="20241021T170053Z">
-        <seg>Elenca i comandi che consentono di inserire e modificare tabelle con testo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T170655Z" creationid="Elisabetta" creationdate="20241021T170053Z">
+        <seg>Elenca i comandi che consentono di inserire e modificare tabelle contenenti testo.</seg>
       </tuv>
     </tu>
     <tu>
