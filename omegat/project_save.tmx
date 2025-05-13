@@ -3281,8 +3281,8 @@
       <tuv lang="en-US">
         <seg>Decks are organized into panels and an icon bar on the right side of the Sidebar allows switching between the different decks.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T163857Z" creationid="Elisabetta" creationdate="20241113T162933Z">
-        <seg>Le aree sono organizzate in pannelli e una barra delle icone sul lato destro della Barra laterale permette di spostarsi tra le varie aree.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T164418Z" creationid="Elisabetta" creationdate="20241113T162933Z">
+        <seg>Le aree sono organizzate in pannelli e una barra delle icone, sul lato destro della Barra laterale, permette di spostarsi tra le varie aree.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4393,8 +4393,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Example of Properties deck in Writer Sidebar</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T172044Z" creationid="Elisabetta" creationdate="20241113T172044Z">
-        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Esempio di area Proprietà nella Barra laterale di Writer</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T164442Z" creationid="Elisabetta" creationdate="20241113T172044Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: esempio di area Proprietà nella Barra laterale di Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -4705,8 +4705,8 @@
       <tuv lang="en-US">
         <seg>For all LibreOffice modules, each Sidebar contains Properties, Styles, Gallery, and Navigator decks.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241113T172210Z" creationid="Elisabetta" creationdate="20241113T172210Z">
-        <seg>Per tutti i moduli di LibreOffice, ogni barra laterale contiene le aree Proprietà, Stili, Galleria e Navigatore.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T164716Z" creationid="Elisabetta" creationdate="20241113T172210Z">
+        <seg>Tutti i moduli di LibreOffice prevedono una barra laterale contenente le aree Proprietà, Stili, Galleria e Navigatore.</seg>
       </tuv>
     </tu>
     <tu>
