@@ -6018,8 +6018,8 @@
       <tuv lang="en-US">
         <seg>If an object is currently selected in Impress, the position numbers shows X and Y coordinates of the upper‑left corner and the object size number pair displays the size of the object.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T175547Z" creationid="Elisabetta" creationdate="20241108T175140Z">
-        <seg>Se al momento è presente un oggetto selezionato i numeri di posizione indicano le coordinate X e Y dell'angolo superiore sinistro e la coppia di numeri relativi alla dimensione dell'oggetto riporta la dimensione dell'oggetto. </seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T163736Z" creationid="Elisabetta" creationdate="20241108T175140Z">
+        <seg>Se è presente un oggetto selezionato i numeri di posizione indicano le coordinate X e Y dell'angolo superiore sinistro e la coppia di numeri relativi alla dimensione dell'oggetto riporta la dimensione dell'oggetto. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12681,8 +12681,8 @@
       <tuv lang="en-US">
         <seg>The master slide associated with the slide or notes pages in the Workspace.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T171611Z" creationid="Elisabetta" creationdate="20241107T171611Z">
-        <seg>La diapositiva schema associata alla diapositiva o alle pagine delle note nell'area di lavoro.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T163457Z" creationid="Elisabetta" creationdate="20241107T171611Z">
+        <seg>La diapositiva schema associata alla diapositiva o alle pagine delle note visibile nell'area di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
