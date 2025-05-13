@@ -12873,8 +12873,8 @@
       <tuv lang="en-US">
         <seg>The slide number currently displayed in the Impress Workspace and the total number of slides in the presentation.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T164719Z" creationid="Elisabetta" creationdate="20241107T163003Z">
-        <seg>Il numero di diapositiva attualmente visualizzato nello spazio di lavoro di Impress e il numero totale di di diapositive della presentazione.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T160953Z" creationid="Elisabetta" creationdate="20241107T163003Z">
+        <seg>Il numero di diapositiva visibile nell'area di lavoro di Impress e il numero totale di diapositive della presentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13689,8 +13689,8 @@
       <tuv lang="en-US">
         <seg>To hide the Status bar, go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Status Bar&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T162744Z" creationid="Elisabetta" creationdate="20241107T162744Z">
-        <seg>Per nascondere la barra di stato, accedere a &lt;f0&gt;Visualizza&lt;/f0&gt; sulla barra del menu e deselezionare &lt;f1&gt;Barra di stato&lt;/f1&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T160732Z" creationid="Elisabetta" creationdate="20241107T162744Z">
+        <seg>Per nascondere la barra di stato, accedere a &lt;f0&gt;Visualizza&lt;/f0&gt; sulla barra dei menu e deselezionare &lt;f1&gt;Barra di stato&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
