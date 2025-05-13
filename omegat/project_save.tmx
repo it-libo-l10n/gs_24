@@ -2593,8 +2593,8 @@
       <tuv lang="en-US">
         <seg>Click in the toolbar title bar and drag the toolbar to a new floating position in the main window, then drop the toolbar.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183856Z" creationid="Elisabetta" creationdate="20241104T183856Z">
-        <seg>Fare clic sulla barra del titolo della barra degli strumenti e trascinarla in una nuova posizione mobile all'interno della finestra principale, quindi rilasciarla.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T155116Z" creationid="Elisabetta" creationdate="20241104T183856Z">
+        <seg>Fare clic sulla barra del titolo della barra strumenti e trascinarla in una nuova posizione mobile all'interno della finestra principale, quindi rilasciarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13289,8 +13289,8 @@
       <tuv lang="en-US">
         <seg>This handle is used to control the location of the toolbar.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181727Z" creationid="Elisabetta" creationdate="20241104T181727Z">
-        <seg>Questa maniglia viene utilizzata per controllare la posizione della barra degli strumenti.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T154849Z" creationid="Elisabetta" creationdate="20241104T181727Z">
+        <seg>La maniglia viene utilizzata per controllare la posizione della barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
