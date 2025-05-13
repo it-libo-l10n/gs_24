@@ -14755,8 +14755,8 @@
       <tuv lang="en-US">
         <seg>When this icon is selected, the displayed slide in the Impress Workspace zooms to fit in the Workspace.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T180844Z" creationid="Elisabetta" creationdate="20241108T180315Z">
-        <seg>Se questa icona è selezionata, la diapositiva nell'Area di lavoro si ingrandisce per adattarvisi.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T163954Z" creationid="Elisabetta" creationdate="20241108T180315Z">
+        <seg>Se questa icona è selezionata, la diapositiva visibile nell'Area di lavoro si ingrandisce per adattarvisi.</seg>
       </tuv>
     </tu>
     <tu>
