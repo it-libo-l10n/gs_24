@@ -1121,8 +1121,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s0&gt;&lt;s1&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T170218Z" creationid="Elisabetta" creationdate="20241107T164147Z">
-        <seg>&lt;s0&gt;La barra di stato di Impress Numero diapositiva Area informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adattamento diapositiva Ingrandimento diapositiva &lt;/s0&gt;&lt;s1&gt;La barra di stato di Impress Numero diapositiva Area informazioni Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adattamento diapositiva Ingrandimento diapositiva &lt;/s1&gt;</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T163144Z" creationid="Elisabetta" creationdate="20241107T164147Z">
+        <seg>&lt;s0&gt;La barra di stato di Impress Numero diapositiva Area informazioni Diapositiva schema Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adattamento diapositiva Ingrandimento diapositiva &lt;/s0&gt;&lt;s1&gt;La barra di stato di Impress Numero diapositiva Area informazioni Diapositiva schema Posizione del cursore Dimensioni dell'oggetto Modifiche non salvate Firma digitale Lingua del testo Adattamento diapositiva Ingrandimento diapositiva &lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2305,8 +2305,8 @@
       <tuv lang="en-US">
         <seg>Changes depending on the object selected on the current Impress slide.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163128Z" creationid="Elisabetta" creationdate="20241107T163128Z">
-        <seg>Cambia in base all'oggetto selezionato nella diapositiva Impress attiva.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T161016Z" creationid="Elisabetta" creationdate="20241107T163128Z">
+        <seg>Varia in base all'oggetto selezionato nella diapositiva Impress attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4041,8 +4041,8 @@
       <tuv lang="en-US">
         <seg>Example selection</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163312Z" creationid="Elisabetta" creationdate="20241107T163312Z">
-        <seg>Selezione d'esempio</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T161117Z" creationid="Elisabetta" creationdate="20241107T163312Z">
+        <seg>Selezione di esempio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11961,8 +11961,8 @@
       <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Examples of information</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163140Z" creationid="Elisabetta" creationdate="20241107T163140Z">
-        <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: Esempi di informazioni</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T161032Z" creationid="Elisabetta" creationdate="20241107T163140Z">
+        <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: esempi di informazioni</seg>
       </tuv>
     </tu>
     <tu>
