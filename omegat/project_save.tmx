@@ -5042,8 +5042,8 @@
       <tuv lang="en-US">
         <seg>For more information, see Chapter 13, Customizing LibreOffice.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241016T201932Z" creationid="valter" creationdate="20241016T201932Z">
-        <seg>Per maggiori informazioni, vedere il Capitolo 13 (Personalizzazione di LibreOffice).</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T151757Z" creationid="valter" creationdate="20241016T201932Z">
+        <seg>Per maggiori informazioni, consultare il Capitolo 13 (Personalizzazione di LibreOffice).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,8 +5514,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T172505Z" creationid="Elisabetta" creationdate="20241023T172505Z">
-        <seg>Accedere a &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; sulla barra dei menu e deselezionare la barra degli strumenti, o</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T151916Z" creationid="Elisabetta" creationdate="20241023T172505Z">
+        <seg>Accedere a &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; nella barra dei menu e deselezionare la barra degli strumenti, o</seg>
       </tuv>
     </tu>
     <tu>
@@ -13617,8 +13617,8 @@
       <tuv lang="en-US">
         <seg>To display a toolbar, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, and select the name of a toolbar from the submenu.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241023T170801Z" creationid="Elisabetta" creationdate="20241023T170801Z">
-        <seg>Per visualizzare una barra degli strumenti, accedere a &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; sulla barra dei menu e selezionare il nome di una barra degli strumenti dal sottomenu.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T151848Z" creationid="Elisabetta" creationdate="20241023T170801Z">
+        <seg>Per visualizzare una barra degli strumenti, accedere a &lt;f0&gt;Visualizza &gt; Barre degli strumenti&lt;/f0&gt; nella barra dei menu e selezionare il nome di una barra degli strumenti dal sottomenu.</seg>
       </tuv>
     </tu>
     <tu>
