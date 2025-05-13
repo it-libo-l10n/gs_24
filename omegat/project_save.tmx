@@ -2785,8 +2785,8 @@
       <tuv lang="en-US">
         <seg>Click on the required template to create a new file and the LibreOffice module opens with a new document.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T182429Z" creationid="Elisabetta" creationdate="20241117T182429Z">
-        <seg>Fare clic sul modello richiesto per creare un nuovo file e il modulo LibreOffice si aprirà con un nuovo documento.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T165154Z" creationid="Elisabetta" creationdate="20241117T182429Z">
+        <seg>Fare clic sul modello desiderato per creare un nuovo file e il modulo LibreOffice si aprirà con un nuovo documento.</seg>
       </tuv>
     </tu>
     <tu>
