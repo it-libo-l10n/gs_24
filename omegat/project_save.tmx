@@ -3081,8 +3081,8 @@
       <tuv lang="en-US">
         <seg>Context menus, which provide quick access to many menu functions, can be opened by right-clicking on a paragraph, graphic, or other object.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T182246Z" creationid="Elisabetta" creationdate="20241106T182246Z">
-        <seg>I menu contestuali, che forniscono un accesso rapido a molte funzioni di menu, si possono aprire facendo clic con il pulsante destro del mouse su un paragrafo, un grafico o un altro oggetto.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T160142Z" creationid="Elisabetta" creationdate="20241106T182246Z">
+        <seg>I menu contestuali, che forniscono un accesso rapido a molte funzioni di menu, si possono aprire facendo clic con il pulsante destro del mouse su un paragrafo, un elemento grafico o un altro oggetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14555,8 +14555,8 @@
       <tuv lang="en-US">
         <seg>When a context menu is opened, the available functions or options depend on the object that has been selected.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T182313Z" creationid="Elisabetta" creationdate="20241106T182313Z">
-        <seg>Quando viene aperto un menu contestuale, le funzioni o le opzioni disponibili dipendono dall'oggetto selezionato.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T160325Z" creationid="Elisabetta" creationdate="20241106T182313Z">
+        <seg>Quando viene aperto un menu contestuale, le funzioni o le opzioni disponibili variano in base all'oggetto selezionato.</seg>
       </tuv>
     </tu>
     <tu>
