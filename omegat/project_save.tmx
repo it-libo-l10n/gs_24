@@ -12977,8 +12977,8 @@
       <tuv lang="en-US">
         <seg>The type of document created depends on which LibreOffice module is open and active.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T174105Z" creationid="Elisabetta" creationdate="20241117T183123Z">
-        <seg>Il tipo di documento dipende dal modulo di LibreOffice aperto e attivo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T165326Z" creationid="Elisabetta" creationdate="20241117T183123Z">
+        <seg>Il tipo di documento varia in base al modulo di LibreOffice aperto e attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15275,8 +15275,8 @@
       <tuv lang="en-US">
         <seg>You may be asked to insert the right server credentials to open the file.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T182419Z" creationid="Elisabetta" creationdate="20241129T182419Z">
-        <seg>È possibile che venga richiesto di inserire le credenziali corrette del server per accedere al file.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T165557Z" creationid="Elisabetta" creationdate="20241129T182419Z">
+        <seg>È possibile che venga richiesto di inserire le credenziali del server appropriate per accedere al file.</seg>
       </tuv>
     </tu>
     <tu>
