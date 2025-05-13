@@ -5986,8 +5986,8 @@
       <tuv lang="en-US">
         <seg>If a toolbars is docked and not locked, it will have a toolbar handle at the left end of the toolbar.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T180618Z" creationid="Elisabetta" creationdate="20241104T180352Z">
-        <seg>Se una barra degli strumenti è agganciata e non bloccata, presenta una maniglia all'estremità sinistra della barra.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T154732Z" creationid="Elisabetta" creationdate="20241104T180352Z">
+        <seg>Se una barra degli strumenti è agganciata, ma non bloccata, presenta una maniglia all'estremità sinistra della barra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13249,8 +13249,8 @@
       <tuv lang="en-US">
         <seg>This dotted toolbar handle is highlighted in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T181709Z" creationid="Elisabetta" creationdate="20241104T181709Z">
-        <seg>Questa maniglia tratteggiata della barra degli strumenti è evidenziata nella Figura&lt;t0&gt;3&lt;/t0&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T154816Z" creationid="Elisabetta" creationdate="20241104T181709Z">
+        <seg>Questa maniglia tratteggiata della barra degli strumenti è rappresentata nella Figura&lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
