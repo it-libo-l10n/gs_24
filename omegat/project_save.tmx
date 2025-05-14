@@ -6154,8 +6154,8 @@
       <tuv lang="en-US">
         <seg>If other LibreOffice documents are open at the same time, the LibreOffice windows list also includes these other documents and the active window has a check mark by its filename.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165541Z" creationid="Elisabetta" creationdate="20250413T165541Z">
-        <seg>Se si aprono altri documenti di LibreOffice, anche questi verranno inclusi nell'elenco delle finestre di LibreOffice e la finestra attiva avrà un segno di spunta accanto al nome del file.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T144616Z" creationid="Elisabetta" creationdate="20250413T165541Z">
+        <seg>Se si aprono altri documenti di LibreOffice, anche questi verranno inclusi nell'elenco delle finestre di LibreOffice e la finestra attiva presenterà un segno di spunta accanto al nome del file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6778,8 +6778,8 @@
       <tuv lang="en-US">
         <seg>In each open window, the filename of the document will be displayed in the title bar.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T165111Z" creationid="Elisabetta" creationdate="20250413T165111Z">
-        <seg>In ogni finestra aperta, il nome del file del documento viene visualizzato nella barra del titolo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T144517Z" creationid="Elisabetta" creationdate="20250413T165111Z">
+        <seg>In ogni finestra aperta, il nome del file del documento compare nella barra del titolo.</seg>
       </tuv>
     </tu>
     <tu>
