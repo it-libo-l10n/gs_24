@@ -2793,8 +2793,8 @@
       <tuv lang="en-US">
         <seg>Click on the right chevron &lt;f1&gt;&gt;&lt;/f1&gt; next to each category name to open the list of objects contained in each category.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T163258Z" creationid="Elisabetta" creationdate="20250413T163258Z">
-        <seg>Fare clic sul simbolo di destra &lt;f1&gt;&gt;&lt;/f1&gt; accanto al nome di ogni categoria per aprire l'elenco degli oggetti contenuti.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T143515Z" creationid="Elisabetta" creationdate="20250413T163258Z">
+        <seg>Fare clic sul marcatore angolare destro &lt;f1&gt;&gt;&lt;/f1&gt; accanto al nome di ogni categoria per aprire l'elenco degli oggetti contenuti.</seg>
       </tuv>
     </tu>
     <tu>
