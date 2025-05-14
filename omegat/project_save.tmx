@@ -4057,8 +4057,8 @@
       <tuv lang="en-US">
         <seg>Examples can be seen in examples from Impress and Writer (Figure &lt;t0&gt;6&lt;/t0&gt; and Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T160304Z" creationid="Elisabetta" creationdate="20250409T160304Z">
-        <seg>Si possono vedere esempi tratti da Impress e Writer (Figura &lt;t0&gt;6&lt;/t0&gt; e Figura &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141938Z" creationid="Elisabetta" creationdate="20250409T160304Z">
+        <seg>Si possono osservare esempi tratti da Impress e Writer (Figura &lt;t0&gt;6&lt;/t0&gt; e Figura &lt;t1&gt;7&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11209,8 +11209,8 @@
       <tuv lang="en-US">
         <seg>Select whether to save, or discard, the changes before closing.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155842Z" creationid="Elisabetta" creationdate="20250409T155842Z">
-        <seg>Scegliere se salvare o eliminare le modifiche apportate prima della chiusura.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141758Z" creationid="Elisabetta" creationdate="20250409T155842Z">
+        <seg>Prima di chiudere scegliere se salvare o eliminare le modifiche apportate.</seg>
       </tuv>
     </tu>
     <tu>
