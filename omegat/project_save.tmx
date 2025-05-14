@@ -12745,8 +12745,8 @@
       <tuv lang="en-US">
         <seg>The options available in this dialog depends on the type of printer connected to the computer and the computer operating system being used.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164005Z" creationid="Elisabetta" creationdate="20250430T164005Z">
-        <seg>Le opzioni disponibili in questa finestra di dialogo dipendono dal tipo di stampante collegata al computer e dal sistema operativo utilizzato.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T173310Z" creationid="Elisabetta" creationdate="20250430T164005Z">
+        <seg>Le opzioni disponibili in questa finestra di dialogo dipendono dal tipo di stampante collegata al computer e dal sistema operativo in uso.</seg>
       </tuv>
     </tu>
     <tu>
