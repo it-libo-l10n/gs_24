@@ -6162,8 +6162,8 @@
       <tuv lang="en-US">
         <seg>If possible you should give each object an easily identified name so you can easily locate an object, instead of using default names such as Sheet1, Table1, or Image2, and so on.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164000Z" creationid="Elisabetta" creationdate="20250413T164000Z">
-        <seg>Se possibile, si dovrebbe assegnare a ogni oggetto un nome facilmente identificabile, in modo da poterlo individuare facilmente, invece di ricorrere a nomi predefiniti come Foglio1, Tabella1 o Immagine2 ecc.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T143742Z" creationid="Elisabetta" creationdate="20250413T164000Z">
+        <seg>Se possibile, si dovrebbe assegnare a ogni oggetto un nome facilmente identificabile, in modo da poterlo individuare facilmente, invece di ricorrere a nomi predefiniti come Foglio1, Tabella1 o Immagine2, ecc.</seg>
       </tuv>
     </tu>
     <tu>
