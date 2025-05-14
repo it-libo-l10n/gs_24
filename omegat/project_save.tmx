@@ -10777,8 +10777,8 @@
       <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Use Printer by Default&lt;/f0&gt; from the drop-down list and close &lt;f1&gt;Settings&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T180329Z" creationid="Elisabetta" creationdate="20250415T180329Z">
-        <seg>Selezionare &lt;f0&gt;Usa stampante per impostazione predefinita&lt;/f0&gt; dall'elenco a discesa e chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T150839Z" creationid="Elisabetta" creationdate="20250415T180329Z">
+        <seg>Selezionare &lt;f0&gt;Imposta stampante come predefinita&lt;/f0&gt; dall'elenco a discesa e chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
