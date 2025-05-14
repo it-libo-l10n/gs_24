@@ -689,8 +689,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;T&lt;/f0&gt;able &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;l&lt;/f3&gt;ists the options that are available in the Printer Setup dialog:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T171846Z" creationid="Elisabetta" creationdate="20250428T171846Z">
-        <seg>&lt;f0&gt;Tabella&lt;/f0&gt; &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;e&lt;/f3&gt;lenca le opzioni disponibili nella finestra di dialogo Impostazione stampante:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T151032Z" creationid="Elisabetta" creationdate="20250428T171846Z">
+        <seg>&lt;f0&gt;Tabella&lt;/f0&gt; &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;elenca&lt;/f3&gt; le opzioni disponibili nella finestra di dialogo Impostazione stampante:</seg>
       </tuv>
     </tu>
     <tu>
