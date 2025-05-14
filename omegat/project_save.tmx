@@ -2945,8 +2945,8 @@
       <tuv lang="en-US">
         <seg>Close a LibreOffice document with one of the following methods:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155400Z" creationid="Elisabetta" creationdate="20250409T155400Z">
-        <seg>Chiudere un documento LibreOffice con uno dei seguenti metodi:</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141244Z" creationid="Elisabetta" creationdate="20250409T155400Z">
+        <seg>Chiudere un documento con uno dei seguenti metodi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6434,8 +6434,8 @@
       <tuv lang="en-US">
         <seg>If you reload a document, a confirmation dialog will open and warn the user that reloading will discards the last unsaved changes.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155314Z" creationid="Elisabetta" creationdate="20250409T155314Z">
-        <seg>Quando si ricarica un documento, si aprirà una finestra di dialogo di conferma per avvisare l'utente che il procedimento eliminerà le ultime modifiche non salvate.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141225Z" creationid="Elisabetta" creationdate="20250409T155314Z">
+        <seg>Quando si ricarica un documento, si apre una finestra di dialogo di conferma per avvisare l'utente che il procedimento eliminerà le ultime modifiche non salvate.</seg>
       </tuv>
     </tu>
     <tu>
