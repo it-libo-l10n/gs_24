@@ -10729,8 +10729,8 @@
       <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Manage &gt; Set as default&lt;/f0&gt; and then close &lt;f1&gt;Settings&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T174600Z" creationid="Elisabetta" creationdate="20250415T174600Z">
-        <seg>Seleziona &lt;f0&gt;Gestisci &gt; Imposta come predefinito&lt;/f0&gt;, quindi chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T150051Z" creationid="Elisabetta" creationdate="20250415T174600Z">
+        <seg>Selezionare &lt;f0&gt;Gestisci &gt; Imposta come predefinito&lt;/f0&gt;, quindi chiudere &lt;f1&gt;Impostazioni&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
