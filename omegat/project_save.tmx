@@ -3329,8 +3329,8 @@
       <tuv lang="en-US">
         <seg>Defines which warnings appear before printing begins.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T181636Z" creationid="valter" creationdate="20241021T203158Z">
-        <seg>Definisce gli avvisi che compaiono prima della stampa.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T172748Z" creationid="valter" creationdate="20241021T203158Z">
+        <seg>Specifica gli avvisi che compaiono prima della stampa.</seg>
       </tuv>
     </tu>
     <tu>
