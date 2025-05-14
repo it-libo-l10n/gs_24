@@ -1105,8 +1105,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Print dialog — Impress General page — macOS&lt;/s0&gt;&lt;s1&gt;Print dialog — Impress General page — macOS&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T165557Z" creationid="Elisabetta" creationdate="20250505T165557Z">
-        <seg>&lt;s0&gt;Finestra do dialogo Stampa - Pagina generale di Impress - macOS&lt;/s0&gt;&lt;s1&gt;Finestra do dialogo Stampa - Pagina generale di Impress - macOS&lt;/s1&gt;</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T174010Z" creationid="Elisabetta" creationdate="20250505T165557Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Stampa - Pagina generale di Impress - macOS&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Stampa - Pagina generale di Impress - macOS&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
