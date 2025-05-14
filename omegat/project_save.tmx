@@ -6250,8 +6250,8 @@
       <tuv lang="en-US">
         <seg>If the document has not been saved since the last change, a confirmation dialog opens with a warning message.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155749Z" creationid="Elisabetta" creationdate="20250409T155749Z">
-        <seg>Se il documento non è stato salvato dall'ultima modifica, si aprirà una finestra di conferma con un messaggio di avviso.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141635Z" creationid="Elisabetta" creationdate="20250409T155749Z">
+        <seg>Se il documento non è stato salvato dall'ultima modifica, si apre una finestra di conferma con un messaggio di avviso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6706,8 +6706,8 @@
       <tuv lang="en-US">
         <seg>In Windows or Linux — the document closes and the LibreOffice Start Center opens.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155542Z" creationid="Elisabetta" creationdate="20250409T155542Z">
-        <seg>In Windows e Linux il documento si chiuderà e si aprirà il Centro di Avvio di LibreOffice.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141446Z" creationid="Elisabetta" creationdate="20250409T155542Z">
+        <seg>In Windows e Linux si chiude il documento e si apre il Centro di Avvio di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6794,8 +6794,8 @@
       <tuv lang="en-US">
         <seg>In macOS — the document closes and the Menu bar remains at the top of the screen.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155703Z" creationid="Elisabetta" creationdate="20250409T155703Z">
-        <seg>In macOS il documento si chiude e la barra dei menu rimane nella parte superiore dello schermo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141612Z" creationid="Elisabetta" creationdate="20250409T155703Z">
+        <seg>In macOS si chiude il documento e rimane solo la barra dei menu nella parte superiore dello schermo.</seg>
       </tuv>
     </tu>
     <tu>
