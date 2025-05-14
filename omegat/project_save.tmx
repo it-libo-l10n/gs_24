@@ -11081,8 +11081,8 @@
       <tuv lang="en-US">
         <seg>Select this option if a certain paper orientation is required for printing the current document.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241021T203510Z" creationid="valter" creationdate="20241021T203510Z">
-        <seg>Selezionare questa opzione se è richiesta una determinata orientazione della carta per la stampa del documento attivo.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T172904Z" creationid="valter" creationdate="20241021T203510Z">
+        <seg>Selezionare questa opzione se è richiesto un determinato orientamento della carta per la stampa del documento attivo.</seg>
       </tuv>
     </tu>
     <tu>
