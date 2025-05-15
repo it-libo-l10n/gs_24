@@ -80,3 +80,4 @@ Select Your Preferred User Interface	Scegli la tua interfaccia preferita	Voce UI
 right chevron	marcatore angolare destro
 Find and Replace dialog	Trova e sostituisci	Voce UI
 en and em dashes	trattini lunghi e corti
+Using	Utilizzare
