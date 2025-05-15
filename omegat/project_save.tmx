@@ -2375,6 +2375,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing the case of selected text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174236Z" creationid="Elisabetta" creationdate="20250515T174236Z">
+        <seg>Rendere un testo selezionato maiuscolo o minuscolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 10 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155209Z" creationid="valter" creationdate="20241017T155209Z">
@@ -14545,6 +14553,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using AutoCorrect</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174020Z" creationid="Elisabetta" creationdate="20250515T174020Z">
+        <seg>Utilizzare la Correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using AutoText</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174057Z" creationid="Elisabetta" creationdate="20250515T174057Z">
+        <seg>Utilizzare il Testo automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using LibreOffice on macOS</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161231Z" creationid="valter" creationdate="20211115T185219Z">
@@ -14565,6 +14589,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T165642Z" creationid="Elisabetta" creationdate="20241017T174751Z">
         <seg>Utilizzare la Modalità provvisoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using Word Completion</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174042Z" creationid="Elisabetta" creationdate="20250515T174042Z">
+        <seg>Utilizzare il completamento delle parole</seg>
       </tuv>
     </tu>
     <tu>
