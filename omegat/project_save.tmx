@@ -7057,6 +7057,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserting special characters</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173609Z" creationid="Elisabetta" creationdate="20250515T173609Z">
+        <seg>Inserire caratteri speciali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Installation</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204225Z" creationid="valter" creationdate="20241005T204225Z">
@@ -14517,6 +14525,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
         <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Find and Replace dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173556Z" creationid="Elisabetta" creationdate="20250515T173556Z">
+        <seg>Utilizzare la finestra di dialogo Trova e sostituisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Find deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173412Z" creationid="Elisabetta" creationdate="20250515T173412Z">
+        <seg>Utilizzare il pannello Ricerca della barra laterale</seg>
       </tuv>
     </tu>
     <tu>
