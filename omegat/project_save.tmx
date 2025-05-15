@@ -3287,6 +3287,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cutting, copying, and moving text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173151Z" creationid="Elisabetta" creationdate="20250515T173151Z">
+        <seg>Tagliare, copiare e spostare testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dan Lewis</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
@@ -4579,6 +4587,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T180013Z" creationid="Elisabetta" creationdate="20241106T180013Z">
         <seg>Infine, è possibile selezionare &lt;f0&gt;Pulsanti visibili&lt;/f0&gt; e scegliere lo strumento desiderato dalle opzioni del menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finding and replacing text and formatting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173243Z" creationid="Elisabetta" creationdate="20250515T173243Z">
+        <seg>Trovare, sostituire e formattare testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,6 +9750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pasting text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173154Z" creationid="Elisabetta" creationdate="20250515T173154Z">
+        <seg>Incollare testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paths</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105627Z" creationid="valter" creationdate="20241017T105627Z">
@@ -11355,6 +11379,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T195225Z" creationid="valter" creationdate="20241016T195225Z">
         <seg>Selezionando &lt;f0&gt;Modelli&lt;/f0&gt; nel Centro di Avvio e scegliendo un modello per un nuovo file, che aprirà il modulo LibreOffice associato a quel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting a vertical block of text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173124Z" creationid="Elisabetta" creationdate="20250515T173124Z">
+        <seg>Selezionare una porzione verticale di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14485,6 +14517,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
         <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Find toolbar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173300Z" creationid="Elisabetta" creationdate="20250515T173300Z">
+        <seg>Utilizzare la barra degli strumenti Cerca</seg>
       </tuv>
     </tu>
     <tu>
