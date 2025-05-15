@@ -79,3 +79,4 @@ Continue in Safe Mode	Continua in modalità provvisoria	Voce UI
 Select Your Preferred User Interface	Scegli la tua interfaccia preferita	Voce UI finestra dialogo Interfaccia Utente
 right chevron	marcatore angolare destro
 Find and Replace dialog	Trova e sostituisci	Voce UI
+en and em dashes	trattini lunghi e corti
