@@ -1847,6 +1847,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Antonio Fernandez</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141708Z" creationid="Elisabetta" creationdate="20250515T141708Z">
+        <seg>Antonio Fernandez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Antonio Fernandez, Olivier Hallot.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155236Z" creationid="valter" creationdate="20241017T155236Z">
@@ -1979,6 +1987,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202843Z" creationid="valter" creationdate="20241021T202843Z">
         <seg>Automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141640Z" creationid="Elisabetta" creationdate="20250515T141640Z">
+        <seg>B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,6 +7394,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jorge Rodríguez</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141747Z" creationid="Elisabetta" creationdate="20250515T141747Z">
+        <seg>Jorge Rodríguez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep in mind that any changes made to the temporary user profile are lost after a restart.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174040Z" creationid="Elisabetta" creationdate="20250510T174040Z">
@@ -9718,6 +9742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required) or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141925Z" creationid="Elisabetta" creationdate="20250515T141925Z">
+        <seg>Si prega di indirizzare eventuali commenti o suggerimenti su questo documento al forum del Team di documentazione al &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (è richiesta la registrazione) o inviare una email a: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102527Z" creationid="valter" creationdate="20211016T102527Z">
@@ -11507,6 +11539,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T174323Z" creationid="Elisabetta" creationdate="20241017T174012Z">
         <seg>Stampare su un solo lato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skip Masonsmith</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141735Z" creationid="Elisabetta" creationdate="20250515T141735Z">
+        <seg>Skip Masonsmith</seg>
       </tuv>
     </tu>
     <tu>
@@ -13800,6 +13840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To previous editions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141722Z" creationid="Elisabetta" creationdate="20250515T141722Z">
+        <seg>alle edizioni precedenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To print the document from &lt;f0&gt;Print Preview&lt;/f0&gt;, click &lt;f1&gt;Print&lt;/f1&gt; on the Print Preview toolbar to open the Print dialog, then select the printing options and click &lt;f2&gt;OK&lt;/f2&gt; (macOS &lt;f3&gt;Print&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T150553Z" creationid="Elisabetta" creationdate="20250509T150553Z">
@@ -13893,6 +13941,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193231Z" creationid="valter" creationdate="20211115T193231Z">
         <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To this edition</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141631Z" creationid="Elisabetta" creationdate="20250515T141631Z">
+        <seg>A questa edizione</seg>
       </tuv>
     </tu>
     <tu>
