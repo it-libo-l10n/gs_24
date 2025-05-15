@@ -431,6 +431,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+click or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145423Z" creationid="Elisabetta" creationdate="20250515T145423Z">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+clic o clic destro in base alla configurazione del computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T161608Z" creationid="valter" creationdate="20241005T203552Z">
@@ -779,6 +787,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153056Z" creationid="Elisabetta Manuele" creationdate="20211111T153056Z">
         <seg>&lt;f0&gt;Al primo avvio di Impress la finestra &lt;/f0&gt;&lt;f1&gt;principale &lt;/f1&gt;&lt;f2&gt; si apre, per impostazione predefinita, con la finestra di dialogo Seleziona un modello illustrata nella figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;124&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Command)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145447Z" creationid="Elisabetta" creationdate="20250515T145447Z">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Command, Cmd)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4683,6 +4699,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T162645Z" creationid="valter" creationdate="20240929T200831Z">
         <seg>Per un elenco dettagliato, consultare la Guida di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145329Z" creationid="Elisabetta" creationdate="20250515T145329Z">
+        <seg>Per un elenco dettagliato, consultare la Guida dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11657,8 +11681,8 @@
       <tuv lang="en-US">
         <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T185258Z" creationid="valter" creationdate="20211115T185258Z">
-        <seg>Alcuni tasti e voci di menu su macOS sono diversi da quelli utilizzati in ambiente Windows e Linux.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145255Z" creationid="valter" creationdate="20211115T185258Z">
+        <seg>Alcuni tasti e voci di menu in macOS sono diversi da quelli utilizzati in ambiente Windows e Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12939,6 +12963,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185323Z" creationid="valter" creationdate="20211115T185323Z">
         <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The table below gives some common substitutions for the instructions in this document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145317Z" creationid="Elisabetta" creationdate="20250515T145317Z">
+        <seg>La tabella seguente fornisce le sostituzioni più comuni per le istruzioni di questo documento. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15709,6 +15741,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185604Z" creationid="valter" creationdate="20211115T185604Z">
         <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥ (Option) or &lt;f0&gt;Alt&lt;/f0&gt;, depending on keyboard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145521Z" creationid="Elisabetta" creationdate="20250515T145521Z">
+        <seg>⌥(Opzione) o &lt;f0&gt;Alt&lt;/f0&gt;, a seconda della tastiera</seg>
       </tuv>
     </tu>
     <tu>
