@@ -2007,6 +2007,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Autoformatting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174711Z" creationid="Elisabetta" creationdate="20250515T174711Z">
+        <seg>Formattazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatically</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202843Z" creationid="valter" creationdate="20241021T202843Z">
@@ -3275,6 +3283,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151204Z" creationid="Elisabetta Manuele" creationdate="20211110T151204Z">
         <seg>La creazione di disegni in Impress è simile a quella relativa al componente Draw di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating lists with styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174746Z" creationid="Elisabetta" creationdate="20250515T174746Z">
+        <seg>Creare elenchi tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating unordered (bulleted) and ordered (numbered) lists</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174843Z" creationid="Elisabetta" creationdate="20250515T174843Z">
+        <seg>Creare elenchi non ordinati (puntati) e ordinati (numerati)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5224,6 +5248,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formatting characters directly</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174539Z" creationid="Elisabetta" creationdate="20250515T174539Z">
+        <seg>Formattazione diretta dei caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formatting characters using styles</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174517Z" creationid="Elisabetta" creationdate="20250515T174517Z">
@@ -5244,6 +5276,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174402Z" creationid="Elisabetta" creationdate="20250515T174402Z">
         <seg>Formattare i paragrafi tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting tables</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174640Z" creationid="Elisabetta" creationdate="20250515T174640Z">
+        <seg>Formattare le tabelle</seg>
       </tuv>
     </tu>
     <tu>
