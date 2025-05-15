@@ -4119,6 +4119,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exchanging documents with users of Apple Pages</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T172804Z" creationid="Elisabetta" creationdate="20250515T172804Z">
+        <seg>Scambiare documenti con gli utenti di Apple Pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Executable code</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T181821Z" creationid="valter" creationdate="20241123T181821Z">
@@ -8578,6 +8586,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving quickly through a document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T172854Z" creationid="Elisabetta" creationdate="20250515T172854Z">
+        <seg>Spostarsi rapidamente all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving the mouse’s arrow over one of these commands opens another submenu that contains additional commands, for example &lt;f1&gt;View &gt; Rulers &gt; Rulers&lt;/f1&gt;, or &lt;f2&gt;Vertical Ruler&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T203750Z" creationid="valter" creationdate="20241016T203750Z">
@@ -10574,6 +10590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving as a Microsoft Word file</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T172844Z" creationid="Elisabetta" creationdate="20250515T172733Z">
+        <seg>Salvare file nel formato Microsoft Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving documents</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171934Z" creationid="Elisabetta" creationdate="20241017T171934Z">
@@ -11331,6 +11355,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T195225Z" creationid="valter" creationdate="20241016T195225Z">
         <seg>Selezionando &lt;f0&gt;Modelli&lt;/f0&gt; nel Centro di Avvio e scegliendo un modello per un nuovo file, che aprirà il modulo LibreOffice associato a quel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting items that are not consecutive</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173110Z" creationid="Elisabetta" creationdate="20250515T173110Z">
+        <seg>Selezionare elementi non contigui</seg>
       </tuv>
     </tu>
     <tu>
@@ -14457,6 +14489,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the Go to Page dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T172933Z" creationid="Elisabetta" creationdate="20250515T172933Z">
+        <seg>Utilizzare la finestra di dialogo Vai alla pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Navigator</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172540Z" creationid="Elisabetta" creationdate="20241017T172540Z">
@@ -15181,6 +15221,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171719Z" creationid="Elisabetta" creationdate="20241017T171719Z">
         <seg>Lavorare con i documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T172936Z" creationid="Elisabetta" creationdate="20250515T172936Z">
+        <seg>Lavorare con il testo</seg>
       </tuv>
     </tu>
     <tu>
