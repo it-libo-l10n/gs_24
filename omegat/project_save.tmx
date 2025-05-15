@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>21</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173857Z" creationid="Elisabetta" creationdate="20250515T173857Z">
+        <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>22</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105932Z" creationid="valter" creationdate="20241017T105932Z">
@@ -2483,6 +2491,30 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160643Z" creationid="valter" creationdate="20241023T160643Z">
         <seg>Spuntata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checking grammar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173848Z" creationid="Elisabetta" creationdate="20250515T173848Z">
+        <seg>Controllo grammaticale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checking spelling and grammar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173735Z" creationid="Elisabetta" creationdate="20250515T173735Z">
+        <seg>Controllo ortografico e grammaticale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checking spelling and grammar automatically</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173753Z" creationid="Elisabetta" creationdate="20250515T173753Z">
+        <seg>Controllo ortografico e grammaticale automatico</seg>
       </tuv>
     </tu>
     <tu>
@@ -7053,6 +7085,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T151634Z" creationid="valter" creationdate="20240928T151634Z">
         <seg>Informazioni sull'installazione di LibreOffice nei vari sistemi operativi supportati si trovano in questa pagina web: &lt;a0&gt;https://it.libreoffice.org/supporto/installazione/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserting en and em dashes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173728Z" creationid="Elisabetta" creationdate="20250515T173728Z">
+        <seg>Inserire trattini lunghi e corti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserting non-breaking spaces and hyphens</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173638Z" creationid="Elisabetta" creationdate="20250515T173638Z">
+        <seg>Inserire spazi non divisibili e trattini</seg>
       </tuv>
     </tu>
     <tu>
@@ -14529,6 +14577,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using synonyms and the thesaurus</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173934Z" creationid="Elisabetta" creationdate="20250515T173934Z">
+        <seg>Utilizzare i sinonimi e il dizionario dei sinonimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Find and Replace dialog</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173556Z" creationid="Elisabetta" creationdate="20250515T173556Z">
@@ -14565,6 +14621,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172540Z" creationid="Elisabetta" creationdate="20241017T172540Z">
         <seg>Usare il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Spelling dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173837Z" creationid="Elisabetta" creationdate="20250515T173837Z">
+        <seg>Utilizzare la finestra di dialogo Controllo ortografico</seg>
       </tuv>
     </tu>
     <tu>
