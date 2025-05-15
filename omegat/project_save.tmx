@@ -3295,6 +3295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating nested lists using styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T182610Z" creationid="Elisabetta" creationdate="20250515T182610Z">
+        <seg>Creare elenchi tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating unordered (bulleted) and ordered (numbered) lists</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174843Z" creationid="Elisabetta" creationdate="20250515T174843Z">
