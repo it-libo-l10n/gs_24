@@ -2359,6 +2359,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing document views</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145758Z" creationid="Elisabetta" creationdate="20250515T145758Z">
+        <seg>Cambiare modalità di visualizzazione dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 10 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155209Z" creationid="valter" creationdate="20241017T155209Z">
@@ -9090,6 +9098,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Styles deck in Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145700Z" creationid="Elisabetta" creationdate="20250515T145700Z">
+        <seg>Apre il pannello Stili nella barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a context menu</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185527Z" creationid="valter" creationdate="20211115T185527Z">
@@ -12423,6 +12439,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Writer interface</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145738Z" creationid="Elisabetta" creationdate="20250515T145738Z">
+        <seg>L'interfaccia di Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The applicable LibreOffice module also opens.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T182659Z" creationid="Elisabetta" creationdate="20241117T182659Z">
@@ -14581,6 +14605,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193427Z" creationid="valter" creationdate="20211115T193427Z">
         <seg>Cos'è LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is Writer?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145734Z" creationid="Elisabetta" creationdate="20250515T145734Z">
+        <seg>Introduzione a Writer</seg>
       </tuv>
     </tu>
     <tu>
