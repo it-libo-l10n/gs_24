@@ -5224,6 +5224,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formatting characters using styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174517Z" creationid="Elisabetta" creationdate="20250515T174517Z">
+        <seg>Formattare i caratteri tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting paragraphs directly</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174435Z" creationid="Elisabetta" creationdate="20250515T174435Z">
+        <seg>Formattazione diretta dei paragrafi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting paragraphs using styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174402Z" creationid="Elisabetta" creationdate="20250515T174402Z">
+        <seg>Formattare i paragrafi tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174302Z" creationid="Elisabetta" creationdate="20250515T174302Z">
+        <seg>Formattare il testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula syntax</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
@@ -10414,6 +10446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removing direct formatting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174501Z" creationid="Elisabetta" creationdate="20250515T174501Z">
+        <seg>Rimuovere la formattazione diretta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Repeating undo and redo commands</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T173020Z" creationid="Elisabetta" creationdate="20241017T173020Z">
@@ -14605,6 +14645,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
         <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using styles is highly recommended</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174340Z" creationid="Elisabetta" creationdate="20250515T174340Z">
+        <seg>Si consiglia vivamente di utilizzare gli stili</seg>
       </tuv>
     </tu>
     <tu>
