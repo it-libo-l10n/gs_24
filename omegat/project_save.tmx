@@ -2345,16 +2345,16 @@
       <tuv lang="en-US">
         <seg>Chapter 2, &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T155538Z" creationid="Elisabetta" creationdate="20241016T155538Z">
-        <seg>Capitolo 5 &lt;br0/&gt;</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141411Z" creationid="Elisabetta" creationdate="20241016T155538Z">
+        <seg>Capitolo 2, &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Chapter 2, Getting Started with Writer</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175700Z" creationid="Elisabetta" creationdate="20250510T175700Z">
-        <seg>Guida introduttiva a Writer</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141321Z" creationid="Elisabetta" creationdate="20250510T175700Z">
+        <seg>Capitolo 2, Guida introduttiva a Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -5344,6 +5344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started with Writer</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141413Z" creationid="Elisabetta" creationdate="20250515T141413Z">
+        <seg>Guida introduttiva a Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gisbert Friege (Dmaths)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101900Z" creationid="valter" creationdate="20211016T101900Z">
@@ -7502,6 +7510,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T162918Z" creationid="valter" creationdate="20241017T162918Z">
         <seg>Associazione file di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Getting Started Guide 24.8</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141338Z" creationid="Elisabetta" creationdate="20250515T141338Z">
+        <seg>LibreOffice - Guida introduttiva 24.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -15025,6 +15041,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Word processing with LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141420Z" creationid="Elisabetta" creationdate="20250515T141420Z">
+        <seg>Elaborazione di testi con LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Working with File Formats, Security, and Exporting</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155222Z" creationid="valter" creationdate="20241017T155222Z">
@@ -15285,6 +15309,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091958Z" creationid="valter" creationdate="20211016T091958Z">
         <seg>Sia che siate principianti, sia che abbiate familiarità con altre suite per ufficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141604Z" creationid="Elisabetta" creationdate="20250515T141604Z">
+        <seg>È comunque possibile distribuirlo e/o modificarlo rispettando i termini della GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versione 4.0 o successiva.</seg>
       </tuv>
     </tu>
     <tu>
