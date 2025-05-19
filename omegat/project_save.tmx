@@ -262,6 +262,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>38</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154616Z" creationid="Elisabetta" creationdate="20250519T154616Z">
+        <seg>38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>39</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154735Z" creationid="Elisabetta" creationdate="20250519T154735Z">
+        <seg>39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101311Z" creationid="valter" creationdate="20240928T101311Z">
@@ -9026,6 +9042,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigating through comments</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154612Z" creationid="Elisabetta" creationdate="20250519T154612Z">
+        <seg>Spostarsi tra i commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigator deck on the Sidebar: click on the Navigator icon on the right of the Sidebar, or use the keyboard shortcut &lt;f0&gt;Alt+Ctrl+4&lt;/f0&gt; for Windows and Linux, or ⌥+⌘&lt;f1&gt;+4&lt;/f1&gt; for macOS.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T142239Z" creationid="Elisabetta" creationdate="20250413T161046Z">
@@ -9950,6 +9974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options for applying languages</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154712Z" creationid="Elisabetta" creationdate="20250519T154712Z">
+        <seg>Opzioni per l'applicazione delle lingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options for loading and saving documents can be selected in the Options Load/Save dialog to suit working requirements on a computer system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T213856Z" creationid="valter" creationdate="20241113T212922Z">
@@ -10410,6 +10442,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142915Z" creationid="Elisabetta" creationdate="20250509T142915Z">
         <seg>La stampa di un opuscolo con una stampante in grado di stampare su due lati, o fronte-retro, semplifica il compito di creare dépliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing comments</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154619Z" creationid="Elisabetta" creationdate="20250519T154619Z">
+        <seg>Stampare i commenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -14955,8 +14995,24 @@
       <tuv lang="en-US">
         <seg>Using built-in language tools</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
-        <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154656Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
+        <seg>Utilizzare gli strumenti linguistici integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using direct formatting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154803Z" creationid="Elisabetta" creationdate="20250519T154745Z">
+        <seg>Utilizzare la formattazione diretta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154752Z" creationid="Elisabetta" creationdate="20250519T154732Z">
+        <seg>Utilizzare gli stili</seg>
       </tuv>
     </tu>
     <tu>
