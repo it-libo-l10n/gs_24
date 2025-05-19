@@ -2303,6 +2303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Built-in drawing tools</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T160917Z" creationid="Elisabetta" creationdate="20250519T160917Z">
+        <seg>Strumenti di disegno integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By adding a JRE to the $PATH variable.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201840Z" creationid="valter" creationdate="20241023T201840Z">
@@ -4227,6 +4235,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T163404Z" creationid="Elisabetta" creationdate="20241107T163404Z">
         <seg>Oggetto incorporato (OLE) “NomeOggetto” selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Embedding or linking of images, equations, spreadsheets, and other objects</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T160912Z" creationid="Elisabetta" creationdate="20250519T160912Z">
+        <seg>Incorporare o collegare immagini, equazioni, fogli elettronici e altri oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8782,6 +8798,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T164834Z" creationid="Elisabetta" creationdate="20241117T175548Z">
         <seg>Diapositive schema, Animazioni, Forme, Transizioni tra le diapositive per Impress, Forme per Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Master documents, to group a collection of documents into a single document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161023Z" creationid="Elisabetta" creationdate="20250519T161023Z">
+        <seg>Documenti master, per raggruppare una raccolta di documenti in un unico documento</seg>
       </tuv>
     </tu>
     <tu>
