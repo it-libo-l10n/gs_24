@@ -318,6 +318,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>44</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155504Z" creationid="Elisabetta" creationdate="20250519T155504Z">
+        <seg>44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>45</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155656Z" creationid="Elisabetta" creationdate="20250519T155656Z">
+        <seg>45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
@@ -3439,10 +3455,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating and using cross-references</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155440Z" creationid="Elisabetta" creationdate="20250519T155440Z">
+        <seg>Creare e utilizzare i riferimenti incrociati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating drawings in Impress is similar to the Draw component of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151204Z" creationid="Elisabetta Manuele" creationdate="20211110T151204Z">
         <seg>La creazione di disegni in Impress è simile a quella relativa al componente Draw di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating fill-in forms</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155722Z" creationid="Elisabetta" creationdate="20250519T155722Z">
+        <seg>Creare formulari</seg>
       </tuv>
     </tu>
     <tu>
@@ -15089,6 +15121,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using bookmarks</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155500Z" creationid="Elisabetta" creationdate="20250519T155500Z">
+        <seg>Utilizzare i segnalibri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using built-in language tools</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154656Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
@@ -15133,6 +15173,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155246Z" creationid="Elisabetta" creationdate="20250519T155246Z">
         <seg>Utilizzare la stampa in serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using master documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155652Z" creationid="Elisabetta" creationdate="20250519T155652Z">
+        <seg>Utilizzare i documenti master</seg>
       </tuv>
     </tu>
     <tu>
