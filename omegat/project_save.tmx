@@ -3783,6 +3783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determining document accessibility</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155931Z" creationid="Elisabetta" creationdate="20250519T155931Z">
+        <seg>Determinare l'accessibilità dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determining header and footer appearance</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153944Z" creationid="Elisabetta" creationdate="20250519T153944Z">
@@ -7228,6 +7236,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180329Z" creationid="valter" creationdate="20211115T180310Z">
         <seg>In aggiunta ai collegamenti contenuti nel menu Aiuto citati sopra, sono disponibili opzioni in linea di assistenza da parte della comunità, si veda la tabella sotto riportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the usual features of a word processor (spelling check, thesaurus, hyphenation, autocorrect, find and replace, automatic generation of tables of contents and indexes, mail merge, and others), Writer provides these important features, which are covered in detail in the &lt;f0&gt;Writer Guide&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T160337Z" creationid="Elisabetta" creationdate="20250519T160337Z">
+        <seg>Oltre alle consuete funzioni di un elaboratore di testi (controllo ortografico, sinonimi, sillabazione, correzione automatica, ricerca e sostituzione, generazione automatica di indici generali e analitici, stampa in serie e altro), Writer offre queste importanti funzioni, descritte in dettaglio nella  &lt;f0&gt;Guida di Writer&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15137,6 +15153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using content controls</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155816Z" creationid="Elisabetta" creationdate="20250519T155816Z">
+        <seg>Utilizzare i campi di controllo contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using direct formatting</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154803Z" creationid="Elisabetta" creationdate="20250519T154745Z">
@@ -16045,6 +16069,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104250Z" creationid="valter" creationdate="20211115T193624Z">
         <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, dépliant e altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer is the word processor component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T160013Z" creationid="Elisabetta" creationdate="20250519T160013Z">
+        <seg>Writer è l'elaboratore testi di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
