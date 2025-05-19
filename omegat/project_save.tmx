@@ -3287,10 +3287,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating lists with direct formatting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T152853Z" creationid="Elisabetta" creationdate="20250519T152853Z">
+        <seg>Creare elenchi tramite formattazione diretta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating lists with styles</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174746Z" creationid="Elisabetta" creationdate="20250515T174746Z">
         <seg>Creare elenchi tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating nested lists</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T152958Z" creationid="Elisabetta" creationdate="20250519T152958Z">
+        <seg>Creare elenchi nidificati</seg>
       </tuv>
     </tu>
     <tu>
@@ -3307,6 +3323,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174843Z" creationid="Elisabetta" creationdate="20250515T174843Z">
         <seg>Creare elenchi non ordinati (puntati) e ordinati (numerati)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating unordered and ordered lists</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T152925Z" creationid="Elisabetta" creationdate="20250519T152925Z">
+        <seg>Creare elenchi non ordinati e ordinati</seg>
       </tuv>
     </tu>
     <tu>
