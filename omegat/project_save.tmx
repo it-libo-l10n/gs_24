@@ -302,6 +302,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>42</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155222Z" creationid="Elisabetta" creationdate="20250519T155222Z">
+        <seg>42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>43</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155356Z" creationid="Elisabetta" creationdate="20250519T155356Z">
+        <seg>43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
@@ -8354,6 +8370,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linking and cross-referencing within a document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155401Z" creationid="Elisabetta" creationdate="20250519T155401Z">
+        <seg>Collegamenti e riferimenti incrociati all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Links to the LibreOffice Help, What’s This?, and information about LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250512T170946Z" creationid="Elisabetta" creationdate="20241021T170556Z">
@@ -10498,6 +10522,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T142915Z" creationid="Elisabetta" creationdate="20250509T142915Z">
         <seg>La stampa di un opuscolo con una stampante in grado di stampare su due lati, o fronte-retro, semplifica il compito di creare dépliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing and exporting to PDF or EPUB</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155218Z" creationid="Elisabetta" creationdate="20250519T155218Z">
+        <seg>Stampare ed esportare nei formati PDF o EPUB</seg>
       </tuv>
     </tu>
     <tu>
@@ -14665,6 +14697,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tracking changes to a document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155336Z" creationid="Elisabetta" creationdate="20250519T155336Z">
+        <seg>Revisioni di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transparencies cannot be sent directly to a printer.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T181207Z" creationid="valter" creationdate="20241021T203029Z">
@@ -15065,10 +15105,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using fields</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155353Z" creationid="Elisabetta" creationdate="20250519T155353Z">
+        <seg>Utilizzare i campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using footnotes and endnotes</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155021Z" creationid="Elisabetta" creationdate="20250519T155021Z">
         <seg>Utilizzare note a piè di pagina e note di chiusura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using hyperlinks</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155417Z" creationid="Elisabetta" creationdate="20250519T155417Z">
+        <seg>Utilizzare i collegamenti ipertestuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using mail merge</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155246Z" creationid="Elisabetta" creationdate="20250519T155246Z">
+        <seg>Utilizzare la stampa in serie</seg>
       </tuv>
     </tu>
     <tu>
@@ -15869,6 +15933,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155123Z" creationid="Elisabetta" creationdate="20250519T155123Z">
         <seg>Lavorare con le immagini (oggetti grafici)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with tables</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155128Z" creationid="Elisabetta" creationdate="20250519T155128Z">
+        <seg>Lavorare con le tabelle</seg>
       </tuv>
     </tu>
     <tu>
