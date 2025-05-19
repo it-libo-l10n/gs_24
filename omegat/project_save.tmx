@@ -10366,6 +10366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page number</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T163000Z" creationid="Elisabetta" creationdate="20250519T163000Z">
+        <seg>Numero di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Page orientation is especially important for brochures.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T143226Z" creationid="Elisabetta" creationdate="20250509T143226Z">
@@ -12371,6 +12379,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T104835Z" creationid="Elisabetta" creationdate="20250507T104835Z">
         <seg>Visualizza i dettagli della stampante selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the sequence number of the current page, and the total number of pages in the document, and the current page number (if different from the sequence number).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T163125Z" creationid="Elisabetta" creationdate="20250519T163125Z">
+        <seg>Mostra il numero progressivo della pagina attiva, il numero totale di pagine del documento e il numero della pagina attiva (se diverso dal numero progressivo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15933,6 +15949,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183555Z" creationid="Elisabetta" creationdate="20241104T183555Z">
         <seg>Quando la barra degli strumenti diventa mobile, la maniglia scompare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When there are unsaved changes, you can click on this icon to save the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162956Z" creationid="Elisabetta" creationdate="20250519T162956Z">
+        <seg>In caso di modifiche non salvate, è possibile fare clic su questa icona per salvare il documento.</seg>
       </tuv>
     </tu>
     <tu>
