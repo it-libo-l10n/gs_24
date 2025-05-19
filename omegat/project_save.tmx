@@ -1951,6 +1951,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And many more</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161423Z" creationid="Elisabetta" creationdate="20250519T161423Z">
+        <seg>E molto altro ancora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Andrew Jensen</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101827Z" creationid="valter" creationdate="20211016T101827Z">
@@ -3983,6 +3991,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Document digital signatures</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161253Z" creationid="Elisabetta" creationdate="20250519T161253Z">
+        <seg>Firma digitale del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document type</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T175809Z" creationid="valter" creationdate="20241123T175809Z">
@@ -5572,6 +5588,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T200348Z" creationid="valter" creationdate="20241021T200348Z">
         <seg>Forza il rendering del software Skia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Form design and filling</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161416Z" creationid="Elisabetta" creationdate="20250519T161416Z">
+        <seg>Struttura e riempimento del formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -13531,6 +13555,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202452Z" creationid="valter" creationdate="20241023T202452Z">
         <seg>L'elenco di queste funzionalità varia da versione a versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main Writer workspace is shown in Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161617Z" creationid="Elisabetta" creationdate="20250519T161617Z">
+        <seg>La figura &lt;t0&gt;1&lt;/t0&gt; illustra l'area di lavoro principale di Writer.</seg>
       </tuv>
     </tu>
     <tu>
