@@ -286,6 +286,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>40</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155000Z" creationid="Elisabetta" creationdate="20250519T155000Z">
+        <seg>40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>41</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155049Z" creationid="Elisabetta" creationdate="20250519T155049Z">
+        <seg>41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
@@ -3399,6 +3415,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating a table of contents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154932Z" creationid="Elisabetta" creationdate="20250519T154932Z">
+        <seg>Creare un indice generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating drawings in Impress is similar to the Draw component of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151204Z" creationid="Elisabetta Manuele" creationdate="20211110T151204Z">
@@ -3411,6 +3435,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153630Z" creationid="Elisabetta" creationdate="20250519T153630Z">
         <seg>Creare intestazioni e piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating indexes and bibliographies</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154957Z" creationid="Elisabetta" creationdate="20250519T154939Z">
+        <seg>Creare indici analitici e bibliografie</seg>
       </tuv>
     </tu>
     <tu>
@@ -7417,6 +7449,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserting material from other documents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155045Z" creationid="Elisabetta" creationdate="20250519T155045Z">
+        <seg>Inserire materiale da altri documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserting non-breaking spaces and hyphens</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173638Z" creationid="Elisabetta" creationdate="20250515T173638Z">
@@ -9250,6 +9290,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Obtaining resources for additional languages</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154909Z" creationid="Elisabetta" creationdate="20250519T154909Z">
+        <seg>Ottenere risorse per altre lingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Offline Help is installed with the MacOS version of LibreOffice &lt;f0&gt;by default&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154301Z" creationid="valter" creationdate="20240928T154301Z">
@@ -10290,6 +10338,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162738Z" creationid="Elisabetta" creationdate="20250505T154405Z">
         <seg>Preset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preventing text from being checked for spelling</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154846Z" creationid="Elisabetta" creationdate="20250519T154846Z">
+        <seg>Impedire il controllo ortografico del testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15009,6 +15065,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using footnotes and endnotes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155021Z" creationid="Elisabetta" creationdate="20250519T155021Z">
+        <seg>Utilizzare note a piè di pagina e note di chiusura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using styles</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154752Z" creationid="Elisabetta" creationdate="20250519T154732Z">
@@ -15797,6 +15861,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171719Z" creationid="Elisabetta" creationdate="20241017T171719Z">
         <seg>Lavorare con i documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with images (graphics)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T155123Z" creationid="Elisabetta" creationdate="20250519T155123Z">
+        <seg>Lavorare con le immagini (oggetti grafici)</seg>
       </tuv>
     </tu>
     <tu>
