@@ -1263,6 +1263,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;The main Writer workspace&lt;/s0&gt;&lt;s1&gt;The main Writer workspace&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161909Z" creationid="Elisabetta" creationdate="20250519T161909Z">
+        <seg>&lt;s0&gt;L'area di lavoro principale di Writer&lt;/s0&gt;&lt;s1&gt;L'area di lavoro principale di Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Writer Status bar, left end&lt;/s0&gt;&lt;s1&gt;Writer Status bar, left end&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162225Z" creationid="Elisabetta" creationdate="20250519T162225Z">
+        <seg>&lt;s0&gt;Barra di stato di Writer, estremità sinistra&lt;/s0&gt;&lt;s1&gt;Barra di stato di Writer, estremità sinistra&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Chapter 1, LibreOffice Basics&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175647Z" creationid="Elisabetta" creationdate="20250510T175647Z">
@@ -4787,6 +4803,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T153027Z" creationid="valter" creationdate="20241017T153027Z">
         <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Dati utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The main Writer workspace</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161922Z" creationid="Elisabetta" creationdate="20250519T161922Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: l'area di lavoro principale di Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -13231,6 +13255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Writer Status bar provides information about the document and convenient ways to change some document features quickly.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162129Z" creationid="Elisabetta" creationdate="20250519T162129Z">
+        <seg>La barra di stato di Writer fornisce informazioni sul documento e pratici strumenti per modificarne velocemente alcune caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Writer interface</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145738Z" creationid="Elisabetta" creationdate="20250515T145738Z">
@@ -13579,6 +13611,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T202452Z" creationid="valter" creationdate="20241023T202452Z">
         <seg>L'elenco di queste funzionalità varia da versione a versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main Writer workspace</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161934Z" creationid="Elisabetta" creationdate="20250519T161934Z">
+        <seg>L'area di lavoro principale di Writer</seg>
       </tuv>
     </tu>
     <tu>
