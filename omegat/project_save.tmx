@@ -214,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>32</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153709Z" creationid="Elisabetta" creationdate="20250519T153709Z">
+        <seg>32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>33</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153811Z" creationid="Elisabetta" creationdate="20250519T153811Z">
+        <seg>33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101311Z" creationid="valter" creationdate="20240928T101311Z">
@@ -3311,6 +3327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating headers and footers</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153630Z" creationid="Elisabetta" creationdate="20250519T153630Z">
+        <seg>Creare intestazioni e piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating lists with direct formatting</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T152853Z" creationid="Elisabetta" creationdate="20250519T152853Z">
@@ -3591,6 +3615,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determining header and footer appearance</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153944Z" creationid="Elisabetta" creationdate="20250519T153944Z">
+        <seg>Definire l'aspetto dell'intestazione e del piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213412Z" creationid="valter" creationdate="20240928T213412Z">
@@ -3643,6 +3675,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T230051Z" creationid="valter" creationdate="20241123T230051Z">
         <seg>Mostra avviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displaying different headers on right and left pages</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153807Z" creationid="Elisabetta" creationdate="20250519T153807Z">
+        <seg>Visualizzare intestazioni diverse nelle pagine destra e sinistra</seg>
       </tuv>
     </tu>
     <tu>
@@ -5316,6 +5356,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174517Z" creationid="Elisabetta" creationdate="20250515T174517Z">
         <seg>Formattare i caratteri tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting pages</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153617Z" creationid="Elisabetta" creationdate="20250519T153617Z">
+        <seg>Formattare le pagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -7233,6 +7281,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserting a header or footer</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153702Z" creationid="Elisabetta" creationdate="20250519T153702Z">
+        <seg>Inserire una intestazione o un piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserting en and em dashes</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T173728Z" creationid="Elisabetta" creationdate="20250515T173728Z">
@@ -8422,6 +8478,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T200755Z" creationid="valter" creationdate="20241023T200755Z">
         <seg>Assicurarsi d'installare un JRE compatibile con l'architettura LibreOffice utilizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manual hyphenation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153609Z" creationid="Elisabetta" creationdate="20250519T153609Z">
+        <seg>Sillabazione manuale</seg>
       </tuv>
     </tu>
     <tu>
