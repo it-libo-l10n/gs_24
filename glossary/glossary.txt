@@ -82,3 +82,5 @@ Find and Replace dialog	Trova e sostituisci	Voce UI
 en and em dashes	trattini lunghi e corti
 Using	Utilizzare
 Navigating	Spostarsi
+Form design	Struttura del formulario
+workspace	area di lavoro
