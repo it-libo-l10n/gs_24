@@ -2015,6 +2015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatic hyphenation using styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153500Z" creationid="Elisabetta" creationdate="20250519T153500Z">
+        <seg>Sillabazione automatica tramite stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatically</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202843Z" creationid="valter" creationdate="20241021T202843Z">
@@ -6100,6 +6108,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T155648Z" creationid="valter" creationdate="20241023T155648Z">
         <seg>Questa sostituzione non modifica, tuttavia, il tipo di carattere specificato nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hyphenating words</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153434Z" creationid="Elisabetta" creationdate="20250519T153434Z">
+        <seg>Sillabazione delle parole</seg>
       </tuv>
     </tu>
     <tu>
@@ -11691,6 +11707,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T175625Z" creationid="valter" creationdate="20241023T175625Z">
         <seg>Permette di impostare le opzioni di accesso facilitato per LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting hyphenation with Writing Aids</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153603Z" creationid="Elisabetta" creationdate="20250519T153603Z">
+        <seg>Impostare la sillabazione tramite gli strumenti della Linguistica</seg>
       </tuv>
     </tu>
     <tu>
