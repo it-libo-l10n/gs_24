@@ -238,6 +238,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>35</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154216Z" creationid="Elisabetta" creationdate="20250519T154216Z">
+        <seg>35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>36</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154311Z" creationid="Elisabetta" creationdate="20250519T154311Z">
+        <seg>36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>37</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154431Z" creationid="Elisabetta" creationdate="20250519T154431Z">
+        <seg>37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101311Z" creationid="valter" creationdate="20240928T101311Z">
@@ -1471,6 +1495,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding a custom watermark to the page background</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154343Z" creationid="Elisabetta" creationdate="20250519T154343Z">
+        <seg>Aggiungere una filigrana personalizzata allo sfondo della pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding comments to a document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154448Z" creationid="Elisabetta" creationdate="20250519T154448Z">
+        <seg>Aggiungere commenti a un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional options, and more details about the options in this user guide, are covered in LibreOffice Help.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110603Z" creationid="valter" creationdate="20241017T110603Z">
@@ -2423,6 +2463,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing page margins</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154231Z" creationid="Elisabetta" creationdate="20250519T154231Z">
+        <seg>Modificare i margini di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing the case of selected text</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174236Z" creationid="Elisabetta" creationdate="20250515T174236Z">
@@ -2603,6 +2651,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T170151Z" creationid="valter" creationdate="20241017T170151Z">
         <seg>Scegliere lo stile per icone da usare nelle barre degli strumenti e nelle finestre di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choosing a page background</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154304Z" creationid="Elisabetta" creationdate="20250519T154304Z">
+        <seg>Scegliere lo sfondo della pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -3531,6 +3587,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T172748Z" creationid="valter" creationdate="20241021T203158Z">
         <seg>Specifica gli avvisi che compaiono prima della stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defining a different first page for a document</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154423Z" creationid="Elisabetta" creationdate="20250519T154423Z">
+        <seg>Definire una prima pagina diversa per un documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5372,6 +5436,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174517Z" creationid="Elisabetta" creationdate="20250515T174517Z">
         <seg>Formattare i caratteri tramite gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting comments</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154515Z" creationid="Elisabetta" creationdate="20250519T154515Z">
+        <seg>Formattare i commenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8214,6 +8286,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163636Z" creationid="valter" creationdate="20240928T163636Z">
         <seg>Informazioni sulla licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line numbering</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154211Z" creationid="Elisabetta" creationdate="20250519T154211Z">
+        <seg>Numerazione righe</seg>
       </tuv>
     </tu>
     <tu>
