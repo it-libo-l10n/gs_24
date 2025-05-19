@@ -2383,10 +2383,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing measurement units for tab stops and rulers</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153337Z" creationid="Elisabetta" creationdate="20250519T153337Z">
+        <seg>Modificare le unità di misura degli intervalli di tabulazione e dei righelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing the case of selected text</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T174236Z" creationid="Elisabetta" creationdate="20250515T174236Z">
         <seg>Rendere un testo selezionato maiuscolo o minuscolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changing the default tab stop interval</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153206Z" creationid="Elisabetta" creationdate="20250519T153206Z">
+        <seg>Modificare l'intervallo di tabulazione predefinito</seg>
       </tuv>
     </tu>
     <tu>
@@ -11675,6 +11691,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T175625Z" creationid="valter" creationdate="20241023T175625Z">
         <seg>Permette di impostare le opzioni di accesso facilitato per LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting tab stops and indents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153148Z" creationid="Elisabetta" creationdate="20250519T153148Z">
+        <seg>Impostazione di intervalli di tabulazione e rientri</seg>
       </tuv>
     </tu>
     <tu>
