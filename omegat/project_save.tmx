@@ -13575,6 +13575,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The icon changes color to indicate whether the document has no unsaved changes or it has been edited and the changes have not been saved.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162850Z" creationid="Elisabetta" creationdate="20250519T162850Z">
+        <seg>L'icona cambia colore per indicare la presenza o l'assenza di modifiche non salvate nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184024Z" creationid="valter" creationdate="20211115T184024Z">
