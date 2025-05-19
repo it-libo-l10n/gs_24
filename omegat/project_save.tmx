@@ -1279,6 +1279,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Writer Status bar, right end&lt;/s0&gt;&lt;s1&gt;Writer Status bar, right end&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162333Z" creationid="Elisabetta" creationdate="20250519T162333Z">
+        <seg>&lt;s0&gt;Barra di stato di Writer, estremità destra&lt;/s0&gt;&lt;s1&gt;Barra di stato di Writer, estremità destra&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Chapter 1, LibreOffice Basics&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T175647Z" creationid="Elisabetta" creationdate="20250510T175647Z">
@@ -4007,6 +4015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Document changes status</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162553Z" creationid="Elisabetta" creationdate="20250519T162553Z">
+        <seg>Stato delle modifiche al documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document digital signatures</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161253Z" creationid="Elisabetta" creationdate="20250519T161253Z">
@@ -4839,6 +4855,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Writer Status bar, left end</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162251Z" creationid="Elisabetta" creationdate="20250519T162251Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: barra di stato di Writer, estremità sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213408Z" creationid="valter" creationdate="20240928T213408Z">
@@ -4859,6 +4883,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T170015Z" creationid="valter" creationdate="20241017T170015Z">
         <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Finestra di dialogo Opzioni di LibreOffice — pagina Vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Writer Status bar, right end</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162340Z" creationid="Elisabetta" creationdate="20250519T162340Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: barra di stato di Writer, estremità destra</seg>
       </tuv>
     </tu>
     <tu>
@@ -16237,6 +16269,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193616Z" creationid="valter" creationdate="20211115T193616Z">
         <seg>Writer (elaborazione di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer Status bar, left end</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162308Z" creationid="Elisabetta" creationdate="20250519T162308Z">
+        <seg>Barra di stato di Writer, estremità sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer Status bar, right end</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162359Z" creationid="Elisabetta" creationdate="20250519T162359Z">
+        <seg>Barra di stato di Writer, estremità destra</seg>
       </tuv>
     </tu>
     <tu>
