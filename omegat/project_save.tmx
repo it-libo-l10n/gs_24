@@ -5327,6 +5327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T163136Z" creationid="Elisabetta" creationdate="20250519T163136Z">
+        <seg>Ad esempio, se avete reimpostato la numerazione assegnando il numero 1 alla terza pagina, il suo numero di pagina sarà 1 mentre il suo numero sequenziale sarà 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, open a Draw file from Writer and this will open Draw automatically.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115136Z" creationid="valter" creationdate="20240928T115136Z">
