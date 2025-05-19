@@ -10246,6 +10246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other user interface variants are described in Chapter 13, Customizing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161851Z" creationid="Elisabetta" creationdate="20250519T161851Z">
+        <seg>Altre varianti dell'interfaccia utente sono descritte nel Capitolo 13, Personalizzare LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other user websites also offer free tips and tutorials.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T164821Z" creationid="valter" creationdate="20240928T164821Z">
@@ -12503,6 +12511,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some other features of the Writer interface are covered in this chapter.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161815Z" creationid="Elisabetta" creationdate="20250519T161815Z">
+        <seg>In questo capitolo sono trattate anche altre funzioni dell'interfaccia di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some servers requires the correct credentials to allow the files to saved.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T135812Z" creationid="Elisabetta" creationdate="20241201T160352Z">
@@ -13347,6 +13363,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241021T170906Z" creationid="Elisabetta" creationdate="20241021T170906Z">
         <seg>I controlli predefiniti per gli altri moduli possono variare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default menus and toolbars are described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T161717Z" creationid="Elisabetta" creationdate="20250519T161717Z">
+        <seg>I menu e le  barre degli strumenti predefiniti sono descritti nel Capitolo 1 (Introduzione a LibreOffice).</seg>
       </tuv>
     </tu>
     <tu>
