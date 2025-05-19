@@ -2143,6 +2143,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automated tables of contents and indexes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T160808Z" creationid="Elisabetta" creationdate="20250519T160808Z">
+        <seg>Indice generale e indice analitico automatici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatic hyphenation using styles</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153500Z" creationid="Elisabetta" creationdate="20250519T153500Z">
@@ -10198,6 +10206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page layout methods, including styles, frames, columns, and tables</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T160515Z" creationid="Elisabetta" creationdate="20250519T160515Z">
+        <seg>Metodi di impaginazione, inclusi stili, cornici, colonne e tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Page orientation is especially important for brochures.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T143226Z" creationid="Elisabetta" creationdate="20250509T143226Z">
@@ -12771,6 +12787,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T100906Z" creationid="Elisabetta" creationdate="20250509T100906Z">
         <seg>Estrarre le pagine stampate e inserirle nuovamente nella stampante con l'orientamento corretto per stampare sull'altro lato della carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Templates and styles (see Chapter 4)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T160409Z" creationid="Elisabetta" creationdate="20250519T160409Z">
+        <seg>Modelli e stili (vedere Capitolo 4)</seg>
       </tuv>
     </tu>
     <tu>
