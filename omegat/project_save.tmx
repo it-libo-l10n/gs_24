@@ -2079,6 +2079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any directly formatted language settings can be reset to the default language from this menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T164007Z" creationid="Elisabetta" creationdate="20250521T164007Z">
+        <seg>Tutte le impostazioni della lingua formattate direttamente possono essere ripristinate alla lingua predefinita da questo menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any extensions or configuration options set up previously have to be reconfigured before using.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173949Z" creationid="Elisabetta" creationdate="20250510T173949Z">
@@ -7669,6 +7677,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T151634Z" creationid="valter" creationdate="20240928T151634Z">
         <seg>Informazioni sull'installazione di LibreOffice nei vari sistemi operativi supportati si trovano in questa pagina web: &lt;a0&gt;https://it.libreoffice.org/supporto/installazione/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert mode</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T164309Z" creationid="Elisabetta" creationdate="20250521T164309Z">
+        <seg>Modo Inserimento</seg>
       </tuv>
     </tu>
     <tu>
