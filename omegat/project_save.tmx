@@ -3199,6 +3199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open a menu where you can choose another language or localization for the selected text or for the paragraph where the cursor is located.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T162123Z" creationid="Elisabetta" creationdate="20250521T162123Z">
+        <seg>Fare clic per aprire un menu da cui scegliere un'altra lingua o localizzazione per il testo selezionato o per il paragrafo in cui si trova il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to select the destination folder for downloaded files.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T211936Z" creationid="valter" creationdate="20241113T211936Z">
