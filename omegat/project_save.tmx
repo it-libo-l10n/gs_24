@@ -3207,6 +3207,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to change to Overwrite mode; click again to return to Insert mode.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T164433Z" creationid="Elisabetta" creationdate="20250521T164433Z">
+        <seg>Fare clic per passare alla modalità Sovrascrittura, ripetere il clic per tornare alla modalità Inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open a menu where you can choose another language or localization for the selected text or for the paragraph where the cursor is located.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T162338Z" creationid="Elisabetta" creationdate="20250521T162123Z">
@@ -7372,6 +7380,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241201T161504Z" creationid="Elisabetta" creationdate="20241201T161504Z">
         <seg>Nell'area &lt;f0&gt;Salva&lt;/f0&gt;, selezionare l'opzione &lt;f1&gt;Salva informazioni di ripristino ogni&lt;/f1&gt; e impostare l'intervallo di tempo nella casella, ad esempio 10 minuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T164530Z" creationid="Elisabetta" creationdate="20250521T164530Z">
+        <seg>Nella modalità Inserimento, il testo dopo la posizione del cursore si sposta in avanti per creare spazio al testo che digitate; nella modalità Sovrascrittura, il testo dopo la posizione del cursore è sostituito dal testo che digitate.</seg>
       </tuv>
     </tu>
     <tu>
