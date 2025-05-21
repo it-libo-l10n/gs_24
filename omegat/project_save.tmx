@@ -11609,8 +11609,8 @@
       <tuv lang="en-US">
         <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T161048Z" creationid="Elisabetta" creationdate="20250521T161048Z">
-        <seg>Vedere la &lt;f3&gt;Guida a Draw&lt;/f3&gt; per dettagli.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T161426Z" creationid="Elisabetta" creationdate="20250521T161048Z">
+        <seg>Per maggiori dettagli consultare la &lt;f0&gt;Guida di Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12443,6 +12443,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T104835Z" creationid="Elisabetta" creationdate="20250507T104835Z">
         <seg>Visualizza i dettagli della stampante selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the language and localization at the cursor position, or for the selected text, that is used for checking spelling, grammar, hyphenation, and the thesaurus.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T162030Z" creationid="Elisabetta" creationdate="20250521T162030Z">
+        <seg>Mostra la lingua e la localizzazione nella posizione del cursore o nel testo selezionato, utilizzata per il controllo ortografico, grammaticale, per la sillabazione e per i sinonimi.</seg>
       </tuv>
     </tu>
     <tu>
