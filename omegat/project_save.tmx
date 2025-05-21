@@ -1479,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A list of page styles pops up; click on one to select it.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160400Z" creationid="Elisabetta" creationdate="20250521T160400Z">
+        <seg>Compare un elenco di stili di pagina; fare clic su uno per selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A minimum of four slides is required to create a brochure.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250509T094451Z" creationid="Elisabetta" creationdate="20250509T094451Z">
@@ -14723,6 +14731,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241117T181741Z" creationid="Elisabetta" creationdate="20241117T181741Z">
         <seg>Per agganciare la barra laterale alla sua posizione originale nella finestra principale, procedere come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To edit the attributes of the current page style, left-click on this field.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160631Z" creationid="Elisabetta" creationdate="20250521T160631Z">
+        <seg>Per modificare gli attributi dello stile di pagina attiva, fare clic con il pulsante sinistro del mouse su questo campo.</seg>
       </tuv>
     </tu>
     <tu>
