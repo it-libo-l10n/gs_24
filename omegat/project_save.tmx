@@ -5329,8 +5329,8 @@
       <tuv lang="en-US">
         <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T163136Z" creationid="Elisabetta" creationdate="20250519T163136Z">
-        <seg>Ad esempio, se avete reimpostato la numerazione assegnando il numero 1 alla terza pagina, il suo numero di pagina sarà 1 mentre il suo numero sequenziale sarà 3.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155011Z" creationid="Elisabetta" creationdate="20250519T163136Z">
+        <seg>Ad esempio, se la numerazione delle pagine è stata riconfigurata assegnando 1 alla terza pagina, il numero di pagina sarà 1, mentre il numero progressivo sarà 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6652,6 +6652,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T163736Z" creationid="Elisabetta" creationdate="20241108T175140Z">
         <seg>Se è presente un oggetto selezionato i numeri di posizione indicano le coordinate X e Y dell'angolo superiore sinistro e la coppia di numeri relativi alla dimensione dell'oggetto riporta la dimensione dell'oggetto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on one to go to that location.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T154431Z" creationid="Elisabetta" creationdate="20250521T154431Z">
+        <seg>Se è stato definito qualche segnalibro nel documento, facendo clic con il tasto destro su questo campo verrà mostrato un elenco dei segnalibri; fate clic su quello desiderato.</seg>
       </tuv>
     </tu>
     <tu>
