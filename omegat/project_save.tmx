@@ -10406,6 +10406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page style</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160152Z" creationid="Elisabetta" creationdate="20250521T160152Z">
+        <seg>Stile di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pages</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154544Z" creationid="Elisabetta" creationdate="20250505T154544Z">
@@ -12411,6 +12419,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T163125Z" creationid="Elisabetta" creationdate="20250519T163125Z">
         <seg>Mostra il numero progressivo della pagina attiva, il numero totale di pagine del documento e il numero della pagina attiva (se diverso dal numero progressivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the style of the current page.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160214Z" creationid="Elisabetta" creationdate="20250521T160214Z">
+        <seg>Mostra lo stile della pagina attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14687,6 +14703,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To display the character count excluding spaces, click on the word count in the Status bar, or choose &lt;f0&gt;Tools &gt; Word Count&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160029Z" creationid="Elisabetta" creationdate="20250521T160029Z">
+        <seg>Per visualizzare il conteggio dei caratteri senza spazi, fare clic sul conteggio delle parole nella barra di stato o scegliere &lt;f0&gt;Strumenti &gt; Conteggio parole&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To dock all floating toolbars in their default positions, select &lt;f0&gt;Dock All Toolbars&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T174439Z" creationid="Elisabetta" creationdate="20241106T174439Z">
@@ -14908,6 +14932,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250415T170522Z" creationid="Elisabetta" creationdate="20250415T170522Z">
         <seg>Per ripetere l'ultimo comando di annullamento o ripristino applicato a un documento, adottare uno dei seguenti metodi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select a different page style, right-click on this field.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160316Z" creationid="Elisabetta" creationdate="20250521T160316Z">
+        <seg>Per applicare uno stile diverso alla pagina, fare clic con il pulsante destro del mouse su questo campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16501,6 +16533,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182314Z" creationid="valter" creationdate="20211115T182314Z">
         <seg>È possibile pagare il supporto tramite contratti di assistenza siglati presso un distributore o un'azienda di consulenza specializzata in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;f0&gt;File &gt; Properties&lt;/f0&gt;,&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Statistics&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160140Z" creationid="Elisabetta" creationdate="20250521T160140Z">
+        <seg>È inoltre possibile visualizzare il numero di parole e caratteri (con altre informazioni, tra cui il numero di pagine, tabelle e immagini) dell'intero documento nella scheda &lt;f0&gt;File &gt; Proprietà&lt;/f0&gt;,&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Statistiche&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
