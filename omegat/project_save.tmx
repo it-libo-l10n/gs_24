@@ -2633,8 +2633,8 @@
       <tuv lang="en-US">
         <seg>Changing the page style here may affect the styles of subsequent pages, depending on how the page styles are set up.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T161041Z" creationid="Elisabetta" creationdate="20250521T161041Z">
-        <seg>La modifica dello stile in questo punto della pagina può influire sugli stili delle pagine successive, in base alla loro impostazione.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T161348Z" creationid="Elisabetta" creationdate="20250521T161041Z">
+        <seg>La modifica dello stile in questo punto della pagina può cambiare gli stili delle pagine successive, in base alla configurazione di tali stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11603,6 +11603,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160213Z" creationid="valter" creationdate="20241023T160213Z">
         <seg>Vedere la Tabella &lt;t2&gt;2&lt;/t2&gt; &lt;t3&gt;sottostante&lt;/t3&gt;&lt;s4/&gt; per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T161048Z" creationid="Elisabetta" creationdate="20250521T161048Z">
+        <seg>Vedere la &lt;f3&gt;Guida a Draw&lt;/f3&gt; per dettagli.</seg>
       </tuv>
     </tu>
     <tu>
