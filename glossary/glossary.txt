@@ -84,3 +84,4 @@ Using	Utilizzare
 Navigating	Spostarsi
 Form design	Struttura del formulario
 workspace	area di lavoro
+More	Altro
