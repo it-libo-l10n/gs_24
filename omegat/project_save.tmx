@@ -1495,6 +1495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A small Go to Page dialog pops up.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155716Z" creationid="Elisabetta" creationdate="20250521T155716Z">
+        <seg>Compare una piccola finestra di dialogo Vai alla pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A system administrator, programmer, or other person who customizes JRE installations, can use the &lt;f0&gt;Parameters&lt;/f0&gt; and &lt;f1&gt;Class Path&lt;/f1&gt; dialogs to specify this information.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201406Z" creationid="valter" creationdate="20241023T201406Z">
@@ -13359,6 +13367,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character count includes spaces.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155931Z" creationid="Elisabetta" creationdate="20250521T155931Z">
+        <seg>Il conteggio dei caratteri include gli spazi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The check mark next to &lt;f1&gt;Lock Toolbar Position&lt;/f1&gt; is removed.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T180332Z" creationid="Elisabetta" creationdate="20241030T183517Z">
@@ -14019,6 +14035,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T161728Z" creationid="valter" creationdate="20241017T161728Z">
         <seg>I dati di utilizzo sono inviati in forma anonima e non veicolano alcun contenuto del documento, ma solo i comandi utilizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The word and character counts of the document are kept up to date as you edit.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155835Z" creationid="Elisabetta" creationdate="20250521T155835Z">
+        <seg>Il conteggio delle parole e dei caratteri viene aggiornato durante la modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15065,6 +15089,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type the required page number and click &lt;f0&gt;OK&lt;/f0&gt; or press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155733Z" creationid="Elisabetta" creationdate="20250521T155733Z">
+        <seg>Digitare il numero di pagina desiderato e fare clic su &lt;f0&gt;OK&lt;/f0&gt; o premere &lt;f1&gt;Invio&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Undoing</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T172823Z" creationid="Elisabetta" creationdate="20241017T172823Z">
@@ -15969,6 +16001,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When text is selected, the word and character counts for the selection will appear here.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155909Z" creationid="Elisabetta" creationdate="20250521T155909Z">
+        <seg>Quando si seleziona un testo, il conteggio delle parole e dei caratteri della selezione è visibile qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the toolbar becomes a floating toolbar, the toolbar handle disappears.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183555Z" creationid="Elisabetta" creationdate="20241104T183555Z">
@@ -16253,6 +16293,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T212514Z" creationid="valter" creationdate="20241113T212514Z">
         <seg>Con OpenCL abilitato, LibreOffice può beneficiare dei calcoli numerici molto veloci eseguiti nella GPU, particolarmente utile in fogli di calcolo molto grandi con calcoli estesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Word and character count</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155744Z" creationid="Elisabetta" creationdate="20250521T155744Z">
+        <seg>Conteggio parole e caratteri</seg>
       </tuv>
     </tu>
     <tu>
