@@ -2519,6 +2519,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160656Z" creationid="Elisabetta" creationdate="20250521T160656Z">
+        <seg>Attenzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cell borders and shadows are always shown in text color when high-contrast mode is active.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180556Z" creationid="valter" creationdate="20241023T180556Z">
@@ -2619,6 +2627,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T153206Z" creationid="Elisabetta" creationdate="20250519T153206Z">
         <seg>Modificare l'intervallo di tabulazione predefinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changing the page style here may affect the styles of subsequent pages, depending on how the page styles are set up.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T161041Z" creationid="Elisabetta" creationdate="20250521T161041Z">
+        <seg>La modifica dello stile in questo punto della pagina può influire sugli stili delle pagine successive, in base alla loro impostazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13291,6 +13307,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T163847Z" creationid="Elisabetta" creationdate="20250413T163847Z">
         <seg>Il Navigatore offre un metodo semplice per individuare e selezionare gli oggetti all'interno di un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Page Style dialog opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160649Z" creationid="Elisabetta" creationdate="20250521T160649Z">
+        <seg>Si apre la finestra di dialogo Stile di pagina.</seg>
       </tuv>
     </tu>
     <tu>
