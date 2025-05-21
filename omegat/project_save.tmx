@@ -14727,6 +14727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To jump to a specific page in the document, click on this field.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155617Z" creationid="Elisabetta" creationdate="20250521T155617Z">
+        <seg>Per passare a una  pagina specifica del documento, fare clic su questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To lock a docked toolbar into its docked position, select &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T155901Z" creationid="Elisabetta" creationdate="20241106T175245Z">
