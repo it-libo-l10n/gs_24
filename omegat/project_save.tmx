@@ -16587,8 +16587,8 @@
       <tuv lang="en-US">
         <seg>You can also choose &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt; to exclude the text from a spelling check or choose &lt;f1&gt;More&lt;/f1&gt; to open the Character dialog.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T163703Z" creationid="Elisabetta" creationdate="20250521T163703Z">
-        <seg>È anche possibile scegliere &lt;f0&gt;Nessuna (Non eseguire controllo ortografico)&lt;/f0&gt; per escludere il testo dal controllo ortografico o scegliere &lt;f1&gt;Extra&lt;/f1&gt; per aprire la finestra di dialogo Carattere.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T163938Z" creationid="Elisabetta" creationdate="20250521T163703Z">
+        <seg>È anche possibile scegliere &lt;f0&gt;Nessuna (Non eseguire controllo ortografico)&lt;/f0&gt; per escludere il testo dal controllo ortografico o scegliere &lt;f1&gt;Altro&lt;/f1&gt; per aprire la finestra di dialogo Carattere.</seg>
       </tuv>
     </tu>
     <tu>
