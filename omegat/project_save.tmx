@@ -3215,6 +3215,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to cycle between the selection modes; right-click to select the required mode from a context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152248Z" creationid="Elisabetta" creationdate="20250523T152248Z">
+        <seg>Fare clic per passare da una modalità di selezione all'altra, oppure fare clic con il pulsante destro del mouse per selezionare la modalità desiderata da un menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open a menu where you can choose another language or localization for the selected text or for the paragraph where the cursor is located.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T162338Z" creationid="Elisabetta" creationdate="20250521T162123Z">
@@ -12295,6 +12303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selection mode</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152031Z" creationid="Elisabetta" creationdate="20250523T152031Z">
+        <seg>Modo selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selection of text, or graphics (Writer).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250507T105829Z" creationid="Elisabetta" creationdate="20250507T105450Z">
@@ -13731,6 +13747,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162850Z" creationid="Elisabetta" creationdate="20250519T162850Z">
         <seg>L'icona cambia colore per indicare la presenza o l'assenza di modifiche non salvate nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The icon does not change, but when you hover the mouse pointer over this field, a tooltip indicates which mode is active.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152335Z" creationid="Elisabetta" creationdate="20250523T152335Z">
+        <seg>L'icona non cambia, ma quando il puntatore del mouse passa su questo campo, un suggerimento indica la modalità attiva.</seg>
       </tuv>
     </tu>
     <tu>
