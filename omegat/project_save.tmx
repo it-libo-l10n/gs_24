@@ -1407,6 +1407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A block of text can be selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T153437Z" creationid="Elisabetta" creationdate="20250523T153437Z">
+        <seg>È possibile selezionare un blocco di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A check mark appears against &lt;f1&gt;Lock Toolbar Position&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T180224Z" creationid="Elisabetta" creationdate="20241030T183228Z">
@@ -2363,6 +2371,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160701Z" creationid="valter" creationdate="20241023T160701Z">
         <seg>Vuota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Block selection (&lt;f0&gt;Alt+Shift+F8&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T153416Z" creationid="Elisabetta" creationdate="20250523T153416Z">
+        <seg>Selezione Blocco (&lt;f0&gt;Alt+Maiusc+F8&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9714,6 +9730,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On Windows systems, you can hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging to select a block of text.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T153636Z" creationid="Elisabetta" creationdate="20250523T153636Z">
+        <seg>Nei sistemi Windows, è possibile tenere premuto il tasto &lt;f0&gt;Alt&lt;/f0&gt; durante il trascinamento, per selezionare un blocco di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T171800Z" creationid="valter" creationdate="20240928T171800Z">
@@ -14067,6 +14091,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202245Z" creationid="valter" creationdate="20241021T202245Z">
         <seg>La risoluzione può essere solo ridotta, non aumentata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The result is a multiple selection.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T153331Z" creationid="Elisabetta" creationdate="20250523T153331Z">
+        <seg>Il risultato è una selezione multipla.</seg>
       </tuv>
     </tu>
     <tu>
