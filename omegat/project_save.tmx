@@ -7016,6 +7016,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the document has been digitally signed, an icon is displayed here; otherwise, it is blank.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154119Z" creationid="Elisabetta" creationdate="20250523T154119Z">
+        <seg>Se il documento è stato firmato digitalmente, è visibile un'icona, altrimenti compare in bianco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the document has not been saved since the last change, a confirmation dialog opens with a warning message.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T141635Z" creationid="Elisabetta" creationdate="20250409T155749Z">
