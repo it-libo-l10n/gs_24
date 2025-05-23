@@ -7018,8 +7018,8 @@
       <tuv lang="en-US">
         <seg>If the document has been digitally signed, an icon is displayed here; otherwise, it is blank.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154119Z" creationid="Elisabetta" creationdate="20250523T154119Z">
-        <seg>Se il documento è stato firmato digitalmente, è visibile un'icona, altrimenti compare in bianco.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154231Z" creationid="Elisabetta" creationdate="20250523T154119Z">
+        <seg>Se il documento è stato firmato digitalmente, è visibile un'icona, altrimenti l'area rimane vuota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11654,6 +11654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Section or object information</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154324Z" creationid="Elisabetta" creationdate="20250523T154324Z">
+        <seg>Informazioni sulla sezione o sull'oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Security</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105643Z" creationid="valter" creationdate="20241017T105643Z">
@@ -11714,6 +11722,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241129T185511Z" creationid="Elisabetta" creationdate="20241129T185511Z">
         <seg>Per ulteriori informazioni su come lavorare con i diversi tipi di file, consultare il Capitolo 10, Lavorare con formati di file, sicurezza ed esportazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 10, Working with File Formats, Security, and Exporting, for more information.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154316Z" creationid="Elisabetta" creationdate="20250523T154316Z">
+        <seg>Per ulteriori informazioni, consultare il capitolo 10, Lavorare con i formati di file, la sicurezza e l'esportazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15192,6 +15208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To sign the document, or to view the certificate, click the area or icon.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154143Z" creationid="Elisabetta" creationdate="20250523T154143Z">
+        <seg>Per firmare il documento o visualizzare il certificato, fare clic sull'area o sull'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start Impress without the Select a Template dialog (Figure &lt;t0&gt;124&lt;/t0&gt;), deselect &lt;f1&gt;Show this dialog at startup&lt;/f1&gt; in the lower left of the dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153959Z" creationid="Elisabetta Manuele" creationdate="20211111T153959Z">
@@ -16269,6 +16293,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155909Z" creationid="Elisabetta" creationdate="20250521T155909Z">
         <seg>Quando si seleziona un testo, il conteggio delle parole e dei caratteri della selezione è visibile qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the cursor is in a section, heading, or list item, or when an object (such as a picture or table) is selected, information about that item appears in this field.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154328Z" creationid="Elisabetta" creationdate="20250523T154328Z">
+        <seg>Quando il cursore si trova in una sezione, intestazione, o voce di un elenco, oppure quando è selezionato un oggetto (come un'immagine o una tabella), in questo campo vengono visualizzate le informazioni corrispondenti.</seg>
       </tuv>
     </tu>
     <tu>
