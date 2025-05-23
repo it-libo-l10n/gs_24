@@ -1495,6 +1495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A new, separate selection is added to an existing selection.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T153323Z" creationid="Elisabetta" creationdate="20250523T153323Z">
+        <seg>Alla selezione esistente viene aggiunta una nuova selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A relative address always starts from the directory in which the current document is located.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T221543Z" creationid="valter" creationdate="20241113T221543Z">
@@ -1611,6 +1619,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T154448Z" creationid="Elisabetta" creationdate="20250519T154448Z">
         <seg>Aggiungere commenti a un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding selection (&lt;f0&gt;Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152743Z" creationid="Elisabetta" creationdate="20250523T152743Z">
+        <seg>Selezione Aggiunta (&lt;f0&gt;Maiusc+F8)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3251,6 +3267,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T211936Z" creationid="valter" creationdate="20241113T211936Z">
         <seg>Fare clic per scegliere la cartella di destinazione dei file scaricati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking in the text extends or crops the current selection.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152717Z" creationid="Elisabetta" creationdate="20250523T152610Z">
+        <seg>Facendo clic nel testo è possibile estendere o ridurre la selezione attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12929,8 +12953,8 @@
       <tuv lang="en-US">
         <seg>Standard selection</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152441Z" creationid="Elisabetta" creationdate="20250523T152441Z">
-        <seg>Selezione standard</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152626Z" creationid="Elisabetta" creationdate="20250523T152441Z">
+        <seg>Selezione Standard</seg>
       </tuv>
     </tu>
     <tu>
