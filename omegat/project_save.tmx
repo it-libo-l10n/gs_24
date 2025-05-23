@@ -14417,8 +14417,8 @@
       <tuv lang="en-US">
         <seg>This feature is disabled when in Record Changes mode.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T150203Z" creationid="Elisabetta" creationdate="20250523T150203Z">
-        <seg>&lt;f4&gt;Questa funzionalità è disabilitata quando è attiva la registrazione delle modifiche, attivabile andando su &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Modifica &gt; Modifiche &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&gt; Registra&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152011Z" creationid="Elisabetta" creationdate="20250523T150203Z">
+        <seg>Questa funzione è disattivata in modalità di registrazione modifiche.</seg>
       </tuv>
     </tu>
     <tu>
