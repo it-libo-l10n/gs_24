@@ -86,3 +86,4 @@ Form design	Struttura del formulario
 workspace	area di lavoro
 More	Altro
 Insert mode	Modo Inserimento	Voce UI
+Overwrite mode	Modo Sovrascrittura
