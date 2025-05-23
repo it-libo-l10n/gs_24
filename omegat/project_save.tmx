@@ -16873,6 +16873,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You do not need to enter the block selection mode.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T153816Z" creationid="Elisabetta" creationdate="20250523T153816Z">
+        <seg>Non è necessario accedere alla modalità di selezione blocco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also wish to consult the &lt;f2&gt;Draw Guide&lt;/f2&gt; for more details on how to use the drawing tools.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151653Z" creationid="Elisabetta Manuele" creationdate="20211110T151653Z">
