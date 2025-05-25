@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Chapter 12, Configuring LibreOffice&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180154Z" creationid="valter" creationdate="20250525T180154Z">
+        <seg>[fuzzy]Guida introduttiva 24.8 - Capitolo 12, Configurazione di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Preface&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T195920Z" creationid="valter" creationdate="20240929T195920Z">
@@ -2703,6 +2711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 13, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180233Z" creationid="valter" creationdate="20250525T180233Z">
+        <seg>Capitolo 13, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 2, &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T141411Z" creationid="Elisabetta" creationdate="20241016T155538Z">
@@ -3755,6 +3771,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T173731Z" creationid="valter" creationdate="20241023T173731Z">
         <seg>Colori personalizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180246Z" creationid="valter" creationdate="20250525T180246Z">
+        <seg>Personalizzare LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -8185,6 +8209,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jean Hollis Weber, John A Smith.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180303Z" creationid="valter" creationdate="20250525T180303Z">
+        <seg>Jean Hollis Weber, John A Smith.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JiHui Choi</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101853Z" creationid="valter" creationdate="20211016T101853Z">
@@ -8234,6 +8266,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jorge Rodríguez.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180313Z" creationid="valter" creationdate="20250525T180313Z">
+        <seg>Jorge Rodríguez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep in mind that any changes made to the temporary user profile are lost after a restart.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174040Z" creationid="Elisabetta" creationdate="20250510T174040Z">
@@ -8246,6 +8286,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101724Z" creationid="valter" creationdate="20211016T101724Z">
         <seg>Kees Kriek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kees Kriek.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180321Z" creationid="valter" creationdate="20250525T180321Z">
+        <seg>Kees Kriek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14787,6 +14835,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190338Z" creationid="valter" creationdate="20211115T190338Z">
         <seg>Miniatura o anteprima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Timothy Brennan Jr., Antonio Fernandez, Olivier Hallot</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180256Z" creationid="valter" creationdate="20250525T180256Z">
+        <seg>Timothy Brennan Jr., Antonio Fernandez, Olivier Hallot</seg>
       </tuv>
     </tu>
     <tu>
