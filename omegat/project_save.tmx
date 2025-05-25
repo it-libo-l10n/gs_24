@@ -4015,6 +4015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Different user interface variants can be selected and used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T181353Z" creationid="valter" creationdate="20250525T181353Z">
+        <seg>possono essere selezionate e utilizzate diverse varianti dell'interfaccia utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Digital signature</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241107T165940Z" creationid="Elisabetta" creationdate="20241107T165940Z">
@@ -9314,6 +9322,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Menus, toolbars, keyboard shortcuts, and the tabbed interface in LibreOffice can be customized.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T181223Z" creationid="valter" creationdate="20250525T181223Z">
+        <seg>possono essere personalizzati i menu, le barre degli strumenti e l'interfaccia a schede;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microsoft Excel</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T182836Z" creationid="valter" creationdate="20241123T182836Z">
@@ -9622,6 +9638,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241016T202240Z" creationid="valter" creationdate="20241016T202240Z">
         <seg>I nuovi documenti vengono numerati in base all'ordine di creazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New menus and toolbars assign macros to events that can be added.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T181315Z" creationid="valter" creationdate="20250525T181315Z">
+        <seg>possono essere aggiunti nuovi menu e barre degli strumenti per assegnare macro agli eventi;</seg>
       </tuv>
     </tu>
     <tu>
