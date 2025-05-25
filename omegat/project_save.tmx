@@ -8362,6 +8362,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice 7.6 requires macOS 10.15 or newer to run.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180552Z" creationid="valter" creationdate="20250525T180552Z">
+        <seg>LibreOffice 7.6 richiede macOS 10.15, o versione più recente, per essere eseguito.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice &lt;/f2&gt;&lt;f4&gt;7.0&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20230225T235941Z" creationid="calem" creationdate="20230225T235941Z">
@@ -8382,6 +8390,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185424Z" creationid="valter" creationdate="20211115T185424Z">
         <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice &gt; Preferences or ⌘ ,</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180607Z" creationid="valter" creationdate="20250525T180607Z">
+        <seg>LibreOffice &gt; Preferenze o ⌘,</seg>
       </tuv>
     </tu>
     <tu>
@@ -9282,6 +9298,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Menu customization</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180643Z" creationid="valter" creationdate="20250525T180643Z">
+        <seg>Personalizzazione dei menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Menu icons, Shortcuts</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T172844Z" creationid="valter" creationdate="20241017T172844Z">
@@ -9766,6 +9790,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100328Z" creationid="valter" creationdate="20240928T100328Z">
         <seg>Olivier Hallot, &lt;f0&gt;Timothy Brennan, Jr.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Olivier Hallot.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180331Z" creationid="valter" creationdate="20250525T180331Z">
+        <seg>Olivier Hallot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10758,10 +10790,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peter Schofield.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180357Z" creationid="valter" creationdate="20250525T180357Z">
+        <seg>Peter Schofield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required) or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T105233Z" creationid="valter" creationdate="20241017T105233Z">
         <seg>Per commenti o suggerimenti su questo documento rivolgersi al Documentation Team Forum all'indirizzo &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (è necessario registrarsi), oppure inviare un messaggio di posta elettronica a: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required), or send an email to &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180517Z" creationid="valter" creationdate="20250525T180517Z">
+        <seg>Per commenti o suggerimenti su questo documento rivolgersi al forum del Team di documentazione all'indirizzo &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (è necessario registrarsi), oppure inviare un messaggio di posta elettronica a: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11190,6 +11238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rafael Lima.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180340Z" creationid="valter" creationdate="20250525T180340Z">
+        <seg>Rafael Lima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Range and Copies</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164018Z" creationid="Elisabetta" creationdate="20250430T164018Z">
@@ -11522,6 +11578,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
         <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ron Faile Jr., Skip Masonsmith, Steve Fanning.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180348Z" creationid="valter" creationdate="20250525T180348Z">
+        <seg>Ron Faile Jr., Skip Masonsmith, Steve Fanning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14539,6 +14603,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T214959Z" creationid="valter" creationdate="20241113T214959Z">
         <seg>Ciò potrebbe far sì che un documento venga stampato su una stampante distante (magari in una configurazione di ufficio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chapter describes some common customizations that can be carried out, as follows:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T180819Z" creationid="valter" creationdate="20250525T180819Z">
+        <seg>Questo capitolo contiene le istruzioni per effettuare alcune delle personalizzazioni più comuni, ossia:</seg>
       </tuv>
     </tu>
     <tu>
