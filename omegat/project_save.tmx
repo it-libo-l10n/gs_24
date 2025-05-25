@@ -3775,6 +3775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customizations can also be carried out by adding extensions that can be installed from the LibreOffice website or from other providers.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T181801Z" creationid="valter" creationdate="20250525T181801Z">
+        <seg>Le personalizzazioni si possono effettuare anche aggiungendo estensioni reperibili nel sito web di LibreOffice o da altri fornitori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20250525T180246Z" creationid="valter" creationdate="20250525T180246Z">
@@ -5764,6 +5772,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241021T202045Z" creationid="valter" creationdate="20241021T202045Z">
         <seg>Per ulteriori informazioni si veda il collegamento seguente: &lt;a0&gt;https://www.linuxfoundation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, see “&lt;bf0&gt;Adding extensions&lt;/bf0&gt;” on page &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T181942Z" creationid="valter" creationdate="20250525T181942Z">
+        <seg>Per ulteriori informazioni consultare il paragrafo “&lt;bf0&gt;Aggiungere estensioni&lt;/bf0&gt;” a pagina &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
