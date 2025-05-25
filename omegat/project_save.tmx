@@ -3799,6 +3799,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customizing existing menus</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T204538Z" creationid="valter" creationdate="20250525T204538Z">
+        <seg>Personalizzare menu esistenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing toolbars</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241017T171643Z" creationid="Elisabetta" creationdate="20241017T171643Z">
@@ -13503,6 +13511,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f4&gt;Context Menus&lt;/f4&gt; page is similar to the &lt;f5&gt;Menus&lt;/f5&gt; page.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T204525Z" creationid="valter" creationdate="20250525T204525Z">
+        <seg>La scheda &lt;f4&gt;Menu contestuali&lt;/f4&gt; è simile a quella &lt;f5&gt;Menu&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f5&gt;Toolbar&lt;/f5&gt;, &lt;f6&gt;Notebookbar&lt;/f6&gt; and &lt;f7&gt;Sidebar&lt;/f7&gt; can have different settings.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T172656Z" creationid="valter" creationdate="20241017T172656Z">
@@ -14003,6 +14019,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T154234Z" creationid="Elisabetta" creationdate="20250505T154234Z">
         <seg>Le seguenti opzioni generali sono un esempio delle opzioni disponibili nella pagina Generale della finestra di dialogo Stampa di Impress in macOS (Figura &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following is an example of customizing a menu in LibreOffice Writer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T204628Z" creationid="valter" creationdate="20250525T204628Z">
+        <seg>L'esempio seguente si riferisce alla personalizzazione di un menu in LibreOffice Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15115,6 +15139,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T173025Z" creationid="Elisabetta" creationdate="20241106T173025Z">
         <seg>Per personalizzare una barra degli strumenti, è possibile aggiungere gli strumenti elencati in &lt;f0&gt;Pulsanti visibili&lt;/f0&gt;, oppure aggiungerne di nuovi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To customize menus, go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the Menu bar and select the &lt;f1&gt;Menus&lt;/f1&gt; page (Figure &lt;t2&gt;1&lt;/t2&gt;), or the &lt;f3&gt;Context Menus&lt;/f3&gt; page, from the context menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T204446Z" creationid="valter" creationdate="20250525T204446Z">
+        <seg>Per personalizzare i menu posizionarsi su &lt;f0&gt;Strumenti &gt; Personalizza&lt;/f0&gt; nella barra dei menu e selezionare la scheda &lt;f1&gt;Menu&lt;/f1&gt; (Figura &lt;t2&gt;1&lt;/t2&gt;), oppure la scheda &lt;f3&gt;Menu contestuali&lt;/f3&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
