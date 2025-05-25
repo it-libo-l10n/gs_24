@@ -3783,6 +3783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customized menus and toolbars can be saved in a template.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T182120Z" creationid="valter" creationdate="20250525T182120Z">
+        <seg>Le personalizzazioni dei menu e delle barre degli strumenti si possono salvare in un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20250525T180246Z" creationid="valter" creationdate="20250525T180246Z">
@@ -5756,6 +5764,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T151757Z" creationid="valter" creationdate="20241016T201932Z">
         <seg>Per maggiori informazioni, consultare il Capitolo 13 (Personalizzazione di LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, see Chapter 4, Working with Styles, Templates, and Hyperlinks.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T182258Z" creationid="valter" creationdate="20250525T182258Z">
+        <seg>Per ulteriori informazioni vedere il Capitolo 4, Lavorare con stili, modelli e collegamenti ipertestuali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9334,6 +9350,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T172844Z" creationid="valter" creationdate="20241017T172844Z">
         <seg>Icone del menu, Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Menus and commands on the Menu bar or context menus can be added, rearranged, removed, or other changes made.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T182420Z" creationid="valter" creationdate="20250525T182420Z">
+        <seg>I menu e i comandi presenti nella barra dei menu o nei menu contestuali possono essere aggiunti, riordinati, rimossi e altro ancora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13835,6 +13859,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241104T183328Z" creationid="Elisabetta" creationdate="20241104T183328Z">
         <seg>Il cursore assumerà la forma grafica dello spostamento prevista dal computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The customized menus and toolbars are created in a document and the document is then saved as a template.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250525T182207Z" creationid="valter" creationdate="20250525T182207Z">
+        <seg>I menu e le barre degli strumenti personalizzate vengono create in un documento che viene poi salvato come modello.</seg>
       </tuv>
     </tu>
     <tu>
