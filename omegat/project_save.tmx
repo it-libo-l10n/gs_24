@@ -11070,6 +11070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print layout</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250530T183113Z" creationid="valter" creationdate="20250530T183113Z">
+        <seg>Layout di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Print multiple pages, sheets, or slides on one page</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T161940Z" creationid="Elisabetta" creationdate="20250430T161940Z">
