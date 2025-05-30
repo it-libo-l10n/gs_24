@@ -3455,6 +3455,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Complex Text Layout</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250530T182406Z" creationid="valter" creationdate="20250530T182406Z">
+        <seg>Disposizione testo complesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configure</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T172459Z" creationid="Elisabetta" creationdate="20250510T172459Z">
@@ -4523,6 +4531,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160308Z" creationid="valter" creationdate="20241023T160308Z">
         <seg>Abilita le impostazioni relative alla sostituzione dei tipi di carattere definite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>English sentence checking</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250530T182501Z" creationid="valter" creationdate="20250530T182501Z">
+        <seg>[fuzzy]Controllo delle frasi in inglese</seg>
       </tuv>
     </tu>
     <tu>
@@ -7048,6 +7064,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If selected, when exporting to HTML a warning is displayed stating that LibreOffice Basic macros will be lost.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250530T183101Z" creationid="valter" creationdate="20250530T183101Z">
+        <seg>Se l'opzione è selezionata, quando si esporta in HTML viene mostrato un avvertimento per ricordare che le macro di LibreOffice Basic andranno perdute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the &lt;f1&gt;Application background&lt;/f1&gt; is set to Automatic, 40% grey is used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T174829Z" creationid="valter" creationdate="20241023T174739Z">
@@ -8358,6 +8382,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180954Z" creationid="valter" creationdate="20211115T180954Z">
         <seg>Knowledge Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language tool server</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20250530T182438Z" creationid="valter" creationdate="20250530T182438Z">
+        <seg>Server Language Tool</seg>
       </tuv>
     </tu>
     <tu>
