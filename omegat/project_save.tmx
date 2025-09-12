@@ -16217,6 +16217,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View layout</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173014Z" creationid="Elisabetta" creationdate="20250912T173014Z">
+        <seg>Layout di visualizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Visibility</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T172829Z" creationid="valter" creationdate="20241017T172829Z">
