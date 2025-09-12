@@ -3001,8 +3001,8 @@
       <tuv lang="en-US">
         <seg>Click an icon to change between single page, multiple pages, and book layout views (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173634Z" creationid="Elisabetta" creationdate="20250912T173634Z">
-        <seg>Fare clic sulle icone per passare dalla visualizzazione a pagina singola, a quella a pagine affiancate e alla visualizzazione a libro.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173722Z" creationid="Elisabetta" creationdate="20250912T173634Z">
+        <seg>Fare clic sulle icone per passare dalla visualizzazione a pagina singola, a quella a pagine affiancate e alla visualizzazione a libro (Figura &lt;t0&gt;4&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17137,6 +17137,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can edit the document in any view.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173846Z" creationid="Elisabetta" creationdate="20250912T173653Z">
+        <seg>Il documento può essere modificato in qualsiasi modalità di visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182737Z" creationid="valter" creationdate="20211115T182737Z">
@@ -17293,6 +17301,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20221209T231840Z" creationid="akurery" creationdate="20221209T231840Z">
         <seg>Percentuale di ingrandimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom settings interact with the selected view layout and the window width to determine how many pages are visible in the window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T174202Z" creationid="Elisabetta" creationdate="20250912T174202Z">
+        <seg>Il numero di pagine visibili nella finestra del documento è influenzato dalle impostazioni dello zoom, dal layout di visualizzazione scelto e dalla larghezza della finestra.</seg>
       </tuv>
     </tu>
     <tu>
