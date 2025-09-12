@@ -2999,6 +2999,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click an icon to change between single page, multiple pages, and book layout views (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173634Z" creationid="Elisabetta" creationdate="20250912T173634Z">
+        <seg>Fare clic sulle icone per passare dalla visualizzazione a pagina singola, a quella a pagine affiancate e alla visualizzazione a libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click in the text where you want to position the cursor and drag to where you want the selection to end.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T152527Z" creationid="Elisabetta" creationdate="20250523T152527Z">
@@ -16219,8 +16227,8 @@
       <tuv lang="en-US">
         <seg>View layout</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173014Z" creationid="Elisabetta" creationdate="20250912T173014Z">
-        <seg>Layout di visualizzazione</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173126Z" creationid="Elisabetta" creationdate="20250912T173014Z">
+        <seg>Visualizza impaginazione</seg>
       </tuv>
     </tu>
     <tu>
