@@ -3311,6 +3311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking in this area opens a relevant dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T105429Z" creationid="Elisabetta" creationdate="20250912T105429Z">
+        <seg>Il doppio clic in quest'area apre una finestra di dialogo relativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking on a command in the resulting list may open a relevant dialog or have other effects.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161528Z" creationid="valter" creationdate="20240928T161528Z">
