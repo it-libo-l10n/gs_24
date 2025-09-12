@@ -3313,8 +3313,8 @@
       <tuv lang="en-US">
         <seg>Clicking in this area opens a relevant dialog.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T105429Z" creationid="Elisabetta" creationdate="20250912T105429Z">
-        <seg>Il doppio clic in quest'area apre una finestra di dialogo relativa.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T172929Z" creationid="Elisabetta" creationdate="20250912T105429Z">
+        <seg>Facendo clic in quest'area si apre la relativa finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5467,6 +5467,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T164725Z" creationid="valter" creationdate="20240928T164725Z">
         <seg>Per ottenere assistenza completa in linea dalla comunità, guardare le mailing list e il sito web Ask di LibreOffice (&lt;a2&gt;https://ask.libreoffice.org/en/questions/&lt;/a2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T172949Z" creationid="Elisabetta" creationdate="20250912T172949Z">
+        <seg>Per maggiori dettagli, consultare la Guida in linea o la &lt;f0&gt;Guida a Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
