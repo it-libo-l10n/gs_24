@@ -17297,6 +17297,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T174206Z" creationid="Elisabetta" creationdate="20250912T174206Z">
+        <seg>Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zoom percentage</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20221209T231840Z" creationid="akurery" creationdate="20221209T231840Z">
