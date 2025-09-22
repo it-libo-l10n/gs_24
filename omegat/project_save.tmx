@@ -1991,6 +1991,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An example is shown in Chapter 1, LibreOffice Basics.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T161426Z" creationid="Elisabetta" creationdate="20250922T161426Z">
+        <seg>Il capitolo 1, Fondamenti di LibreOffice, ne riporta un esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An example of the Writer Sidebar is shown in Figure &lt;t0&gt;5&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T182853Z" creationid="Elisabetta" creationdate="20241108T182853Z">
@@ -7004,6 +7012,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T165019Z" creationid="Elisabetta" creationdate="20250510T165019Z">
         <seg>Se necessario, fare clic su &lt;f1&gt;Anteprima a libro&lt;/f1&gt; nella barra di stato per visualizzare il documento in formato libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, select &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; on the Menu bar, or press &lt;f1&gt;Ctrl+F5&lt;/f1&gt;, to display it.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T161231Z" creationid="Elisabetta" creationdate="20250922T161231Z">
+        <seg>Se necessario, selezionare &lt;f0&gt;Visualizza &gt; Barra laterale&lt;/f0&gt; sulla barra dei menu o premere &lt;f1&gt;Ctrl+F5&lt;/f1&gt; per visualizzarla.</seg>
       </tuv>
     </tu>
     <tu>
