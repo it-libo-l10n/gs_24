@@ -15143,6 +15143,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the view magnification, drag the Zoom slider, or click on the + and – signs, or right-click on the zoom level percent (Zoom factor) to pop up a menu of magnification values from which to choose, or click on the zoom level percent to pop up the Zoom &amp; View Layout dialog where you can specify other magnification values.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T151747Z" creationid="Elisabetta" creationdate="20250922T151747Z">
+        <seg>Per modificare l'ingrandimento della visualizzazione, trascinare il cursore dello zoom, o fare clic sui segni + e – , oppure fare clic destro sulla percentuale del livello di zoom (fattore di zoom) per visualizzare un menu con i valori di ingrandimento tra cui scegliere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change to using LibreOffice dialogs:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T171502Z" creationid="valter" creationdate="20240928T171502Z">
