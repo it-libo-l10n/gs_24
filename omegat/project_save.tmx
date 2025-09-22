@@ -1271,6 +1271,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;View layouts: single page, multiple pages, book&lt;/s0&gt;&lt;s1&gt;View layouts: single page, multiple pages, book&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T160817Z" creationid="Elisabetta" creationdate="20250922T160817Z">
+        <seg>&lt;s0&gt;Impaginazione: Singola pagina per riga, Più pagine per riga, Vista a libro&lt;/s0&gt;&lt;s1&gt;Impaginazione: Singola pagina per riga, Più pagine per riga, Vista a libro&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Writer Status bar, left end&lt;/s0&gt;&lt;s1&gt;Writer Status bar, left end&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250519T162225Z" creationid="Elisabetta" creationdate="20250519T162225Z">
@@ -15145,8 +15153,8 @@
       <tuv lang="en-US">
         <seg>To change the view magnification, drag the Zoom slider, or click on the + and – signs, or right-click on the zoom level percent (Zoom factor) to pop up a menu of magnification values from which to choose, or click on the zoom level percent to pop up the Zoom &amp; View Layout dialog where you can specify other magnification values.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T151747Z" creationid="Elisabetta" creationdate="20250922T151747Z">
-        <seg>Per modificare l'ingrandimento della visualizzazione, trascinare il cursore dello zoom, o fare clic sui segni + e – , oppure fare clic destro sulla percentuale del livello di zoom (fattore di zoom) per visualizzare un menu con i valori di ingrandimento tra cui scegliere.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T153241Z" creationid="Elisabetta" creationdate="20250922T151747Z">
+        <seg>Per modificare l'ingrandimento della visualizzazione, trascinare il cursore dello zoom, o fare clic sui segni + e – , oppure fare clic destro sulla percentuale del livello di zoom (fattore di zoom) per visualizzare un menu con i valori di ingrandimento tra cui scegliere.In alternativa, fare clic sulla percentuale del livello di zoom per visualizzare la finestra di dialogo Zoom e Layout di visualizzazione, in cui è possibile specificare altri valori di ingrandimento.</seg>
       </tuv>
     </tu>
     <tu>
