@@ -5135,6 +5135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: View layouts: single page, multiple pages, book</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T160933Z" creationid="Elisabetta" creationdate="20250922T160907Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: impaginazione: singola pagina per riga, più pagine per riga, vista a libro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Example of Properties deck in Writer Sidebar</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T164442Z" creationid="Elisabetta" creationdate="20241113T172044Z">
@@ -13799,6 +13807,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Sidebar is normally open by default on the right side of the Writer window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T161138Z" creationid="Elisabetta" creationdate="20250922T161138Z">
+        <seg>La Barra laterale solitamente si apre sul lato destro della finestra di Writer per impostazione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Status bar is located at the bottom of the workspace.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241106T182857Z" creationid="Elisabetta" creationdate="20241106T182857Z">
@@ -16245,6 +16261,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250912T173126Z" creationid="Elisabetta" creationdate="20250912T173014Z">
         <seg>Visualizza impaginazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View layouts: single page, multiple pages, book</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250922T160949Z" creationid="Elisabetta" creationdate="20250922T160913Z">
+        <seg>Impaginazione: singola pagina per riga, più pagine per riga, vista a libro</seg>
       </tuv>
     </tu>
     <tu>
