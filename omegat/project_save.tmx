@@ -655,6 +655,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Effect&lt;/f0&gt;: Add and adjust a Glow or Soft Edge effect to the object.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T172039Z" creationid="Elisabetta" creationdate="20250930T172039Z">
+        <seg>&lt;f0&gt;Effetto&lt;/f0&gt;: aggiunge e regola un effetto Bagliore o Bordo sfumato all'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Embedded Objects&lt;/f0&gt; specifies how Microsoft Office objects, or other OLE objects, are imported and exported.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T183708Z" creationid="valter" creationdate="20241123T183708Z">
