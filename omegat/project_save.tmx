@@ -4423,6 +4423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each deck consists of a title bar and one or more content panels.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T164845Z" creationid="Elisabetta" creationdate="20250930T164845Z">
+        <seg>Ogni area è costituita da una barra del titolo e uno o più pannelli di contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each deck has a corresponding icon on the Tab bar on the right of the Sidebar, allowing you to switch between them.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T164727Z" creationid="Elisabetta" creationdate="20250930T164404Z">
@@ -14011,6 +14019,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241113T214517Z" creationid="valter" creationdate="20241113T214517Z">
         <seg>La sorgente dati collegata al documento e la sua visualizzazione sono sempre caricate assieme al documento, a prescindere che questa opzione sia selezionata o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The decks are described below.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T164733Z" creationid="Elisabetta" creationdate="20250930T164733Z">
+        <seg>Queste aree sono descritte qui di seguito.</seg>
       </tuv>
     </tu>
     <tu>
