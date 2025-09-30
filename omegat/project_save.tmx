@@ -535,6 +535,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt;: Modify text by the font type, size, color, weight, style, and spacing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165927Z" creationid="Elisabetta" creationdate="20250930T165927Z">
+        <seg>&lt;f0&gt;Carattere&lt;/f0&gt;: modifica il testo in base a tipo di carattere, dimensione, colore, spessore, stile e spaziatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens a dialog window and checks the LibreOffice website for updates to your version of the software.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T174605Z" creationid="valter" creationdate="20211115T174605Z">
@@ -739,6 +747,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250428T173724Z" creationid="Elisabetta" creationdate="20250428T173724Z">
         <seg>Le &lt;f0&gt;Opzioni&lt;/f0&gt; presenti nella finestra di dialogo Impostazioni stampante sono disponibili solo in LibreOffice Writer e Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Paragraph&lt;/f0&gt;: Modify the paragraph by alignment, lists or bullets, background color, indent, and spacing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170006Z" creationid="Elisabetta" creationdate="20250930T170006Z">
+        <seg>&lt;f0&gt;Paragrafo&lt;/f0&gt;: modifica il paragrafo tramite allineamento, elenchi o punti elenco, colore di sfondo, rientro e spaziatura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16725,6 +16741,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165702Z" creationid="Elisabetta" creationdate="20250930T165702Z">
         <seg>Quando si seleziona il testo, sono visibili questi pannelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the cursor is in a &lt;f0&gt;table&lt;/f0&gt;, this panel appears in addition to the panels for text:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170328Z" creationid="Elisabetta" creationdate="20250930T170328Z">
+        <seg>Quando il cursore si trova in una &lt;f0&gt;tabella&lt;/f0&gt;, viene visualizzato questo pannello in aggiunta ai pannelli per il testo:</seg>
       </tuv>
     </tu>
     <tu>
