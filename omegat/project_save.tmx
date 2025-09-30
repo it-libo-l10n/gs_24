@@ -855,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Table&lt;/f0&gt;: Modify table properties, such as insert, select, delete rows and columns; split or merge cells; set row height and column width; others.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170448Z" creationid="Elisabetta" creationdate="20250930T170448Z">
+        <seg>&lt;f0&gt;Tabella&lt;/f0&gt;: Modificare le proprietà della tabella, come inserire, selezionare, eliminare righe e colonne; dividere o unire celle; impostare l'altezza delle righe e la larghezza delle colonne; altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Templates included with Impress are designed to fit the two standard sizes of presentation slides: 4:3 and 16:9 ratios.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153211Z" creationid="Elisabetta Manuele" creationdate="20211111T153211Z">
