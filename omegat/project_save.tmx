@@ -681,8 +681,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Image&lt;/f0&gt;: Modify the image brightness, contrast, color mode, and transparency.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171358Z" creationid="Elisabetta" creationdate="20250930T171358Z">
-        <seg>f0&gt;Immagine&lt;/f0&gt;: modifica la luminosità, il contrasto, la modalità di colore e la trasparenza dell'immagine.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171433Z" creationid="Elisabetta" creationdate="20250930T171358Z">
+        <seg>&lt;f0&gt;Immagine&lt;/f0&gt;: modifica la luminosità, il contrasto, la modalità di colore e la trasparenza dell'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -771,6 +771,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170006Z" creationid="Elisabetta" creationdate="20250930T170006Z">
         <seg>&lt;f0&gt;Paragrafo&lt;/f0&gt;: modifica il paragrafo tramite allineamento, elenchi o punti elenco, colore di sfondo, rientro e spaziatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Position and Size&lt;/f0&gt;: Modify width, height, rotation, and flip attributes.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171549Z" creationid="Elisabetta" creationdate="20250930T171549Z">
+        <seg>&lt;f0&gt;Posizione e dimensioni&lt;/f0&gt;: modifica gli attributi larghezza, altezza, rotazione e capovolgimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -969,8 +977,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Wrap&lt;/f0&gt;: Modify wrap and spacing where these are available.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171255Z" creationid="Elisabetta" creationdate="20250930T171255Z">
-        <seg>&lt;f0&gt;Rientro&lt;/f0&gt;: Modifica rientro e spaziatura se disponibili.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171419Z" creationid="Elisabetta" creationdate="20250930T171255Z">
+        <seg>&lt;f0&gt;Rientro&lt;/f0&gt;: modifica rientro e spaziatura se disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16597,6 +16605,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T164730Z" creationid="Elisabetta" creationdate="20250510T164730Z">
         <seg>Quando un documento è in modalità &lt;f0&gt;Anteprima di stampa,&lt;/f0&gt; il documento non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a drawing object is selected, these panels appear:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171701Z" creationid="Elisabetta" creationdate="20250930T171701Z">
+        <seg>Quando si seleziona un oggetto di disegno, sono visibili questi pannelli:</seg>
       </tuv>
     </tu>
     <tu>
