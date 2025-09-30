@@ -823,6 +823,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Style&lt;/f0&gt;: Apply a paragraph style at the cursor position.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165740Z" creationid="Elisabetta" creationdate="20250930T165740Z">
+        <seg>&lt;f0&gt;Stile&lt;/f0&gt;: applica uno stile di paragrafo in corrispondenza della posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;T&lt;/f0&gt;able &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;l&lt;/f3&gt;ists the options that are available in the Printer Setup dialog:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T151032Z" creationid="Elisabetta" creationdate="20250428T171846Z">
@@ -3683,6 +3691,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100853Z" creationid="valter" creationdate="20211016T100853Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create or update a style.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165804Z" creationid="Elisabetta" creationdate="20250930T165804Z">
+        <seg>Creare o aggiornare uno stile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16701,6 +16717,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155909Z" creationid="Elisabetta" creationdate="20250521T155909Z">
         <seg>Quando si seleziona un testo, il conteggio delle parole e dei caratteri della selezione è visibile qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When text is selected, these panels appear:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165702Z" creationid="Elisabetta" creationdate="20250930T165702Z">
+        <seg>Quando si seleziona il testo, sono visibili questi pannelli:</seg>
       </tuv>
     </tu>
     <tu>
