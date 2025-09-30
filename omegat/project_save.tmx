@@ -4423,6 +4423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each deck has a corresponding icon on the Tab bar on the right of the Sidebar, allowing you to switch between them.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T164404Z" creationid="Elisabetta" creationdate="20250930T164404Z">
+        <seg>Ogni area ha una propria icona nel pannello delle Schede alla destra della barra laterale, questa consente di passare da un'area all'altra. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each module has various details depending on the module’s functions.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180153Z" creationid="valter" creationdate="20241016T201120Z">
