@@ -959,6 +959,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Wrap&lt;/f0&gt;: Modify wrap and spacing where these are available.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171255Z" creationid="Elisabetta" creationdate="20250930T171255Z">
+        <seg>&lt;f0&gt;Rientro&lt;/f0&gt;: Modifica rientro e spaziatura se disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Command)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250515T145447Z" creationid="Elisabetta" creationdate="20250515T145447Z">
