@@ -743,6 +743,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Properties deck: &lt;/f0&gt;Contains tools for direct formatting of content.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165542Z" creationid="Elisabetta" creationdate="20250930T165542Z">
+        <seg>&lt;f0&gt;Area Proprietà: &lt;/f0&gt;Contiene gli strumenti per la formattazione diretta dei contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to its default settings.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T105019Z" creationid="valter" creationdate="20211016T105019Z">
@@ -13127,6 +13135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some panels contain a small &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog to give greater choice of editing controls.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165329Z" creationid="Elisabetta" creationdate="20250930T165329Z">
+        <seg>Alcuni pannelli contengono un piccolo pulsante &lt;f0&gt;Altre opzioni&lt;/f0&gt;, che apre una finestra di dialogo per offrire una  scelta più ampia di controlli di modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some servers requires the correct credentials to allow the files to saved.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250514T135812Z" creationid="Elisabetta" creationdate="20241201T160352Z">
@@ -16693,6 +16709,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T154328Z" creationid="Elisabetta" creationdate="20250523T154328Z">
         <seg>Quando il cursore si trova in una sezione, intestazione, o voce di un elenco, oppure quando è selezionato un oggetto (come un'immagine o una tabella), in questo campo vengono visualizzate le informazioni corrispondenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the dialog is open, the document is locked for other editing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T165431Z" creationid="Elisabetta" creationdate="20250930T165431Z">
+        <seg>Quando la finestra di dialogo è aperta, il documento è bloccato per consentire altre modifiche.</seg>
       </tuv>
     </tu>
     <tu>
