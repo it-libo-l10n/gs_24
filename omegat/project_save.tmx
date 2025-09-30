@@ -527,6 +527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt;: Modify fill and transparency.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171739Z" creationid="Elisabetta" creationdate="20250930T171739Z">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt;: modifica il riempimento e la trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Area&lt;/f0&gt;: Modify the image background fill and transparency.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170615Z" creationid="Elisabetta" creationdate="20250930T170615Z">
@@ -727,6 +735,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Line&lt;/f0&gt;: Modify style, width, color, and transparency.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171944Z" creationid="Elisabetta" creationdate="20250930T171944Z">
+        <seg>&lt;f0&gt;Linea&lt;/f0&gt;: Modifica lo stile, lo spessore, il colore e la trasparenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;More&lt;/f0&gt; functionalities &lt;f1&gt;can be added &lt;/f1&gt;to LibreOffice by means of extensions.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152933Z" creationid="valter" creationdate="20240928T152933Z">
@@ -777,8 +793,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Position and Size&lt;/f0&gt;: Modify width, height, rotation, and flip attributes.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171549Z" creationid="Elisabetta" creationdate="20250930T171549Z">
-        <seg>&lt;f0&gt;Posizione e dimensioni&lt;/f0&gt;: modifica gli attributi larghezza, altezza, rotazione e capovolgimento.</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171811Z" creationid="Elisabetta" creationdate="20250930T171549Z">
+        <seg>&lt;f0&gt;Posizione e dimensioni&lt;/f0&gt;: modifica gli attributi larghezza, altezza, rotazione e ribaltamento.</seg>
       </tuv>
     </tu>
     <tu>
