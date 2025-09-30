@@ -527,6 +527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt;: Modify the image background fill and transparency.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170615Z" creationid="Elisabetta" creationdate="20250930T170615Z">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt;: modifica il riempimento e la trasparenza dello sfondo dell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Chapter 1&lt;/f0&gt;, &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200509Z" creationid="valter" creationdate="20240929T200509Z">
@@ -6164,6 +6172,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T100319Z" creationid="akurery" creationdate="20211121T100319Z">
         <seg>Funzioni, che possono essere utilizzate per creare formule con cui eseguire calcoli complessi sui dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further colors, gradients, hatching, patterns, and image selection and importing are available in &lt;f1&gt;More Options&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170736Z" creationid="Elisabetta" creationdate="20250930T170736Z">
+        <seg>Altri colori, sfumature, tratteggi, motivi, selezione e importazione di immagini sono disponibili in &lt;f1&gt;Altre opzioni&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16565,6 +16581,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T164730Z" creationid="Elisabetta" creationdate="20250510T164730Z">
         <seg>Quando un documento è in modalità &lt;f0&gt;Anteprima di stampa,&lt;/f0&gt; il documento non può essere modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a graphic or image is selected, these panels appear:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170548Z" creationid="Elisabetta" creationdate="20250930T170548Z">
+        <seg>Quando si seleziona un elemento grafico o un'immagine, sono visibili questi pannelli:</seg>
       </tuv>
     </tu>
     <tu>
