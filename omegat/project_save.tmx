@@ -12173,6 +12173,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 4, Working with Styles, Templates, and Hyperlinks, for more information.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175511Z" creationid="Elisabetta" creationdate="20251003T175511Z">
+        <seg>Per ulteriori informazioni consultare il capitolo, 4 Lavorare con stili, modelli e collegamenti ipertestuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>VM: cambiare il collegamento nel documento</note>
       <tuv lang="en-US">
         <seg>See Table &lt;t0&gt;1&lt;/t0&gt; and the web page &lt;a1&gt;https://www.libreoffice.org/get-help/&lt;/a1&gt;.</seg>
@@ -15107,6 +15115,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T181628Z" creationid="valter" creationdate="20240928T181628Z">
         <seg>Sarà possibile scaricare tale gruppo di icone dal repository software della propria distribuzione Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes applying existing styles, modifying them, or creating new ones.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175256Z" creationid="Elisabetta" creationdate="20251003T175256Z">
+        <seg>Ciò include l'applicazione di stili esistenti, la loro modifica o la creazione di nuovi.</seg>
       </tuv>
     </tu>
     <tu>
