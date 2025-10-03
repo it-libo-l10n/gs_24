@@ -807,6 +807,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Position and Size&lt;/f0&gt;: Modify width and height.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175054Z" creationid="Elisabetta" creationdate="20251003T175054Z">
+        <seg>&lt;f0&gt;Posizione e dimensione&lt;/f0&gt;: Modifica la larghezza e l'altezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Position and Size&lt;/f0&gt;: Modify width, height, rotation, and flip attributes.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171811Z" creationid="Elisabetta" creationdate="20250930T171549Z">
