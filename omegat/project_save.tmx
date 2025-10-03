@@ -671,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Gallery deck&lt;/f0&gt;: Contains images and diagrams included in the Gallery themes.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175548Z" creationid="Elisabetta" creationdate="20251003T175548Z">
+        <seg>&lt;f0&gt;Area Galleria&lt;/f0&gt;: Contiene immagini e diagrammi inclusi nei temi della Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Ask LibreOffice&lt;f2&gt; &lt;/f2&gt;forum of questions and answers from the LibreOffice community, &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T104430Z" creationid="valter" creationdate="20211016T104430Z">
@@ -13823,6 +13831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Gallery has two sections.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175633Z" creationid="Elisabetta" creationdate="20251003T175633Z">
+        <seg>La Galleria presenta due sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Help menu also includes links to other LibreOffice information and support facilities.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093949Z" creationid="valter" creationdate="20211016T093949Z">
@@ -14291,6 +14307,15 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T111320Z" creationid="valter" creationdate="20241017T111320Z">
         <seg>Le figure di questo capitolo mostrano l'elenco che appare nel riquadro a sinistra quando è aperto un documento di Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first lists the themes by name (&lt;f1&gt;Arrows&lt;/f1&gt;, &lt;f2&gt;Bullets&lt;/f2&gt;, &lt;f3&gt;Diagrams&lt;/f3&gt;, etc.) and the second displays the images in the selected category.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175906Z" creationid="Elisabetta" creationdate="20251003T175906Z">
+        <seg>La prima elenca i temi per nome (&lt;f1&gt;Frecce&lt;/f1&gt;, &lt;f2&gt;Elenchi puntati&lt;/f2&gt;, &lt;f3&gt;Diagrammi&lt;/f3&gt;, ecc.) e la seconda visualizza le immagini della categoria selezionata.
+</seg>
       </tuv>
     </tu>
     <tu>
