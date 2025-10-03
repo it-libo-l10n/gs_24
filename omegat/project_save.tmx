@@ -16641,6 +16641,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a frame is selected, then the &lt;f0&gt;Area&lt;/f0&gt; and &lt;f1&gt;Wrap&lt;/f1&gt; panels appear.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T164541Z" creationid="Elisabetta" creationdate="20251003T164541Z">
+        <seg>Quando si seleziona una cornice, sono visibili i pannelli &lt;f0&gt;Area&lt;/f0&gt; e &lt;f1&gt;Rientro&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a graphic or image is selected, these panels appear:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170548Z" creationid="Elisabetta" creationdate="20250930T170548Z">
