@@ -751,6 +751,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Media Playback&lt;/f0&gt;: Control for play, pause, stop, seek, loop, and volume.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T170611Z" creationid="Elisabetta" creationdate="20251003T170611Z">
+        <seg>&lt;f0&gt;Riproduzione multimediale&lt;/f0&gt;: Controlli per riproduzione, pausa, arresto, ricerca, ripetizione e volume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;More&lt;/f0&gt; functionalities &lt;f1&gt;can be added &lt;/f1&gt;to LibreOffice by means of extensions.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152933Z" creationid="valter" creationdate="20240928T152933Z">
@@ -16661,6 +16669,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250413T164841Z" creationid="Elisabetta" creationdate="20250413T164841Z">
         <seg>Se un utente apporta una modifica al documento in una finestra, si rifletterà anche nelle altre finestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a video or audio clip is selected, these panels appear:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T164700Z" creationid="Elisabetta" creationdate="20251003T164700Z">
+        <seg>Quando si seleziona un clip video o audio, si visualizzano i seguenti pannelli:</seg>
       </tuv>
     </tu>
     <tu>
