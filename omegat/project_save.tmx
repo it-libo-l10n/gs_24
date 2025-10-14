@@ -12479,6 +12479,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the &lt;f4&gt;New&lt;/f4&gt; button to create new categories.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251014T171248Z" creationid="Elisabetta" creationdate="20251014T171248Z">
+        <seg>Selezionare il pulsante &lt;f4&gt;Nuovo&lt;/f4&gt; per creare nuove categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the JRE required.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T201604Z" creationid="valter" creationdate="20241023T201604Z">
@@ -15580,6 +15588,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250513T160732Z" creationid="Elisabetta" creationdate="20241107T162744Z">
         <seg>Per nascondere la barra di stato, accedere a &lt;f0&gt;Visualizza&lt;/f0&gt; sulla barra dei menu e deselezionare &lt;f1&gt;Barra di stato&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To insert an image into a file, create new gallery themes, or add a new image to the new category, see Chapter 5, Working with Images and Graphics, for more information.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251014T172503Z" creationid="Elisabetta" creationdate="20251014T172503Z">
+        <seg>Per inserire un'immagine in un file, creare nuovi temi della Galleria o aggiungere una immagine alla nuova categoria, consultare il Capitolo 5, Lavorare con le immagini e gli oggetti grafici, per ulteriori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
