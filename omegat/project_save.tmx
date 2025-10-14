@@ -815,6 +815,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page deck&lt;/f0&gt;: Modifies the page style to change the most commonly used page properties.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251014T173305Z" creationid="Elisabetta" creationdate="20251014T173305Z">
+        <seg>&lt;f0&gt;Area Pagina&lt;/f0&gt;: Modifica lo stile della pagina per modificarne le proprietà più comunemente utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Paragraph&lt;/f0&gt;: Modify the paragraph by alignment, lists or bullets, background color, indent, and spacing.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T170006Z" creationid="Elisabetta" creationdate="20250930T170006Z">
@@ -8301,6 +8309,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195558Z" creationid="valter" creationdate="20211115T195558Z">
         <seg>Base rende possibile creare e modificare formulari, rapporti, query, tabelle, viste e relazioni, in modo da poter gestire un database relazionale esattamente come con i più comuni applicativi per la gestione di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has four panels:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251014T173322Z" creationid="Elisabetta" creationdate="20251014T173322Z">
+        <seg>Consiste in 4 pannelli:</seg>
       </tuv>
     </tu>
     <tu>
