@@ -12247,6 +12247,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See “&lt;bf1&gt;Using the Navigator&lt;/bf1&gt;” on page &lt;bf2&gt;12&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251014T173146Z" creationid="Elisabetta" creationdate="20251014T173146Z">
+        <seg>Fare riferimento alla sezione &lt;bf1&gt;Uso del Navigatore&lt;/bf1&gt; a pagina &lt;bf2&gt;12&lt;/bf2&gt;&lt;s3/&gt; per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Always&lt;/f0&gt; to replace both the screen font and the printer font, even if the original font is installed on a computer system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T160100Z" creationid="valter" creationdate="20241023T155942Z">
