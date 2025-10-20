@@ -88,3 +88,4 @@ More	Altro
 Insert mode	Modo Inserimento	Voce UI
 Overwrite mode	Modo Sovrascrittura
 Wrap	Rientro
+Show Whitespace	Spazio vuoto	Voce UI
