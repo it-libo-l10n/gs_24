@@ -519,6 +519,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Accessibility Check deck&lt;/f0&gt;: Lists accessibility issues found in the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T161026Z" creationid="Elisabetta" creationdate="20251020T161026Z">
+        <seg>&lt;f0&gt;Area Controllo accesso facilitato&lt;/f0&gt;: Elenca i problemi di accessibilità riscontrati nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Advanced&lt;/f0&gt; can allow you to create a zip file of a corrupted user profile, and this file can be uploaded to the bug tracking system for further investigation by the LibreOffice developers.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T174948Z" creationid="Elisabetta" creationdate="20250510T174948Z">
