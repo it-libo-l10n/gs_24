@@ -7896,6 +7896,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Web view, you can use only the Zoom slider; the View Layout buttons on the Status Bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T164459Z" creationid="Elisabetta" creationdate="20251020T164459Z">
+        <seg>Nella visualizzazione Web è possibile utilizzare soltanto il cursore dello Zoom; i pulsanti dell'Impaginazione nella barra di stato sono disattivati, e la maggior parte delle opzioni nella finestra di dialogo Zoom e Layout visualizzazione non sono disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Windows or Linux — click on the &lt;f0&gt;X&lt;/f0&gt; at the right end of the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250409T155438Z" creationid="Elisabetta" creationdate="20250409T155438Z">
@@ -16750,6 +16758,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193317Z" creationid="valter" creationdate="20211115T193317Z">
         <seg>Richiediamo che condividiate con il progetto parte dei profitti che ottenete dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web view</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T163423Z" creationid="Elisabetta" creationdate="20251020T163423Z">
+        <seg>Vista Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web view shows how the document will look if viewed in a Web browser; this is useful when you create HTML documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T163652Z" creationid="Elisabetta" creationdate="20251020T163652Z">
+        <seg>La visualizzazione Web mostra come apparirà il documento all'interno di un browser Web; questa funzione è utile per la creazione di documenti HTML.</seg>
       </tuv>
     </tu>
     <tu>
