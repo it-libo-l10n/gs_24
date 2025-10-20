@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Header&lt;/f0&gt; and &lt;f1&gt;Footer&lt;/f1&gt; activate/deactivate and modify the respective margins, spacing, and content.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T154208Z" creationid="Elisabetta" creationdate="20251020T154208Z">
+        <seg>&lt;f0&gt;Intestazione&lt;/f0&gt; e &lt;f1&gt;piè di pagina&lt;/f1&gt; attivano/disattivano e modificano i rispettivi margini, spaziatura e contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Image&lt;/f0&gt;: Modify the image brightness, contrast, color mode, and transparency.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250930T171433Z" creationid="Elisabetta" creationdate="20250930T171358Z">
@@ -947,6 +955,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175227Z" creationid="Elisabetta" creationdate="20251003T175227Z">
         <seg>&lt;f0&gt;Area Stili:&lt;/f0&gt; gestisce gli stili utilizzati nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Styles&lt;/f0&gt; modifies the numbering scheme, background, page layout (specifies whether the page style should apply to odd or even pages or to both), and columns.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T154104Z" creationid="Elisabetta" creationdate="20251020T154104Z">
+        <seg>&lt;f0&gt;Stili&lt;/f0&gt; modifica lo schema di numerazione, lo sfondo, l'impaginazione (specifica se lo stile di pagina debba essere applicato alle pagine pari, dispari o a entrambe) e le colonne.</seg>
       </tuv>
     </tu>
     <tu>
