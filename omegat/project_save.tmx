@@ -679,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Find deck&lt;/f0&gt;: Type a search term or phrase in the box at the top, then press &lt;f1&gt;Enter&lt;/f1&gt; to display a list of the results and their context.&lt;f2&gt; For more information, see page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162028Z" creationid="Elisabetta" creationdate="20251020T162028Z">
+        <seg>&lt;f0&gt;Trova&lt;/f0&gt;: digitare un termine o una frase di ricerca nella casella in alto, quindi premere &lt;f1&gt;Invio&lt;/f1&gt; per visualizzare un elenco dei risultati e il loro contesto.&lt;f2&gt;Per ulteriori informazioni, vedere a pagina &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; modifies the size, width, height, orientation, and page margins.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T153850Z" creationid="Elisabetta" creationdate="20251020T153850Z">
@@ -9862,6 +9870,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164648Z" creationid="Elisabetta" creationdate="20250430T164648Z">
         <seg>Altro &gt; Lati del foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More information about this deck can be found in the Writers Guide (Chapter 7, Printing and Publishing).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T161821Z" creationid="Elisabetta" creationdate="20251020T161650Z">
+        <seg>Ulteriori informazioni relative a quest'area sono disponibili nella Guida a Writer (Capitolo 7, Stampa e pubblicazione).</seg>
       </tuv>
     </tu>
     <tu>
