@@ -9876,8 +9876,8 @@
       <tuv lang="en-US">
         <seg>More information about this deck can be found in the Writers Guide (Chapter 7, Printing and Publishing).</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T161821Z" creationid="Elisabetta" creationdate="20251020T161650Z">
-        <seg>Ulteriori informazioni relative a quest'area sono disponibili nella Guida a Writer (Capitolo 7, Stampa e pubblicazione).</seg>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162123Z" creationid="Elisabetta" creationdate="20251020T161650Z">
+        <seg>Ulteriori informazioni relative a quest'area sono disponibili nella Guida di Writer (Capitolo 7, Stampa e pubblicazione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17470,6 +17470,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104443Z" creationid="valter" creationdate="20240928T104443Z">
         <seg>Con Writer è possibile esportare file in formato HTML, XHTML, XML, Portable Document Format (PDF) e EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer has three ways to view a document: Normal, Web, and Full Screen.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162328Z" creationid="Elisabetta" creationdate="20251020T162112Z">
+        <seg>Writer dispone di tre diverse modalità di visualizzazione di un documento: Normale, Web e Schermo intero.</seg>
       </tuv>
     </tu>
     <tu>
