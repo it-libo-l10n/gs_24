@@ -15480,6 +15480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This works only when single-page view is activated on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T163127Z" creationid="Elisabetta" creationdate="20251020T163127Z">
+        <seg>Funziona solo se è attiva la visualizzazione a pagina singola nella barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thumbnail or preview.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190338Z" creationid="valter" creationdate="20211115T190338Z">
