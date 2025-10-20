@@ -15536,6 +15536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the view, go to the View menu and select the desired view.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162514Z" creationid="Elisabetta" creationdate="20251020T162514Z">
+        <seg>Per cambiare la visualizzazione, accedere al menu Visualizza e selezionare la modalità desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change to using LibreOffice dialogs:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T171502Z" creationid="valter" creationdate="20240928T171502Z">
