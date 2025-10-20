@@ -8056,6 +8056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this view, you can hide or show the headers and footers and the gap between pages by choosing &lt;f0&gt;View &gt; Show Whitespace&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T163018Z" creationid="Elisabetta" creationdate="20251020T163018Z">
+        <seg>In questa visualizzazione, è possibile nascondere o mostrare le intestazioni, i piè di pagina e lo spazio tra le pagine scegliendo &lt;f0&gt;Visualizza &gt; Spazio vuoto&lt;/f0&gt; nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Include</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250430T164434Z" creationid="Elisabetta" creationdate="20250430T164434Z">
@@ -8501,6 +8509,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173124Z" creationid="Elisabetta" creationdate="20250510T173124Z">
         <seg>Tale operazione dovrebbe essere eseguita con cautela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows how the document will look when you print it or create a PDF.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162723Z" creationid="Elisabetta" creationdate="20251020T162723Z">
+        <seg>Mostra l'aspetto del documento al momento della stampa o della creazione di un PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,6 +10142,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250429T174521Z" creationid="valter" creationdate="20241021T202445Z">
         <seg>Una qualità di stampa normale corrisponde a una risoluzione di 200 dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal view</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162538Z" creationid="Elisabetta" creationdate="20251020T162538Z">
+        <seg>Vista Normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal view is the default view in Writer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162608Z" creationid="Elisabetta" creationdate="20251020T162608Z">
+        <seg>La vista normale è la visualizzazione predefinita in Writer.</seg>
       </tuv>
     </tu>
     <tu>
