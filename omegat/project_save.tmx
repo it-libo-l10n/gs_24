@@ -17514,6 +17514,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can accept or reject them here as well as in the Manage Changes dialog or the Track Changes toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T160857Z" creationid="Elisabetta" creationdate="20251020T160857Z">
+        <seg>È possibile accettarle o rifiutarle sia qui che nella finestra di dialogo Gestione modifiche o nella barra degli strumenti Revisioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also &lt;/f3&gt;reset the software to its default settings.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162817Z" creationid="valter" creationdate="20240928T162817Z">
