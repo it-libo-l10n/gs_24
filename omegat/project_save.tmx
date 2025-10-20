@@ -6840,6 +6840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hiding whitespace also works in Full Screen view.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T163407Z" creationid="Elisabetta" creationdate="20251020T163407Z">
+        <seg>Nascondere gli spazi vuoti ha effetto anche nella visualizzazione a schermo intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High contrast</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T180618Z" creationid="valter" creationdate="20241023T180618Z">
