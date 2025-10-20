@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing the options on the Page deck modifies the page style in use, affecting not only the current page but all pages in the document using the same page style.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T154523Z" creationid="Elisabetta" creationdate="20251020T154523Z">
+        <seg>La modifica delle opzioni nell'area Pagina, modifica lo stile non solo della pagina attiva, ma anche di tutte le pagine con lo stesso stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing the page style here may affect the styles of subsequent pages, depending on how the page styles are set up.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T161348Z" creationid="Elisabetta" creationdate="20250521T161041Z">
