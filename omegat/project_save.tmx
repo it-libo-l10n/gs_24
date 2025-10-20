@@ -775,6 +775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Manage Changes deck&lt;/f0&gt;: Lists tracked changes that have not yet been accepted or rejected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T160033Z" creationid="Elisabetta" creationdate="20251020T160033Z">
+        <seg>&lt;f0&gt;Area Gestione modifiche&lt;/f0&gt;: Elenca le revisioni non ancora accettate oppure rifiutate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Media Playback&lt;/f0&gt;: Control for play, pause, stop, seek, loop, and volume.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175108Z" creationid="Elisabetta" creationdate="20251003T170611Z">
@@ -939,6 +947,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132142Z" creationid="valter" creationdate="20240928T132142Z">
         <seg>Nel proprio canale di distribuzione sono disponibili anche i pacchetti &lt;f0&gt;Snap, Flatpak, Appimage &lt;/f0&gt;&lt;f1&gt;e vari altri&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Style Inspector deck&lt;/f0&gt;: Displays all the attributes of paragraph styles, character styles, and manual (direct) formatting for selected text.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T154732Z" creationid="Elisabetta" creationdate="20251020T154732Z">
+        <seg>&lt;f0&gt;Area Ispettore degli stili&lt;/f0&gt;: Visualizza tutti gli attributi degli stili di paragrafo, di carattere e della formattazione manuale (diretta) del testo selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6044,6 +6060,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20250525T182258Z" creationid="valter" creationdate="20250525T182258Z">
         <seg>Per ulteriori informazioni vedere il Capitolo 4, Lavorare con stili, modelli e collegamenti ipertestuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, see the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T154751Z" creationid="Elisabetta" creationdate="20251020T154751Z">
+        <seg>Per ulteriori informazioni, consultare la &lt;f1&gt;Guida a Impress&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
