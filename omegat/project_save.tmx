@@ -4647,6 +4647,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each entry in this deck represents an accessibility problem and to jump to the location of the problem, double-click on that particular entry.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T161540Z" creationid="Elisabetta" creationdate="20251020T161540Z">
+        <seg>Ogni voce in quest'area segnala un problema di accessibilità e per accedere alla relativa posizione, è sufficiente fare doppio clic su quella voce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each module has various details depending on the module’s functions.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241018T180153Z" creationid="valter" creationdate="20241016T201120Z">
