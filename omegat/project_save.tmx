@@ -671,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt; modifies the size, width, height, orientation, and page margins.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T153850Z" creationid="Elisabetta" creationdate="20251020T153850Z">
+        <seg>&lt;f0&gt;Formato&lt;/f0&gt; modifica le dimensioni, la larghezza, l'altezza, l'orientamento e i margini della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Gallery deck&lt;/f0&gt;: Contains images and diagrams included in the Gallery themes.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20251003T175548Z" creationid="Elisabetta" creationdate="20251003T175548Z">
