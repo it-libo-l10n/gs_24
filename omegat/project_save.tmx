@@ -7888,6 +7888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Full Screen view, no toolbars or sidebar are displayed; the document takes up the full area available, using the zoom and layout settings previously selected.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260216T152153Z" creationid="Elisabetta" creationdate="20260216T152153Z">
+        <seg>Nella visualizzazione a schermo intero non compaiono barre degli strumenti e neppure barre laterali; il documento occupa l'intera area disponibile mediante le impostazioni di zoom e layout selezionate in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T150835Z" creationid="Elisabetta" creationdate="20250521T164530Z">
