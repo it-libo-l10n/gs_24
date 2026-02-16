@@ -6328,6 +6328,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Full Screen view</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260216T151052Z" creationid="Elisabetta" creationdate="20260216T151052Z">
+        <seg>Vista a schermo intero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Function</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T174458Z" creationid="valter" creationdate="20241017T174458Z">
@@ -15020,6 +15028,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T193714Z" creationid="valter" creationdate="20240929T193714Z">
         <seg>Non è necessario richiedere un permesso speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is no visual indication of page boundaries.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260216T151016Z" creationid="Elisabetta" creationdate="20260216T151016Z">
+        <seg>Non vi è alcuna indicazione visiva dei margini della pagina.</seg>
       </tuv>
     </tu>
     <tu>
