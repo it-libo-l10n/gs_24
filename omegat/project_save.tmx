@@ -15760,6 +15760,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To exit Full Screen view and return to the previous view, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click the &lt;f1&gt;Full Screen&lt;/f1&gt; button on the floating toolbar in the top left-hand corner.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260216T154425Z" creationid="Elisabetta" creationdate="20260216T154425Z">
+        <seg>Per uscire dalla visualizzazione a Schermo intero e ritornare  alla visualizzazione precedente, premere il tasto &lt;f0&gt;Esc&lt;/f0&gt; oppure fare clic sull'icona &lt;f1&gt;Schermo intero&lt;/f1&gt; nella barra degli strumenti mobile in alto a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To finish unlocking all toolbars, LibreOffice has to be restarted to complete this task.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241030T181103Z" creationid="Elisabetta" creationdate="20241030T181103Z">
