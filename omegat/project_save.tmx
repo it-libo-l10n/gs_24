@@ -2919,6 +2919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 1, LibreOffice Basics, includes instructions on creating new documents, opening existing documents, and saving documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260216T154534Z" creationid="Elisabetta" creationdate="20260216T154534Z">
+        <seg>Il Capitolo 1 (Introduzione a LibreOffice) contiene istruzioni su come creare nuovi documenti di Calc, aprire documenti esistenti e salvare documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 10 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T155209Z" creationid="valter" creationdate="20241017T155209Z">
@@ -17710,6 +17718,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160140Z" creationid="Elisabetta" creationdate="20250521T160140Z">
         <seg>È inoltre possibile visualizzare il numero di parole e caratteri (con altre informazioni, tra cui il numero di pagine, tabelle e immagini) dell'intero documento nella scheda &lt;f0&gt;File &gt; Proprietà&lt;/f0&gt;,&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Statistiche&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also use &lt;f2&gt;Ctrl+Shift+J&lt;/f2&gt; to toggle between Full Screen and the previous views.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260216T154518Z" creationid="Elisabetta" creationdate="20260216T154518Z">
+        <seg>È anche possibile utilizzare &lt;f2&gt;Ctrl+Maiusc+J&lt;/f2&gt; per passare dalla modalità a schermo intero alle visualizzazioni precedenti.</seg>
       </tuv>
     </tu>
     <tu>
