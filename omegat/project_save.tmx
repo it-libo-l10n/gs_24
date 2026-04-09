@@ -7600,6 +7600,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you do not, any changes you made since the last time you saved will appear only in the Microsoft Word version of the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T170806Z" creationid="Elisabetta" creationdate="20260409T170806Z">
+        <seg>In caso contrario, le modifiche apportate dall'ultimo salvataggio saranno visibili solo nella versione del documento in formato Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have a working knowledge of how to create slide shows, we recommend you use the &lt;f1&gt;Impress Guide&lt;/f1&gt; for your source of information.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T145046Z" creationid="Elisabetta Manuele" creationdate="20211110T145046Z">
@@ -7732,6 +7740,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T195711Z" creationid="valter" creationdate="20241123T195711Z">
         <seg>Importa tag HTML sconosciuti come campi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Important — First save your document in the file format used by LibreOffice Writer (.ODT).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T170724Z" creationid="Elisabetta" creationdate="20260409T170724Z">
+        <seg>Importante — Salvare prima il documento nel formato file usato da LibreOffice Writer (.odt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15756,6 +15772,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T160029Z" creationid="Elisabetta" creationdate="20250521T160029Z">
         <seg>Per visualizzare il conteggio dei caratteri senza spazi, fare clic sul conteggio delle parole nella barra di stato o scegliere &lt;f0&gt;Strumenti &gt; Conteggio parole&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do this:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T170618Z" creationid="Elisabetta" creationdate="20260409T170618Z">
+        <seg>Per eseguire questa operazione:</seg>
       </tuv>
     </tu>
     <tu>
