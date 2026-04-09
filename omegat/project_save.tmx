@@ -2967,6 +2967,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 4, Working with Styles, Templates, and Hyperlinks, covers how to create a document from a template.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T165622Z" creationid="Elisabetta" creationdate="20260409T165622Z">
+        <seg>Il Capitolo 4, Lavorare con stili, modelli e collegamenti ipertestuali, illustra come creare un documento da un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 5 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T100301Z" creationid="akurery" creationdate="20211121T100301Z">
