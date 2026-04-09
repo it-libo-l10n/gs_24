@@ -2655,6 +2655,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, LibreOffice creates and saves files in the OpenDocument format (ODF).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T165701Z" creationid="Elisabetta" creationdate="20260409T165701Z">
+        <seg>Per impostazione predefinita, LibreOffice crea e salva i file nel formato OpenDocument (ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, the Sidebar is on the right side of a LibreOffice module’s Workspace.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241108T182752Z" creationid="Elisabetta" creationdate="20241108T182752Z">
@@ -17274,6 +17282,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whenever it is possible to choose the document file format, you should choose to work with the default ODF format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T165919Z" creationid="Elisabetta" creationdate="20260409T165919Z">
+        <seg>Se è possibile scegliere il formato del file, è consigliabile utilizzare il formato predefinito ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where to get more help</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092157Z" creationid="valter" creationdate="20211016T092157Z">
@@ -17598,6 +17614,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104443Z" creationid="valter" creationdate="20240928T104443Z">
         <seg>Con Writer è possibile esportare file in formato HTML, XHTML, XML, Portable Document Format (PDF) e EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer documents have the extension .ODT.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T165744Z" creationid="Elisabetta" creationdate="20260409T165744Z">
+        <seg>I documenti Writer hanno estensione .ODT.</seg>
       </tuv>
     </tu>
     <tu>
