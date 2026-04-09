@@ -8160,6 +8160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the section named &lt;f1&gt;Default File Format and ODF Settings&lt;/f1&gt;, under &lt;f2&gt;Document type&lt;/f2&gt;, select &lt;f3&gt;Text document&lt;/f3&gt;, then under &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T172316Z" creationid="Elisabetta" creationdate="20260409T172316Z">
+        <seg>Nella sezione denominata &lt;f1&gt;Formato file predefinito e impostazioni ODF&lt;/f1&gt;, alla voce &lt;f2&gt;Tipo documento&lt;/f2&gt;, selezionare &lt;f3&gt;Documento di testo&lt;/f3&gt;, quindi in &lt;f4&gt;Salva sempre come&lt;/f4&gt;, selezionare il formato file preferito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this view, you can hide or show the headers and footers and the gap between pages by choosing &lt;f0&gt;View &gt; Show Whitespace&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T163018Z" creationid="Elisabetta" creationdate="20251020T163018Z">
@@ -15892,6 +15900,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T182811Z" creationid="valter" creationdate="20241023T182641Z">
         <seg>Per scaricare il JDK richiesto, selezionare l'opzione macOS in: &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To have Writer save documents by default in a Microsoft Word file format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T171809Z" creationid="Elisabetta" creationdate="20260409T171809Z">
+        <seg>Per impostare Writer in modo che salvi i documenti in formato Microsoft Word in modo predefinito, accedere a &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
