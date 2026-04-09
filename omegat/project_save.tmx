@@ -10026,6 +10026,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More information about different file formats can be found in Chapter 10, Working with File Formats, Security and Exporting&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T172916Z" creationid="Elisabetta" creationdate="20260409T172916Z">
+        <seg>Per ulteriori informazioni sui diversi formati di file, consultare il Capitolo 10, Gestire i formati di file, sicurezza ed esportazione&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More information about this deck can be found in the Writers Guide (Chapter 7, Printing and Publishing).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20251020T162123Z" creationid="Elisabetta" creationdate="20251020T161650Z">
@@ -11274,6 +11282,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162118Z" creationid="Elisabetta" creationdate="20250505T162118Z">
         <seg>Pagine per foglio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pages users can also export (not save) a copy of a Pages document in a format compatible with Writer, such as &lt;f0&gt;.docx&lt;/f0&gt; or &lt;f1&gt;.rtf&lt;/f1&gt;, which Writer can then open, edit, and save to.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T172639Z" creationid="Elisabetta" creationdate="20260409T172639Z">
+        <seg>Gli utenti di Pages possono anche esportare (non salvare) una copia di un documento Pages in un formato compatibile con Writer, come &lt;f0&gt;.docx&lt;/f0&gt; o &lt;f1&gt;.rtf&lt;/f1&gt;, che Writer può poi aprire, modificare e salvare.</seg>
       </tuv>
     </tu>
     <tu>
