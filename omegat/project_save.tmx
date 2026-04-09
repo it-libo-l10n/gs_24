@@ -3247,6 +3247,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T171409Z" creationid="Elisabetta" creationdate="20260409T171409Z">
+        <seg>Fare clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to return to the Options dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T154055Z" creationid="valter" creationdate="20241023T154055Z">
@@ -17934,6 +17942,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250523T153816Z" creationid="Elisabetta" creationdate="20250523T153816Z">
         <seg>Non è necessario accedere alla modalità di selezione blocco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also choose to change the file name.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T171331Z" creationid="Elisabetta" creationdate="20260409T171331Z">
+        <seg>È inoltre possibile scegliere di modificare il nome del file.</seg>
       </tuv>
     </tu>
     <tu>
