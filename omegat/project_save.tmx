@@ -6352,6 +6352,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From this point on, all changes you make to the document will occur only in the new document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T171538Z" creationid="Elisabetta" creationdate="20260409T171538Z">
+        <seg>Da questo momento in poi, tutte le modifiche apportate al documento verranno applicate solo al nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From: to:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250505T162949Z" creationid="Elisabetta" creationdate="20250505T154711Z">
@@ -7700,6 +7708,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250510T173023Z" creationid="Elisabetta" creationdate="20250510T173023Z">
         <seg>Se si ritiene che un'estensione danneggiata stia bloccando o causando l'arresto anomalo di LibreOffice, questa opzione disinstallerà tutte le estensioni dell'utente e ripristinerà lo stato di tutte le estensioni condivise o incorporate nel programma. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to go back to working with the .ODT version of your document, you must open it again.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T171637Z" creationid="Elisabetta" creationdate="20260409T171637Z">
+        <seg>Per tornare a lavorare sulla versione .ODT del documento, è necessario riaprirlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15316,6 +15332,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241123T190624Z" creationid="valter" creationdate="20241123T190624Z">
         <seg>Questo attributo del carattere ne semplifica la modifica, agli utenti di Microsoft Office, con lo strumento di evidenziazione presente nelle applicazioni Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This creates a separate document with a different file extension (such as .DOCX).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T171435Z" creationid="Elisabetta" creationdate="20260409T171435Z">
+        <seg>In questo modo viene creato un documento separato con un'estensione diversa (ad esempio .DOCX).</seg>
       </tuv>
     </tu>
     <tu>
