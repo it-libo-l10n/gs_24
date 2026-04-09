@@ -2127,6 +2127,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although Writer can open and edit files in Apple Pages format (&lt;f0&gt;*.pages&lt;/f0&gt;), it cannot save in that format or export to that format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T172409Z" creationid="Elisabetta" creationdate="20260409T172409Z">
+        <seg>Sebbene Writer sia in grado di aprire e modificare file in formato Apple Pages (&lt;f0&gt;*.pages&lt;/f0&gt;), non può salvarli in quel formato né esportarli in esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although more difficult designs are mentioned in this chapter, explanations for creating them are in the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T144153Z" creationid="Elisabetta Manuele" creationdate="20211110T144153Z">
@@ -2371,6 +2379,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20241016T144543Z" creationid="valter" creationdate="20240928T102813Z">
         <seg>A chiunque voglia imparare velocemente a utilizzare LibreOffice e sia alle prime armi o abbia già familiarità con altre suite per ufficio, questa Guida introduttiva si rivelerà molto utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apple Pages cannot open files in OpenDocument format, so if you need to share files with users of Pages, save your &lt;f1&gt;.odt&lt;/f1&gt; file in a compatible format, such as &lt;f2&gt;.rtf&lt;/f2&gt; or &lt;f3&gt;.docx&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T172523Z" creationid="Elisabetta" creationdate="20260409T172523Z">
+        <seg>Apple Pages non è in grado di aprire i file in formato OpenDocument, quindi se si devono condividere file con utenti di Pages, salvare il proprio file &lt;f1&gt;.odt&lt;/f1&gt; in un formato compatibile, come &lt;f2&gt;.rtf&lt;/f2&gt; o &lt;f3&gt;.docx&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7604,6 +7620,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T154409Z" creationid="valter" creationdate="20241017T154409Z">
         <seg>Se i dati utente non verranno utilizzati per le proprietà di un documento, deselezionare l'opzione &lt;f0&gt;Usa i dati utente&lt;/f0&gt; nella finestra di dialogo Proprietà per il file LibreOffice aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you attempt to save an edited &lt;f4&gt;.pages&lt;/f4&gt; file, the Save As dialog opens.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T172607Z" creationid="Elisabetta" creationdate="20260409T172607Z">
+        <seg>Se si tenta di salvare un file &lt;f4&gt;.pages&lt;/f4&gt; modificato, si aprirà la finestra di dialogo Salva con nome.</seg>
       </tuv>
     </tu>
     <tu>
