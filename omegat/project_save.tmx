@@ -2055,6 +2055,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, saving in ODF format enables you to re-save or modify the document if the recipient of &lt;f0&gt;the&lt;/f0&gt; document experiences trouble with the Microsoft format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T170947Z" creationid="Elisabetta" creationdate="20260409T170844Z">
+        <seg>Inoltre, il salvataggio in formato ODF consente di salvare nuovamente o modificare il documento se &lt;f0&gt;il&lt;/f0&gt; destinatario  dovesse riscontrare problemi con il formato Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182653Z" creationid="valter" creationdate="20211115T182653Z">
@@ -10466,6 +10474,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Save As dialog, in the &lt;f0&gt;File type&lt;/f0&gt; drop-down menu, select the Word format you need.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T171248Z" creationid="Elisabetta" creationdate="20260409T171248Z">
+        <seg>Nella finestra di dialogo Salva con nome, visibile nel menu a discesa &lt;f0&gt;Tipo file&lt;/f0&gt;, selezionare il tipo di formato Word desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Security page of the Options LibreOffice dialog (Figure &lt;t0&gt;7&lt;/t0&gt;), the security options for saving documents and for opening documents that contain macros can be selected.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241023T161942Z" creationid="valter" creationdate="20241023T161942Z">
@@ -15044,6 +15060,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250521T155835Z" creationid="Elisabetta" creationdate="20250521T155835Z">
         <seg>Il conteggio delle parole e dei caratteri viene aggiornato durante la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then choose &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T170959Z" creationid="Elisabetta" creationdate="20260409T170855Z">
+        <seg>Quindi scegliere &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
