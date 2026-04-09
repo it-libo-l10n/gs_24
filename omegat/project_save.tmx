@@ -15496,6 +15496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This reduces the likelihood of errors and compatibility issues.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T165945Z" creationid="Elisabetta" creationdate="20260409T165945Z">
+        <seg>Ciò riduce il rischio di errori e i problemi di compatibilità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section covers some of the options and settings that apply to all the components of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241017T110903Z" creationid="valter" creationdate="20241017T110903Z">
@@ -17730,6 +17738,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also create and edit .ODT files and then save them as .DOCX or .DOC files.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T170614Z" creationid="Elisabetta" creationdate="20260409T170614Z">
+        <seg>È possibile anche creare e modficare file .ODT e salvarli poi come file .DOCX o .DOC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also open and work with Microsoft Excel workbooks and save them in Excel format.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193929Z" creationid="valter" creationdate="20211115T193929Z">
@@ -17918,6 +17934,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta" changedate="20250508T171642Z" creationid="Elisabetta" creationdate="20250508T171642Z">
         <seg>Per individuare il metodo corretto per la stampa di dépliant, a volte è necessario procedere per tentativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may need to open, edit, and save documents in Microsoft Word formats.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="Elisabetta" changedate="20260409T170101Z" creationid="Elisabetta" creationdate="20260409T170101Z">
+        <seg>Può capitare di dover aprire, modificare e salvare documenti in formato Microsoft Word.</seg>
       </tuv>
     </tu>
     <tu>
